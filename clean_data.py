@@ -10,7 +10,7 @@ poems_english = pd.read_csv("poems_english.csv")
 
 def clean_poem_format(poem):
     formatted_poem = re.sub(r'([.!?])\s*', r'\1\n', poem)
-    if "Copyright" in poem and len(poem) < 1000:
+    if "1999" in poem and len(poem) < 400:
         formatted_poem = None
     return formatted_poem
 poems_final['Poem'] = poems_final['Poem'].apply(clean_poem_format)
