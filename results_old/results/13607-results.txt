@@ -1,0 +1,16 @@
+The emotional vector for the provided text is: [0.1, 0.6, 0.3, 0.3, 0.3, 0, 0.4, 0.4, 0, 0, 0, 0, 0.5, 0.3, 0]
+
+Explanation of emotions in the text:
+
+- Happiness: Very low intensity. The text conveys a sense of nostalgia and melancholy rather than happiness.
+- Sadness: Moderate intensity. The text reflects a somber tone with themes of missed opportunities, old wounds, and giving in to negative impulses.
+- Fear: Low intensity. There is a subtle sense of fear present, perhaps due to the recurrence of old weapons and armies.
+- Disgust: Low intensity. The text hints at a sense of disgust toward the cycle of conflict and revenge.
+- Anger: Low intensity. There is a mild undercurrent of anger expressed in the text.
+- Surprise: Not present in a significant manner.
+- Anticipation: Moderate intensity. The text alludes to anticipation of gaining fame and recognition in a literary sense.
+- Trust: Moderate intensity. Trust is evident in the mention of saviors and tributes.
+- Distrust: Not present in significant intensity.
+- Love: Not present in significant intensity.
+- Saudade: Moderate intensity. The text evokes feelings of longing for what could have been.
+- Awe: Not present in

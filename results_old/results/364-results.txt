@@ -1,0 +1,5 @@
+The emotional vector based on the text provided is as follows: 
+
+[0.1, 0.3, 0.2, 0, 0, 0, 0.1, 0.1, 0, 0, 0, 0, 0, 0.2, 0]
+
+This vector indicates a moderate level of sadness, fear, anticipation, trust, and nostalgia in the text. The predominant emotions are sadness and nostalgia, while fear and anticipation are also present to a lesser extent. Other emotions such as happiness, disgust, anger, surprise, distrust, love, saudade, awe, bittersweetness, and melancholy have a low presence or are not prominently conveyed in the text.

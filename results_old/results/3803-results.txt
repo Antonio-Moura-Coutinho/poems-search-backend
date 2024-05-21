@@ -1,0 +1,10 @@
+To analyze the emotional content of the text, we can identify the following emotions present:
+
+- Happiness: The text conveys a sense of happiness and fondness, especially in the interactions between the narrator and their husband, as well as the joy of discovering something new.
+- Love: There is a strong theme of love and connection in the text, particularly between the narrator and their husband.
+- Anticipation: The text includes elements of anticipation and excitement, such as the anticipation of trying the new apple strain.
+- Awe: The description of the apple and its star-like interior evokes a sense of awe and wonder.
+- Nostalgia: The text also carries feelings of nostalgia, reflecting on past memories and experiences.
+
+Based on these emotions, the emotion vector for the text could be as follows:
+[0.4, 0, 0, 0, 0, 0, 0.3, 0.6, 0, 0.4, 0, 0.4, 0, 0.4, 0]

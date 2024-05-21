@@ -1,0 +1,4 @@
+Based on the emotional content of the text provided, the emotion vector would be as follows:
+[Happiness: 0, Sadness: 0.4, Fear: 0, Disgust: 0, Anger: 0, Surprise: 0, Anticipation: 0, Trust: 0, Distrust: 0, Love: 0, Saudade: 0.2, Awe: 0, Bittersweetness: 0, Melancholy: 0.6, Nostalgia: 0]
+
+The text conveys elements of sadness, melancholy, and saudade (a profound emotional state of nostalgic or profound longing for an absent something or someone). There is a sense of loss, heartbreak, and reflection on past experiences, which contribute to the emotions of sadness and melancholy. The reference to longing, exile, and trudging through tears also evokes feelings of saudade. Happiness, fear, disgust, anger, surprise, anticipation, trust, distrust, love, awe, and bittersweetness are not prominently expressed in this text.

@@ -1,0 +1,15 @@
+The emotional vector for the provided text is as follows: 
+[0.6, 0.4, 0.2, 0, 0, 0.4, 0.6, 0.8, 0, 0.4, 0, 0, 0.6, 0.8, 0.6]
+
+Explanation:
+- Happiness: 0.6 (The woman appears content and peaceful with her flowers and dogs)
+- Sadness: 0.4 (There is a sense of melancholy and nostalgia in the way she cares for the protea flowers and her dogs, including those for the graves)
+- Fear: 0.2 (There is a hint of uncertainty or vulnerability in the description of the woman)
+- Disgust: 0 (No indications of disgust in the text)
+- Anger: 0 (No indications of anger in the text)
+- Surprise: 0.4 (The description of the woman and her actions may evoke some surprise in the readers)
+- Anticipation: 0.6 (There is anticipation in her spending time with her favorite dog's grave and watching the ocean)
+- Trust: 0.8 (The woman appears trustworthy and genuine in her interactions)
+- Distrust: 0 (No indications of distrust in the text)
+- Love: 0.4 (The woman's love for her dogs and flowers is evident)
+- Saudade:

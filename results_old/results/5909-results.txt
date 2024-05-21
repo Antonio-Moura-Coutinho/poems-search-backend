@@ -1,0 +1,3 @@
+To analyze the emotional content of the text, we can pick up on several emotions such as surrealism, melancholy, and a sense of longing. I will create an emotion vector based on these emotions:
+
+[Happiness: 0, Sadness: 0.4, Fear: 0, Disgust: 0, Anger: 0, Surprise: 0, Anticipation: 0.3, Trust: 0.4, Distrust: 0, Love: 0, Saudade: 0.6, Awe: 0, Bittersweetness: 0.7, Melancholy: 0.6, Nostalgia: 0]

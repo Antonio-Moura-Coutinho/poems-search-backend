@@ -1,0 +1,5 @@
+The emotional content of the text includes elements of Sadness (feeling unappreciated), Anticipation (uncertainty or expectation), and possibly Anger (frustration). Based on these emotions, the emotion vector for the text could be:
+
+[0, 0.4, 0, 0, 0.2, 0, 0.5, 0, 0, 0, 0, 0, 0, 0, 0]
+
+This vector indicates a moderate level of sadness and some anticipation, with a hint of anger.

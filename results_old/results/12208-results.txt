@@ -1,0 +1,11 @@
+Emotion Vector: [0.3, 0.6, 0.4, 0.4, 0, 0.2, 0.5, 0.6, 0.2, 0.4, 0, 0.3, 0.4, 0.5, 0.4]
+
+Explanation:
+- Happiness: 0.3 - The text contains elements of optimism, love, and a sense of new beginnings, contributing to a moderate level of happiness.
+- Sadness: 0.6 - The text conveys themes of injury, complaint, blame, and the acknowledgment of past wrongs, leading to a higher level of sadness.
+- Fear: 0.4 - There are elements of interruption, rudeness, and mentions of injured beings, contributing to a moderate sense of fear or unease.
+- Disgust: 0.4 - References to rudeness, blame, oil spills, and grim weather evoke a feeling of disgust to a moderate extent.
+- Anger: 0 - The text does not strongly exhibit anger as an emotion.
+- Surprise: 0.2 - Elements of the unexpected or unforeseeable events are present but not a dominant emotion.
+- Anticipation: 0.5 - There is a sense of anticipation and newness in the text, reflected in the themes of new optimism, beginnings, and hope for the future.
+- Trust: 0.

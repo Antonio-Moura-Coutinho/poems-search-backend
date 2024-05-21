@@ -1,0 +1,5 @@
+To analyze the emotional content of the text you provided, I will assess the intensity of each emotion based on the words and themes conveyed. Here is the emotion vector based on the text:
+
+[Happiness: 0.1, Sadness: 0.6, Fear: 0.3, Disgust: 0.1, Anger: 0.4, Surprise: 0.1, Anticipation: 0.2, Trust: 0.1, Distrust: 0.1, Love: 0.3, Saudade: 0, Awe: 0, Bittersweetness: 0.3, Melancholy: 0.7, Nostalgia: 0.3]
+
+The predominant emotions in the text appear to be Sadness, Anger, Bittersweetness, and Melancholy. These emotions are reflected in the themes of love turning to frost and fire, the obscurity of desire, and the sense of loneliness and despair expressed in the final lines.

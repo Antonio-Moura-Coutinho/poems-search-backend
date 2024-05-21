@@ -1,0 +1,11 @@
+Based on the text provided, the emotional content can be analyzed as follows:
+
+- Happiness: The text contains moments of resilience, growth, understanding, and poetic beauty suggesting a sense of happiness and hope. [0.4]
+- Sadness: There are mentions of suffering, pain, and war in the text, which evoke a sense of sadness and empathy. [0.3]
+- Fear: The text discusses violence, war, hate, and the vulnerability of human life, all of which could evoke feelings of fear. [0.3]
+- Disgust: While there are no explicit references to disgust in the text, the mention of war and violence could potentially evoke feelings of disgust towards such actions. [0.1]
+- Anger: The text touches upon themes of conflict and suffering, which could provoke feelings of anger towards these injustices. [0.2]
+- Surprise: There are elements of surprise in the text, such as the unexpected reactions of characters and the depiction of resilience in the face of adversity. [0.2]
+- Anticipation: The text hints at themes of growth, change, and new beginnings, which could create a sense of anticipation for what comes next. [0.3]
+- Trust: Trust is implied through the relationships and connections between characters, suggesting a sense of mutual support and understanding. [0.4]
+- Distrust: While there are no strong indications of distrust in the text, the mention of war and violence could

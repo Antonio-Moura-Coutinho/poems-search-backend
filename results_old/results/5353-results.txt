@@ -1,0 +1,8 @@
+Analyzing the emotional content of the text, we can assign the following emotion vector:
+
+[0, 0.8, 0.6, 0.8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0.8, 0]
+
+Explanation:
+- Sadness is the predominant emotion due to the unfortunate events described.
+- There are elements of fear and disgust related to the negative occurrences.
+- Melancholy and nostalgia are also present as the speaker reflects on the events that happened.

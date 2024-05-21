@@ -1,0 +1,14 @@
+Emotion vector: [0.1, 0.6, 0.8, 0.6, 0.5, 0, 0.3, 0.3, 0.6, 0, 0, 0.2, 0.7, 0.7, 0]
+
+Explanation:
+- Happiness: 0.1 (Low happiness as the text focuses on complex and troubling themes)
+- Sadness: 0.6 (High sadness due to the discussion of Jefferson's affair with his slave and the moral contradictions)
+- Fear: 0.8 (Strong fear related to the dark subtext, contradictions, and troubling aspects of Jefferson's character)
+- Disgust: 0.6 (Significant disgust due to the nature of slavery and the moral dilemmas discussed)
+- Anger: 0.5 (Moderate anger due to the injustices and complexities highlighted in the text)
+- Surprise: 0 (No explicit surprise in the text)
+- Anticipation: 0.3 (Some anticipation as the text unfolds the historical and moral aspects)
+- Trust: 0.3 (Low trust due to the discussion of deception and moral failings)
+- Distrust: 0.6 (High distrust due to the contradictions and limitations of the characters described)
+- Love: 0 (No explicit expressions of love in the text)
+- Saudade: 0 (No explicit longing

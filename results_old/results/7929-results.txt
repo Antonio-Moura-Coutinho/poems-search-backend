@@ -1,0 +1,13 @@
+To analyze the emotional content of the text, we can identify the following emotions and their intensities:
+
+- Happiness: There is a sense of happiness and tenderness in the text, especially in the lines that talk about the baby sleeping peacefully. (0.4)
+- Sadness: While the overall tone is comforting, there is a hint of sadness in the idea that the baby's life was shared with the caregivers but is now embarking on its own journey. (0.2)
+- Fear: There isn't a strong sense of fear in the text. (0)
+- Disgust: There are no indications of disgust in the text. (0)
+- Anger: There is no anger expressed in the text. (0)
+- Surprise: There is a touch of surprise in the imagery of the moon being astonished and the bell-sheep sending the baby to sleep. (0.1)
+- Anticipation: The text conveys a sense of anticipation for the baby's future and the caregivers' continued journey alongside the baby. (0.3)
+- Trust: There is a strong sense of trust and love between the caregivers and the baby. (0.6)
+- Distrust: There is no sense of distrust in the text. (0)
+- Love: Love is a prominent emotion in the text, evident in the caregivers' affection for the baby. (0.7)
+- Saudade: There is a subtle longing or nostalgia for the baby's

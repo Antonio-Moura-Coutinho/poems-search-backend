@@ -1,0 +1,20 @@
+To analyze the emotional content of the text provided, we can identify the following emotions and their intensities:
+
+- Happiness: Moderate (references to dancing, laughter, and family moments)
+- Sadness: Low (nostalgic reminiscence)
+- Fear: Low (no direct indications of fear)
+- Disgust: Low (no references to disgust)
+- Anger: Low (no indications of anger)
+- Surprise: Low (no expressions of surprise)
+- Anticipation: Low (no anticipation mentioned)
+- Trust: Low (no direct trust-related sentiments)
+- Distrust: Low (no mentions of mistrust or distrust)
+- Love: Low to Moderate (family bonding and shared moments)
+- Saudade: Low (nostalgic longing but not intense)
+- Awe: Low (no explicit indications of awe)
+- Bittersweetness: Moderate (mix of nostalgia and poignant memories)
+- Melancholy: Low (subtle sense of wistfulness)
+- Nostalgia: Moderate (strong sense of reminiscing)
+
+Therefore, the emotion vector for the text would be approximately:
+[0.4, 0.2, 0, 0, 0, 0, 0, 0, 0, 0.3, 0, 0, 0.4, 0.2, 0]

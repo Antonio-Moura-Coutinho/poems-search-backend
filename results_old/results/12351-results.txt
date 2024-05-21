@@ -1,0 +1,5 @@
+The emotional content of the text is quite complex and intense, involving feelings of control, manipulation, loyalty, obedience, betrayal, and tragedy. Here is an emotion vector representing the intensity of each emotion on a scale from 0 to 1:
+
+[Happiness: 0, Sadness: 0.75, Fear: 0.5, Disgust: 0.5, Anger: 0.5, Surprise: 0, Anticipation: 0, Trust: 0, Distrust: 0.75, Love: 0, Saudade: 0, Awe: 0, Bittersweetness: 0.25, Melancholy: 0.75, Nostalgia: 0]
+
+This emotion vector reflects the predominant feelings of sadness, distrust, disgust, and anger, along with elements of bittersweetness and melancholy present in the text.

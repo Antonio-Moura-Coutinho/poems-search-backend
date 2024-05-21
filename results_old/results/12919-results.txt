@@ -1,0 +1,5 @@
+Analyzing the emotional content of the text, the predominant emotions present are Love and Anticipation. The speaker is expressing deep love for their beloved and is anticipating the passage of time to preserve that love through verse. The text also conveys a sense of defiance towards time, suggesting a level of Trust in the enduring nature of their love. The emotions of Happiness, Awe, and Anticipation are prominent in this sonnet.
+
+The emotion vector based on the analysis of the text can be represented as follows:
+
+[0, 0, 0, 0, 0, 0, 0.6, 0.8, 0, 0.9, 0, 0.7, 0, 0]

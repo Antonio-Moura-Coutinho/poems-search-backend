@@ -1,0 +1,5 @@
+Based on the emotional content of the text, the emotion vector could be as follows:
+
+[0.1, 0.4, 0.3, 0.1, 0.1, 0.1, 0.2, 0.3, 0.3, 0, 0, 0, 0.2, 0.4, 0.3]
+
+This vector shows a higher intensity of emotions like Sadness, Disgust, Distrust, Melancholy, and Nostalgia. The text conveys a sense of longing and reflection, with a melancholic undertone, especially regarding the town of Palmerston North and its contrasts with other places. Feelings of skepticism and sorrow are also present throughout the narrative.

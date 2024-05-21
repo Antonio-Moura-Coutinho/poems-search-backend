@@ -1,0 +1,5 @@
+The emotional vector for the given text is:
+
+[0, 0.3, 0.6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0.5, 0]
+
+This indicates a high presence of fear, followed by a sense of melancholy and nostalgia in the text.

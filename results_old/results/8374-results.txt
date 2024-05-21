@@ -1,0 +1,13 @@
+To analyze the emotional content of the text and generate an emotion vector, we'll evaluate the intensity of each emotion expressed in the text.
+
+Here is the emotion vector based on the emotional content of the text:
+[0.1, 0.6, 0.6, 0.4, 0.4, 0, 0.4, 0.2, 0.4, 0, 0, 0.5, 0.6, 0.5, 0.4]
+
+Explanation of the emotions in the vector:
+- Happiness: 0.1 - The text does not convey a strong sense of happiness and rather evokes feelings of sadness and fear.
+- Sadness: 0.6 - The text contains elements that evoke sadness, such as the imagery of being alone, voices screaming for help, and feelings of nervousness.
+- Fear: 0.6 - Fear is a prominent emotion in the text, with descriptions of eerie settings, nightmares, and unsettling situations.
+- Disgust: 0.4 - The text includes elements that could evoke disgust, such as the description of animals beating their heads and teeth against doors.
+- Anger: 0.4 - There are instances in the text where anger is implied, such as feeling nervous, experiencing discomfort, and being in a challenging environment.
+- Surprise: 0 - The text does not exhibit elements of surprise.
+- Anticipation: 0

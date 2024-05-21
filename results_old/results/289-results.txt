@@ -1,0 +1,5 @@
+The emotional vector for the provided text is as follows: 
+
+[0.15, 0.34, 0.25, 0.17, 0.15, 0.32, 0.31, 0.16, 0.39, 0.24, 0, 0.08, 0.35, 0.29, 0.28]
+
+This vector represents the intensity of various emotions in the text. The emotions that stand out more prominently in this text are Sadness, Anticipation, Distrust, Love, and Melancholy.

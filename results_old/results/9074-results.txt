@@ -1,0 +1,9 @@
+Analyzing the emotional content of the text, we can identify the following emotions present:
+
+- Sadness
+- Melancholy
+- Love
+- Awe
+
+Calculating the intensity of each emotion on a scale from 0 to 1 based on the text, we get the following emotion vector:
+[0, 0.6, 0, 0, 0, 0, 0, 0, 0, 0.6, 0, 0.6, 0, 0]

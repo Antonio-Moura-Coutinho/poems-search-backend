@@ -1,0 +1,5 @@
+The emotional analysis of the text suggests the following emotion vector:
+
+[0, 0.5, 0.4, 0, 0, 0.2, 0.4, 0, 0, 0, 0, 0.3, 0.5, 0.3, 0.4]
+
+This vector indicates a high presence of Sadness, Fear, Anticipation, Bittersweetness, Melancholy, and Nostalgia in the text. There are also elements of Surprise and Awe present to a lesser extent.

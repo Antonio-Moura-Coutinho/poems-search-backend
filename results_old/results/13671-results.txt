@@ -1,0 +1,5 @@
+Based on the emotional content of the text provided, the emotion vector could look like this:
+
+[0.3, 0.4, 0.3, 0, 0.3, 0.4, 0.5, 0.6, 0, 0, 0, 0.2, 0.3, 0]
+
+This indicates a mix of emotions, with higher intensities in Anticipation, Trust, and Sadness. Other emotions like Fear, Anger, and Surprise also have some level of intensity in the text.

@@ -1,0 +1,3 @@
+Analyzing the emotional content of the text, I would say the predominant emotions present are sadness, love, and nostalgia. The text conveys a sense of mourning, memory, and reverence for the young man who has passed away.
+
+Emotion vector: [0, 0.6, 0, 0, 0, 0, 0, 0.8, 0, 0.8, 0, 0, 0, 0.6, 0]

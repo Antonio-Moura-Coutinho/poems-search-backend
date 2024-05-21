@@ -1,0 +1,7 @@
+Based on the text provided, the emotional content seems to include elements of Fear, Anticipation, and Love. The fear is evident in the lines describing Gwen's fearful fright and her urgency to leave. The anticipation can be seen in the back-and-forth dialogue between the characters, creating a sense of suspense and readiness for action. Love is also present in the longing and reassurance expressed by the speaker towards Gwen.
+
+Here is the emotion vector based on the emotional content of the text provided:
+
+[Fear: 0.3, Anticipation: 0.4, Love: 0.3, Happiness: 0, Sadness: 0, Disgust: 0, Anger: 0, Surprise: 0, Trust: 0, Distrust: 0, Saudade: 0, Awe: 0, Bittersweetness: 0, Melancholy: 0, Nostalgia: 0]
+
+Feel free to ask if you need further analysis or assistance.

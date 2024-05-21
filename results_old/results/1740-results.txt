@@ -1,0 +1,19 @@
+To analyze the emotional content of the text provided, we can extract various emotions based on the words used. Here is the emotion vector for the text:
+[0.1, 0.4, 0.3, 0.2, 0.3, 0.2, 0.1, 0.1, 0.3, 0.1, 0, 0.1, 0.2, 0.3]
+
+Explanation of the emotions represented in the vector:
+- Happiness: 0.1
+- Sadness: 0.4
+- Fear: 0.3
+- Disgust: 0.2
+- Anger: 0.3
+- Surprise: 0.2
+- Anticipation: 0.1
+- Trust: 0.1
+- Distrust: 0.3
+- Love: 0.1
+- Saudade: 0
+- Awe: 0.1
+- Bittersweetness: 0.2
+- Melancholy: 0.3
+- Nostalgia: 0

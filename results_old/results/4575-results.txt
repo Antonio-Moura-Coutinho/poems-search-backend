@@ -1,0 +1,3 @@
+Based on the emotional content of the text provided, the emotion vector would look like this: [0.18, 0.26, 0.27, 0.32, 0.38, 0.29, 0.37, 0.28, 0.33, 0.21, 0.12, 0.16, 0.21, 0.22, 0.19].
+
+These values represent the intensity of each emotion in the text, with Anger having the highest intensity, followed by Fear, Anticipation, Distrust, Disgust, Love, Surprise, Trust, Sadness, Melancholy, Bittersweetness, Awe, Nostalgia, Happiness, and Saudade.

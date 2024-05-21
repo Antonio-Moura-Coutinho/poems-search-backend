@@ -1,0 +1,19 @@
+Analyzing the emotional content of the text, the emotions detected in varying intensities are as follows:
+
+- Happiness: Low
+- Sadness: Low
+- Fear: Low
+- Disgust: Low
+- Anger: Low
+- Surprise: Low
+- Anticipation: Low
+- Trust: Low
+- Distrust: Low
+- Love: Low
+- Saudade: Low
+- Awe: Low
+- Bittersweetness: Low
+- Melancholy: Low
+- Nostalgia: Moderate
+
+The emotion vector based on the analysis is as follows: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0.1].

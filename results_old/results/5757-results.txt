@@ -1,0 +1,12 @@
+To determine the emotional content of the text and create an emotion vector, we can analyze the predominant emotions conveyed in the text. 
+
+Emotions present in the text include:
+- Sadness: The text conveys a sense of loss, mourning, and the passage of time, especially with the mention of the narrator's grandmother's death and the destruction of her grave.
+- Awe: A sense of wonder, reverence, and reflection is present in descriptions of ancient cultures, the passing of time, and the destruction of historical artifacts.
+- Melancholy: The mood throughout the text is contemplative, wistful, and tinged with sadness and nostalgia.
+- Nostalgia: There is a strong sense of longing for the past, heritage, and lost memories throughout the text.
+
+Based on the emotional analysis, the emotion vector for the text could be:
+[0, 0.7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0.4, 0.8, 0.7, 0.6]
+
+This vector reflects the high intensity of sadness, melancholy, and nostalgia, along with a significant presence of awe and bittersweetness in the text.

@@ -1,0 +1,4 @@
+Analyzing the emotional content of the text, we can see themes of Sadness, Fear, Anticipation, Distrust, Melancholy, and Nostalgia. The text talks about mortality, the fleeting nature of glory and power, inevitability of death, and the contrast between worldly achievements and moral actions. The overall tone is reflective, somber, and contemplative.
+
+Based on this analysis, the emotion vector for the text can be represented as follows:
+[0, 0.4, 0.4, 0, 0, 0, 0.2, 0, 0.3, 0, 0, 0, 0.6, 0.5, 0.3]

@@ -1,0 +1,14 @@
+To analyze the emotional content of the text and create an emotion vector, let's identify the emotional cues and assign scores based on the intensity of each emotion.
+
+- Happiness: The text contains elements of reminiscing about fond memories, liking certain activities, and a sense of nostalgia. Score: 0.4
+- Sadness: There are references to sadness, burning sentimental items, and transforming love into sadness. Score: 0.5
+- Fear: There are no clear indications of fear in the text. Score: 0
+- Disgust: There are no expressions of disgust in the text. Score: 0
+- Anger: There are no instances of anger mentioned. Score: 0
+- Surprise: There are no explicit expressions of surprise. Score: 0
+- Anticipation: Anticipation is hinted at when mentioning remembering and dreaming about love. Score: 0.3
+- Trust: Trust is not a prominent emotion in the text. Score: 0
+- Distrust: Distrust is not evident. Score: 0
+- Love: Love is mentioned directly, especially regarding the narrator's feelings toward helpless people. Score: 0.6
+- Saudade: Saudade, a Portuguese word for the feeling of longing/nostalgia, is subtly present. Score: 0.3
+- Awe: There is a sense of awe when recalling past memories and feelings. Score: 0.2

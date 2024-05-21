@@ -1,0 +1,9 @@
+Based on the text provided, the emotional content can be analyzed as follows:
+
+- Sadness: The tone of the text suggests a sense of melancholy and introspection.
+- Distrust: The feeling of isolation and emptiness can evoke a sense of distrust or unease.
+- Nostalgia: The mention of returning to a place from the past and the described settings evoke feelings of nostalgia and memories.
+
+Emotion vector: [0, 0.4, 0, 0, 0, 0, 0, 0, 0.6, 0, 0, 0, 0, 0.5, 0]
+
+This vector represents the intensity of sadness, distrust, and nostalgia in the text on a scale from 0 to 1 for the specified emotions.

@@ -1,0 +1,3 @@
+Analyzing the emotional content of the text, the main emotions expressed are Sadness, Disgust, and Melancholy. Based on that, here is the emotion vector for the text:
+
+[0, 0.6, 0, 0.4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0.6, 0]

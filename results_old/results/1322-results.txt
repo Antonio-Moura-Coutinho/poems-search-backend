@@ -1,0 +1,15 @@
+Analyzing the text, we can infer the dominant emotional content as follows:
+
+Sadness: The text conveys a sense of sadness or disappointment regarding the peasant's boasting and the speaker's self-worth evaluation.
+
+Disgust: There is a hint of disgust in the language used by the peasant to describe the speaker, and potentially in the overall tone of the text.
+
+Distrust: The speaker may feel a sense of distrust based on the peasant's comments and behavior.
+
+Disappointment: There is an undertone of disappointment when evaluating the worth of the speaker's knowledge and skills.
+
+Based on this analysis, the emotion vector for the given text could be:
+
+[0, 0.6, 0, 0.3, 0, 0, 0, 0, 0.4, 0, 0, 0, 0, 0, 0]
+
+This vector emphasizes sadness and distrust as the prominent emotions, with elements of disgust and disappointment also present.

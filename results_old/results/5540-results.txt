@@ -1,0 +1,5 @@
+Analyzing the emotional content of the text provided, the emotional vector is as follows:
+
+[0, 0.6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+The text mainly conveys sadness and loss, hence the high intensity of sadness in the emotional vector. There are no noticeable expressions of other emotions in the text.

@@ -1,0 +1,5 @@
+The emotional content of the text includes a mixture of intense and conflicting emotions such as Sadness, Fear, Anger, Disgust, Distrust, and Nostalgia. The text conveys deep emotional turmoil, traumatic experiences, family struggles, and inner conflict. Based on the analysis, the emotion vector for the text could be represented as follows:
+
+[0, 0.6, 0.7, 0.4, 0.7, 0, 0, 0.3, 0.8, 0.1, 0.3, 0, 0.7, 0.8, 0]
+
+These values indicate a high intensity of Sadness, Fear, Anger, Disgust, and Nostalgia, along with moderate levels of Distrust and Trust. Other emotions like Happiness, Surprise, Anticipation, Love, Saudade, Awe, Bittersweetness, and Melancholy are not prominently expressed in the text.

@@ -1,0 +1,1 @@
+Based on the analysis of the provided text, the emotions present include: Anticipation, Fear, Sadness, Trust. The emotion vector representing the intensity of these emotions on a scale from 0 to 1 would be: [0, 0.4, 0.2, 0, 0, 0, 0.4, 0.4, 0, 0, 0, 0, 0, 0, 0].

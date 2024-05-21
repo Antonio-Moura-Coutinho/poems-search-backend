@@ -1,0 +1,6 @@
+The emotional content of the text includes elements of Sadness, Disgust, Fear, and Love. 
+
+Here is the emotion vector based on the intensity of each emotion:
+[0, 0.4, 0.2, 0.2, 0, 0, 0, 0.6, 0, 0.6, 0, 0, 0, 0, 0]
+
+This vector suggests a medium level of sadness and fear, low levels of disgust and love, and no significant presence of other emotions such as happiness, anger, surprise, anticipation, trust, distrust, saudade, awe, bittersweetness, melancholy, or nostalgia.

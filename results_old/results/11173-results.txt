@@ -1,0 +1,5 @@
+Based on the emotional content of the text, the emotion vector can be analyzed as follows:
+
+[Happiness: 0.2, Sadness: 0.35, Fear: 0, Disgust: 0, Anger: 0, Surprise: 0.1, Anticipation: 0.15, Trust: 0.3, Distrust: 0, Love: 0.4, Saudade: 0.1, Awe: 0.6, Bittersweetness: 0.15, Melancholy: 0.35, Nostalgia: 0.3].
+
+These values are based on the reflections of nature, the beauty of the forest, the imagery of wild deer, and the evocative descriptions in the text that evoke emotions such as love, trust, sadness, melanchoy, and a sense of awe.

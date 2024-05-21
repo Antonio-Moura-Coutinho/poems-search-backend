@@ -1,0 +1,18 @@
+To analyze the emotional content of the text, I will extract the emotions expressed in each stanza before calculating the emotion vector:
+
+I: Sadness (0.8), Fear (0.3)
+II: Sadness (0.6), Trust (0.3)
+III: Sadness (0.7), Fear (0.5)
+IV: Love (0.9), Trust (0.7), Happiness (0.6)
+V: Anticipation (0.4), Trust (0.6)
+VI: Sadness (0.7), Trust (0.8), Anticipation (0.4)
+VII: Trust (0.9)
+VIII: Fear (0.5), Disgust (0.4), Anticipation (0.4)
+IX: Fear (0.7), Sadness (0.6)
+X: Fear (0.6), Sadness (0.5)
+XI: Fear (0.7), Distrust (0.5), Anger (0.4)
+XII: Sadness (0.7), Disgust (0.4)
+
+Now, we will calculate the emotion vector based on the emotional content of the text:
+
+[Sadness: 0.712, Fear: 0.536, Happiness: 0.15, Disgust: 0.133, Anger: 0.067, Surprise: 0, Anticipation: 0.233,

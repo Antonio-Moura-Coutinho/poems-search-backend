@@ -1,0 +1,20 @@
+Based on the emotional content of the text provided, the emotional vector would be:
+
+[0.3, 0.2, 0, 0, 0, 0.7, 0.6, 0.4, 0, 0, 0, 0.2, 0, 0]
+
+Explanation:
+- Happiness: 0.3 (Mention of wonder, awe in seeing the moon)
+- Sadness: 0.2 (No direct sadness in the text)
+- Fear: 0 (No direct fear in the text)
+- Disgust: 0 (No direct disgust in the text)
+- Anger: 0 (No direct anger in the text)
+- Surprise: 0.7 (Surprise and wonder expressed by the speaker seeing the moon)
+- Anticipation: 0.6 (Anticipation of seeing the moon and its beauty)
+- Trust: 0.4 (Trust in the beauty and divine nature of the moon)
+- Distrust: 0 (No distrust in the text)
+- Love: 0 (No direct love mentioned)
+- Saudade: 0 (No saudade mentioned)
+- Awe: 0.2 (Awe and wonder expressed upon seeing the moon)
+- Bittersweetness: 0 (No bittersweetness mentioned)
+- Melancholy: 0 (No melancholy mentioned)
+- Nostalgia:

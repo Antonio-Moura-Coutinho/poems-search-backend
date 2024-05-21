@@ -1,0 +1,3 @@
+The emotional content of the text appears to consist mainly of happiness, playfulness, and a sense of joy. The emotions present seem to be Happiness, Anticipation, and Love. Here is the emotion vector for the text:
+
+[0.8, 0, 0, 0, 0, 0, 0.6, 0.7, 0, 0.6, 0, 0, 0, 0, 0]

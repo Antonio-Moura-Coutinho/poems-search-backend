@@ -1,0 +1,3 @@
+Based on the emotional content of the text, the likely emotions present are Sadness, Anger, Distrust, Melancholy, and Love. Here is the emotion vector:
+
+[0, 0.4, 0, 0, 0.4, 0, 0, 0.3, 0.2, 0.4, 0, 0, 0, 0]

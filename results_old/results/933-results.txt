@@ -1,0 +1,20 @@
+Emotion vector for the text provided:
+
+[0, 0.5, 0.6, 0.7, 0.4, 0.6, 0.7, 0, 0, 0, 0, 0, 0, 0.8, 0] 
+
+Explanation:
+- Happiness: 0
+- Sadness: 0.5 (Mention of worry and health concerns)
+- Fear: 0.6 (Worry about having cancer)
+- Disgust: 0.7 (Mention of worms in meat)
+- Anger: 0.4
+- Surprise: 0.6
+- Anticipation: 0.7
+- Trust: 0
+- Distrust: 0
+- Love: 0
+- Saudade: 0
+- Awe: 0
+- Bittersweetness: 0
+- Melancholy: 0.8 (Overall feeling of sadness, worry, and darkness)
+- Nostalgia: 0

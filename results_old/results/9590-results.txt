@@ -1,0 +1,5 @@
+Based on the text provided, the emotional content is primarily focused on Anger, Sadness, and a sense of Resignation or Acceptance. The emotions are expressed through words like "angry," "burst," "boil," "break the dam," "overflow," "swear," "shed no tear," and "anglo tea lace words."
+
+Here is the emotion vector based on the analysis:
+
+[0, 0.6, 0, 0, 0.8, 0, 0, 0, 0, 0, 0, 0, 0, 0].

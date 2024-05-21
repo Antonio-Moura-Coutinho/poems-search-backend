@@ -1,0 +1,5 @@
+The emotional content of the text spans multiple emotions. Here is the emotion vector for the text:
+
+[0.3, 0.4, 0.4, 0.2, 0.3, 0.2, 0.3, 0.5, 0.3, 0.4, 0.2, 0.4, 0.4, 0.5, 0.3]
+
+This vector indicates an overall mix of emotions, with higher levels of emotions such as Trust, Sadness, Anticipation, and Bittersweetness.

@@ -1,0 +1,7 @@
+To analyze the emotional content of the text, we can identify the following emotions in varying intensities:
+
+- Sadness (0.8): The text conveys a strong sense of loss and sadness through the imagery of absence and being stitched together.
+- Love (0.4): The mention of the strong impact of the absence implies a deep emotional connection or love.
+- Nostalgia (0.3): The idea of the absence affecting everything suggests a longing for the past or memories associated with the person who is absent.
+
+Emotion Vector: [0, 0.8, 0, 0, 0, 0, 0, 0, 0, 0.4, 0, 0, 0, 0.3]

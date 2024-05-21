@@ -1,0 +1,5 @@
+Based on the text provided, the emotional content seems to reflect a mix of dissatisfaction with the living conditions but a resigned acceptance of them. The overall tone suggests a sense of resignation and perhaps a touch of dissatisfaction and frustration. Here is the emotion vector based on the analysis:
+
+[0, 0.3, 0, 0, 0.3, 0, 0, 0, 0, 0, 0, 0, 0, 0.2, 0]
+
+This vector indicates a moderate level of sadness, some anger, and a hint of melancholy, while other emotions like happiness, fear, and love are not significantly present in the text.

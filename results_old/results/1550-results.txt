@@ -1,0 +1,4 @@
+This text expresses a strong sense of reverence, praise, and adoration towards a divine entity, which indicates emotions such as Trust, Awe, Love, and Anticipation. The intensity of these emotions seems to be high throughout the text. There are also elements of Happiness and Surprise present in the joyous depiction of praising the Lord. The absence of negative emotions like Sadness, Fear, Disgust, Anger, Distrust, Saudade, Bittersweetness, Melancholy, and Nostalgia indicates a predominantly positive emotional tone. 
+
+Based on this analysis, the emotion vector for this text could be:
+[0.6, 0, 0, 0, 0, 0.3, 0.7, 0.8, 0, 0.6, 0, 0.7, 0, 0]

@@ -1,0 +1,10 @@
+To analyze the emotional content of the given text and output an emotion vector, we can identify and evaluate the emotions expressed within the text:
+
+- Sadness: The text conveys a deep sense of sadness and mourning over the loss of the mother, evident through the description of her being dead and the emotional plea for her to come back.
+- Love: The expression of love towards the deceased mother is prominent throughout the text, with the narrator professing their love, appreciation, and desire for her presence.
+- Nostalgia: There is a strong element of nostalgia as the narrator vividly describes memories and interactions with the mother, reflecting on their impact on their own life.
+- Anticipation: The anticipation of wanting the mother to return or communicate again is also present in the text, showing a sense of hopeful longing.
+
+Based on the emotions identified, we can generate an emotion vector representing the intensity of each emotion on a scale from 0 to 1:
+
+[Sadness: 0.8, Happiness: 0.1, Fear: 0, Disgust: 0, Anger: 0, Surprise: 0, Anticipation: 0.6, Trust: 0.4, Distrust: 0, Love: 0.7, Saudade: 0, Awe: 0, Bittersweetness: 0, Melancholy: 0.5, Nostalgia: 0.8]

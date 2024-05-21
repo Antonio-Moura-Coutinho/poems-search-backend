@@ -1,0 +1,13 @@
+Based on the text provided, the emotional content analysis yields the following emotion vector: [0.5, 0.2, 0.25, 0, 0.2, 0.45, 0.55, 0.65, 0, 0.3, 0, 0.3, 0.3, 0.45, 0]
+
+Explanation:
+- Happiness (0.5): The text conveys a sense of joy and happiness through the playful interactions described.
+- Sadness (0.2): There is a hint of sadness in the mention of walls crumbling and moldering away.
+- Fear (0.25): The anticipation of being ambushed by the children may evoke a mild sense of fear.
+- Disgust (0): There is no explicit mention of disgust in the text.
+- Anger (0.2): The playful defiance towards the children could imply a touch of anger.
+- Surprise (0.45): The element of surprise is evident in the children's playful antics and attempts to catch the speaker off guard.
+- Anticipation (0.55): There is a strong sense of anticipation as the children plan and execute their surprise.
+- Trust (0.65): The trust in the bond between the speaker and the children is highlighted, emphasizing a strong sense of trust.
+- Distrust (0): There is no indication of distrust in the text.
+- Love (0.3

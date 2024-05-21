@@ -1,0 +1,21 @@
+The emotional content of the provided text is intense and complex, encompassing a wide range of emotions. The text includes themes of rebellion, defiance, pride, despair, sorrow, fear, anger, triumph, and grandeur. The language used evokes a sense of epic scale and dramatic conflict.
+
+Based on the text, the emotion vector can be approximated as follows:
+
+[Happiness: 0
+Sadness: 0.2
+Fear: 0.5
+Disgust: 0
+Anger: 0.8
+Surprise: 0
+Anticipation: 0
+Trust: 0
+Distrust: 0.2
+Love: 0
+Saudade: 0
+Awe: 0.7
+Bittersweetness: 0.3
+Melancholy: 0.4
+Nostalgia: 0.1] 
+
+This vector reflects the predominant emotions of fear, anger, awe, and a mix of sadness, distrust, bittersweetness, and melancholy present in the text.

@@ -1,0 +1,12 @@
+Based on the emotional content of the text provided, the emotion vector could be as follows:
+
+[0, 0.8, 0.8, 0.3, 0.4, 0, 0, 0, 0, 0, 0, 0, 0, 0.9, 0]
+
+Explanation:
+- Sadness is predominant in the text due to the imagery of death, hanging, asphyxiation, and the overall somber tone.
+- Fear is high due to the sense of impending doom and the eerie descriptions.
+- Disgust is present in the descriptions of the hanging letters and the dark imagery.
+- Anger is noticed in the violent descriptions and the sense of injustice portrayed.
+- Melancholy and Nostalgia are quite prominent due to the melancholic and reflective nature of the text.
+
+Feel free to adjust the intensity scores based on your interpretation of the emotions in the text.

@@ -1,0 +1,15 @@
+To analyze the emotional content of the provided text and create an emotion vector, we will need to examine the feelings expressed in the text. Based on the content, we can identify the following emotions:
+
+Happiness: The speaker reflects on a long life filled with experiences, raising a family, and enjoying nature, indicating a sense of fulfillment and contentment. (Moderate)
+Sadness: There is a mention of losing eight children and hearing of sorrow and weariness, which conveys a sense of sadness. (Moderate)
+Fear: There is no direct indication of fear in the text.
+Disgust: There is no direct indication of disgust in the text.
+Anger: The speaker expresses frustration at the degenerate sons and daughters for not appreciating life, suggesting a hint of anger. (Low)
+Surprise: There is no direct indication of surprise in the text.
+Anticipation: There is no direct indication of anticipation in the text.
+Trust: The speaker seems to trust in the strength of life and the value of living it fully. (Low)
+Distrust: There is no direct indication of distrust in the text.
+Love: The speaker talks about the importance of loving life and lived a long life with their partner, reflecting love. (Moderate)
+Saudade: There is a sense of longing and nostalgia for the memories created over many years. (Moderate)
+Awe: There is no direct indication of awe in the text.
+Bittersweetness: The mix

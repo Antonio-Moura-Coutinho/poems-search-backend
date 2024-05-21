@@ -1,0 +1,10 @@
+To analyze the emotional content of the text, we can detect the following emotions:
+
+Happiness: The speaker expresses admiration and fondness for Stella, suggesting a positive emotional tone.
+Trust: The speaker shows trust and faith in Stella's qualities and character.
+Anticipation: The speaker anticipates a positive outcome or future scenario involving Stella.
+Love: The text conveys a deep sense of love and affection towards Stella.
+
+Based on the emotions detected, the emotion vector could be:
+
+[Happiness: 0.8, Sadness: 0, Fear: 0, Disgust: 0, Anger: 0, Surprise: 0, Anticipation: 0.7, Trust: 0.8, Distrust: 0, Love: 0.8, Saudade: 0, Awe: 0, Bittersweetness: 0, Melancholy: 0, Nostalgia: 0]

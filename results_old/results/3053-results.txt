@@ -1,0 +1,5 @@
+To analyze the emotional content of the text, we can identify the emotions expressed in different parts of it. Based on the text, the emotions present appear to be a mix of Anticipation, Trust, Love, Pain, Tension, Dreaming, and elements of Recklessness. The emotions of Fear, Disgust, Anger, Surprise, Distrust, Saudade, Awe, Bittersweetness, Melancholy, Sadness, and Nostalgia are not prominently displayed in the text.
+
+Thus, the emotion vector for this text could be:
+
+[0, 0, 0.2, 0, 0, 0, 0.4, 0.6, 0, 0.6, 0, 0, 0.2, 0, 0]

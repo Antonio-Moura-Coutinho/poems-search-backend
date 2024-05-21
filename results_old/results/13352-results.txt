@@ -1,0 +1,10 @@
+To analyze the emotional content of the provided text, we can infer the following emotions:
+
+- Anticipation: The mention of the garden growing and the imagery of silver bells and cockleshells may evoke a sense of anticipation or curiosity about how Mary's garden looks like.
+- Joy/Happiness: The overall tone of the nursery rhyme is light and pleasant, with a whimsical description of Mary's garden and the pretty maids. This suggests a feeling of joy or happiness.
+
+Based on the analysis, the emotion vector for the given text could be:
+
+[0.5, 0, 0, 0, 0, 0, 0.3, 0.8, 0, 0, 0, 0, 0, 0, 0]
+
+This vector represents moderate levels of happiness and anticipation in the text. Let me know if you need further assistance!

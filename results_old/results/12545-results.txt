@@ -1,0 +1,5 @@
+The emotional content of the text includes elements of Sadness, Trust, Awe, Love, Melancholy, and Anticipation. Here is the emotion vector based on the emotional intensity observed in the text:
+
+[0, 0.5, 0, 0, 0, 0, 0.3, 0.4, 0, 0.3, 0, 0.1, 0.5, 0]
+
+This vector indicates a notable presence of Sadness, Trust, Love, Melancholy, and Anticipation in the text, with the highest intensities observed in Sadness, Trust, and Love.

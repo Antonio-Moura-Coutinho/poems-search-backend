@@ -1,0 +1,5 @@
+Based on the text provided, here is the emotion vector:
+
+[0, 0.8, 0.7, 0, 0, 0, 0, 0.3, 0.3, 0.4, 0, 0, 0.6, 0.6, 0.8]
+
+This text contains high levels of Sadness, Fear, Distrust, Love, Bittersweetness, Melancholy, and Nostalgia. It expresses deep longing, pain, and emotional struggle, with a sense of memories and loss.

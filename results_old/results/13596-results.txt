@@ -1,0 +1,11 @@
+To analyze the emotional content of the text, we can identify the following emotions and assign intensities to each: Sadness, Fear, Anticipation, Anger.
+
+Sadness: The text evokes a sense of melancholy and sadness through the portrayal of war and the loss of human connection. Intensity: 0.7
+
+Fear: The text hints at the fear and uncertainty that come with war and large-scale movements. Intensity: 0.4
+
+Anticipation: There is a sense of anticipation or foreboding in the imagery of explosive forces and the dark blood of the folk. Intensity: 0.3
+
+Anger: The mention of explosions and the dark blood of the folk suggests underlying anger and conflict. Intensity: 0.5
+
+The emotion vector representing these emotional intensities would be: [0, 0.7, 0.4, 0, 0.5, 0, 0.3, 0, 0, 0, 0, 0, 0, 0, 0].

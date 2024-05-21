@@ -1,0 +1,19 @@
+The emotional content of the text "She was a village of lovely knowledge" can be analyzed as follows:
+
+- Happiness: 0.6
+- Sadness: 0
+- Fear: 0
+- Disgust: 0
+- Anger: 0
+- Surprise: 0.4
+- Anticipation: 0.6
+- Trust: 0.8
+- Distrust: 0
+- Love: 0.7
+- Saudade: 0
+- Awe: 0.4
+- Bittersweetness: 0
+- Melancholy: 0
+- Nostalgia: 0
+
+Based on this analysis, the emotion vector representing the emotional intensity of the text would be: [0.6, 0, 0, 0, 0, 0.4, 0.6, 0.8, 0, 0.7, 0, 0.4, 0, 0].

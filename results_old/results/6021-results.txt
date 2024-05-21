@@ -1,0 +1,12 @@
+To analyze the emotional content of the text provided, we can identify the following emotions displayed:
+
+1. Happiness: There are elements of camaraderie and humor in the text, like telling jokes in the police van, which could indicate a sense of happiness.
+2. Sadness: There is a sense of tension or discomfort conveyed in the encounter with the police officer, suggesting a slight undercurrent of sadness.
+3. Fear: The mention of being ziplocked in handcuffs and the overall setting of protesting and encounters with the authorities may evoke feelings of fear.
+4. Surprise: The unexpected interaction with the police officer and the mention of the tattoos can elicit surprise.
+5. Trust: There is an element of trust when revealing personal information about tattoos to the officer.
+
+Based on the emotional analysis, the emotion vector could be approximately:
+[0.3, 0.1, 0.2, 0, 0, 0.2, 0, 0.2, 0, 0, 0, 0, 0, 0]
+
+This vector represents moderate levels of happiness, a low level of sadness, some fear and surprise, and a sense of trust in the interaction.

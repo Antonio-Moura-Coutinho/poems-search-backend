@@ -1,0 +1,13 @@
+To analyze the emotional content of the text, we will look for keywords and phrases that indicate different emotions. Based on the provided text, the emotions expressed are as follows:
+
+- Happiness: There is a sense of relief and joy in the return of the children.
+- Sadness: There is a feeling of sadness and hardship reflected in the challenges faced by the family.
+- Fear: The mention of the difficulties with the apartment and the loss of job and love affair may evoke fear.
+- Trust: The trust between family members is implied by their silent communication.
+- Love: The love and connection between family members is evident in their reunion.
+
+The emotion vector representing the intensity of each emotion on a scale from 0 to 1 would be:
+
+[Happiness: 0.4, Sadness: 0.6, Fear: 0.3, Disgust: 0, Anger: 0, Surprise: 0, Anticipation: 0, Trust: 0.5, Distrust: 0, Love: 0.6, Saudade: 0, Awe: 0, Bittersweetness: 0, Melancholy: 0, Nostalgia: 0.4]
+
+This vector indicates a mix of emotions with higher intensities in sadness, trust, love, and a moderate level of happiness and nostalgia.

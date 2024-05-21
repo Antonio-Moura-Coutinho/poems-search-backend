@@ -1,0 +1,9 @@
+Based on the emotional content of the text, the emotion vector could be approximated as: [0, 0.8, 0.8, 0.7, 0.9, 0, 0, 0, 0, 0, 0, 0, 0.7, 0.6, 0]
+
+Explanation:
+- Sadness: The text conveys a strong sense of sadness through themes like loss, departure, overdose, and not knowing the individual well. (High intensity - 0.8)
+- Fear: There is an undercurrent of fear conveyed through words like "police brutality" and the uncertainty of the situation. (Moderate intensity - 0.8)
+- Disgust: The mention of police brutality may elicit disgust, and the feeling of being ushered out for touching the sculptures can contribute to this emotion. (Moderate intensity - 0.7)
+- Anger: The text hints at anger through references to played references, the sense of awkwardness, and the response of the guard. (High intensity - 0.9)
+- Melancholy: The overall tone of the text and the portrayal of reflection, emotional distance, and loss contribute to a feeling of melancholy. (Moderate to high intensity - 0.7)
+- Nostalgia: There is a touch of nostalgia in the text, indicated by the references to memories, past encounters, and

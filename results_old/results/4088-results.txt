@@ -1,0 +1,19 @@
+Based on the emotional content of the text, the emotion vector can be analyzed as follows:
+
+[Happiness: 0,
+Sadness: 0.8,
+Fear: 0.5,
+Disgust: 0.5,
+Anger: 0.5,
+Surprise: 0,
+Anticipation: 0.2,
+Trust: 0.1,
+Distrust: 0.9,
+Love: 0,
+Saudade: 0,
+Awe: 0.2,
+Bittersweetness: 0.6,
+Melancholy: 0.9,
+Nostalgia: 0]
+
+The text portrays strong emotions of sadness, fear, disgust, anger, distrust, bittersweetness, and melancholy. It conveys a sense of loss, despair, and the inevitability of death, eliciting strong negative emotions such as sadness and melancholy. There is also an element of fear and disgust present in the text, along with a feeling of betrayal and anguish. The lack of positive emotions such as happiness, love, or nostalgia indicates a somber and bleak emotional tone.

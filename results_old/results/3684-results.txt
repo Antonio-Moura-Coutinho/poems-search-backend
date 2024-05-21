@@ -1,0 +1,7 @@
+Based on the text provided, the emotional content can be analyzed as follows:
+
+- Sadness: The owl is forced to flee due to the crows, which may evoke a sense of sadness for the owl's situation.
+- Fear: The owl's reaction to the crows and fleeing can be associated with fear.
+- Anticipation: There is a sense of anticipation as the scene is set with the owl perching in the tree at night and then being found by the crows.
+
+Emotion Vector: [0, 0.1, 0.2, 0, 0, 0, 0.3, 0, 0, 0, 0, 0, 0, 0, 0]

@@ -1,0 +1,5 @@
+Upon analyzing the emotional content of the text, the emotion vector for the text is:
+
+[0.1, 0.6, 0.4, 0.7, 0.6, 0.1, 0.3, 0.2, 0.5, 0, 0, 0, 0, 0.4, 0]
+
+This vector represents the intensity of each emotion in the text on a scale from 0 to 1 for the specified emotions.

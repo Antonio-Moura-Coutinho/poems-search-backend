@@ -1,0 +1,13 @@
+Emotion Vector: [0.1, 0.6, 0.4, 0.1, 0.2, 0.2, 0.3, 0.2, 0.3, 0, 0, 0, 0.4, 0.6, 0.5]
+
+Explanation:
+
+- Happiness: The text does not convey a strong sense of happiness; it focuses more on negative emotions. (0.1)
+- Sadness: The text contains feelings of misery, disappointment, and melancholy. (0.6)
+- Fear: There is a subtle hint of fear in the uncertainty of the protagonist's actions and the reaction of the pianist being fired. (0.4)
+- Disgust: The text does not explicitly show disgust. (0.1)
+- Anger: There is a brief mention of anger when the pianist is fired abruptly. (0.2)
+- Surprise: There are elements of surprise, such as the unexpected firing of the pianist. (0.2)
+- Anticipation: Some anticipation can be felt as the protagonist interacts with Mingus and the environment at the bar. (0.3)
+- Trust: There is a sense of trust between the protagonist and Mingus in sharing the poem. (0.2)
+- Distrust: There is a hint of distrust in the protagonist's perception of poetry and possibly in Mingus' actions

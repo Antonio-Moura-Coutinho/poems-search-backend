@@ -1,0 +1,19 @@
+To analyze the emotional content of the text, we can identify the following emotions and their intensities:
+
+Happiness: 0
+Sadness: 1
+Fear: 0.8
+Disgust: 1
+Anger: 1
+Surprise: 0
+Anticipation: 0
+Trust: 0
+Distrust: 0.9
+Love: 0
+Saudade: 0
+Awe: 0
+Bittersweetness: 0
+Melancholy: 0.7
+Nostalgia: 0
+
+Therefore, the emotion vector generated for the text would be: [0, 1, 0.8, 1, 1, 0, 0, 0, 0.9, 0, 0, 0, 0, 0].

@@ -1,0 +1,5 @@
+Analyzing the emotional content of the text, we can observe elements of Awe and Anticipation in the description of Gustave Morin's collage poem and the praise for its craftsmanship. There is a sense of admiration and excitement conveyed through the language used, indicating these emotions.
+
+Using the emotion vector format, the intensity of the emotions in the text can be represented as follows:
+
+[Awe: 0.8, Anticipation: 0.7, Happiness: 0, Sadness: 0, Fear: 0, Disgust: 0, Anger: 0, Surprise: 0, Trust: 0, Distrust: 0, Love: 0, Saudade: 0, Bittersweetness: 0, Melancholy: 0, Nostalgia: 0]

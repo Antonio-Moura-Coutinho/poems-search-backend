@@ -1,0 +1,9 @@
+The emotional vector for the provided text is:
+[0, 0, 0, 0, 0.5, 0, 0, 0, 0.5, 0, 0, 0, 0.5, 0, 0].
+
+Explanation:
+- Anger: Shows up through the description of the father's behavior, particularly when he tells a big lie and slaps the narrator.
+- Distrust: There is an element of mistrust or dishonesty between the father and the narrator, evident in the lie the father tells.
+- Love: Despite the negative interactions, there is a sense of love or bonding between the narrator and their father, especially in the shared experience of preparing and cooking the fish together.
+- Bittersweetness: The overall tone of the text carries a bittersweet quality, combining elements of joy and melancholy, as seen in the interaction between the narrator and their father.
+- Melancholy: There is a sense of melancholy in the nostalgic retelling of the memory, creating a slightly somber undertone.

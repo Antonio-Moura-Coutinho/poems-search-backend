@@ -1,0 +1,16 @@
+Emotion Vector: [0.1, 0.1, 0.25, 0.1, 0.05, 0.2, 0.2, 0.1, 0.05, 0, 0.05, 0.15, 0.15, 0.15] 
+
+Explanation:
+- Happiness: 0.1 (Mild sense of amusement and imagination)
+- Sadness: 0.1 (Reflective tone, but not overtly sad)
+- Fear: 0.25 (Imagining scenarios involving dangerous animals)
+- Disgust: 0.1 (Mild disgust towards the idea of someone cutting down a cherry tree)
+- Anger: 0.05 (Lack of strong anger expressed)
+- Surprise: 0.2 (Surprise at the imaginative scenarios presented)
+- Anticipation: 0.2 (Anticipation in wondering about the truth behind George's words)
+- Trust: 0.1 (Trust in the perceived innocence of George's statement)
+- Distrust: 0.05 (Slight doubt about the truthfulness of George's statement)
+- Love: 0 (No explicit expressions of love in the text)
+- Saudade: 0.05 (Slight sense of longing or melancholy)
+- Awe: 0.15 (Awe in the fantastical scenarios being imagined)
+- Bittersweetness

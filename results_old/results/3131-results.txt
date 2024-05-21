@@ -1,0 +1,18 @@
+Based on the text provided, the emotional content can be analyzed as follows:
+- Sadness: The text portrays a deep sense of sadness and despair, with references to loss, grief, and suffering.
+- Fear: There is an undercurrent of fear and distress evident in the imagery and intensity of the bleeding heart symbolizing pain and anguish.
+- Disgust: The text does not explicitly show disgust.
+- Anger: While there is no direct anger expressed, the intense emotions and raw imagery could evoke feelings of anger in the reader.
+- Surprise: There is no element of surprise in the text.
+- Anticipation: There is no sense of anticipation.
+- Trust: The text does not convey trust.
+- Distrust: The text does not display distrust.
+- Love: The mention of bleeding for others and the emotional depth could be interpreted as a form of love or empathy.
+- Saudade: The text hints at a sense of longing or nostalgia, especially through references to irreproducible moments and loss.
+- Awe: The intense emotions and vivid imagery could evoke a sense of awe in the reader.
+- Bittersweetness: The text carries a bittersweet quality through the juxtaposition of pain and beauty.
+- Melancholy: The overall tone of the text is melancholic and sorrowful.
+- Nostalgia: There is a hint of nostalgia through the reflections on past grief and loss.
+
+The emotion vector for the text could be:
+[0, 0

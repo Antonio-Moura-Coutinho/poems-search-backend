@@ -1,0 +1,5 @@
+The emotional content of the text is primarily focused on sadness, fear, and anticipation, with elements of trust and hope present. The emotions are detailed in the vector below:
+
+[0, 0.45, 0.35, 0, 0, 0, 0.25, 0.4, 0, 0.25, 0, 0, 0, 0, 0]
+
+This vector is a representation of the varying intensities of different emotions expressed in the text.

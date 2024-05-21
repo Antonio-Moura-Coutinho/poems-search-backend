@@ -1,0 +1,9 @@
+Based on the text provided, the emotional content can be analyzed as follows:
+
+- Sadness: The text conveys a sense of loss and destruction, reflecting a feeling of sadness.
+- Disgust: The imagery of broken plates and smashed objects can evoke a sense of distaste or revulsion.
+- Anger: The act of breaking the plates can be associated with anger or frustration.
+
+Emotion vector: [0, 0.7, 0, 0.5, 0.5, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+In this vector, sadness and anger are prominent emotions, while disgust is moderately represented in the emotional content of the text.

@@ -1,0 +1,11 @@
+To analyze the emotional content of the text, I will look for keywords and phrases that indicate various emotions. Based on the text provided, I will generate an emotion vector representing the intensity of each emotion for the given emotions: Happiness, Sadness, Fear, Disgust, Anger, Surprise, Anticipation, Trust, Distrust, Love, Saudade, Awe, Bittersweetness, Melancholy, Nostalgia.
+
+Here is the emotional vector for the text:
+[0.7, 0.4, 0.2, 0, 0, 0, 0.6, 0.3, 0, 0, 0, 0, 0, 0.5, 0]
+
+Explanation:
+- Happiness: The speaker expresses a desire for a good time today and refers to wonderful things and fun, indicating a sense of happiness. 
+- Sadness: The speaker's descriptions of a rough, untended backyard, and the mention of a sick rose suggest a degree of sadness about their current situation.
+- Fear: There are indications of fear regarding potential negative futures for characters like Johnnie Mae and George, although this fear is not a dominant emotion in the text.
+- Anticipation: The desire to see the back yard and explore down the alley reflects a sense of anticipation for new experiences.
+- Trust: The speaker seems to trust their own judgement and express positivity despite the negative predictions made about others.

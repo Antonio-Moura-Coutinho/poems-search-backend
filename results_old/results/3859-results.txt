@@ -1,0 +1,10 @@
+The emotional vector for the provided text is as follows: [0.1, 0.4, 0.3, 0.3, 0.4, 0.1, 0.2, 0.2, 0.4, 0.1, 0, 0.1, 0.4, 0.4, 0.2].
+
+Explanation:
+- Happiness: 0.1 - There are elements of nostalgia and introspection in the text, but overall, the tone is not significantly happy.
+- Sadness: 0.4 - The text contains a sense of melancholy, reminiscence, and a somewhat somber reflection on past experiences.
+- Fear: 0.3 - There is a sense of unease and apprehension, particularly in the references to burning, obsolescence, and being stuck with certain duties.
+- Disgust: 0.3 - The text includes references that may evoke feelings of disgust, such as dampness, swollen books, and soggy seams.
+- Anger: 0.4 - There are elements of frustration and resentment in the text, especially in the reflection on unequal roles and relationships.
+- Surprise: 0.1 - There are no explicit surprises or unexpected twists in the text.
+- Anticipation: 0.2 - There is a mild sense of anticipation in the descriptions of building and burning structures, but it is not a dominant

@@ -1,0 +1,10 @@
+To analyze the emotional content of the text, we can identify the following emotions:
+
+- Happiness: The excitement of catching the first steelhead and the joy of the moment are evident.
+- Fear: There's a sense of fear or tension when the fish is being caught and treated roughly.
+- Trust: Trust is present in the guidance from the narrator's father or guide.
+- Disgust: There's a hint of disgust in the description of how the fish is handled.
+
+Based on the analysis, the emotion vector for the text could be:
+
+[Happiness: 0.6, Sadness: 0, Fear: 0.4, Disgust: 0.2, Anger: 0, Surprise: 0, Anticipation: 0, Trust: 0.5, Distrut: 0, Love: 0, Saudade: 0, Awe: 0, Bittersweetness: 0, Melancholy: 0, Nostalgia: 0]

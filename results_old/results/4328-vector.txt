@@ -1,0 +1,1 @@
+['Sadness: 0.6', ' Fear: 0.4', ' Anger: 0.5', ' Trust: 0.7', ' Love: 0.6', ' Survival: 0.3', ' Defiance: 0.4', ' Resilience: 0.5', ' Connection: 0.6', ' Solidarity: 0.5']

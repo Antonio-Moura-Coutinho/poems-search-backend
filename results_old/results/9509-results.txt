@@ -1,0 +1,18 @@
+Emotion Vector: [0, 0.4, 0.2, 0, 0, 0.3, 0.2, 0, 0, 0.2, 0, 0.3, 0.4, 0]
+
+Explanation:
+- Happiness: 0
+- Sadness: 0.4 (references to shadows, smoldering, something lethal)
+- Fear: 0.2 (fear of the shadow knowing and flinching, light it lacks)
+- Disgust: 0
+- Anger: 0
+- Surprise: 0.3 (shadow flinching and looping, skitter down)
+- Anticipation: 0.2 (waiting for the shadow to return)
+- Trust: 0
+- Distrust: 0
+- Love: 0.2 (sweet and lethal breath, sleeping dark-haired girl)
+- Saudade: 0
+- Awe: 0.3 (description of nature and shadows)
+- Bittersweetness: 0.4 (descriptions of smoldering, something lethal, continual thrall)
+- Melancholy: 0.4 (references to shadows, something lethal, and the dark-haired girl)
+- Nostalgia: 0

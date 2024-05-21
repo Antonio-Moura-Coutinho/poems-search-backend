@@ -1,0 +1,5 @@
+Analyzing the emotional content of the text, I would assign the emotion vector as follows:
+
+[Happiness: 0, Sadness: 0.1, Fear: 0.3, Disgust: 0.2, Anger: 0.2, Surprise: 0, Anticipation: 0.1, Trust: 0.2, Distrust: 0.4, Love: 0, Saudade: 0, Awe: 0, Bittersweetness: 0.1, Melancholy: 0.2, Nostalgia: 0]
+
+The text expresses a sense of unease, distrust, and uncertainty ("they say," "whisper white lies," "iffy"). The mention of false promises, dead, and uncertainty contributes to feelings of fear, disgust, anger, and melancholy. There is also an element of anticipation in the text regarding what is believed or witnessed. There are subtle hints of sadness and bittersweetness as well in the tone.

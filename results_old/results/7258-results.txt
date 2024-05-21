@@ -1,0 +1,27 @@
+To analyze the emotional content of the text and create an emotion vector, I will extract the emotional tones present in the text:
+
+Happiness: The text contains expressions of longing and admiration, but there is also a sense of unrequited love and longing, which may diminish the overall feeling of happiness.
+
+Sadness: There are themes of unfulfilled love, longing, and a sense of yearning present throughout the text, indicating a moderate level of sadness.
+
+Fear: There is no explicit mention of fear in the text.
+
+Disgust: There is no expression of disgust in the text.
+
+Anger: The text does not show explicit anger but hints at disappointment and frustration due to unrequited love.
+
+Surprise: There is no element of surprise in the text.
+
+Anticipation: The text conveys a sense of anticipation or hope for reciprocated feelings, albeit tinged with uncertainty.
+
+Trust: The text conveys a sense of admiration and trust in the beloved's purity and goodness.
+
+Distrust: There is no indication of distrust in the text.
+
+Love: The text is filled with declarations of love and longing, reflecting a strong presence of love.
+
+Saudade: The text contains elements of longing and yearning, reflecting a sense of saudade.
+
+Awe: There is a sense of awe and admiration expressed towards the beloved in the text.
+
+Bittersweetness: The text conveys a mixture of sweetness in the admiration for the beloved but also bitterness in the un

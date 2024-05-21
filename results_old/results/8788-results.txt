@@ -1,0 +1,1 @@
+After analyzing the emotional content of the text, the emotion vector is as follows: [0.3, 0.5, 0.2, 0, 0, 0, 0.4, 0.4, 0, 0.3, 0, 0, 0, 0.5, 0]. The text conveys a sense of sadness, trust, anticipation, love, and nostalgia.

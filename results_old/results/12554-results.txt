@@ -1,0 +1,3 @@
+The emotional content of the text includes themes of sadness, grief, remorse, regret, and love. The intensity of these emotions can be represented in the following emotion vector: [0, 0.9, 0, 0, 0, 0, 0, 0.6, 0, 0.8, 0, 0, 0.9, 0].
+
+This vector indicates a high intensity of sadness, grief, trust, love, and bittersweetness in the text. The characters experience deep sorrow, regret, and a sense of loss, especially in Rustum's realization of his actions and the tragic end of his son, Sohrab. Love is also a prominent emotion, particularly expressed through Sohrab's desire for peace, understanding, and a connection with his father.

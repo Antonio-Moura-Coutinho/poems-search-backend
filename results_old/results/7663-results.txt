@@ -1,0 +1,6 @@
+The emotional content of the text "MODERN MACHINERY" suggests a mix of emotions such as Anticipation, Trust, Awe, and perhaps a hint of Fear regarding the power and capability of machinery. There is a sense of wonder and admiration for the abilities of machinery and what they can accomplish. The text also conveys the idea of humans being in control of these machines but also being at their mercy if not handled properly.
+
+Based on this analysis, the emotion vector for the text can be as follows:
+[0, 0.2, 0.1, 0, 0, 0, 0.2, 0.3, 0, 0, 0, 0.3, 0, 0]
+
+This vector indicates a higher intensity of Trust, Awe, Bittersweetness, and a moderate level of Anticipation. Other emotions like Fear, Sadness, and Anger are not as prominent in this context.

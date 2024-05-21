@@ -1,0 +1,5 @@
+The text conveys primarily feelings of love, tenderness, and joy towards the little brown baby. There is a sense of playfulness and protectiveness exhibited by the speaker. Based on the emotional content of the text, the emotion vector could be:
+
+[0.2, 0, 0, 0, 0, 0, 0, 0.8, 0, 0.8, 0, 0, 0, 0, 0]
+
+This vector indicates a high level of Trust and Love, with some mild Happiness.

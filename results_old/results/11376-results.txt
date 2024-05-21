@@ -1,0 +1,1 @@
+The emotional content of the text includes elements of Love, Trust, Anticipation, Awe, and a touch of Fear. The intensity of each emotion can be represented with the following emotion vector: [0.4, 0, 0.2, 0, 0, 0, 0.3, 0.4, 0, 0.4, 0, 0.3, 0, 0].

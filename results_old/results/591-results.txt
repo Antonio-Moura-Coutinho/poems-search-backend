@@ -1,0 +1,9 @@
+Emotion Vector: [0, 0.7, 0.5, 0.7, 0.4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+Explanation:
+- Sadness (0.7): The text reflects a deep sense of sadness and grief throughout, emphasizing loss and suffering.
+- Fear (0.5): There is an element of fear or unease in the description, especially when talking about building a house from suffering and the bitter hinges.
+- Disgust (0.7): The use of imagery like bitterness, hospital smell, and suffering evokes a strong feeling of disgust.
+- Anger (0.4): The tone carries some underlying anger or frustration, particularly in the lines questioning the futility of building a house from suffering.
+- Surprise (0): There are no elements of surprise detected in the text or unexpected emotions.
+- Other emotions (0): There are no indications of anticipation, trust, distrust, love, saudade, awe, bittersweetness, melancholy, or nostalgia in the text.

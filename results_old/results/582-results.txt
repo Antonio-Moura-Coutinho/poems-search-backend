@@ -1,0 +1,5 @@
+Analyzing the emotional content of the text, the following emotion vector is obtained:
+
+[Happiness: 0, Sadness: 0.8, Fear: 0, Disgust: 0, Anger: 0.2, Surprise: 0, Anticipation: 0, Trust: 0, Distrust: 0, Love: 0, Saudade: 0, Awe: 0, Bittersweetness: 0.8, Melancholy: 0.9, Nostalgia: 0.8]
+
+The text expresses strong feelings of sadness, bittersweetness, melancholy, and nostalgia towards the subject of the speaker's father and the emotions associated with death and loss. There is a touch of anger in the depiction of the father's suffering and the speaker's emotional response.

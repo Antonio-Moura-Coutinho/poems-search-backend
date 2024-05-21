@@ -1,0 +1,21 @@
+Based on the text provided, the emotional content can be analyzed as follows:
+
+- Happiness: 0
+- Sadness: 0
+- Fear: 0
+- Disgust: 0
+- Anger: 0
+- Surprise: 0
+- Anticipation: 0
+- Trust: 0
+- Distrust: 0
+- Love: 0
+- Saudade: 0
+- Awe: 0
+- Bittersweetness: 0
+- Melancholy: 0
+- Nostalgia: 0
+
+The emotional vector for the text is: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+The text is more descriptive and lyrical in nature, focusing on the imagery of Chicago and does not evoke specific emotions strongly.

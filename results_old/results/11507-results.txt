@@ -1,0 +1,4 @@
+Based on the emotional content of the text provided, the emotion vector would be as follows:
+[0, 0.6, 0.8, 0, 0.4, 0.3, 0.5, 0.2, 0.6, 0, 0, 0.7, 0.6, 0.7, 0.3].
+
+This indicates a high level of Sadness, Fear, Distrust, and Melancholy, with moderate levels of Anger, Surprise, Anticipation, and Love. The text conveys a somber and reflective tone, expressing feelings of sorrow, fear, and a sense of distance or distrust.

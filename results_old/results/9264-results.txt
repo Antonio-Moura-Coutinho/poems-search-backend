@@ -1,0 +1,3 @@
+Based on the text provided, the emotional content seems to include elements of Anticipation, Sadness, and a hint of Nostalgia. Below is the emotion vector representing the intensity of each emotion:
+
+[0, 0.3, 0, 0, 0, 0, 0.4, 0, 0, 0, 0, 0, 0, 0.3, 0]

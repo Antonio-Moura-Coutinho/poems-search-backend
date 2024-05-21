@@ -1,0 +1,5 @@
+Based on the text provided, the emotional content can be broken down into the following emotional vector:
+
+[0.1, 0.5, 0.6, 0.4, 0.3, 0.2, 0.5, 0.5, 0.4, 0, 0, 0.4, 0.5, 0.5, 0.4]
+
+This vector indicates a relatively high level of Sadness, Fear, Disgust, and Trust, with moderate levels of Anticipation, Anger, Melancholy, Nostalgia, and Bittersweetness. There are also some elements of Surprise and Distrust. Love, Saudade, Awe, and Happiness are not prominent in this text.

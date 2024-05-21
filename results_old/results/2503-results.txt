@@ -1,0 +1,4 @@
+Analyzing the emotional content of the text, the prominent emotions expressed include Sadness, Awe, Melancholy, Disgust, Anticipation, and Nostalgia.
+
+Here is the emotion vector representing the intensity of each emotion on a scale from 0 to 1:
+[0, 0.6, 0, 0.3, 0, 0, 0.4, 0, 0, 0, 0, 0.6, 0, 0.4, 0]

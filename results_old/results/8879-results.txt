@@ -1,0 +1,5 @@
+To analyze the emotional content of the text and create an emotion vector, it is important to consider the overall tone and the emotions conveyed through the words and context. Here is the emotion vector based on the text you provided:
+
+[Happiness: 0, Sadness: 0.6, Fear: 0.7, Disgust: 0.6, Anger: 0.4, Surprise: 0, Anticipation: 0.4, Trust: 0, Distrust: 0.5, Love: 0, Saudade: 0, Awe: 0, Bittersweetness: 0.5, Melancholy: 0.7, Nostalgia: 0.2]
+
+The text conveys strong emotions of fear, sadness, and disgust. The fear is depicted through the description of sinking in wheat and the consequences. Sadness and melancholy are expressed through the idea of hard work with no reward and the painful consolidation of time. Disgust is evoked by the description of the chemical smell of treated wheat. There are elements of distrust and bittersweetness as well, coupled with a sense of anticipation and slight anger. The text lacks positive emotions such as happiness, love, or awe, and nostalgia is present to a lesser extent in the feeling of missing out on past joy.

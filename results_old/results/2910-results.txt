@@ -1,0 +1,11 @@
+To analyze the emotional content of the given text and create an emotion vector, we can break down the emotions expressed in the text. Here is an emotion vector representing the intensity of each emotion in the text:
+
+[Happiness: 0, Sadness: 0.7, Fear: 0, Disgust: 0, Anger: 0, Surprise: 0, Anticipation: 0, Trust: 0.5, Distrust: 0, Love: 0, Saudade: 0, Awe: 0, Bittersweetness: 0, Melancholy: 0.5, Nostalgia: 0]
+
+Explanation:
+
+- Sadness (0.7): The text conveys a sense of sadness through the line "my mother said I know my daughter would never want to marry."
+- Trust (0.5): There is an element of trust expressed in the line "my mother said I know my daughter," indicating a level of confidence or belief.
+- Other emotions like Happiness, Fear, Disgust, Anger, Surprise, Anticipation, Distrust, Love, Saudade, Awe, Bittersweetness, Melancholy, and Nostalgia are not prominent or evident in the text, hence they have been rated as 0.
+
+Feel free to ask if you need further assistance or more detailed emotional analysis.

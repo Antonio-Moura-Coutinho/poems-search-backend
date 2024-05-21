@@ -1,0 +1,19 @@
+The emotional content of the text seems to evoke the following emotions:
+
+- Happiness: 0.1
+- Sadness: 0.1
+- Fear: 0.3
+- Disgust: 0.1
+- Anger: 0.3
+- Surprise: 0.1
+- Anticipation: 0.1
+- Trust: 0
+- Distrust: 0.2
+- Love: 0
+- Saudade: 0
+- Awe: 0
+- Bittersweetness: 0
+- Melancholy: 0.3
+- Nostalgia: 0
+
+Emotion vector: [0.1, 0.1, 0.3, 0.1, 0.3, 0.1, 0.1, 0, 0.2, 0, 0, 0, 0, 0.3, 0]

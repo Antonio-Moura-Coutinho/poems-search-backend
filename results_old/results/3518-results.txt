@@ -1,0 +1,9 @@
+To analyze the emotional content of the text provided, we can observe the presence of various emotions:
+
+- Sadness: The speaker expresses sadness and disappointment at broken promises and feeling let down.
+- Disgust: There is a sense of disgust towards the situation of being overtaken by "base clouds."
+- Distrust: The speaker's trust seems to be broken, leading to feelings of distrust.
+- Love: Despite the negative emotions expressed, there is a mention of tears shed out of love.
+
+Based on the emotions identified in the text, the emotion vector could be represented as follows:
+[0, 0.6, 0, 0.4, 0, 0, 0, 0.2, 0.4, 0.3, 0, 0, 0, 0.3, 0]

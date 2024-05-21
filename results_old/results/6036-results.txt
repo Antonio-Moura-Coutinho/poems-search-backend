@@ -1,0 +1,5 @@
+Based on the emotional content of the text, here is the emotion vector:
+
+[0, 0.6, 0.4, 0.4, 0, 0, 0.4, 0, 0, 0, 0, 0, 0.4, 0.6, 0.4]
+
+This text primarily evokes emotions of Sadness, Disgust, Anticipation, Melancholy, and Nostalgia.

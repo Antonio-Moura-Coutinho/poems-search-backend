@@ -1,0 +1,12 @@
+To analyze the emotional content of the text, we can break down the text and identify the emotions evoked by each line:
+
+1. "Swimming in the swimming pool" - Anticipation, Joy (Happiness)
+2. "is where I like to “B,”" - Contentment, Satisfaction (Trust)
+3. "wearing underwater goggles" - Adventurous (Anticipation)
+4. "so that I can “C.”" - Curiosity (Anticipation)
+5. "Yesterday, before I swam," - Nostalgia
+6. "I drank a cup of “T.”" - Comfort (Trust)
+7. "Now the pool’s a “swimming ool”" - Playful (Joy, Surprise)
+8. "because I took a “P.”" - Mischievous (Surprise, Playfulness)
+
+The emotional vector for the text could be: [0.4, 0, 0, 0, 0, 0.3, 0.4, 0.3, 0, 0, 0, 0, 0, 0.2, 0.2]

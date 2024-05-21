@@ -1,0 +1,3 @@
+The emotional content of the text leans towards themes of nature, growth, and new beginnings. The emotions expressed include Anticipation, Trust, and possibly a hint of Joy or Happiness. 
+
+Emotion Vector: [0.3, 0, 0, 0, 0, 0, 0.4, 0.4, 0, 0, 0, 0, 0, 0, 0]

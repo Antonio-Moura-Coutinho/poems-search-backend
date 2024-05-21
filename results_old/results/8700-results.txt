@@ -1,0 +1,8 @@
+To analyze the emotional content of the text, we can detect the following emotions:
+
+Happiness: The text conveys a sense of joy and affection through the actions and gestures described between the two individuals. [0.6]
+Trust: There is a strong element of trust, as evidenced by the mutual responses and signals exchanged in the interaction. [0.7]
+Love: The text clearly indicates feelings of love through the gestures of blowing kisses and mouthing "I love you." [0.8]
+Anticipation: There is a sense of anticipation as the individuals communicate and move in sync, indicating an upcoming meet at the next exit. [0.4]
+Awe: The text describes the interaction in a poetic and beautiful manner, invoking a sense of wonder and admiration. [0.3]
+The emotion vector for the given text would be: [0.6, 0, 0, 0, 0, 0, 0.4, 0.7, 0, 0.8, 0, 0.3, 0, 0]

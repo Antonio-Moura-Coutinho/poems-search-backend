@@ -1,0 +1,5 @@
+This text doesn't convey strong emotional content, but here is an emotion vector based on the small hints of emotion present:
+
+[0.1, 0.1, 0.2, 0.2, 0.1, 0.1, 0.2, 0.2, 0.1, 0, 0, 0, 0, 0.1, 0]
+
+The text contains elements of fear, disgust, anticipation, trust, and nostalgia to a small extent.

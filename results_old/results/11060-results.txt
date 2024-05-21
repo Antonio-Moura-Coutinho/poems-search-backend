@@ -1,0 +1,9 @@
+To analyze the emotional content of the text, we can identify the following emotions:
+
+- Sadness: The text conveys a sense of lament or regret as the narrator reflects on the actions and choices of their grandfathers in contrast to their own behavior. There is a somber tone expressed in lines such as "their past was still the present and the present a dread future's" and "I am private as an animal."
+
+- Trust: There is a strong sense of loyalty and commitment expressed towards Judah, as the narrator vows to fast, watch, speak in psalms, and feast for Judah. This conveys a feeling of trust towards the subject of Judah.
+
+- Anticipation: The text hints at a sense of anticipation as the narrator prepares to make changes in their behavior, such as learning to fast and watch, and committing to certain actions in the future like speaking in psalms and feasting on specific foods.
+
+Based on the analysis, the emotion vector for the text could be: [0, 0.5, 0, 0, 0, 0, 0.3, 0.6, 0, 0, 0, 0, 0, 0]. This vector reflects the predominant emotions of Sadness and Trust, with a lesser degree of Anticipation.

@@ -1,0 +1,5 @@
+Analyzing the emotional content of the text, we can infer the following emotion vector:
+
+[0.1, 0.4, 0.3, 0.2, 0, 0, 0.1, 0.2, 0, 0, 0, 0, 0, 0.3, 0]
+
+This indicates a moderate level of sadness, fear, and disgust, along with a slight sense of anticipation, trust, and nostalgia.

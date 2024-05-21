@@ -1,0 +1,10 @@
+To analyze the emotional content of the text and provide an emotion vector, let's examine the emotions conveyed:
+
+- Sadness: The text conveys a somber tone through the imagery of jacketless men in mid-winter, the reference to war, and the poet's friend in Baghdad who is a "witness for peace." (0.7)
+- Disgust: There is a hint of disgust in the description of the men crossing the street through slush and gutter, with their cuffs blued with salt. (0.3)
+- Anticipation: The anticipation of the upcoming vote for war is subtly implied in the men casting their votes like stones. (0.1)
+- Trust: There is a sense of trust and camaraderie in the act of writing to a friend in Baghdad and sharing thoughts on poetry. (0.2)
+- Love: The mention of the poet's friend in Baghdad indicates a deep connection and concern, hinting at a form of love. (0.3)
+- Awe: There is a sense of awe in the contemplation of poetry as a salt dug from a foreign mine, suggesting reverence for the power and significance of poetry. (0.4)
+- Melancholy: The overall mood of the text evokes a melancholic feeling through reflections on war, peace, and the poet's contemplation of poetry's role. (0.6)
+- Nostalgia: The poet's musings on the nature of

@@ -1,0 +1,3 @@
+This text conveys a mix of emotions, including nostalgia, melancholy, love, sadness, and a hint of bittersweetness. Here is the emotion vector based on the intensity of each emotion present:
+
+[0.1, 0.4, 0, 0, 0, 0, 0, 0.4, 0, 0.3, 0, 0, 0.2, 0.3, 0.4]

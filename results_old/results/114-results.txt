@@ -1,0 +1,1 @@
+Based on the emotional content of the text, the emotion vector could look like this: [0.15, 0.55, 0.6, 0.3, 0.65, 0, 0.2, 0, 0.3, 0, 0, 0.4, 0.6, 0.6, 0].

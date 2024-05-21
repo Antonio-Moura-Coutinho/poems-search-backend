@@ -1,0 +1,10 @@
+The emotional vector for the provided text is:
+
+[0, 0.7, 0.9, 0, 0, 0, 0, 0.1, 0, 0, 0, 0, 0.8, 0.6, 0.8]
+
+Explanation:
+- Sadness: The text predominantly conveys a deep sense of sadness, with mentions of death and grief throughout.
+- Fear: There is a strong undercurrent of fear, likely stemming from the traumatic events described.
+- Trust: A small sense of trust is depicted through the care the protagonist shows towards their wife (washing her hair) despite the difficult circumstances.
+- Melancholy: The text evokes a strong feeling of melancholy, particularly in the scene where the wife lifts Tony's body.
+- Nostalgia: Nostalgia is present as the protagonist uses his brother's shampoo while washing Sonya's hair, invoking memories of the deceased brother.

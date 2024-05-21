@@ -1,0 +1,5 @@
+Based on the text provided, here is the emotion vector:
+
+[Happiness: 0, Sadness: 0.4, Fear: 0, Disgust: 0, Anger: 0, Surprise: 0, Anticipation: 0.1, Trust: 0.2, Distrust: 0, Love: 0, Saudade: 0, Awe: 0, Bittersweetness: 0.3, Melancholy: 0.5, Nostalgia: 0.4]
+
+The text conveys a sense of sadness and melancholy as Little Bo-Peep has lost her sheep and feels a deep emotional response when she finds their tails but not the sheep themselves. There are elements of anticipation in her search for the sheep and trust in her role as a shepherdess. The overall tone is bittersweet, nostalgic, and slightly melancholic.

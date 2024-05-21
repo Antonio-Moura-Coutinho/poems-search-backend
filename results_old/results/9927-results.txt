@@ -1,0 +1,3 @@
+Based on the text provided, the emotional content seems to include elements of Disgust, Anger, Distrust, and a touch of Sadness. The overall tone conveys a sense of societal division, judgment, and inequality, which bring about feelings of disapproval and resentment. 
+
+Emotion Vector: [0, 0.2, 0, 0.4, 0.4, 0, 0, 0, 0.3, 0, 0, 0, 0, 0]

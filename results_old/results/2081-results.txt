@@ -1,0 +1,9 @@
+Based on the text provided, the emotional content seems to primarily involve introspection, contemplation of mortality, and a sense of acceptance. There are elements of transcendence and reflection on the impermanence of life. The emotions conveyed include:
+
+- Sadness: There is a tone of melancholy and reflection on the transient nature of life, evident in phrases such as "to sever the good fellowship of dust" and "That flesh is but the glass, which holds the dust."
+- Anticipation: The text includes a sense of anticipation, particularly in the lines "What shall point out them, When they shall bow, and kneel, and fall down flat To kiss those heaps."
+- Trust: There is a theme of trust in the process of life and death, letting go of the physical body to learn and understand one's true nature.
+
+Based on this analysis, the emotion vector for the text could be:
+
+[0, 0.5, 0, 0, 0, 0, 0.2, 0.4, 0, 0, 0, 0, 0.3, 0]

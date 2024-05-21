@@ -1,0 +1,8 @@
+To analyze the emotional content of the text provided, we can identify the following emotions:
+
+- Hope/Anticipation: The text speaks of not giving up in the face of failure and continuing to strive for a goal, portraying a sense of anticipation and hope.
+- Resilience/Trust: There is a theme of resilience and trust in oneself despite challenges and setbacks.
+
+Based on the emotional content analysis, the emotion vector for the text can be represented as [0.3, 0, 0, 0, 0, 0, 0.2, 0.3, 0, 0, 0, 0, 0, 0, 0].
+
+This vector indicates a moderate level of anticipation/hope and trust, with no significant expression of other emotions from the provided list.

@@ -1,0 +1,16 @@
+Based on the emotional content of the text, the emotion vector would look like this: [0.15, 0.4, 0.3, 0.1, 0.4, 0.15, 0.2, 0.25, 0.2, 0, 0, 0.1, 0.4, 0.35, 0.3].
+
+Explanation:
+- Happiness: 0.15 (Some elements of calmness and tranquility in the text)
+- Sadness: 0.4 (Major theme of sadness, pain, and death in the text)
+- Fear: 0.3 (Feelings of fear and darkness are present)
+- Disgust: 0.1 (Slight hints of unpleasantness)
+- Anger: 0.4 (Mentions of pain and suffering evoke anger)
+- Surprise: 0.15 (Some unexpected elements in the text)
+- Anticipation: 0.2 (Anticipation of death and the unknown)
+- Trust: 0.25 (Some trust in the support of others)
+- Distrust: 0.2 (Some distrust towards death)
+- Love: 0 (No explicit expressions of love)
+- Saudade: 0 (No explicit expressions of longing or nostalgia)
+- Awe: 0.1 (Some moments evoke awe)
+- Bittersweetness: 0.4 (Themes

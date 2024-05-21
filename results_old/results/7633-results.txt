@@ -1,0 +1,2 @@
+This text contains emotions of sadness, nostalgia, and a hint of melancholy. The emotion vector for this text could be:
+[0, 0.6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0.6, 0]

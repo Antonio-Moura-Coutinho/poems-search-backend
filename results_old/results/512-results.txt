@@ -1,0 +1,14 @@
+Emotion vector: [0, 0.7, 0.5, 0.8, 0, 0.4, 0, 0.2, 0.8, 0, 0.6, 0.5, 0.6, 0.7, 0.7]
+
+Explanation:
+- Happiness: 0 (There is a lack of positive emotions like joy or happiness in the text)
+- Sadness: 0.7 (The text expresses a deep sense of sadness, lamentation, and desolation)
+- Fear: 0.5 (There are elements of fear and uncertainty, especially with references to ancestral demons and luck)
+- Disgust: 0.8 (The text portrays disgust in the descriptions of dirty living conditions and unpalatable food)
+- Anger: 0 (There is no explicit anger in the text)
+- Surprise: 0.4 (There is an element of surprise in the unconventional and unexpected imagery used in the text)
+- Anticipation: 0 (There is no clear sense of anticipation for future events)
+- Trust: 0.2 (There is little trust or security depicted in the text)
+- Distrust: 0.8 (There is a strong sense of distrust, especially in the unsuccessful search for luck and the feeling of being let down)
+- Love: 0 (The text does not convey feelings of love)
+- Saudade

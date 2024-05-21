@@ -1,0 +1,3 @@
+The emotional content analysis of the text suggests the following emotion vector: [0, 0.9, 0.9, 0.7, 0.4, 0.3, 0, 0, 0, 0, 0, 0.6, 0.6, 0.8, 0]. 
+
+This analysis is based on the strong presence of emotions such as sadness, fear, disgust, and a bit of anger and bittersweetness conveyed in the text.

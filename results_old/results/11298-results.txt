@@ -1,0 +1,5 @@
+The emotional vector for the provided text is as follows: 
+
+[0.2, 0.5, 0.1, 0, 0, 0, 0.2, 0.3, 0, 0, 0, 0.1, 0.1, 0.1, 0]
+
+This indicates a predominance of sadness and trust in the text, with some elements of anticipation, happiness, bittersweetness, melancholy, and nostalgia. Fear, disgust, anger, surprise, distrust, love, saudade, and awe are not significantly present in the text.

@@ -1,0 +1,12 @@
+Analyzing the emotional content of the text, the following emotions can be identified:
+
+- Sadness
+- Longing
+- Melancholy
+- Nostalgia
+- Anticipation
+- Fear
+
+Considering the intensity of each emotion in the text, the emotion vector could be:
+
+[0, 0.4, 0.2, 0, 0, 0, 0.2, 0, 0, 0, 0, 0, 0, 0.4, 0.3]

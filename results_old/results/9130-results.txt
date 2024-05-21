@@ -1,0 +1,13 @@
+Emotion vector: [0, 0.7, 0.6, 0.8, 0.7, 0, 0.6, 0, 0.9, 0.8, 0, 0.7, 0.7, 0.7, 0] 
+
+Explanation:
+- Happiness: 0 (There is a lack of positive emotions like happiness in the text)
+- Sadness: 0.7 (The text conveys feelings of sadness through references to past glory, pain, loss of pleasure)
+- Fear: 0.6 (Expressions of fear and concern are present in the text, especially in relation to the battles and potential consequences)
+- Disgust: 0.8 (Strong feelings of disgust are depicted, particularly towards moral restrictions and boring routines)
+- Anger: 0.7 (The text exudes anger towards constraints, desire for rebellion, and reminisces about past daring actions)
+- Surprise: 0 (No explicit surprises mentioned in the text)
+- Anticipation: 0.6 (There is anticipation and longing for mischief and excitement)
+- Trust: 0 (Trust is not a prominent emotion in this text)
+- Distrust: 0.9 (Distrust is high, manifested in defiance towards moral norms and societal expectations)
+- Love: 0.8 (Love is portrayed in a complex and unconventional way, intertwined with lust and rebellion

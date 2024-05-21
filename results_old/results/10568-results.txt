@@ -1,0 +1,16 @@
+Emotion vector: [0.1, 0.4, 0.3, 0.6, 0.5, 0.4, 0.3, 0.1, 0.7, 0, 0, 0, 0.6, 0.4, 0.5]
+
+Analysis:
+
+
+- Happiness: 0.1 (Low happiness as the tone of the text is more on the negative side)
+- Sadness: 0.4 (Moderate sadness as there is a sense of rejection or disapproval in the text)
+- Fear: 0.3 (Some fear may be present due to the feedback from the parents)
+- Disgust: 0.6 (High disgust as the act of sucking the thumb then putting it in the nose is portrayed negatively)
+- Anger: 0.5 (Moderate anger can be inferred from the rebellious behavior described in the text)
+- Surprise: 0.4 (Some surprise at the unexpected reaction of the parents)
+- Anticipation: 0.3 (Some anticipation about the outcome of the behavior)
+- Trust: 0.1 (Low trust as there seems to be a lack of trust in the parents' judgment)
+- Distrust: 0.7 (High distrust as the child is going against the parents' advice)
+- Love: 0 (No explicit expression of love in the text)
+- Saud

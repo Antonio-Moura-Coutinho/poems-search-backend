@@ -1,0 +1,10 @@
+Based on the text provided, the emotional content can be analyzed as follows:
+
+- Sadness: The text contains feelings of melancholy and a sense of the passage of time and loss, as reflected in lines such as "thy lovers withering, as thy sweet self grow’st."
+- Fear: There is a sense of fear or apprehension towards the passage of time and mortality, as indicated by the lines "Yet fear her, O thou minion of her pleasure."
+- Anticipation: The text also contains an element of anticipation or expectation, particularly related to the inevitability of facing one's destiny or audit, highlighted by the lines "Her audit, though delayed, answered must be."
+
+Based on this analysis, the emotion vector for the provided text could be represented as follows:
+[0, 0.4, 0.3, 0, 0, 0, 0.2, 0, 0, 0, 0, 0, 0, 0.3, 0]
+
+Please note that emotional analysis can be subjective, and different interpretations may lead to slightly varying emotion vectors.

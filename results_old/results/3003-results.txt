@@ -1,0 +1,5 @@
+The emotional vector for the provided text is:
+
+[0, 0.65, 0.65, 0.65, 0.3, 0, 0.1, 0, 0.3, 0, 0.2, 0, 0.7, 0.4, 0.3]
+
+This suggests a strong presence of sadness, fear, disgust, bittersweetness, melancholy, and nostalgia in the text. While other emotions such as anger, anticipation, and love are present to a lesser degree. The text evokes a range of complex and deep emotions tied to themes of war, loss, and uncertainty.

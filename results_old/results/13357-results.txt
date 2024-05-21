@@ -1,0 +1,5 @@
+The emotional vector for the provided text is:
+
+[0.15, 0.25, 0.1, 0, 0.1, 0, 0.25, 0.3, 0, 0, 0, 0, 0, 0]
+
+This indicates moderate levels of Sadness (0.25), Anticipation (0.25), Trust (0.3), and a mix of other emotions such as Happiness (0.15), Fear (0.1), Anger (0.1), and Surprise (0).

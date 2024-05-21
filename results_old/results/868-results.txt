@@ -1,0 +1,14 @@
+To analyze the emotional content of the text, we can observe the following emotions:
+
+Happiness: The speaker expresses happiness in the lines "How happy are all other living things" and "Night was ordain'd together friends to keep." (Moderate intensity)
+
+Sadness: The speaker conveys sadness in the lines "Why should you command me to my rest" and "if when night comes you bid me go away." (Low intensity)
+
+Love: The text also contains expressions of love, such as "each returns unto his love at night," conveying a sense of longing and affection. (Moderate intensity)
+
+Anticipation: There is an element of anticipation in the speaker's desire for the night to be everlasting and for their time together to continue. (Low intensity)
+
+Trust: The speaker exhibits trust in the natural order of things and the night itself, despite feeling abused by it. (Low intensity)
+
+The emotion vector based on the analysis would be:
+[Happiness: 0.4, Sadness: 0.2, Fear: 0, Disgust: 0, Anger: 0, Surprise: 0, Anticipation: 0.1, Trust: 0.1, Distrust: 0, Love: 0.3, Saudade: 0, Awe: 0, Bittersweetness: 0, Melancholy: 0, Nostalgia: 0]

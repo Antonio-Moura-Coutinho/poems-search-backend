@@ -1,0 +1,8 @@
+Analyzing the emotional content of the text, we can identify the following emotions present:
+
+- Happiness
+- Love
+- Anticipation
+
+Based on the intensity of these emotions in the text, the emotion vector could be:
+[0.6, 0, 0, 0, 0, 0, 0.7, 0.8, 0, 0.8, 0, 0, 0, 0, 0]

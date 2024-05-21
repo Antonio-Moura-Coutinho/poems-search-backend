@@ -1,0 +1,15 @@
+Based on the text provided, the emotional content can be analyzed as follows:
+
+- Happiness: The description of the woman smiling and walking fast, appearing exuberant and curious, suggests a sense of happiness. (Intensity: 0.6)
+- Sadness: There are no explicit indicators of sadness in the text. (Intensity: 0)
+- Fear: There is no obvious fear expressed in the text. (Intensity: 0)
+- Disgust: No elements of disgust are present. (Intensity: 0)
+- Anger: The text does not convey any anger. (Intensity: 0)
+- Surprise: There are no surprises mentioned. (Intensity: 0)
+- Anticipation: The woman's fast walking and curious actions could imply a sense of anticipation. (Intensity: 0.4)
+- Trust: There is no direct mention of trust. (Intensity: 0)
+- Distrust: There are no hints of distrust. (Intensity: 0)
+- Love: While not explicitly stated, the woman's joyful behavior could be associated with a sense of love or appreciation.  (Intensity: 0.4)
+- Saudade: There are no specific references to longing or nostalgia. (Intensity: 0)
+- Awe: The imagery of light and the woman's vibrant demeanor could evoke a sense of awe.  (Intensity: 0.5)
+- Bittersweetness: The text does not overtly convey bitters

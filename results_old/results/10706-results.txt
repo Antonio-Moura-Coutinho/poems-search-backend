@@ -1,0 +1,5 @@
+Based on the text provided, the emotional content analysis yields the following emotion vector:
+
+[0, 0.6, 0.7, 0, 0.8, 0, 0, 0.3, 0, 0, 0, 0, 0, 0]
+
+This emotion vector highlights a high intensity of emotions such as Sadness, Fear, Anger, and Distrust, indicating a predominance of darker and negative emotions in the text.

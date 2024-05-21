@@ -1,0 +1,18 @@
+[Happiness, Sadness, Fear, Disgust, Anger, Surprise, Anticipation, Trust, Distrust, Love, Saudade, Awe, Bittersweetness, Melancholy, Nostalgia]
+
+Emotion Vector: [0.2, 0.6, 0, 0.5, 0, 0, 0.3, 0, 0, 0, 0, 0, 0.6, 0.4, 0]
+
+Explanation:
+- Happiness: 0.2 (The overall tone is not happy)
+- Sadness: 0.6 (The sadness is predominant in the text with the werewolf crying)
+- Fear: 0 (No clear indication of fear)
+- Disgust: 0.5 (The werewolf's reaction to the Ferris wheel may imply some disgust)
+- Anger: 0 (No clear indication of anger)
+- Surprise: 0 (No clear indication of surprise)
+- Anticipation: 0.3 (Some anticipation in the build-up to the werewolf's reaction)
+- Trust: 0 (No indication of trust)
+- Distrust: 0 (No indication of distrust)
+- Love: 0 (No indication of love)
+- Saudade: 0 (No clear indication of saudade)
+- Awe: 0 (Not a strong sense of awe)
+- Bittersweet

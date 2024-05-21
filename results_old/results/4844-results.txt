@@ -1,0 +1,3 @@
+The text contains a mix of emotions, with elements of nostalgia, melancholy, bittersweetness, trust, and surprise. I will now create the emotion vector based on the intensity of these emotions:
+
+[Nostalgia: 0.5, Melancholy: 0.4, Bittersweetness: 0.3, Trust: 0.3, Surprise: 0.2, Happiness: 0, Sadness: 0, Fear: 0, Disgust: 0, Anger: 0, Anticipation: 0, Distrust: 0, Love: 0, Saudade: 0, Awe: 0]

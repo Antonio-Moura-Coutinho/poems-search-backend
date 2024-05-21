@@ -1,0 +1,5 @@
+The emotional content of the text leans more towards anticipation, uncertainty, and confusion rather than specific intense emotions. Here is the emotion vector based on the text:
+
+[0, 0, 0.5, 0, 0, 0, 0.7, 0.7, 0, 0, 0, 0, 0, 0]
+
+This vector indicates a notable presence of anticipation and trust, with slight elements of fear. The text highlights the anticipation of the arrival of the barbarians, leading to confusion and a sense of waiting.

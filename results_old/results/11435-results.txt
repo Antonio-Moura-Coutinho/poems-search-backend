@@ -1,0 +1,8 @@
+The emotional content of the text is a mix of various emotions including:
+
+- Happiness: Matamore seems to take pride in his abilities and past conquests which could be associated with happiness. (Indicated in the text with lines like: "Before I had the power to suppress My beauty, women gave me much distress" and references to love notes.)
+- Anger: Matamore displays anger and aggression in his boasting and interactions, especially when challenged. (Indicated in the text with lines like: "And drives divisions from the battlefield" and "He isn't brave, this dunce, And yet he's vain, and could be bold for once.")
+- Trust: There is an element of trust mentioned in the text, especially between Matamore and Clindor. (Indicated in the text with lines like: "He isn't brave, this dunce, And yet he's vain, and could be bold for once.")
+- Anticipation: There is an element of anticipation or expectation in the text, particularly in the interactions between characters. (Indicated in the text with lines like: "It balked my plans for conquering the earth.")
+
+Based on the emotional analysis of the text, the emotion vector could be represented as: [0.4, 0, 0, 0, 0.5, 0, 0.2, 0.3, 0, 0, 0, 0, 0,

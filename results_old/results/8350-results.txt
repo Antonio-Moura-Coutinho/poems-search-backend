@@ -1,0 +1,14 @@
+To analyze the emotional content of the text provided, we will look for keywords, phrases, and the overall tone to determine the emotions expressed. Based on the text given, the emotional vector is as follows: [0, 0.7, 0.4, 0.6, 0.6, 0.2, 0.3, 0, 0.6, 0, 0, 0.8, 0.4, 0.6, 0.7].
+
+Explanation:
+- Happiness: The text does not contain expressions of happiness.
+- Sadness: The text conveys a significant amount of sadness, especially with mentions of death and violence.
+- Fear: There are elements of fear present, particularly with the descriptions of gruesome scenes and spirits.
+- Disgust: The text includes descriptions that evoke disgust, such as the sight of blood and violence.
+- Anger: Anger is prominent in the text, indicated by the references to violence, killing, and haunting imagery.
+- Surprise: There are subtle elements of surprise, but they are not a dominant emotion.
+- Anticipation: Some anticipation is present, particularly in the foreboding atmosphere created by the descriptions.
+- Trust: Trust is not a significant emotion portrayed in the text.
+- Distrust: Distrust is implied through the fear and unease depicted in the text.
+- Love: Love is not a prominent emotion expressed in the text.
+-

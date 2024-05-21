@@ -1,0 +1,11 @@
+To analyze the emotional content of the text and create an emotion vector, we can identify the emotions expressed in the text. Based on the text, the emotions present include:
+
+Sadness: The woman beside the narrator sobs while undergoing medical procedures.
+Fear: The woman thrashes while nurses attempt to put a tube down her throat.
+Anticipation: The son of the woman comes after school, indicating an element of anticipation or expectation.
+
+Based on this analysis, the emotion vector for the text could be as follows:
+
+[0, 0.5, 0.3, 0, 0, 0, 0.2, 0, 0, 0, 0, 0, 0, 0]
+
+This vector represents that the text conveys a high level of sadness, a moderate level of fear, and some anticipation.

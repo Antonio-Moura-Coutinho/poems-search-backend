@@ -1,0 +1,5 @@
+Analyzing the emotional content of the text, we can identify emotions such as Anticipation, Trust, Love, and Nostalgia. Here is the emotion vector based on the intensity of each emotion in the text:
+
+[0, 0, 0, 0, 0, 0, 0.3, 0.4, 0, 0.5, 0, 0, 0, 0.4, 0.4]
+
+This vector indicates a significant presence of Trust, Love, and Nostalgia, with some level of Anticipation in the text.

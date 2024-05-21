@@ -1,0 +1,8 @@
+To analyze the emotional content of the provided text, we can identify the following emotions and their intensities:
+
+- Sadness: There is a sense of melancholy and nostalgia in the text due to the mention of family ties and visiting a great-grandma's grave.
+- Surprise: The mention of the Southern tradition of eating dirt may evoke a sense of surprise due to its unusual nature.
+- Disgust: The concept of earth-eating (geophagy) may also evoke a sense of disgust for some readers.
+
+Based on the emotional analysis, the emotion vector for the text could be:
+[0, 0.2, 0, 0.2, 0, 0.2, 0, 0, 0, 0, 0, 0, 0, 0.2, 0.2]

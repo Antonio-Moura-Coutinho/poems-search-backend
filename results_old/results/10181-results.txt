@@ -1,0 +1,7 @@
+Based on the text provided, the emotional content can be analyzed as follows:
+
+Happiness: There is a sense of happiness as the village is flooded with children, indicating a lively and joyful atmosphere.
+Anticipation: The mention of children flooding the village could imply a sense of anticipation or excitement for the upcoming activities or events.
+Surprise: The sudden flood of children could also evoke a sense of surprise or unexpected joy.
+
+Using this analysis, the emotion vector for the text could be: [0.7, 0, 0, 0, 0, 0.5, 0.6, 0, 0, 0, 0, 0, 0, 0, 0].

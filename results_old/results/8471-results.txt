@@ -1,0 +1,23 @@
+This text conveys a mix of emotions with varying intensities. Based on the provided text, the emotional vector can be represented as follows:
+
+[0.1, 0.6, 0.4, 0.3, 0.2, 0.3, 0.2, 0.4, 0.2, 0, 0, 0, 0.4, 0.4, 0.4]
+
+Here's a breakdown of the emotions:
+
+- Happiness: 0.1
+- Sadness: 0.6
+- Fear: 0.4
+- Disgust: 0.3
+- Anger: 0.2
+- Surprise: 0.3
+- Anticipation: 0.2
+- Trust: 0.4
+- Distrust: 0.2
+- Love: 0
+- Saudade: 0
+- Awe: 0
+- Bittersweetness: 0.4
+- Melancholy: 0.4
+- Nostalgia: 0.4
+
+This emotional vector shows that the text predominantly evokes sadness, followed by elements of fear, disgust, and distrust, along with a mix of bittersweet and melancholic feelings intertwined with some trust and nostalgia.

@@ -1,0 +1,20 @@
+To analyze the emotional content of the text and create the emotion vector, we'll need to assess the emotions conveyed in the text:
+
+- Happiness: The text does not express overt happiness.
+- Sadness: There is a sense of loss and nostalgia mentioned, indicating sadness.
+- Fear: No clear indication of fear in the text.
+- Disgust: No mention of disgust.
+- Anger: No clear indication of anger.
+- Surprise: No surprise expressed.
+- Anticipation: There is a hint of anticipation regarding the past when people used to kiss.
+- Trust: There is no direct mention of trust.
+- Distrust: There is no indication of distrust.
+- Love: The text touches on the theme of love through the act of kissing and the connection between people.
+- Saudade: The text conveys a strong sense of saudade, a deep emotional state of nostalgic longing for something lost.
+- Awe: No clear expression of awe.
+- Bittersweetness: The text evokes a bittersweet feeling due to the contrast between the past and present kissing customs.
+- Melancholy: There is a sense of melancholy in the reminiscence of the past.
+
+Creating the emotion vector based on the analysis:
+
+[Happiness: 0, Sadness: 0.4, Fear: 0, Disgust: 0, Anger: 0, Surprise: 0, Anticipation: 0.2, Trust: 0

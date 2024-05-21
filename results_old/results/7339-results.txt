@@ -1,0 +1,12 @@
+Based on the emotional content of the text, the emotion vector can be calculated as follows:
+
+[Happiness, Sadness, Fear, Disgust, Anger, Surprise, Anticipation, Trust, Distrust, Love, Saudade, Awe, Bittersweetness, Melancholy, Nostalgia]
+
+The emotions displayed in the text are primarily Love and a hint of Anticipation:
+- Love is evident in the longing and passionate nature of the speaker's words.
+- Anticipation is present as the speaker anticipates consequences and seems willing to accept them for the sake of love.
+
+Therefore, the emotion vector for this text would be:
+[0, 0, 0, 0, 0, 0, 0.6, 0.8, 0, 0.8, 0, 0, 0, 0, 0]
+
+This vector indicates a high level of Anticipation and Trust (associated with love) in the text, while other emotions have low or negligible intensity.

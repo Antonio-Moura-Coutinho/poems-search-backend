@@ -1,0 +1,1 @@
+Analyzing the emotional content of the text, the emotions present seem to be primarily sadness, with elements of melancholy, nostalgia, and bittersweetness. Here is the emotion vector for the text: [0, 0.6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0.4, 0.4, 0].

@@ -1,0 +1,11 @@
+The emotional content of the text seems to express a mix of emotions, including:
+
+- Sadness: The lines convey a sense of sadness and contemplation over the death of the Duke.
+- Disgust: There are elements of disgust in the portrayal of the Duke's legacy and the disdainful attitude towards his life.
+- Anger: There is a hint of anger in the criticism of the Duke's actions and character.
+- Anticipation: The anticipation of the Duke's funeral and the reflections on his life evoke a sense of anticipation for the consequences of his actions.
+
+Based on this analysis, the emotion vector for the text could be as follows:
+[0, 0.6, 0, 0.5, 0.4, 0, 0.2, 0, 0, 0, 0, 0, 0, 0.2, 0]
+
+This vector represents a high intensity of sadness and disgust, moderate levels of anger and anticipation, and low levels of other emotions.

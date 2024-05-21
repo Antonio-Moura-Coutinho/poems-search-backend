@@ -1,0 +1,15 @@
+To analyze the emotional content of the text provided, let's break down the emotions conveyed:
+
+Happiness: The text expresses joy and gratitude for the wonders of life and the world, so we can assign a moderate level of happiness.
+Sadness: The text hints at a sense of longing, particularly in the lines about being hidden from oneself for so long and the mysterious nature of existence. There's a touch of melancholy present.
+Fear: There's no direct expression of fear in the text.
+Disgust: There's no expression of disgust in the text.
+Anger: There's no expression of anger in the text.
+Surprise: The text conveys a sense of wonder and amazement, corresponding to a mild level of surprise.
+Anticipation: The text seems to anticipate and appreciate the beauty and joys of life, suggesting a low level of anticipation.
+Trust: The text shows a sense of trust in the gifts of life and existence, resulting in a medium level of trust.
+Distrust: The text doesn't exhibit distrust.
+Love: The text radiates a deep appreciation for life and the world, indicating a high level of love.
+Saudade: The text evokes a sense of longing and nostalgia for the past and for the familiar, suggesting a moderate level of saudade.
+Awe: The text expresses awe at the wonders of existence and the beauty of the world, indicating a high level of awe.
+Bittersweetness: The text contains elements of both

@@ -1,0 +1,5 @@
+The emotional content of the text seems to include elements of anticipation, surprise, and perhaps a hint of bittersweetness. The anticipation and surprise arise from the scenario described where the three sheepherders are playing a poker game under a starry sky, and the outcome of the game is revealed (with one having two pair and the others having nothing). The bittersweetness may be inferred from the situation of one person winning while the others lose.
+
+Based on this analysis, the emotion vector could be:
+
+[0, 0, 0, 0, 0, 0.5, 0.6, 0, 0, 0, 0, 0, 0.3, 0]

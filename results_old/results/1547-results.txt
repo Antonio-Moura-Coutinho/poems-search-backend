@@ -1,0 +1,3 @@
+The emotional content of the text leans towards positive emotions such as happiness, love, trust, anticipation, and awe. There are also elements of longing and melancholy in the text. Based on the analysis, the emotion vector for the text could be:
+
+[0.6, 0.1, 0, 0, 0, 0, 0.4, 0.6, 0, 0.3, 0.2, 0.4, 0.3, 0]

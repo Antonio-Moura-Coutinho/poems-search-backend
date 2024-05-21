@@ -1,0 +1,3 @@
+This text evokes a mix of emotions, including Fear, Anticipation, Disgust, Distrust, and Melancholy. Here is the emotion vector for the text based on the intensity of each emotion:
+
+[Fear: 0.5, Anticipation: 0.4, Disgust: 0.3, Distrust: 0.3, Melancholy: 0.4, Happiness: 0, Sadness: 0, Anger: 0, Surprise: 0, Trust: 0, Love: 0, Saudade: 0, Awe: 0, Bittersweetness: 0, Nostalgia: 0]

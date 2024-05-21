@@ -1,0 +1,5 @@
+The text conveys a mix of Fear, Anticipation, Trust, and a sense of Helplessness. Here is the emotion vector based on the emotional content of the text:
+
+[0, 0, 0.6, 0, 0, 0, 0.7, 0.7, 0, 0, 0, 0, 0, 0]
+
+This vector indicates a high level of Fear and Anticipation, coupled with Trust and a sense of Helplessness.

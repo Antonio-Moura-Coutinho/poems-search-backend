@@ -1,0 +1,14 @@
+To analyze the emotional content of the text, we can identify the following emotions:
+
+- Happiness: The text primarily conveys happiness through the actions of the tree frogs singing happily.
+- Trust: There is an element of trust portrayed when Coquí doesn't push or bite his brother but instead communicates with him.
+
+Using this analysis, we can construct an emotion vector that reflects the intensity of happiness and trust in the text:
+
+[Happiness, Sadness, Fear, Disgust, Anger, Surprise, Anticipation, Trust, Distrust, Love, Saudade, Awe, Bittersweetness, Melancholy, Nostalgia]
+
+The emotion vector would be:
+
+[0.7, 0, 0, 0, 0, 0, 0, 0.5, 0, 0, 0, 0, 0, 0, 0]
+
+This vector indicates a high level of happiness and a moderate level of trust portrayed in the text.

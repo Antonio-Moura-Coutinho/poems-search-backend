@@ -1,0 +1,3 @@
+The emotional content of the text appears to be a mix of awe, surprise, and anticipation, with elements of nature and scientific discovery evoking a sense of wonder and amazement. Here is the emotion vector based on the analysis:
+
+[Awe: 0.8, Surprise: 0.6, Anticipation: 0.4, Happiness: 0, Sadness: 0, Fear: 0, Disgust: 0, Anger: 0, Trust: 0, Distrust: 0, Love: 0, Saudade: 0, Bittersweetness: 0, Melancholy: 0, Nostalgia: 0]

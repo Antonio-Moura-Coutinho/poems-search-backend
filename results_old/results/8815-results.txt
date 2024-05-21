@@ -1,0 +1,3 @@
+The emotional content of the text seems to evoke primarily negative emotions such as Fear, Disgust, Anger, and Distrust. There are elements of Surprise and Sadness as well. Love, Happiness, and other positive emotions are not prominent in this text.
+
+Based on this analysis, the emotion vector for the text could be as follows: [0, 0.6, 0.7, 0.8, 0.9, 0.4, 0, 0, 0.7, 0, 0, 0, 0, 0.6, 0].

@@ -1,0 +1,15 @@
+To analyze the emotional content of the text and create an emotion vector, let's identify and quantify the intensity of each emotion present in the text:
+
+- Happiness: Mild happiness indicated through laughter and enjoying moments with the charming man.
+- Sadness: Mild sadness is portrayed through the speaker's difficulty sleeping and throwing away half-finished letters to someone.
+- Fear: The speaker mentions having a chest heavy with dread before leaving someone, indicating a sense of fear.
+- Disgust: There are no clear indications of disgust in the text.
+- Anger: There are no clear indications of anger in the text.
+- Surprise: There are no clear indications of surprise in the text.
+- Anticipation: There is a sense of anticipation before the speaker mentions leaving someone and throwing away letters.
+- Trust: The speaker seems to trust the charming man, shown through shared moments and interactions with him.
+- Distrust: There are no clear indications of distrust in the text.
+- Love: Love is implied through the speaker's interactions and emotions towards the man.
+- Saudade: Saudade, a Portuguese term for a feeling of nostalgic longing, is present in the text, as indicated by the speaker's references to past moments and the letters addressed to someone.
+- Awe: Mild awe is depicted through the speaker's descriptions of the charming man pointing out planets and ghost galaxies, as well as the ellipsis of ants on the wall.
+- Bittersweetness: Bittersweetness is present in

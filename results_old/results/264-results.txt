@@ -1,0 +1,16 @@
+Emotion Vector: [0.1, 0.4, 0.3, 0, 0.2, 0, 0.3, 0, 0.2, 0.3, 0, 0, 0.3, 0.4, 0] 
+
+Explanation:
+- Happiness: 0.1 (Low, due to the somber tone of the text)
+- Sadness: 0.4 (Moderate, as there are references to detachment and observing a body in a CAT scan)
+- Fear: 0.3 (Moderate, from the imagery of cold and detached emotions)
+- Disgust: 0 (Not present in the text)
+- Anger: 0.2 (Low, implied by the wish to release a wounded bird)
+- Surprise: 0 (Not evident in the text)
+- Anticipation: 0.3 (Moderate, in the desire to open the window and see pelicans)
+- Trust: 0 (Not explicitly mentioned in the text)
+- Distrust: 0.2 (Low, from the detached perspective and seeing the body in a CAT scan)
+- Love: 0.3 (Moderate, expressed through the desire to release a wounded bird)
+- Saudade: 0 (Not present in the text)
+- Awe: 0 (Not explicitly conveyed in the text)
+- Bittersweetness:

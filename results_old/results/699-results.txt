@@ -1,0 +1,7 @@
+To analyze the emotional content of the text and provide an emotion vector, we look at the predominant emotions conveyed in the text. The emotions present in the text include: Desolation, Passion, Determination, Frustration, Hope, and a sense of Wonder.
+
+Based on these emotions, the emotion vector can be estimated as follows:
+
+[Happiness: 0, Sadness: 0.4, Fear: 0, Disgust: 0, Anger: 0, Surprise: 0.2, Anticipation: 0.3, Trust: 0, Distrust: 0, Love: 0, Saudade: 0, Awe: 0.5, Bittersweetness: 0, Melancholy: 0, Nostalgia: 0]
+
+This vector indicates a moderate level of sadness and anticipation, along with feelings of wonder and determination in the text.

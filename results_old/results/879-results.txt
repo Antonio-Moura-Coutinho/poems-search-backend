@@ -1,0 +1,3 @@
+The emotional content of the text includes elements of reverence, pride, gratitude, remembrance, sacrifice, honor, and a sense of loss. The emotions of Trust, Anticipation, and Love are predominant, while elements of Sadness, Pride, and Awe are also present.
+
+Here is the emotion vector based on the analysis: [0.2, 0.3, 0, 0, 0, 0, 0.2, 0.4, 0, 0.4, 0, 0.2, 0.3, 0.2, 0.1]

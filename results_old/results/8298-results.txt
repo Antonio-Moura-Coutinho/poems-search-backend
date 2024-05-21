@@ -1,0 +1,5 @@
+Based on the text provided, here is the emotion vector:
+
+[0.4, 0, 0.4, 0, 0, 0.2, 0.2, 0.4, 0, 0, 0, 0, 0.2, 0]
+
+The emotions of Anticipation and Trust seem to be more prominent in the text, while elements of Fear and Surprise are also present. The excerpt conveys a feeling of inviting someone to join in an event, which evokes anticipation and a sense of trust in the invitation. There is also a touch of surprise in the invitation itself.

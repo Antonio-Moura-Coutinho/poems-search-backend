@@ -1,0 +1,10 @@
+Based on the text provided, the emotional content can be analyzed as follows:
+
+- Sadness: The text conveys a sense of sadness and somberness, especially in the descriptions of the boy being apprehended by the authorities.
+- Fear: There is an underlying sense of fear and unease, particularly in the portrayal of the boy being detained by the burly men.
+- Disgust: There is a subtle element of disgust in the portrayal of the events unfolding around the boy and the harsh reality of the situation.
+- Anger: While not overtly expressed, there is a hint of anger in the way the authorities handle the boy and the injustice implied.
+- Anticipation: There is a sense of anticipation in the description of the events leading up to the boy's apprehension.
+- Trust: There is a lack of trust portrayed, especially in the interactions with the authorities and the implication of betrayal.
+
+Based on this analysis, the emotion vector for the text could be represented as [0, 0.6, 0.3, 0.2, 0, 0.4, 0.3, 0].

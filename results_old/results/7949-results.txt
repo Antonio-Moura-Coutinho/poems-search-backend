@@ -1,0 +1,11 @@
+To analyze the emotional content of the text provided, we can identify various emotions. The overall emotional tone of the text includes elements of:
+
+1. Sadness: The text evokes a sense of sadness and melancholy as it describes the speaker's encounter with Death and the passage of time.
+2. Fear: The mention of Death can also evoke feelings of fear and unease.
+3. Awe: The language and imagery used in the poem create a sense of awe and wonder regarding the concept of Death and Immortality.
+
+Based on this analysis, the emotion vector for the text can be represented as follows:
+
+[0.1, 0.6, 0.3, 0, 0, 0.4, 0, 0.3, 0, 0, 0, 0, 0, 0.4, 0]
+
+This vector indicates a higher intensity of sadness, fear, awe, and a moderate level of surprise and melancholy present in the text.

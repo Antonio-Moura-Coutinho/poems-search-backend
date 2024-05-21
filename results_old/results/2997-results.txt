@@ -1,0 +1,3 @@
+The emotional vector for the provided text is: [0, 0.2, 0, 0, 0, 0, 0.2, 0.6, 0, 0, 0, 0, 0, 0.2, 0]
+
+This vector indicates a moderate level of Trust, Anticipation, and Nostalgia in the text. The presence of Trust is indicated by the notion of authority and obedience. Anticipation is evoked through the description of heating money for purchase and the suspenseful encounters described. Lastly, Nostalgia is suggested by the reflection on repeated actions at the walk-up window and the imagery of commerce. The text does not strongly convey other emotions such as Happiness, Sadness, Fear, Disgust, Anger, Surprise, Distrust, Love, Saudade, Awe, Bittersweetness, Melancholy.

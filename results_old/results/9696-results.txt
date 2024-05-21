@@ -1,0 +1,5 @@
+The emotional content analysis of the text suggests the following emotion vector based on the intensity of each emotion on a scale from 0 to 1:
+
+[0.2, 0.3, 0.3, 0.7, 0.4, 0.2, 0.4, 0.6, 0.5, 0.1, 0.1, 0.1, 0.3, 0.4, 0.2]
+
+This vector indicates a mix of emotions including Disgust, Trust, Fear, Anger, Anticipation, and Sadness, with varying intensities.

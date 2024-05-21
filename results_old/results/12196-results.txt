@@ -1,0 +1,16 @@
+To analyze the emotional content of the text and provide an emotion vector, we need to assess the intensity of each of the specified emotions. 
+
+Based on the text, the emotions can be interpreted as follows:
+
+- Happiness: The text contains elements of happiness, such as moments of camaraderie and celebration at the party.
+- Sadness: There are hints of sadness in the text, particularly in the context of societal expectations and the need to hide one's true feelings.
+- Fear: There is a sense of fear related to societal judgment and the need to conceal one's identity and relationships.
+- Disgust: There are elements of disgust apparent in the judgment and discrimination faced by the characters.
+- Anger: The text conveys a sense of anger towards societal norms and the constraints imposed on individuals.
+- Surprise: Some elements in the text may evoke surprise, such as the unexpected actions or statements of the characters.
+- Anticipation: There is anticipation in the desire for acceptance and understanding among friends and society.
+- Trust: The theme of trust is present in the interactions and relationships described.
+- Distrust: There is also a sense of distrust towards societal expectations and prejudices.
+- Love: The theme of love is prevalent in the text, particularly in the expressions of affection and connection between individuals.
+- Saudade: There are moments of longing and nostalgia for a sense of freedom and authenticity.
+- Awe: The text conveys a sense of wonder and appreciation for the beauty of human connections

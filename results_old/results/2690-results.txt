@@ -1,0 +1,23 @@
+To analyze the emotional content of the text, we can identify the following emotions and their intensities in the vector:
+
+[Happiness, Sadness, Fear, Disgust, Anger, Surprise, Anticipation, Trust, Distrust, Love, Saudade, Awe, Bittersweetness, Melancholy, Nostalgia]
+
+1. Happiness: Low
+2. Sadness: Moderate
+3. Fear: Low
+4. Disgust: Low
+5. Anger: Low
+6. Surprise: Low
+7. Anticipation: Low
+8. Trust: Moderate
+9. Distrust: Low
+10. Love: Moderate
+11. Saudade: Low
+12. Awe: Low
+13. Bittersweetness: Moderate
+14. Melancholy: Moderate
+15. Nostalgia: High
+
+The emotional vector representing the intensity of each emotion would be:
+
+[0.1, 0.5, 0.1, 0.1, 0.1, 0.1, 0.1, 0.5, 0.1, 0.5, 0.1, 0.1, 0.4, 0.4, 0]

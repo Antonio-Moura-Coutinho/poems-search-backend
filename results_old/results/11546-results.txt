@@ -1,0 +1,5 @@
+In the provided text, the predominant emotions identified are sadness, melancholy, and nostalgia. Here is the corresponding emotion vector for the text:
+
+[0, 0.7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0.8, 0.7]
+
+This emotion vector represents the intensity of sadness, melancholy, and nostalgia in the text while other emotions are not strongly expressed.

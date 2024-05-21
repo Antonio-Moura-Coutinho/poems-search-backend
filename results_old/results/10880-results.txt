@@ -1,0 +1,3 @@
+Based on the emotional content of the text provided, the emotion vector would be: [0, 0.7, 0.6, 0.8, 0.9, 0.6, 0.4, 0, 0, 0, 0, 0, 0, 0.6, 0.8].
+
+This vector indicates a high presence of emotions like Sadness, Anger, Fear, and Disgust, along with moderate levels of Surprise, Melancholy, and Nostalgia. Higher values for Sadness, Anger, and Fear suggest a darker or intense emotional tone in the text.

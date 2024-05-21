@@ -1,0 +1,1 @@
+The emotional content of the text reflects sadness, fear, distrust, and anticipation. The emotions are described with moderate intensity. Here is the emotion vector based on the analysis: [0, 0.4, 0.3, 0, 0, 0, 0.3, 0, 0.3, 0, 0, 0, 0, 0].

@@ -1,0 +1,3 @@
+Analyzing the emotional content of the text, the predominant emotions present are Sadness, Disgust, Fear, and Melancholy. There are also subtle undertones of Anger and Distrust. The text does not contain clear expressions of Happiness, Surprise, Anticipation, Trust, Love, Saudade, Awe, Bittersweetness, or Nostalgia.
+
+Therefore, the emotion vector for the text would be: [0, 0.6, 0.6, 0.4, 0.3, 0, 0, 0, 0.4, 0, 0, 0, 0.4, 0.6, 0].

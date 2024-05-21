@@ -1,0 +1,12 @@
+To analyze the emotional content of the text, we can identify the following emotions:
+
+- Happiness (Inviting someone, cooking dinner, setting a relaxed and joyful atmosphere)
+- Love (Showing care and affection by preparing a meal and creating a comfortable environment)
+- Surprise (Unexpectedly turning a mundane evening into something special)
+- Anticipation (Building up excitement for the evening)
+
+Given the emotions present in the text, the emotion vector could look like this:
+
+[0.6, 0, 0, 0, 0, 0.4, 0.4, 0.6, 0, 0.4, 0, 0, 0, 0]
+
+This vector reflects a moderate intensity of happiness, anticipation, and surprise, along with a lower intensity of love. Other emotions such as sadness, fear, disgust, anger, distrust, saudade, awe, bittersweetness, melancholy, and nostalgia are not significant in this text.

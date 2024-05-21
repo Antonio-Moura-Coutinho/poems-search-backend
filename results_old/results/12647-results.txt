@@ -1,0 +1,3 @@
+Analyzing the emotional content of the text provided, we can detect emotions such as Sadness, Anticipation, and Nostalgia. Based on these emotions, the emotion vector for the text can be represented as follows:
+
+[0, 0.6, 0, 0, 0, 0, 0.4, 0, 0, 0, 0, 0, 0, 0.6, 0]

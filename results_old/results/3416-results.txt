@@ -1,0 +1,5 @@
+The emotional content of the text appears to be a mix of sadness, melancholy, and possibly awe. Based on the text, the emotion vector could be estimated as follows:
+
+[Sadness: 0.6, Melancholy: 0.6, Awe: 0.3, Happiness: 0, Fear: 0, Disgust: 0, Anger: 0, Surprise: 0, Anticipation: 0, Trust: 0, Distrust: 0, Love: 0, Saudade: 0, Bittersweetness: 0, Nostalgia: 0]
+
+This indicates a higher intensity of sadness and melancholy in the text, with a slight sense of awe.

@@ -1,0 +1,3 @@
+Based on the emotional content of the provided text, the emotion vector can be represented as follows: [0.4, 0, 0.1, 0, 0, 0.3, 0, 0.6, 0, 0, 0.1, 0, 0, 0.4, 0]
+
+This indicates a moderate level of Happiness, a hint of Fear, some Surprise, significant Trust, hints of Saudade and Nostalgia. The overall emotional tone seems positive with a sense of camaraderie and contentment among the workers.

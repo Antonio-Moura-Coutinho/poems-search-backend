@@ -1,0 +1,9 @@
+Analyzing the emotional content of the text, the following emotions are present:
+
+- Sadness: The text conveys a sense of loss, pain, and vulnerability.
+- Fear: There is an element of fear or anxiety present in the descriptions.
+- Anger: There is a hint of anger or frustration in the portrayal of America and its actions.
+- Awe: The text contains a sense of awe or wonder, particularly in the description of the rocket and the skies.
+
+Based on the emotional analysis, the emotion vector for the text could be:
+[0, 0.4, 0.3, 0, 0.2, 0, 0, 0, 0, 0, 0, 0.3, 0.2, 0].

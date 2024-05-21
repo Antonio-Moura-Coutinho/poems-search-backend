@@ -1,0 +1,5 @@
+To analyze the emotional content of the text provided, we can look for keywords and overall tone that convey certain emotions. Here is the emotion vector for the text you provided:
+
+[Happiness: 0.2, Sadness: 0.5, Fear: 0, Disgust: 0, Anger: 0, Surprise: 0, Anticipation: 0.2, Trust: 0.5, Distrust: 0, Love: 0, Saudade: 0, Awe: 0.2, Bittersweetness: 0.2, Melancholy: 0.7, Nostalgia: 0.5]
+
+Based on the text, it conveys a sense of sadness, melancholy, and nostalgia due to phrases such as "waiting not for movement," "weariness replaced with joy but what is joy without the years," and "leaves pile up depending on the wind, but why pause to notice?". Additionally, there are elements of trust and anticipation with lines like "our disbelief in the ordinary emerges from the way we color routine" and "the names we give back to the world mean ultimately little against the way the sun pleads sense from the smallest cradle of dew." Overall, the text evokes a contemplative and reflective emotion with undertones of longing and acceptance.

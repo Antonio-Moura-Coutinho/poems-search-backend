@@ -1,0 +1,19 @@
+To analyze the emotional content of the text "Warning to Magistrates," we can identify the following emotions and their intensities:
+
+- Happiness: 0
+- Sadness: 0.6
+- Fear: 0.4
+- Disgust: 0.5
+- Anger: 0.7
+- Surprise: 0
+- Anticipation: 0.3
+- Trust: 0.2
+- Distrust: 0.4
+- Love: 0
+- Saudade: 0
+- Awe: 0
+- Bittersweetness: 0
+- Melancholy: 0.4
+- Nostalgia: 0
+
+Thus, the emotion vector representing the emotional content of the text is: [0, 0.6, 0.4, 0.5, 0.7, 0, 0.3, 0.2, 0.4, 0, 0, 0, 0, 0].

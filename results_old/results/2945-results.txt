@@ -1,0 +1,5 @@
+Based on the provided text, here is the emotion vector representing the emotional content:
+
+[Happiness: 0.4, Sadness: 0.2, Fear: 0, Disgust: 0, Anger: 0.1, Surprise: 0.1, Anticipation: 0.5, Trust: 0.6, Distrust: 0, Love: 0.3, Saudade: 0, Awe: 0.1, Bittersweetness: 0.4, Melancholy: 0.2, Nostalgia: 0.1]
+
+The text seems to evoke emotions related to happiness, anticipation, trust, love, and bittersweetness, with slight traces of sadness, anger, surprise, and melancholy. The overall emotional tone appears positive and nostalgic, reminiscing about neighborhood experiences.

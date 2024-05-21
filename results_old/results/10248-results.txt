@@ -1,0 +1,14 @@
+To analyze the emotional content of the text and create an emotion vector, we will identify and evaluate the intensity of various emotions present in the text. 
+
+Emotion vector: [0.35, 0.65, 0.55, 0.35, 0.65, 0.2, 0.45, 0.3, 0.45, 0.3, 0, 0, 0.7, 0.6, 0.4].
+
+Explanation of emotion intensity in the text:
+
+- Happiness: 0.35 (There are elements of happiness described in the memories of the past before the oppression and changes occurred.)
+- Sadness: 0.65 (The text conveys a strong sense of sadness due to the oppression, loss of culture, and suffering experienced by the speaker's ancestors.)
+- Fear: 0.55 (Fear is evident in the descriptions of the invasion, cruelty, and loss of land and freedom.)
+- Disgust: 0.35 (There are mentions of cruelty and oppression which evoke feelings of disgust.)
+- Anger: 0.65 (There is a strong sentiment of anger towards the injustice and suffering caused by the invaders.)
+- Surprise: 0.2 (There is minimal surprise expressed in the text.)
+- Anticipation: 0.45 (There is some anticipation of the future and the uncertainty faced by the speaker's ancestors.)
+- Trust: 0

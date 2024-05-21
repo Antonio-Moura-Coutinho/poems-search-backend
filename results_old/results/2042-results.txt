@@ -1,0 +1,3 @@
+Analyzing the emotional content of the text, the emotions present are a mix of anticipation, distrust, confusion, fear, and a touch of sadness and bittersweetness. Here is the emotion vector based on the intensity of each emotion:
+
+[0, 0.1, 0.2, 0, 0, 0, 0.3, 0.1, 0.3, 0, 0, 0, 0.2, 0]

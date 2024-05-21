@@ -1,0 +1,4 @@
+After analyzing the emotional content of the text you provided, the emotion vector is as follows:
+[0.3, 0.6, 0.7, 0.2, 0.6, 0.3, 0.7, 0.2, 0.7, 0, 0, 0.3, 0.4, 0.5, 0.4]
+
+This indicates a higher intensity of emotions related to sadness, fear, anger, distrust, and nostalgia, while also showing moderate levels of anticipation, trust, bittersweetness, and melancholy. The text seems to evoke feelings of intensity, conflict, and struggle.

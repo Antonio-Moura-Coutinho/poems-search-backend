@@ -1,0 +1,4 @@
+The emotional content of the text seems to evoke feelings of Fear, Disgust, and Unease. The descriptions of the archways that "bore through the house like a tunnel through a mountain," the goat being taken away for a Sunday picnic, and the imagery of the tall thin man wearing a straw hat lurking outside the door contribute to a sense of Fear and Disgust. The mention of the monkey incident at the zoo could evoke some mixed emotions of Surprise and Disgust as well.
+
+Based on this analysis, the emotion vector for the text could be:
+[0, 0, 0.6, 0.6, 0, 0.4, 0, 0, 0, 0, 0, 0, 0, 0, 0]

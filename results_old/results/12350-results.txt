@@ -1,0 +1,1 @@
+The emotional content analysis of the text yields the following emotion vector: [0, 0, 0.8, 0.6, 0.8, 0, 0, 0, 0.6, 0, 0, 0, 0.6, 0]. This indicates a high intensity of Fear, Disgust, Anger, Distrust, and Melancholy, with some level of Distrust, and Bittersweetness also present.

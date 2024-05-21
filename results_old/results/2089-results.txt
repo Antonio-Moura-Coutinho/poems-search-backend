@@ -1,0 +1,10 @@
+To analyze the emotional content of the text, we can identify the following emotions:
+
+- Sadness: The loss of the mother's red parka, which held sentimental value, evokes a sense of sadness.
+- Disgust: The feeling of disgust may arise from the idea of someone stealing a personal item with no apparent value to them.
+- Trust: The mention of the personal details of the mother's parka and gloves implies a sense of trust and familiarity.
+- Nostalgia: The reminiscing about the mother's belongings and the memories associated with them triggers nostalgia.
+
+Based on the emotions identified in the text, the emotion vector could be:
+
+[0, 0.6, 0, 0.3, 0, 0, 0, 0.3, 0, 0, 0, 0, 0, 0.5, 0]

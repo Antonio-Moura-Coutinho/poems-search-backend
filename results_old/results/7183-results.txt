@@ -1,0 +1,3 @@
+This text conveys a mix of emotions, with a predominant theme of melancholy, nostalgia, and some elements of sadness. Here is the emotion vector based on the analysis of the text:
+
+[Happiness: 0, Sadness: 0.3, Fear: 0, Disgust: 0, Anger: 0, Surprise: 0, Anticipation: 0, Trust: 0, Distrust: 0, Love: 0, Saudade: 0.5, Awe: 0, Bittersweetness: 0, Melancholy: 0.6, Nostalgia: 0.4]

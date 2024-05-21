@@ -1,0 +1,16 @@
+Based on the emotional content of the text provided, the emotion vector would be:
+
+[0.4, 0.2, 0.2, 0, 0.1, 0, 0.3, 0.3, 0, 0, 0, 0, 0.4, 0.4, 0]
+
+Explanation:
+- Happiness: 0.4 - The text conveys a sense of happiness through childhood memories and playfulness.
+- Sadness: 0.2 - There's a subtle hint of melancholy in reminiscing about the past and childhood innocence.
+- Fear: 0.2 - There's a mild undercurrent of fear associated with hiding and seeking solace in a constructed room.
+- Disgust: 0 - This emotion is not present in the text.
+- Anger: 0.1 - There's a slight sense of rebellion or defiance in playing in a dumpster and constructing a secret room.
+- Surprise: 0 - The text does not evoke surprise.
+- Anticipation: 0.3 - The act of collecting bricks and building a room hints at anticipation and excitement.
+- Trust: 0.3 - Trust is displayed through the act of holding hands and feeling at home with a friend.
+- Distrust: 0 - This emotion is not present in the text.
+- Love: 0 - Love is not explicitly mentioned in the text.
+- Saudade

@@ -1,0 +1,13 @@
+The emotions present in the text are as follows:
+
+Happiness: The text conveys happiness, particularly through the description of Deborah's positive attitude and demeanor after her experiences with the glass eye surgery.
+
+Sadness: There are elements of sadness in the text, especially when it describes Deborah's early challenges and the emotional reactions of her mother.
+
+Love: Love is evident in the interactions between Deborah and the other characters, showcasing affection and care.
+
+Trust: Trust is displayed through the actions of the characters, such as Deborah trusting the adults around her and the vain lady holding onto her.
+
+Anticipation: There is an element of anticipation as the text describes the waiting room scene and the emotions surrounding Deborah's experiences.
+
+The emotion vector representing the intensities of these emotions can be as follows: [0.5, 0.3, 0, 0, 0, 0, 0.4, 0.4, 0, 0.3, 0, 0, 0, 0].

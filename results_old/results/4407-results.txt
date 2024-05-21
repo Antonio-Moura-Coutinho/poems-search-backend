@@ -1,0 +1,19 @@
+Based on the text you provided, the emotional content can be analyzed as follows:
+
+- Happiness: 0.1
+- Sadness: 0.2
+- Fear: 0.1
+- Disgust: 0.1
+- Anger: 0.1
+- Surprise: 0.1
+- Anticipation: 0.2
+- Trust: 0.2
+- Distrust: 0.1
+- Love: 0.1
+- Saudade: 0.1
+- Awe: 0.1
+- Bittersweetness: 0.2
+- Melancholy: 0.2
+- Nostalgia: 0.1
+
+The emotion vector representing the intensity of each emotion on a scale from 0 to 1 would be: [0.1, 0.2, 0.1, 0.1, 0.1, 0.1, 0.2, 0.2, 0.1, 0.1, 0.1, 0.1, 0.2, 0.2, 0.1].

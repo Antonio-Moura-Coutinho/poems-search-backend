@@ -1,0 +1,3 @@
+In the provided text, the emotions that stand out include Sadness, Fear, Anticipation, and Love. The speaker reflects on past experiences and memories with a tone that conveys longing, nostalgia, and a sense of loss blended with moments of apprehension and hopeful anticipation. Here is the emotion vector based on the analysis:
+
+[Sadness: 0.6, Fear: 0.4, Anticipation: 0.3, Love: 0.5, Happiness: 0, Disgust: 0, Anger: 0, Surprise: 0, Trust: 0, Distrust: 0, Saudade: 0.4, Awe: 0, Bittersweetness: 0.4, Melancholy: 0.6, Nostalgia: 0.7]

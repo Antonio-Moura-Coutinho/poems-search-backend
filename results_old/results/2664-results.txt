@@ -1,0 +1,15 @@
+First, let's analyze the emotional content of the text to create an emotion vector:
+
+- Happiness: The overall tone of the text is not predominantly happy. The mention of a blackbird singing and the beauty of nature could contribute slightly to a sense of happiness.
+- Sadness: The text carries a strong sense of sadness, especially with the depiction of soldiers, bullets, and death.
+- Fear: There is an underlying sense of fear conveyed through the description of shell-swept heights and soldiers facing dangerous situations.
+- Disgust: There is no explicit mention of any elements that would evoke a feeling of disgust.
+- Anger: The text does not express anger directly.
+- Surprise: There are no surprises indicated in the text.
+- Anticipation: There is a sense of anticipation for safety and protection, particularly through the prayers mentioned.
+- Trust: The theme of trust in a higher power is evident in the prayers, showing a sense of trust.
+- Distrust: There are no indications of distrust in the text.
+- Love: While there is no direct mention of love, the prayers and care for safety can be interpreted as expressions of love.
+- Saudade: The text conveys a sense of longing or nostalgia for a time of peace and safety.
+- Awe: The descriptions of nature, like the sun rising and setting, could evoke a sense of awe.
+- Bittersweetness: The contrast between the beauty of nature and the harsh reality of war creates a b

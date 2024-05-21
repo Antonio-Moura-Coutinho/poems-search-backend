@@ -1,0 +1,1 @@
+This text contains a mix of emotions such as introspection, contemplation, melancholy, and resignation. If we were to quantify the emotional content of the text, the emotion vector might look like: [0, 0.6, 0.3, 0.1, 0, 0.2, 0, 0.4, 0.1, 0.1, 0.4, 0, 0.6, 0.5, 0.7].

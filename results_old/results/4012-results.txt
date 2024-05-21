@@ -1,0 +1,5 @@
+Based on the emotional content of the text provided, the emotion vector can be estimated as follows:
+
+[Happiness: 0.1, Sadness: 0.3, Fear: 0.4, Disgust: 0.4, Anger: 0.2, Surprise: 0.2, Anticipation: 0.3, Trust: 0.2, Distrust: 0.2, Love: 0, Saudade: 0, Awe: 0, Bittersweetness: 0.1, Melancholy: 0.3, Nostalgia: 0]
+
+This text reflects a mix of negative emotions such as sadness, fear, disgust, and melancholy, with a hint of anticipation and bittersweetness. There is a lack of positive emotions like happiness, love, or nostalgia in the text.

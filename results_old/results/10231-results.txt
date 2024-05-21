@@ -1,0 +1,5 @@
+Based on the text provided, the emotional content appears to include elements of Happiness, Anticipation, and Nostalgia. The overall tone is light-hearted and joyful, evoking memories of past fun and music-making with friends. 
+
+Here is the emotion vector based on the analysis:
+
+[Happiness: 0.5, Sadness: 0, Fear: 0, Disgust: 0, Anger: 0, Surprise: 0, Anticipation: 0.5, Trust: 0, Distrust: 0, Love: 0, Saudade: 0, Awe: 0, Bittersweetness: 0, Melancholy: 0, Nostalgia: 0.6]

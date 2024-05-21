@@ -1,0 +1,5 @@
+Based on the emotional content of the text provided, the emotional vector can be inferred as follows: 
+
+[Happiness: 0.2, Sadness: 0.3, Fear: 0.1, Disgust: 0.2, Anger: 0.3, Surprise: 0.1, Anticipation: 0.1, Trust: 0.2, Distrust: 0.5, Love: 0.2, Saudade: 0, Awe: 0.1, Bittersweetness: 0.3, Melancholy: 0.3, Nostalgia: 0.4] 
+
+The text conveys a mix of sadness, anger, bittersweetness, and nostalgia, along with elements of distrust. There are subtle tones of love and trust, but overall the text seems to evoke a range of complex emotions associated with family, memories, and longing.

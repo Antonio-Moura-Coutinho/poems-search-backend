@@ -1,0 +1,11 @@
+The emotional content analysis of the text yields the following emotion vector: [0.48, 0.55, 0.36, 0.72, 0.73, 0.63, 0.66, 0.59, 0.66, 0.11, 0, 0, 0.51, 0.56, 0.45].
+
+Explanation:
+- Happiness: 0.48 - There are elements of desire and passion in the text, contributing to some level of happiness.
+- Sadness: 0.55 - The text expresses feelings of forlornness, impotence, and despair, leading to a significant amount of sadness.
+- Fear: 0.36 - While there are moments of confusion and despair, fear is not the dominant emotion in the text.
+- Disgust: 0.72 - The text is filled with disgust towards the object of desire, expressions of betrayal, and disdain.
+- Anger: 0.73 - Anger is prominent in the text, evident through the strong emotions of frustration, resentment, and scorn.
+- Surprise: 0.63 - There are elements of surprise in the text, particularly in the expressions of impotence and unmet expectations.
+- Anticipation: 0.66 - Anticipation is present in the text as the narrator describes longing and desires that are unfulfilled.
+- Trust: 0.59 - Trust is not

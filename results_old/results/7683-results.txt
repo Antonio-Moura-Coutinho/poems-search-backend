@@ -1,0 +1,1 @@
+The emotional content of the text appears to contain elements of Sadness, Anticipation, Trust, and Longing. Based on this analysis, the emotion vector for the text could be as follows: [0, 0.3, 0, 0, 0, 0, 0.5, 0.5, 0, 0, 0.7, 0, 0, 0.2, 0].

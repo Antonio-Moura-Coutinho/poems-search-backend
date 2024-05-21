@@ -1,0 +1,1 @@
+['Love', ' Anticipation', ' Trust', ' Happiness', ' Nostalgia', ' Melancholy', ' Bittersweetness', ' Awe', ' Surprise', ' Sadness', ' Fear', ' Disgust', ' Anger', ' Distrust', ' Saudade']

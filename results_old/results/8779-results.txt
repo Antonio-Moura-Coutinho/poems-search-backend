@@ -1,0 +1,5 @@
+The emotional content of the text seems to involve feelings of frustration, resignation, and a sense of failure. The predominant emotions in the text appear to be Sadness, Disgust, and Distrust. Here is the emotion vector based on the analysis:
+
+[0, 0.9, 0, 0.7, 0, 0, 0, 0.3, 0.9, 0, 0, 0, 0, 0]
+
+This vector indicates a high level of Sadness, Disgust, and Distrust, while showing moderate levels of Trust. Other emotions such as Happiness, Fear, Anger, and Love are not prominently expressed in the text.

@@ -1,0 +1,15 @@
+To analyze the emotional content of the text and create an emotion vector, we can break down the text and identify the emotions expressed in each section.
+
+1. HELL:
+- Fear: The text conveys a sense of fear with references to infernal hatreds, elixir of fear, torture, claustrophobia, and frozen excrement, indicated by words like "shatter," "frozen," "gruesome."
+- Disgust: There are elements of disgust with mentions of a "lake of frozen shit" and gruesome imagery.
+- Anticipation: There is an element of anticipation with the anticipation of something unsettling or horrific happening.
+- Distrust: There is an undertone of distrust in the text, reflected in the skepticism toward the social contraption and the suggestion to skip town.
+- Melancholy: The overall tone of the passage is melancholic with dark imagery and a sense of impending doom.
+
+2. PURGATORY, THE FILM:
+- Sadness: The passage expresses sadness with references to a chronically unemployed protagonist, an estranged twin, and themes of regret and failure.
+- Disgust: There are elements of disgust with references to a junkie and trading sex for a fix.
+- Anticipation: There is a sense of anticipation in the protagonist imagining the bad twin watching or being present in the shadow.
+- Distrust: There is an element of distrust with the protagonist's suspicion of the firstborn twin.
+- Bitters

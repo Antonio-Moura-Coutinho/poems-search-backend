@@ -1,0 +1,13 @@
+To analyze the emotional content of the text, we'll examine the themes and sentiments expressed in each part. 
+
+1. The first part of the text conveys a mix of sadness, fear, and perhaps a hint of bittersweetness. There is a sense of loss and reminiscence of a woman's death, which evokes sadness. The mention of the ring and dividing the roots adds to the somber tone. The imagery of daylight going down and learning to see a star in the ashes provides a melancholic undertone.
+
+2. The second part shifts towards a more practical and descriptive narrative, centered around cleanliness and domestic chores. While there is a playful element with Colette's mischief, the overall mood still leans towards cleanliness and orderliness with a touch of nostalgia for simpler times.
+
+3. The third part introduces personal reflections and memories, combining elements of cleanliness, loneliness, and comfort. The focus on the grandmother's diamond and the pumice stone symbolizes the passage of time and the connection to family history. The imagery of building hooves and walking on creek gravel carries a sense of innocence and nostalgia.
+
+4. The final part brings in themes of judgment, punishment, and resilience. The description of the executioner, flames, and the witch's black heart creates a dark and eerie atmosphere, with undertones of fear, anger, and perhaps a sense of justice or retribution.
+
+Based on the analysis, the emotion vector for the text could be:
+
+[0.1

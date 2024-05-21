@@ -1,0 +1,16 @@
+To analyze the emotional content of the text and generate an emotion vector, we will identify the emotions expressed in the text and gauge their intensity. 
+
+1. Happiness: The text contains a sense of longing and reminiscence, rather than explicit happiness. 
+2. Sadness: The predominant emotion in the text is sadness, especially related to the loss of the speaker's father.
+3. Fear: There is a sense of fear surrounding the absence and afterlife of the father.
+4. Disgust: There are no clear indications of disgust in the text.
+5. Anger: There are no direct expressions of anger in the text.
+6. Surprise: There is an element of surprise in the portrayal of the father as an angel in the dream.
+7. Anticipation: The text conveys a melancholic anticipation of missing life and the father.
+8. Trust: The mention of the father reassuring the speaker implies a sense of trust.
+9. Distrust: There are no instances of distrust in the text.
+10. Love: The text is imbued with the love between the father and the speaker.
+11. Saudade: The feeling of longing and nostalgia evoked in the text aligns with the concept of saudade.
+12. Awe: The imagery of the dreams and the father's portrayal as an angel evoke a sense of awe.
+13. Bittersweetness: The combination of sadness and love creates a bittersweet tone in the text.
+14.

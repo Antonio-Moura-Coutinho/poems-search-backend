@@ -1,0 +1,8 @@
+Based on the text provided, the emotional content can be analyzed as follows:
+
+- Sadness: The text mentions a great fall, which typically evokes sadness.
+- Fear: There is an element of fear associated with the inability to put Humpty Dumpty back together.
+- Anticipation: The buildup leading to the fall may create anticipation.
+- Trust: The mention of the king's horses and men trying to help indicates trust.
+
+The emotion vector for this text could be: [0, 0.3, 0.2, 0, 0, 0, 0.2, 0.2, 0, 0.3, 0, 0, 0, 0].

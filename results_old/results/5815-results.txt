@@ -1,0 +1,4 @@
+Based on the emotional content of the text provided, the emotion vector would be as follows: 
+[0.3, 0, 0, 0, 0, 0, 0.6, 0.4, 0, 0, 0, 0, 0, 0, 0]
+
+In this text, the predominant emotions expressed are Anticipation and Trust, with a hint of Happiness. The other emotions seem less pronounced or absent.

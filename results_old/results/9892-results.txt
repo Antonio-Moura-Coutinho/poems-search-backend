@@ -1,0 +1,3 @@
+The emotional content of the text appears to convey a mix of Happiness, Trust, and Distrust. The speaker expresses happiness and enjoyment in certain activities like reading books, traveling, and listening to music. There is also an element of trust when mentioning Psalms and Bible, implying a sense of faith and belief. However, there is also a hint of distrust or skepticism when it comes to singing and being involved in scandal.
+
+Based on this analysis, the emotion vector for the text could be: [0.4, 0, 0, 0, 0, 0, 0.3, 0.4, 0.2, 0.6, 0, 0, 0, 0, 0].

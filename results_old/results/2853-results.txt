@@ -1,0 +1,3 @@
+The emotional content of the text suggests a mix of sadness, trust, and perhaps a hint of bittersweetness and nostalgia. Based on the text, the emotion vector could be as follows:
+
+[0, 0.5, 0, 0, 0, 0, 0, 0.5, 0, 0, 0, 0, 0.3, 0.4, 0]

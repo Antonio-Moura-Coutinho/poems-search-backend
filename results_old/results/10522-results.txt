@@ -1,0 +1,4 @@
+The emotional vector for the given text is based on the analysis of the emotional content present in the text and is as follows: 
+[0.3, 0.4, 0.3, 0.4, 0.3, 0.2, 0.2, 0.3, 0.2, 0.2, 0.2, 0.3, 0.4, 0.4, 0.4] 
+
+This vector indicates a moderate level of emotions across different categories, with sadness and disgust being slightly more prominent compared to other emotions like happiness or surprise. The text conveys a mix of introspective and melancholic tones, with elements of reflection on the past, inner struggles, and a sense of detachment.

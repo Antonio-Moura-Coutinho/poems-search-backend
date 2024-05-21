@@ -1,0 +1,5 @@
+[Happiness, Sadness, Fear, Disgust, Anger, Surprise, Anticipation, Trust, Distrust, Love, Saudade, Awe, Bittersweetness, Melancholy, Nostalgia]
+
+Emotion Vector: [0, 0.7, 0.6, 0.3, 0.5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0.4]
+
+This text primarily conveys emotions of sadness, fear, anger, and nostalgia. The speaker expresses regret and guilt over their past actions, indicating a high level of sadness. There is also a sense of fear and distrust towards the unwritten poems that were ignored, and a hint of anger towards oneself for not acknowledging them. Nostalgia is present in the reflection on missed opportunities and the poems that were left unwritten. Happiness, love, surprise, anticipation, trust, saudade, awe, bittersweetness, and melancholy are not strongly expressed in this text.

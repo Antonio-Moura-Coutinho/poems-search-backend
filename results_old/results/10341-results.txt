@@ -1,0 +1,4 @@
+Based on the emotional content of the text, the emotion vector could be approximated as follows:
+[Happiness: 0.6, Sadness: 0.3, Fear: 0, Disgust: 0, Anger: 0, Surprise: 0, Anticipation: 0.4, Trust: 0.7, Distrust: 0.1, Love: 0.8, Saudade: 0.4, Awe: 0.2, Bittersweetness: 0.6, Melancholy: 0.3, Nostalgia: 0.9].
+
+This text evokes feelings of nostalgia, love, happiness, bittersweetness, and a sense of warmth and comfort. The emotions of trust and anticipation are also present, along with a touch of sadness and melancholy. There is a longing for the past, particularly relating to memories and connections with loved ones.

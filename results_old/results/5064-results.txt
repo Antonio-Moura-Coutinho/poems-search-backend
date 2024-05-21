@@ -1,0 +1,5 @@
+Based on the emotional content of the text, the emotion vector can be analyzed as follows:
+
+[Happiness: 0, Sadness: 0, Fear: 0.5, Disgust: 0, Anger: 0, Surprise: 0, Anticipation: 0, Trust: 0.2, Distrust: 0, Love: 0, Saudade: 0, Awe: 0, Bittersweetness: 0, Melancholy: 0.5, Nostalgia: 0]
+
+The emotions of Fear and Melancholy seem to be the most prominent in the text, while there are slight elements of Trust as well.

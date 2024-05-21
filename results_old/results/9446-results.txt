@@ -1,0 +1,10 @@
+To analyze the emotional content of the text, we'll identify the emotions and then create an emotion vector based on their intensity.
+
+Emotions identified in the text:
+- Sadness: The text portrays a sense of sadness through descriptions of the oozing wounds and the individual's struggles with addiction.
+- Disgust: The description of the oozing wounds, foul odor, and drug addiction evoke feelings of disgust.
+- Anticipation: There is anticipation in the text as the individual is waiting to get relief from their condition and the narrator is describing the build-up to potential actions.
+- Distrust: There is a sense of distrust as the individual locks themselves in the bathroom and bargaining for drugs.
+
+Based on the identified emotions, we can form an emotion vector as follows:
+[Sadness: 0.5, Disgust: 0.4, Anticipation: 0.4, Distrust: 0.3, Happiness: 0, Fear: 0, Anger: 0, Surprise: 0, Trust: 0, Love: 0, Saudade: 0, Awe: 0, Bittersweetness: 0, Melancholy: 0, Nostalgia: 0]

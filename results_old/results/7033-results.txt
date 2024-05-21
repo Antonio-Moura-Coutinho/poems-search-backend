@@ -1,0 +1,1 @@
+The text contains a range of emotions including power, betrayal, loyalty, forgiveness, anger, fear, and rebellion. The predominant emotions are anger, betrayal, and power struggle. Here is the emotion vector for the text: [0, 0, 0.6, 0, 0.8, 0, 0.6, 0.2, 0, 0, 0, 0, 0, 0].

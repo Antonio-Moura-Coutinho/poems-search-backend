@@ -1,0 +1,9 @@
+To analyze the emotional content of the text, we can identify the following emotions:
+
+- Sadness: The text conveys a sense of sorrow and a desire to escape from the past, as seen in phrases like "breeding many woes" and "Save me from curious Conscience."
+- Anticipation: There is an element of anticipation for the relief that sleep can bring, as expressed in the lines "Or wait the 'Amen,' ere thy poppy throws Around my bed its lulling charities."
+- Trust: The speaker expresses trust in the idea of sleep as a comforting and restful state, asking for help to save them from distress.
+
+Based on this analysis, the emotion vector for the text could be:
+
+[0, 0.6, 0, 0, 0, 0, 0.3, 0.5, 0, 0, 0, 0, 0, 0, 0]

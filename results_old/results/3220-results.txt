@@ -1,0 +1,5 @@
+The emotional content of the text leans positively towards joy, excitement, and celebration, with a sense of community and tradition. Based on the text, the emotion vector could be:
+
+[0.8, 0, 0.1, 0, 0, 0.6, 0.5, 0.8, 0, 0, 0, 0, 0, 0, 0] 
+
+This indicates high intensity of Happiness, Anticipation, Trust, Surprise, and a mild sense of Awe and Bittersweetness. There are no indications of other negative emotions like Sadness, Fear, Disgust, Anger, Distrust, Love, Saudade, Melancholy, or Nostalgia in the given text.

@@ -1,0 +1,5 @@
+The emotional content of the text seems to evoke feelings of happiness, anticipation, and perhaps a bit of whimsical surprise. The imagery of a fine lady riding on a white horse with rings and bells conveys a sense of joy and light-heartedness.
+
+Based on this analysis, the emotion vector for the text could be as follows: [0.6, 0, 0, 0, 0, 0.3, 0.4, 0, 0, 0, 0, 0, 0, 0].
+
+This vector represents a high level of happiness, some anticipation, and a moderate level of surprise. Other emotions such as sadness, fear, disgust, anger, distrust, love, saudade, awe, bittersweetness, melancholy, and nostalgia do not seem to be strongly present in this text.

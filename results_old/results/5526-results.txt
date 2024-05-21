@@ -1,0 +1,14 @@
+To analyze the emotional content of the text and generate the emotion vector, we will need to identify the emotions expressed in the text and assess their intensity. From the text provided, we can infer various emotions such as:
+
+- Sadness: The mention of the unborn child's heart being hammered at night evokes a sense of sadness.
+- Fear: The imagery of bones, spine glowing, and the reference to the sea can convey an element of fear or unease.
+- Disgust: Words like "soured," "never-brides," and "quivering jaws" suggest a feeling of disgust.
+- Anticipation: References to ships arriving with sails unfurled can imply anticipation.
+- Surprise: The unexpected elements such as burning sand grains and skittering ice may evoke surprise.
+- Trust: The feeling of rejoicing and smashing one's head against a lightbulb can indicate trust or acceptance.
+
+Based on the emotional analysis, the emotion vector for the text could be as follows:
+
+[0, 0.4, 0.3, 0.2, 0, 0.1, 0.2, 0.3, 0, 0, 0, 0, 0, 0.1, 0]
+
+This vector reflects a higher intensity of sadness, fear, and disgust, with moderate levels of anticipation, surprise, and trust.

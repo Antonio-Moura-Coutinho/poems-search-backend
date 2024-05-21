@@ -1,0 +1,17 @@
+Based on the text provided, here is the emotion vector:
+
+[0.1, 0.6, 0.7, 0.3, 0.4, 0.3, 0.4, 0.2, 0.3, 0, 0, 0, 0.5, 0.4, 0.5]
+
+Explanation:
+- Happiness: 0.1 (Low, as the overall tone of the text is more reflective and melancholic)
+- Sadness: 0.6 (High, with themes of loss and absence)
+- Fear: 0.7 (High, with mentions of vertigo and feeling unanchored)
+- Disgust: 0.3 (Moderate, hints of disorder and disarray)
+- Anger: 0.4 (Moderate, feelings of loss and continuous spinning)
+- Surprise: 0.3 (Low, as the text is more contemplative and reflective)
+- Anticipation: 0.4 (Moderate, with the sense of waiting and watching)
+- Trust: 0.2 (Low, as there is a feeling of uncertainty and absence of security)
+- Distrust: 0.3 (Low to Moderate, mention of "lost way" and disordered nature)
+- Love: 0 (Not identified in the text)
+- Saudade: 0 (Not explicitly mentioned in the text)
+- A

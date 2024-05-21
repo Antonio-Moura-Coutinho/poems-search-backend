@@ -1,0 +1,3 @@
+The emotional content of the text includes elements of Love, Anticipation, and perhaps a hint of Sadness and Nostalgia. The emotional vector for the text could be:
+
+[0.6, 0.2, 0, 0, 0, 0, 0.4, 0.7, 0, 0, 0, 0, 0, 0.2, 0]

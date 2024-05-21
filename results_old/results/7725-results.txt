@@ -1,0 +1,16 @@
+Emotion Vector: [0.15, 0.4, 0.3, 0.2, 0.2, 0.15, 0.2, 0.25, 0.2, 0.1, 0.2, 0.2, 0.3, 0.4, 0.2]
+
+Explanation:
+- Happiness: Low intensity as there are no explicit expressions of joy or happiness in the text.
+- Sadness: Moderate intensity as the text conveys a sense of nostalgia, contemplation, and facing mortality.
+- Fear: Moderate intensity as there are mentions of fear buried deep and the falling arc of fear, contributing to a feeling of unease.
+- Disgust: Low intensity, no explicit expressions of disgust present.
+- Anger: Low intensity, no explicit expressions of anger present.
+- Surprise: Low intensity, no explicit expressions of surprise present.
+- Anticipation: Low intensity, as there is slight anticipation in waiting for certain events.
+- Trust: Moderate intensity, as there is a sense of trust in certain actions and roles being corrected.
+- Distrust: Low intensity, no explicit expressions of distrust present.
+- Love: Low intensity, no explicit expressions of love present.
+- Saudade: Moderate intensity, as the text contains elements of longing, nostalgia, and reminiscence.
+- Awe: Low intensity, no explicit expressions of awe present.
+- Bittersweet

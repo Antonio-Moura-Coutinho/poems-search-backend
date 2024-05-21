@@ -1,0 +1,8 @@
+To analyze the emotional content of the text provided, let's identify the emotions expressed within it:
+
+- Sadness: The text conveys a sense of introspection and vulnerability, which can evoke feelings of sadness.
+- Disgust: There is an element of discomfort or unease surrounding the situation described, especially in terms of the speaker's own feelings of embarrassment.
+- Anticipation: The uncertainty and tension in the scene described could evoke a sense of anticipation or apprehension.
+- Trust: Trust is not explicitly mentioned, but there is a subtle sense of trust being challenged or questioned within the relationships described.
+
+Based on these emotional cues, the emotional vector for the text could be approximately as follows: [0, 0.4, 0, 0.2, 0, 0, 0.3, 0.1, 0, 0, 0, 0, 0, 0, 0].

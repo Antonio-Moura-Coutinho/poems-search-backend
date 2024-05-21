@@ -1,0 +1,3 @@
+The emotional content of the text seems to convey a mix of Sadness, Disgust, and Distrust. The speaker expresses feelings of hatred, loathing, and indifference towards things they usually enjoy, such as nature and social interactions.
+
+Emotion vector: [0, 0.4, 0, 0.6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0].

@@ -1,0 +1,7 @@
+To analyze the emotional content of the text, we can identify several emotions present and their intensities. The text conveys a sense of bitterness, resentment, and defiance towards the idea of angels and their association with death and colonization. There are also elements of distrust, anger, and fear towards the perceived motives of angels and the impact they have had historically.
+
+Based on the analysis, the emotion vector for the text could be as follows:
+
+[0, 0.6, 0.5, 0.3, 0.4, 0, 0.4, 0, 0.6, 0, 0, 0.3, 0.8, 0.6, 0]
+
+This vector captures the predominant emotions of Sadness, Fear, Disgust, Anger, Distrust, Bittersweetness, Melancholy, and Nostalgia in the text.

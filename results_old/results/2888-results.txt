@@ -1,0 +1,5 @@
+To determine the emotional content of the text, we can analyze the language used to express feelings, sentiments, and experiences. Based on the provided text, we can identify elements of Sadness, Anticipation, Trust, and a subtle hint of Nostalgia.
+
+Here is the emotion vector based on the analysis:
+
+[0, 0.6, 0, 0, 0, 0, 0.3, 0.4, 0, 0, 0, 0, 0, 0.1, 0]

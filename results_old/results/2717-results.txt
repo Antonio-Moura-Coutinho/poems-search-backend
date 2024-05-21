@@ -1,0 +1,10 @@
+To analyze the emotional content of the text, we can identify various emotions present:
+
+1. Sadness: The mention of cancer, nausea, and a person vomiting can evoke feelings of sadness. 
+2. Disgust: The act of someone vomiting and the overall context can trigger feelings of disgust.
+3. Trust: There is a sense of trust implied when the person returns the pen to the doctor, indicating a positive interaction.
+
+Based on these emotional cues, the emotion vector for the text can be represented as follows:
+[0, 0.5, 0, 0.5, 0, 0, 0, 0.5, 0, 0.5, 0, 0, 0, 0, 0]
+
+This vector indicates a high intensity of sadness, disgust, and trust in the text.

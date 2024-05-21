@@ -1,0 +1,8 @@
+The emotional vector for the provided text is as follows:
+[0, 0.62, 0, 0.62, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0.31, 0]
+
+Explanation:
+- Sadness is prevalent in the text, indicated by a high intensity of 0.62.
+- Disgust is also prominent in the text, with an intensity of 0.62.
+- Melancholy is present with an intensity of 0.31.
+- Other emotions like Happiness, Fear, Anger, Surprise, Anticipation, Trust, Distrust, Love, Saudade, Awe, Bittersweetness, and Nostalgia are not significantly represented in the text based on the emotional analysis.

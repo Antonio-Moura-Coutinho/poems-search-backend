@@ -1,0 +1,15 @@
+To analyze the emotional content of the text, we will identify and quantify the emotions present in the text. Based on the text, the emotions expressed include:
+
+- Sadness
+- Loneliness
+- Grotesque feelings
+- Attraction to sadness
+- Realness
+- Ghostly figures
+- Self-reflection
+
+Here is the emotion vector based on the intensity of each emotion in the text:
+
+[0, 0.6, 0, 0.2, 0, 0, 0, 0.3, 0, 0.4, 0, 0.4, 0.5, 0.4, 0]
+
+Please note that the intensity of emotions is subjective and can be interpreted differently by individuals.

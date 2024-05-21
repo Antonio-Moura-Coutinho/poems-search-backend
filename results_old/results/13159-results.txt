@@ -1,0 +1,5 @@
+Based on the text provided, the emotional vector would be:
+
+[0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+
+This vector indicates a sense of Trust, representing the stability and foundation ("Upon what Base was fixt the Lath wherein") mentioned in the text. There are no significant indications of other emotions in the text provided.

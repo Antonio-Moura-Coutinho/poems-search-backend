@@ -1,0 +1,5 @@
+Based on the emotional content of the text, the emotion vector for the provided text is as follows:
+
+[0.1, 0.6, 0.7, 0.2, 0.3, 0.3, 0.5, 0.2, 0.6, 0, 0, 0.3, 0.7, 0.5, 0.5]
+
+This vector indicates the intensity of various emotions expressed in the text. The emotions of Sadness, Fear, Distrust, Love, Melancholy, and Nostalgia are relatively high in intensity, while Happiness, Disgust, Anger, and Surprise are lower in intensity.

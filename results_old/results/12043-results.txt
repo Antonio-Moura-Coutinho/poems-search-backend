@@ -1,0 +1,16 @@
+Emotion vector: [0, 0.3, 0.6, 0.6, 0.1, 0, 0.2, 0, 0.8, 0, 0, 0, 0, 0.4, 0.3]
+
+Explanation:
+- Happiness: 0 (No explicit expression of happiness)
+- Sadness: 0.3 (Slight indication of feeling stuck and broke)
+- Fear: 0.6 (Fear is expressed through the imagery of the dog barking at the night and being mad at the stars)
+- Disgust: 0.6 (Strong disgust is felt from descriptions of the surroundings like the barn smelling of merde)
+- Anger: 0.1 (Mild anger is displayed in the narrator's reactions)
+- Surprise: 0 (No clear surprise is expressed)
+- Anticipation: 0.2 (Some anticipation is depicted through the actions of the dog)
+- Trust: 0 (No explicit display of trust)
+- Distrust: 0.8 (High level of distrust as shown by the narrator rethinking kicking out the dog)
+- Love: 0 (No explicit expression of love)
+- Saudade: 0 (No indication of longing or nostalgia)
+- Awe: 0 (No sense of awe in the text)
+- Bittersweetness: 0 (No bittersweet emotions present)

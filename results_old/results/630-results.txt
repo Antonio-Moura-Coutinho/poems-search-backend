@@ -1,0 +1,3 @@
+The emotional content in the provided text seems to evoke a sense of anticipation and a subtle touch of fear due to the mention of the earth shaking. There is also a hint of surprise as the event catches attention. Based on the text, the emotion vector could be:
+
+[0, 0, 0.3, 0, 0, 0.2, 0.4, 0, 0, 0, 0, 0, 0, 0, 0]

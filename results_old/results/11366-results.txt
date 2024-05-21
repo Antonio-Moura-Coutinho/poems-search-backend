@@ -1,0 +1,9 @@
+To analyze the emotional content of the text, we can identify the following emotions present:
+
+Sadness: The text conveys a sense of isolation and helplessness, indicating a level of sadness.
+Anticipation: The mention of discovery and the buildup towards a collapse suggest anticipation.
+Trust: The reference to lending a hand and standing together implies trust.
+
+Emotion Vector: 
+[Sadness: 0.6, Anticipation: 0.4, Trust: 0.6]
+The emotions of sadness and trust seem to be more pronounced in this text, while anticipation is also present but to a slightly lesser extent.

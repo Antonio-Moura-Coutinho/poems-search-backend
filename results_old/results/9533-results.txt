@@ -1,0 +1,5 @@
+Based on the text "A white hunter is nearly crazy," the emotional content seems to convey a sense of distress, potentially fear or unease. Here is the emotion vector:
+
+[0, 0, 0.8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+This vector indicates a high intensity of fear and a lack of other specific emotions based on the text provided.

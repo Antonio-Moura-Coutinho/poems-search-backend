@@ -1,0 +1,11 @@
+The emotional vector for the provided text is as follows: [0.5, 0.5, 0.4, 0.2, 0.3, 0.3, 0.6, 0.5, 0.3, 0.6, 0, 0.4, 0.4, 0.4, 0]
+
+Explanation:
+- Happiness: The text contains themes of joy, gratitude, and the beauty of flowers, indicating a moderate level of happiness.
+- Sadness: There are mentions of loss, grief, torture, and groans, suggesting a moderate level of sadness.
+- Fear: Fear is present in the text through references to dark hours, a glorious hand tearing up a flower, and consequences that can pierce hearts like stones, indicating a moderate level of fear.
+- Disgust: There are subtle hints of disgust in terms of screechings and groans, contributing to a low level of disgust.
+- Anger: The text expresses some level of anger with references to dark hours, tortures, and groans, indicating a low level of anger.
+- Surprise: There are moments of unlooked-for events, but the overall text doesn't heavily emphasize surprise, leading to a low level of surprise.
+- Anticipation: The text contains elements of anticipation for the future, expressing hopes and desires, leading to a moderate level of anticipation.
+- Trust: The theme of faith

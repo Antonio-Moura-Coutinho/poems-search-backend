@@ -1,0 +1,3 @@
+The emotional content of the text includes elements of Sadness, Fear, Disgust, Anger, and a sense of Awe. The emotions of Sadness and Fear are prominent due to themes related to death, environmental degradation, and suffering. Disgust is evoked by descriptions of pollution and the impact on marine life. Anger is present in the text through the frustration and helplessness conveyed regarding these issues. Awe is also observed in the text, particularly in the majestic descriptions of whales and the vastness of the ocean.
+
+Emotion vector: [0.2, 0.7, 0.5, 0.4, 0.4, 0, 0, 0, 0, 0, 0.3, 0.2, 0.7, 0]

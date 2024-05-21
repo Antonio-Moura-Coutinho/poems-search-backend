@@ -1,0 +1,4 @@
+The emotional content of the text suggests a mix of various emotions such as Anticipation, Trust, Love, Awe, Bittersweetness, Melancholy, Nostalgia, and a hint of Happiness. 
+
+Based on the text analysis, the emotion vector for the text could be:
+[0.2, 0.1, 0, 0, 0, 0, 0.3, 0.4, 0, 0.35, 0, 0.4, 0.6, 0.5, 0.4]

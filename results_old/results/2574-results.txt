@@ -1,0 +1,11 @@
+To analyze the emotional content of the text, we can identify the following emotions expressed:
+
+Sadness: The text conveys feelings of regret, disillusionment, and a sense of loss.
+Anger: There is a strong undercurrent of anger and bitterness towards war, betrayal, and the loss of innocence.
+Disgust: The speaker expresses disgust towards lust, hatred, and the violence associated with them.
+Distrust: The text suggests a lack of trust in ideals such as chivalry and nobility.
+Melancholy: Themes of melancholy, sorrow, and a longing for a past innocence pervade the text.
+
+Based on this analysis, the emotion vector for the text could be:
+
+[0, 0.8, 0.4, 0.6, 0.7, 0, 0, 0, 0, 0, 0, 0, 0, 0]

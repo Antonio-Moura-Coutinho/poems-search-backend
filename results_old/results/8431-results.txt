@@ -1,0 +1,14 @@
+Emotion Vector: [0.3, 0.4, 0.1, 0, 0, 0.4, 0, 0.5, 0, 0, 0, 0, 0.6, 0.5, 0.6]
+
+Explanation:
+- Happiness: 0.3 - There is a sense of beauty in the scene described, but it is not overly joyful.
+- Sadness: 0.4 - The text evokes a melancholic feeling with the imagery of dew and late night.
+- Fear: 0.1 - There is a hint of vulnerability with the soaked gauze stockings, but it's not a predominant emotion.
+- Disgust: 0 - There are no elements in the text that evoke disgust.
+- Anger: 0 - There is no anger present in the text.
+- Surprise: 0 - There are no elements of surprise in the text.
+- Anticipation: 0 - There is no sense of anticipation in the text.
+- Trust: 0.5 - The trust is expressed through watching the moon and the clear autumn night, indicating a feeling of safety.
+- Distrust: 0 - There are no elements that evoke distrust.
+- Love: 0 - While there is appreciation for the beauty of the scene described, it does not convey a strong sense of love.
+- Saudade: 0 - There are elements of

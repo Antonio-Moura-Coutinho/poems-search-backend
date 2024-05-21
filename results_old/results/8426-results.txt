@@ -1,0 +1,11 @@
+Emotion Vector: [0.15, 0.75, 0.6, 0.1, 0.45, 0.1, 0.5, 0.25, 0.6, 0, 0, 0.25, 0.65, 0.6, 0] 
+
+Explanation:
+- Happiness: 0.15 - There are mentions of familial connections and prayers that could evoke some sense of happiness, though it is overshadowed by the sadness and fear in the text.
+- Sadness: 0.75 - The predominant emotion in the text, with themes of loss, death, and suffering throughout the verses.
+- Fear: 0.6 - Fear is expressed through the references to death, war, and the ominous presence of soldiers.
+- Disgust: 0.1 - Limited instances of disgust, such as the selling of body parts as souvenirs, contribute slightly to this emotion.
+- Anger: 0.45 - Anger is implied in the portrayal of injustice, violence, and the mistreatment of the Cheyenne sister's corpse.
+- Surprise: 0.1 - There is a minimal element of surprise in the text that does not significantly impact the overall emotional tone.
+- Anticipation: 0.5 - Anticipation is highlighted through mentions of dreams, feasts, and the hope for a better future after the war.
+- Trust:

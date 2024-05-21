@@ -1,0 +1,14 @@
+Analyzed Emotion Vector: [0, 0, 0.5, 0.75, 0.6, 0.25, 0.25, 0.3, 0.75, 0, 0, 0.1, 0, 0]
+
+Explanation:
+- Happiness: 0 (No apparent expression of happiness in the text)
+- Sadness: 0 (No expression of sadness detected)
+- Fear: 0.5 (Fear is moderately expressed through phrases like "couldn't kill" and "easy 'kill'")
+- Disgust: 0.75 (Strong disgust is conveyed with terms like "smug fucker")
+- Anger: 0.6 (Anger is also prominent in the text through the term "smug fucker" and the context of defiance against epochs)
+- Surprise: 0.25 (A minor element of surprise or unexpectedness with the concept of not being easily killed)
+- Anticipation: 0.25 (Some level of anticipation is present regarding the future outcome)
+- Trust: 0.3 (There is a moderate level of trust implied, possibly towards the resilience of the crocodileid)
+- Distrust: 0.75 (High level of distrust is suggested through the theme of survival and overcoming challenges)
+- Love: 0 (No direct expression of love in the text)
+- Saudade: 0 (No sentiment of Saud

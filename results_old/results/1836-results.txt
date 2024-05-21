@@ -1,0 +1,2 @@
+The emotional content of the text appears to include elements of sadness, melancholy, fear, and a touch of disgust. 
+Emotion vector: [0, 0.4, 0.3, 0.2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0].

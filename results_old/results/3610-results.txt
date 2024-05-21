@@ -1,0 +1,5 @@
+To analyze the emotional content of the provided text, we can see the presence of various emotions such as Sadness, Disgust, Anger, and Melancholy. Here is the emotion vector based on the intensity of each emotion on a scale from 0 to 1:
+
+[Sadness: 0.6, Disgust: 0.4, Anger: 0.3, Melancholy: 0.7] 
+
+These emotions are particularly highlighted in the text through the imagery and descriptions of grief, bruises, brokenness, and themes of decay. If you have any more texts or further analysis needed, feel free to let me know!

@@ -1,0 +1,10 @@
+To analyze the emotional content of the text, we can break down the emotions present in each line:
+
+- Happiness: Expressions of joy and excitement about the prospect of marriage.
+- Anticipation: Building up to the proposal and the excitement of what's to come.
+- Love: Declarations of love and affection between Benny and Ruby Lee.
+- Surprise: The unexpected proposal from Benny to Ruby Lee.
+
+With that in mind, the emotion vector for the text could be: [0.5, 0, 0, 0, 0, 0.3, 0.4, 0.6, 0, 0.5, 0, 0, 0, 0].
+
+This vector indicates a moderate level of happiness, anticipation, love, and surprise within the text.

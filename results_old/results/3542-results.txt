@@ -1,0 +1,5 @@
+Analyzing the emotional content of the text, the emotions present include: Love, Anticipation, Anger, Sadness, Awe, and Disgust. Based on the intensity of these emotions in the text, the emotion vector would look like this:
+
+[0.4, 0.2, 0, 0.2, 0.2, 0, 0.2, 0.6, 0.1, 0.4, 0, 0.4, 0, 0]
+
+This vector represents the varying intensity of each emotion observed in the text.

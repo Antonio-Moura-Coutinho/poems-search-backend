@@ -1,0 +1,16 @@
+Emotion Vector: [0.2, 0.4, 0.6, 0, 0, 0, 0.3, 0.1, 0.2, 0, 0, 0, 0, 0.5, 0]
+
+
+Explanation:
+- Happiness: 0.2 (The text does not convey a strong sense of happiness.)
+- Sadness: 0.4 (The mention of "wanting the Lord for long" may evoke a sense of longing and melancholy.)
+- Fear: 0.6 (The uncertainty implied by wanting the Lord for long might evoke a sense of fear or apprehension.)
+- Disgust: 0 (No indications of disgust in the text.)
+- Anger: 0 (No indications of anger in the text.)
+- Surprise: 0 (No indications of surprise in the text.)
+- Anticipation: 0.3 (The anticipation of needing the Lord for a long time.)
+- Trust: 0.1 (There is a hint of trust in the text towards the Lord.)
+- Distrust: 0.2 (There is also an element of doubt or distrust in the need for the Lord for a long time.)
+- Love: 0 (Not explicitly about love.)
+- Saudade: 0 (Not explicitly about deep longing or missing something/someone.)
+- Awe: 0 (Not conveying a sense of awe

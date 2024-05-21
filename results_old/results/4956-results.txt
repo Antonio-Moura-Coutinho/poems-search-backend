@@ -1,0 +1,18 @@
+Emotion vector: [0, 0.1, 0.8, 0.9, 0.7, 0.6, 0, 0, 0, 0, 0, 0, 0, 0.3, 0] 
+
+Explanation:
+- Happiness: 0 (not present)
+- Sadness: 0.1 (slight hint of negativity)
+- Fear: 0.8 (strong fear indicated by reference to blood and attorneys)
+- Disgust: 0.9 (strong disgust toward low-definition attorneys)
+- Anger: 0.7 (anger toward low-definition attorneys)
+- Surprise: 0.6 (mild surprise)
+- Anticipation: 0 (not present)
+- Trust: 0 (not present)
+- Distrust: 0 (not present)
+- Love: 0 (not present)
+- Saudade: 0 (not present)
+- Awe: 0 (not present)
+- Bittersweetness: 0 (not present)
+- Melancholy: 0.3 (mild indication of sadness)
+- Nostalgia: 0 (not present)

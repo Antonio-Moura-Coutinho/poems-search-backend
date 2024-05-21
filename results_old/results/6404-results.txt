@@ -1,0 +1,11 @@
+Analyzing the emotional content of the text provided, the vector representing the intensity of various emotions is as follows: [0.2, 0.3, 0.5, 0.3, 0.4, 0.4, 0.6, 0.5, 0.4, 0, 0, 0, 0, 0.3, 0].
+
+Explanation of emotions in the text:
+- Happiness: Low (0.2) - There is a lack of explicit happiness or joyful moments in the text.
+- Sadness: Moderate (0.3) - The text portrays a tinge of melancholy and reflection.
+- Fear: Moderate (0.5) - The element of fear is present with the mysterious phone call and the uncertainty it brings.
+- Disgust: Moderate (0.3) - Disgust is sensed through the description of the deceptive actions that resulted in theft.
+- Anger: Moderate (0.4) - Anger is depicted in the act of stealing the precious crop.
+- Surprise: Moderate (0.4) - There are surprise elements in the unexpected phone call and the twist in the story.
+- Anticipation: High (0.6) - The anticipation is high as the text builds suspense around the mysterious phone call.
+- Trust: Moderate (0.5) - Trust appears as a theme in the text, particularly in relation to beliefs and deceit.

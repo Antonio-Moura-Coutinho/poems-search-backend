@@ -1,0 +1,12 @@
+To analyze the emotional content of the text, we can extract the following emotions and their intensities:
+
+- Sadness: The text conveys a sense of sadness and vulnerability through the memory of bomb drills during the Cold War and the underlying feeling of impending doom. The intensity is moderate.
+- Fear: There is a clear sense of fear related to the bomb drills and the description of impending doom. The intensity is moderate to high.
+- Anticipation: The text hints at a sense of anticipation or foreboding regarding the future, as seen in the line "I’ve seen what’s to come." The intensity is low to moderate.
+- Trust: There is an element of trust implied in the belief that the bombs won't harm them, but the steady passage of time will be their undoing. The intensity is low.
+
+Based on the emotional analysis, the emotion vector for the text could be approximately:
+
+[0, 0.6, 0.4, 0, 0, 0, 0.2, 0.1, 0, 0, 0, 0, 0, 0, 0]
+
+This vector represents the intensity of each emotion in the text on a scale from 0 to 1 as specified.

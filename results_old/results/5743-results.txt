@@ -1,0 +1,3 @@
+The emotional content of the text appears to be primarily focused on a mix of Sadness, Disgust, and Melancholy. The mention of the woman seeming thin and in a little pain, as well as the comparison to overseas calligraphy of geese, suggests a sense of sadness and discomfort. The imagery of oaks and pines pretending to be asleep and the reference to "poor people, midnight" evoke a somber and melancholic tone.
+
+The emotion vector for this text could be: [0, 0.6, 0, 0.3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0.7, 0].

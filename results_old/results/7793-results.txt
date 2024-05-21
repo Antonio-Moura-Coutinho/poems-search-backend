@@ -1,0 +1,7 @@
+To analyze the emotional content of the text, we can see a mix of emotions such as humor, surprise, and a touch of sadness as the narrative unfolds. The description of the baby's actions and eventual mishap can evoke a blend of emotions in the reader.
+
+Based on the text, the emotion vector could be as follows:
+
+[0.1, 0.1, 0.3, 0.2, 0.2, 0.3, 0.3, 0.2, 0.2, 0, 0, 0.1, 0.1, 0.1, 0.1]
+
+This vector indicates a moderate level of fear, anger, surprise, anticipation, and bittersweetness, along with a slightly lower level of happiness, sadness, and trust. Other emotions like love, saudade, awe, melancholy, and nostalgia are not prominently featured in this particular text.

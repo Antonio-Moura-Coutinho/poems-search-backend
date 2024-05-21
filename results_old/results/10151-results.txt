@@ -1,0 +1,14 @@
+To analyze the emotional content of the text provided, let's identify the emotions expressed in the text and assign intensity levels to each of them:
+
+- Happiness: There are elements of happiness in the text such as people singing their dearest songs, blithely breakfasting under the summer tree, and having brightest things. (0.6)
+- Sadness: The mention of sick leaves reeling down in throngs and the rotten rose being ripped from the wall implies sadness. (0.4)
+- Fear: There are no direct mentions of fear in the text. (0)
+- Disgust: There are no indications of disgust in the text. (0)
+- Anger: There are subtle hints of frustration or loss, but not explicit anger. (0.3)
+- Surprise: There are no elements of surprise in the text. (0)
+- Anticipation: There is a sense of change and new beginnings mentioned in the text, indicating anticipation. (0.3)
+- Trust: There is a sense of trust implied through the relationships described in the text. (0.4)
+- Distrust: There are no clear indications of distrust. (0)
+- Love: Love is implied through the descriptions of shared moments and caring for each other. (0.5)
+- Saudade: The text doesn't explicitly evoke saudade, but there is a hint of nostalgia and longing for the past. (0.4)
+- Awe: There are

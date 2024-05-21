@@ -1,0 +1,5 @@
+The emotional analysis of the text yields the following emotion vector based on the intensity of each emotion in the text:
+
+[Happiness: 0.2, Sadness: 0.3, Fear: 0, Disgust: 0, Anger: 0.2, Surprise: 0.1, Anticipation: 0.3, Trust: 0.4, Distrust: 0, Love: 0.5, Saudade: 0, Awe: 0, Bittersweetness: 0.4, Melancholy: 0.3, Nostalgia: 0.2]
+
+This vector indicates a mix of emotions, with higher intensities in emotions like Love, Trust, and Bittersweetness reflected in the text. There are also elements of Sadness, Anger, and Anticipation, portraying a complex emotional landscape within the text.

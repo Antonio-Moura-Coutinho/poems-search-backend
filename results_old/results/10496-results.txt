@@ -1,0 +1,3 @@
+The emotional analysis of the text suggests a mix of emotions such as Sadness, Disgust, and Anger. Based on the text, the emotion vector would be approximately:
+
+[0, 0.65, 0, 0.8, 0.7, 0, 0, 0, 0, 0, 0, 0, 0, 0]

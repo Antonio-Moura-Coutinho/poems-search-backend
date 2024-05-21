@@ -1,0 +1,19 @@
+To analyze the emotional content of the text and provide an emotion vector, we can identify various emotions expressed:
+
+Happiness: 0.05 (slight happiness from the imagery of sparrows and morning hymns)
+Sadness: 0.3 (feelings of emptiness, witnessing ruins, and the hurt caused by the sparrows)
+Fear: 0 (no direct expressions of fear)
+Disgust: 0 (no expressions of disgust)
+Anger: 0 (no direct expressions of anger)
+Surprise: 0 (no expressions of surprise)
+Anticipation: 0.1 (anticipation of the world waking up and the unknown)
+Trust: 0.15 (trust in the natural world and the ritual of watching the morning)
+Distrust: 0 (no expressions of distrust)
+Love: 0.2 (implicit love from the birds towards the speaker and the road)
+Saudade: 0 (no direct expressions of saudade)
+Awe: 0.1 (awed by the imagery of the morning, birds, and the world waking)
+Bittersweetness: 0.2 (emotions are tinged with a hint of melancholy and emptiness)
+Melancholy: 0.25 (sense of longing, emptiness, and nostalgia in the text)
+Nostalgia: 0.05 (slight nostalgia from the imagery of dust of bread and ghosts)
+
+Using the emotional analysis above,

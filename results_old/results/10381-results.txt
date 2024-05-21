@@ -1,0 +1,18 @@
+Emotion vector: [0, 0.6, 0.6, 0.4, 0, 0, 0.4, 0, 0, 0.2, 0, 0.2, 0.4, 0.6, 0] 
+
+Explanation:
+- Happiness: 0
+- Sadness: 0.6 (High due to themes of darkness, emptiness, and unrequited love)
+- Fear: 0.6 (Evident through the uncertainty and feeling of falling)
+- Disgust: 0.4 (Indirectly implied through the disillusionment and unmet expectations)
+- Anger: 0
+- Surprise: 0
+- Anticipation: 0.4 (Slight anticipation of something new but it ends in disappointment)
+- Trust: 0
+- Distrust: 0
+- Love: 0.2 (Mentioned but in the context of a failed love)
+- Saudade: 0
+- Awe: 0
+- Bittersweetness: 0.2 (The feeling of new distance or change being a mix of bitter and sweet)
+- Melancholy: 0.4 (Strong sense of sadness and melancholy throughout the text)
+- Nostalgia: 0 (More focused on present disappointment rather than past nostalgia)

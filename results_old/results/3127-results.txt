@@ -1,0 +1,4 @@
+The emotional content of the text indicates a mix of emotions such as sadness, fear, anticipation, distrust, and love. Therefore, the emotion vector based on the analysis of the text could look like this: 
+[0.1, 0.3, 0.2, 0, 0, 0, 0.2, 0.3, 0.2, 0.3, 0, 0, 0, 0.2, 0]. 
+
+This vector suggests a higher intensity of emotions like sadness, fear, anticipation, trust, and love in the text, with lower emphasis on happiness, anger, surprise, and other emotions.

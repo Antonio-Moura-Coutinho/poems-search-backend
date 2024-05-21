@@ -1,0 +1,9 @@
+Based on the emotional content of the text, the emotion vector can be analyzed as follows:
+
+[Happiness, Sadness, Fear, Disgust, Anger, Surprise, Anticipation, Trust, Distrust, Love, Saudade, Awe, Bittersweetness, Melancholy, Nostalgia]
+
+The text conveys a sense of peace, relief, and rest after the war, welcoming the returning soldier and emphasizing the end of conflicts. There is a tone of calmness and relaxation. The emotions expressed are predominantly Happiness, Trust, and Anticipation.
+
+The emotion vector for the text could be: [0.6, 0, 0, 0, 0, 0, 0.3, 0.5, 0, 0, 0, 0, 0, 0, 0]
+
+This vector shows a high intensity of Happiness, Trust, and moderate intensity of Anticipation, reflecting the key emotional elements of the text.

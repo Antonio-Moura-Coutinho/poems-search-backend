@@ -1,0 +1,9 @@
+To analyze the emotional content of the provided text and generate the emotion vector, we can identify the emotional tones reflected in the text:
+
+- Happiness: The text conveys admiration and respect for Eleanor Roosevelt, which can be associated with a sense of happiness or positivity.
+- Fear: The text mentions fear, but it is addressed as something to be overcome with courage. The overall tone is one of facing fear with determination.
+- Trust: Trust is also present in the text, particularly trust in courage and human dignity.
+- Anticipation: While it is not explicitly mentioned in the text, the anticipation of change or progress can be inferred from the references to hope and courage.
+
+Based on the emotional analysis, the emotion vector for the text could be as follows:
+[0.4, 0, 0.2, 0, 0.1, 0, 0.2, 0.4, 0, 0, 0, 0, 0, 0]

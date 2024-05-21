@@ -1,0 +1,11 @@
+The emotional content of the text can be analyzed as follows:
+
+- Happiness: There is a sense of camaraderie and gratitude expressed towards Gunga Din, which could be associated with happiness.
+- Sadness: The text also contains elements of sadness, particularly in the context of war, injury, and death.
+- Fear: Fear is implied through the descriptions of combat situations and the danger faced by the soldiers.
+- Anger: There are moments of anger expressed in the text, particularly in the interactions with Gunga Din.
+- Trust: There is a sense of trust and reliance on Gunga Din displayed by the narrator and other soldiers.
+
+Based on the emotional analysis, the emotion vector for the text could be:
+
+[0.4, 0.3, 0.3, 0.2, 0.2, 0, 0.3, 0.4, 0, 0.3, 0, 0, 0.3, 0.4, 0]

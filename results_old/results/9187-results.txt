@@ -1,0 +1,11 @@
+Analyzing the emotional content of the text, we can identify the presence of the following emotions with varying intensities:
+
+- Sadness: The text expresses a sense of melancholy, longing, and disappointment in love and relationships.
+- Disgust: There is a tone of disdain and disillusionment towards inconstancy and faithlessness in relationships.
+- Anger: There is frustration and resentment towards the fleeting nature of love and the actions of the "roving youth."
+- Trust: There is a plea for trust and fidelity in relationships, indicating a desire for stability and commitment.
+
+Based on this analysis, the emotion vector for the text could be:
+[0, 0.6, 0, 0.3, 0.4, 0, 0, 0.2, 0, 0.4, 0, 0, 0, 0, 0]
+
+This vector represents the intensity of each emotion in the text. Please let me know if you need further assistance.

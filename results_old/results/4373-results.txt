@@ -1,0 +1,15 @@
+Emotion vector: [0.1, 0.4, 0.5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0.6, 0.5, 0.7]
+
+Explanation:
+- Happiness: 0.1 (Low happiness is indicated by the somber tone and themes of loss and longing throughout the text.)
+- Sadness: 0.4 (Moderate sadness is present due to the depiction of loss, emotional distance, and a sense of emptiness.)
+- Fear: 0.5 (Fear is represented by the unsettling imagery of body parts being scattered and removed, creating a sense of unease.)
+- Disgust: 0 (There is no clear disgust expressed in the text.)
+- Anger: 0 (There is no direct anger evident in the text.)
+- Surprise: 0 (There are no elements that elicit surprise.)
+- Anticipation: 0 (There is a lack of anticipation or expectation in the text.)
+- Trust: 0 (Trust is not a prominent emotion in the text.)
+- Distrust: 0 (Distrust is not explicitly present in the text.)
+- Love: 0 (Love is mentioned indirectly but not as a prevalent emotion.)
+- Saudade: 0 (The text evokes a sense of longing and nostalgia but not a specific feeling of Saudade.)
+- A

@@ -1,0 +1,5 @@
+Based on the text provided, the emotional vector can be determined as follows:
+
+[Happiness: 0.2, Sadness: 0.1, Fear: 0.1, Disgust: 0.2, Anger: 0.2, Surprise: 0.2, Anticipation: 0.1, Trust: 0.3, Distrust: 0.1, Love: 0.2, Saudade: 0, Awe: 0, Bittersweetness: 0, Melancholy: 0.2, Nostalgia: 0.1]
+
+This vector indicates a mix of emotions with higher intensity in emotions like Disgust, Anger, and Love, while also showing traces of Nostalgia and Melancholy.

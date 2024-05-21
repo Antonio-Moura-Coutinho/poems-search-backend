@@ -1,0 +1,5 @@
+Based on the emotional content of the text provided, the emotion vector can be estimated as follows:
+
+[Happiness: 0, Sadness: 0.8, Fear: 0.1, Disgust: 0.2, Anger: 0.4, Surprise: 0, Anticipation: 0.2, Trust: 0.1, Distrust: 0.4, Love: 0, Saudade: 0, Awe: 0.1, Bittersweetness: 0.6, Melancholy: 0.8, Nostalgia: 0.5]
+
+The text conveys a sense of deep sadness, melancholy, and bittersweetness primarily, as it explores themes of loss, identity struggle, and isolation. There are elements of disgust and distrust in relation to the speaker's experience with their own writing and cultural heritage. However, there are also undertones of fear, anger, anticipation, and a hint of nostalgia throughout the text. Overall, the predominant emotions are sadness, melancholy, and bittersweetness.

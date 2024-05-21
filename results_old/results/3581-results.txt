@@ -1,0 +1,5 @@
+The emotional content of the text leans towards a mix of Sadness, Anticipation, Love, and Awe.
+
+The emotion vector based on the text would be: [0.2, 0.4, 0, 0, 0, 0, 0.3, 0.4, 0, 0, 0, 0.3, 0.4, 0.2, 0]
+
+This vector represents a moderate level of sadness, a higher level of anticipation, a moderate level of love, and a moderate level of awe.

@@ -1,0 +1,3 @@
+Analyzing the emotional content of the text, the dominant emotions seem to be Anticipation and Trust. The tone is more about following advice, learning, and being secure in one's job. There is also an element of Anticipation in learning a trade and Trust in the advice given by the Grandfather. Other emotions such as Happiness, Love, and Nostalgia are not prominently expressed in this text.
+
+Based on this analysis, the emotion vector for the text could be [0, 0, 0, 0, 0, 0, 0.7, 0.65, 0, 0, 0, 0, 0, 0, 0].

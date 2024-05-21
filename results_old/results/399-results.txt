@@ -1,0 +1,9 @@
+The emotional content of the text seems to include the following emotions with varying intensities:
+
+- Sadness: The text conveys a sense of melancholy, reflecting on suffering and the passage of time.
+- Fear: There are mentions of fear, especially in the lines "then dares to paw across Mother’s face, so smilingdelirious" and "with the pattern and fear of all my dots."
+- Anticipation: The text hints at anticipation or expectation with phrases like "come haunt me still."
+- Trust: There is an element of trust in the line "I won’t return. I’m not afraid."
+
+Based on this analysis, the emotion vector for the text could be approximately:
+[0, 0.4, 0.2, 0, 0, 0, 0.2, 0.1, 0, 0, 0, 0, 0, 0].

@@ -1,0 +1,14 @@
+Emotion Vector: [0, 0.6, 0.7, 0.6, 0.6, 0, 0.5, 0, 0, 0, 0, 0, 0, 0, 0] 
+
+Explanation:
+- Happiness: 0 (No indication of happiness in the text)
+- Sadness: 0.6 (The text conveys a sense of sadness and loss with phrases like "We arise, we lie down, and we move in the belly of Death.")
+- Fear: 0.7 (The text conveys fear with the imagery of being destroyed by ships above and ensnared beneath, and the mention of death)
+- Disgust: 0.6 (The text conveys a negative emotion towards the ships and the consequences of their actions)
+- Anger: 0.6 (There is a sense of anger towards the ships for destroying and ensnaring them)
+- Surprise: 0 (No indication of surprise in the text)
+- Anticipation: 0.5 (There is anticipation and tension conveyed in the text with phrases like "The ships have a thousand eyes to mark where we come")
+- Trust: 0 (No indication of trust in the text)
+- Distrust: 0 (No indication of distrust in the text)
+- Love: 0 (No indication of love in the text)
+- Saudade: 0

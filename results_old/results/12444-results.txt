@@ -1,0 +1,6 @@
+The emotional content of the given text suggests a mixture of sadness, fear, and distrust. Based on the text mentioning the roasting alive of rabbis and the historical context of the Crusades, the emotions seem to lean towards darker and more negative themes. There is a sense of tragedy, violence, and betrayal implied. 
+
+Here is the emotion vector based on the analysis of the text: 
+[0, 0.4, 0.4, 0, 0, 0, 0, 0, 0.5, 0, 0, 0, 0, 0.4, 0] 
+
+This vector indicates a significant level of sadness, fear, and distrust in the text, with elements of melancholy and nostalgia as well.

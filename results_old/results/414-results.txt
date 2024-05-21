@@ -1,0 +1,6 @@
+The emotional content of the text seems to include a blend of Sadness, Love, Nostalgia, Anticipation, and Trust. Here is the emotion vector for the text:
+
+[0, 0.6, 0, 0, 0, 0, 0.2, 0.4, 0, 0.4, 0, 0, 0, 0.6, 0.4]
+
+
+This vector reflects the prominence of sadness, nostalgia, love, anticipation, and trust in the text while indicating low or minimal intensity for other emotions.

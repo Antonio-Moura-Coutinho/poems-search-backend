@@ -1,0 +1,3 @@
+The emotional content of the text appears to include elements of Sadness, Disgust, and a touch of Anticipation. The speaker seems to lament the fleeting nature of life and the impermanence of being remembered, suggesting a sense of sadness and dissatisfaction with earthly pursuits. The mention of talents not being treasured up for Heaven could evoke a feeling of disgust towards earthly vanity and materialism, as well as anticipation for a higher purpose or afterlife.
+
+Emotion Vector: [0, 0.4, 0, 0.3, 0, 0, 0.2, 0, 0, 0, 0, 0, 0, 0, 0]

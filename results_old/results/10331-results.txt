@@ -1,0 +1,3 @@
+Emotion vector: [0.2, 0, 0, 0, 0.1, 0, 0.3, 0.4, 0, 0, 0, 0, 0, 0.4, 0.3]
+
+This text conveys emotions of Anticipation, Trust, Melancholy, and Nostalgia. There is a sense of anticipation and trust in the dialogue between the father and son. The speaker fondly reminisces about history, evoking feelings of melancholy and nostalgia.

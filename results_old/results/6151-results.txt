@@ -1,0 +1,10 @@
+Analyzing the emotional content of the text, the emotions that stand out are:
+
+- Anticipation: The text describes a sense of anticipation and expectation, especially in the lines "doing that unspecified stuff nymphs do with their hours" and "until spied by a layabout youth, or rapey God who leaps unerring, staglike, quicker than smoke, to the wrong idea."
+  
+- Disgust: The mention of "ugly worm" and the feeling of having fumbled and left things obvious in the grass invoke a sense of disgust or discomfort.
+
+- Anger: The text hints at frustration or annoyance, particularly in lines such as "flattered — no ugly worm!" and "quicker than smoke, to the wrong idea."
+
+Based on the emotional analysis, the emotion vector could be:
+[0, 0, 0, 0.3, 0.3, 0, 0.3, 0, 0, 0, 0, 0, 0, 0].

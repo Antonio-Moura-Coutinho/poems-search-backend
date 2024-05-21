@@ -1,0 +1,16 @@
+Emotion Vector: [0.1, 0.7, 0.5, 0.2, 0.3, 0.1, 0.2, 0.1, 0.2, 0, 0, 0, 0.6, 0.6, 0.7]
+
+Explanation:
+- Happiness: 0.1 - Not much happiness is expressed in the text.
+- Sadness: 0.7 - The text conveys a strong sense of sadness and melancholy.
+- Fear: 0.5 - The feeling of fear is present, possibly related to the thought of loss.
+- Disgust: 0.2 - A slight hint of disgust may be perceived.
+- Anger: 0.3 - Some anger is implied through the emotional tone.
+- Surprise: 0.1 - There is very little surprise in the text.
+- Anticipation: 0.2 - Some anticipation can be inferred from the text.
+- Trust: 0.1 - A low level of trust is displayed.
+- Distrust: 0.2 - A sense of distrust is felt by the reader.
+- Love: 0 - There is no explicit expression of love in the text.
+- Saudade: 0 - No clear indication of saudade is present.
+- Awe: 0 - The text does not evoke a sense of awe.
+- Bittersweet

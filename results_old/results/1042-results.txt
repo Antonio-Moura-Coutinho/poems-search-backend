@@ -1,0 +1,14 @@
+Emotion Vector: [0, 0.5, 0.8, 0.6, 0.7, 0, 0.2, 0, 0.8, 0, 0, 0, 0.6, 0.7, 0.6]
+
+Explanation:
+- Happiness: 0 - The text does not exhibit happiness.
+- Sadness: 0.5 - The text conveys sadness through themes of guilt, fatigue, and visions of destruction.
+- Fear: 0.8 - The fear is prominent in the text through the imagery of the demon, guilt, and visions of filth and destruction.
+- Disgust: 0.6 - Disgust is portrayed through the description of festering wounds and filthy clothes.
+- Anger: 0.7 - The text carries a sense of anger, possibly towards the demon and the situation described.
+- Surprise: 0 - The text does not evoke surprise.
+- Anticipation: 0.2 - Anticipation is low but present in the sense of being led into the wilderness of ennui.
+- Trust: 0 - The text does not exhibit trust.
+- Distrust: 0.8 - Distrust is high due to the deceptiveness of the demon's actions and the feelings of being led astray.
+- Love: 0 - The text does not express love.
+- Saudade: 0

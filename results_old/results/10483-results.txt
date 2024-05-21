@@ -1,0 +1,19 @@
+This text seems to convey a sense of tranquility, appreciation for nature, and a touch of melancholy. The emotions present in the text can be analyzed as follows:
+
+- Happiness: 0.3
+- Sadness: 0.2
+- Fear: 0
+- Disgust: 0
+- Anger: 0
+- Surprise: 0
+- Anticipation: 0.2
+- Trust: 0.3
+- Distrust: 0
+- Love: 0.2
+- Saudade: 0
+- Awe: 0
+- Bittersweetness: 0.3
+- Melancholy: 0.4
+- Nostalgia: 0
+
+Emotion Vector: [0.3, 0.2, 0, 0, 0, 0, 0.2, 0.3, 0, 0, 0, 0, 0.3, 0.4, 0]

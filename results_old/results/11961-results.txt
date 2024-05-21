@@ -1,0 +1,5 @@
+This text conveys a mix of emotions. Based on the content, the emotional vector could look like this: 
+
+[0.2, 0.4, 0.3, 0.2, 0.3, 0.2, 0.3, 0.4, 0.3, 0, 0, 0, 0, 0.5, 0.6]
+
+This vector represents moderate levels of sadness, fear, anger, distrust, melancholy, and nostalgia, with lower levels of happiness, disgust, surprise, anticipation, and love.

@@ -1,0 +1,6 @@
+Based on the emotional content of the text provided, the emotions expressed seem to be a mix of melancholy, nostalgia, and a hint of sadness. The uncertainty and questioning in the text convey a sense of melancholy and nostalgia for past decisions or relationships. The overall tone appears to lean more towards reflective and wistful emotions rather than intense feelings of happiness, fear, anger, or love.
+
+The emotion vector for this text could be:
+[0.1, 0.3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0.6, 0.5]
+
+This vector signifies a low level of happiness, a moderate level of sadness, and a higher level of melancholy and nostalgia.

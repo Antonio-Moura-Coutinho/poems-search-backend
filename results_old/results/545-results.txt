@@ -1,0 +1,21 @@
+To analyze the emotional content of the text, we can identify the following emotions and their intensities:
+
+Happiness: 0
+Sadness: 0.8
+Fear: 0.6
+Disgust: 0.3
+Anger: 0.5
+Surprise: 0
+Anticipation: 0
+Trust: 0.2
+Distrust: 0.4
+Love: 0
+Saudade: 0
+Awe: 0
+Bittersweetness: 0.4
+Melancholy: 0.6
+Nostalgia: 0
+
+Combining these emotions and their intensities into a vector, we get: [0, 0.8, 0.6, 0.3, 0.5, 0, 0, 0.2, 0.4, 0, 0, 0.4, 0.6, 0]
+
+This vector shows a strong presence of sadness, fear, and anger in the text, along with elements of distrust, bittersweetness, and melancholy.

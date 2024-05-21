@@ -1,0 +1,6 @@
+To analyze the emotional content of the text provided, we can see a sense of anticipation building up towards the end. The repetition of "Wait" creates a feeling of suspense and expectation, leading to a sudden change in the final word "NOW." This shift indicates a release of the built-up tension and immediate action.
+
+Emotion vector:
+[0, 0, 0, 0, 0, 0, 0.8, 0, 0, 0, 0, 0, 0, 0, 0] 
+
+This vector suggests a high level of anticipation while not displaying other specific emotions strongly.

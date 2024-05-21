@@ -1,0 +1,5 @@
+Based on the text provided, the emotional content seems to convey a sense of sadness, disgust, and perhaps a touch of fear and melancholy. The imagery of a dead deer, its decomposition, the consumption by other creatures, and the overall somber tone contribute to these emotional cues.
+
+The emotion vector for the text could be as follows based on the analysis:
+
+[0, 0.7, 0.2, 0.8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0.7, 0]

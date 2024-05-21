@@ -1,0 +1,5 @@
+Based on the text provided, the emotions expressed include anticipation, love, and a sense of change or new beginnings. Here's the emotion vector for the text:
+
+[0, 0, 0, 0, 0, 0, 0.8, 0.5, 0, 0.7, 0, 0, 0, 0, 0]
+
+This vector indicates a high level of anticipation, love, and trust while not showing significant presence of other emotions.

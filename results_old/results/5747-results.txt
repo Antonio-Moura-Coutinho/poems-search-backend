@@ -1,0 +1,16 @@
+Based on the emotional content of the text, the emotion vector could be as follows: [0, 0.4, 0.3, 0, 0, 0.2, 0.1, 0, 0, 0, 0, 0.1, 0.3, 0.4, 0].
+
+Explanation:
+- Happiness: 0 (not apparent in the text)
+- Sadness: 0.4 (emotions like faded voice, average feeling, and the river flowing in silence imply a sense of sadness)
+- Fear: 0.3 (the mention of a huge frog in the driveway and silence in the text can evoke a sense of fear)
+- Disgust: 0 (not apparent in the text)
+- Anger: 0 (not apparent in the text)
+- Surprise: 0.2 (elements like the fading voice may bring a slight surprise)
+- Anticipation: 0.1 (the mention of buying juice and a small boat drifting can create a sense of anticipation)
+- Trust: 0 (not apparent in the text)
+- Distrust: 0 (not apparent in the text)
+- Love: 0 (not apparent in the text)
+- Saudade: 0 (not apparent in the text)
+- Awe: 0.1 (not significant but can be attributed to the river flowing in silence)
+- Bittersweetness:

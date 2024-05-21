@@ -1,0 +1,15 @@
+Emotion vector for the provided text: [0, 0.6, 0.4, 0, 0, 0, 0.3, 0.5, 0, 0.7, 0, 0, 0.8, 0.8, 0]
+
+Explanation:
+- Happiness: 0 (Not present in the text)
+- Sadness: 0.6 (The text conveys sadness through the depiction of the old age and death of the loved one)
+- Fear: 0.4 (There is a sense of fear or unease hinted at through the coldness and uncanny description of the beloved)
+- Disgust: 0 (Not present in the text)
+- Anger: 0 (Not present in the text)
+- Surprise: 0 (Not present in the text)
+- Anticipation: 0.3 (There is an element of anticipation in the way the loved one is described as sleeping and dreaming of perfect things)
+- Trust: 0.5 (There is trust and intimate connection expressed in the description of the loved one sleeping like a bride)
+- Distrust: 0 (Not present in the text)
+- Love: 0.7 (The text is filled with expressions of love and endearment towards the beloved)
+- Saudade: 0 (Not explicitly present in the text)
+- Awe: 0 (Not present in the

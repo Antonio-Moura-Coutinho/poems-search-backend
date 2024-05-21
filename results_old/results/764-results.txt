@@ -1,0 +1,3 @@
+Based on the text provided, the emotional content seems to include elements of Sadness, Melancholy, Anticipation, and Nostalgia. Here is the emotion vector based on the intensity of these emotions:
+
+[Sadness: 0.5, Melancholy: 0.4, Anticipation: 0.3, Nostalgia: 0.4, Happiness: 0, Fear: 0, Disgust: 0, Anger: 0, Surprise: 0, Trust: 0, Distrust: 0, Love: 0, Saudade: 0, Awe: 0, Bittersweetness: 0]

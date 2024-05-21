@@ -1,0 +1,21 @@
+To analyze the emotional content of the text you provided, I will calculate the intensity of each emotion based on the words and phrases used. 
+
+Here is the emotion vector for the text you provided:
+
+[Happiness: 0
+Sadness: 0.6
+Fear: 0.1
+Disgust: 0
+Anger: 0.3
+Surprise: 0
+Anticipation: 0.2
+Trust: 0
+Distrust: 0
+Love: 0
+Saudade: 0
+Awe: 0
+Bittersweetness: 0
+Melancholy: 0.7
+Nostalgia: 0]
+
+This vector indicates that the text has high intensity in sadness and melancholy, moderate intensity in anger and anticipation, and low intensity in fear.

@@ -1,0 +1,5 @@
+The emotional content of the text leans towards a mix of curiosity, wonder, unease, and contemplation. From the text, the emotions can be interpreted and quantified as follows:
+
+[Happiness: 0.2, Sadness: 0.2, Fear: 0.2, Disgust: 0, Anger: 0, Surprise: 0.3, Anticipation: 0.4, Trust: 0.3, Distrust: 0, Love: 0.2, Saudade: 0, Awe: 0.3, Bittersweetness: 0.1, Melancholy: 0.1, Nostalgia: 0]
+
+This vector captures the varying intensities of emotions present in the text, such as anticipation, surprise, and a touch of melancholy, among others.

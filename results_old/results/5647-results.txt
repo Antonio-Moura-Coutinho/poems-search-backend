@@ -1,0 +1,21 @@
+Based on the text provided, the emotional vector can be analyzed as follows:
+
+[Happiness, Sadness, Fear, Disgust, Anger, Surprise, Anticipation, Trust, Distrust, Love, Saudade, Awe, Bittersweetness, Melancholy, Nostalgia]
+
+- Happiness: 0.4
+- Sadness: 0
+- Fear: 0
+- Disgust: 0
+- Anger: 0
+- Surprise: 0.3
+- Anticipation: 0.2
+- Trust: 0.6
+- Distrust: 0
+- Love: 0
+- Saudade: 0
+- Awe: 0.4
+- Bittersweetness: 0
+- Melancholy: 0
+- Nostalgia: 0
+
+So, the emotional vector for the text "An arty feline couple parodies bourgeois gender roles and literary values before the days of  YouTube" would be [0.4, 0, 0, 0, 0, 0.3, 0.2, 0.6, 0, 0, 0, 0.4, 0, 0].

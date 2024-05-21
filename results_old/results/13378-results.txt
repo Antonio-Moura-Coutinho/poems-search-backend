@@ -1,0 +1,14 @@
+To analyze the emotional content of the text, I will provide an emotion vector based on the intensity of the emotions expressed in the text. Here is the emotion vector:
+
+[0.2, 0.4, 0.3, 0.1, 0, 0, 0.1, 0.3, 0.1, 0, 0, 0, 0.5, 0.6, 0]
+
+Explanation:
+- Happiness: 0.2: There are moments of joy, such as the daughter laughing, but overall, the text leans more towards other emotions.
+- Sadness: 0.4: The text conveys a sense of regret, missed opportunities, and potential danger, contributing to a higher level of sadness.
+- Fear: 0.3: The fear of the potential danger and the situation of jumping off a moving bus contribute to this emotion.
+- Disgust: 0.1: There is no explicit disgust expressed in the text.
+- Anger: 0: There is no discernible anger in the text.
+- Surprise: 0: Surprise is not a prominent emotion in this text.
+- Anticipation: 0.1: There is a sense of anticipation or tension related to the actions described.
+- Trust: 0.3: Trust is expressed in the observations of the young mother and the care taken to avoid a similar situation in the future.
+- Distr

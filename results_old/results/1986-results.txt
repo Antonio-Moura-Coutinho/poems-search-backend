@@ -1,0 +1,20 @@
+To analyze the emotional content of the text provided, we can identify and assign emotional weights to specific words, phrases, and overall themes. From the text, we can discern the following emotional tones:
+
+Happiness: 0.4 (expressed through activities like carpet designing and enjoying work)
+Sadness: 0.3 (hinted at with themes of yearning, corruption in society, and struggles)
+Fear: 0
+Disgust: 0.1 (implied through the mention of corruption stains)
+Anger: 0
+Surprise: 0.2 (indicated by moments of unexpected or dreamlike imagery)
+Anticipation: 0.3 (shown through looking forward to changes)
+Trust: 0.3 (shown in references to employers and those who appreciate the protagonist's work)
+Distrust: 0
+Love: 0.4 (shown through artistic endeavors and connections to others)
+Saudade: 0.2 (suggested through the longing for home and deeper emotional undertones)
+Awe: 0.3 (inspired by descriptions of nature and historical settings)
+Bittersweetness: 0.2 (mixed emotions of joy and sadness)
+Melancholy: 0.3 (imbued in reflections on principles and personal challenges)
+Nostalgia: 0.2 (evoked through memories and reflections on past experiences)
+
+Using these emotional weights, we can construct the emotion vector as follows:
+[

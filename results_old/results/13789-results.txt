@@ -1,0 +1,21 @@
+Based on the text provided, the emotional vector can be analyzed as follows:
+
+[Happiness, Sadness, Fear, Disgust, Anger, Surprise, Anticipation, Trust, Distrust, Love, Saudade, Awe, Bittersweetness, Melancholy, Nostalgia]
+
+- Happiness: 0.2
+- Sadness: 0.6
+- Fear: 0.1
+- Disgust: 0.1
+- Anger: 0.1
+- Surprise: 0
+- Anticipation: 0.3
+- Trust: 0.2
+- Distrust: 0.2
+- Love: 0
+- Saudade: 0
+- Awe: 0
+- Bittersweetness: 0.4
+- Melancholy: 0.6
+- Nostalgia: 0.3
+
+The text portrays a mix of emotions, with a predominant sense of sadness and melancholy along with elements of anticipation, bittersweetness, and nostalgia. There is a contrast between contentment in the present and an underlying feeling of impending loss and the passage of time.

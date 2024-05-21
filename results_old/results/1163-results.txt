@@ -1,0 +1,12 @@
+Analyzing the emotional content of the text, the emotions present include:
+
+- Melancholy: The mood of the text seems reflective and somewhat sorrowful, as indicated by the contemplative imagery and the somber tone.
+- Anticipation: There is a sense of anticipation or suspense hinted at by the mention of figures and the setting under the moonlight.
+- Awe: The description of the Night-blooming Cereus and the imagery of giant white goddesses evoke a sense of awe or wonder.
+- Fear: The presence of men with large guns singing through the woods could evoke an element of fear or unease.
+
+Based on this analysis, the emotion vector for the text could be:
+
+[0, 0, 0.2, 0, 0, 0, 0.3, 0, 0, 0, 0, 0, 0, 0.8, 0] 
+
+This vector represents the intensity of each emotional category identified in the text.

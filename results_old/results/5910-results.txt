@@ -1,0 +1,19 @@
+Based on the emotional content of the text, the emotion vector can be estimated as follows:
+
+[Happiness: 0,
+Sadness: 0.5,
+Fear: 0.8,
+Disgust: 0.2,
+Anger: 0.3,
+Surprise: 0.1,
+Anticipation: 0.3,
+Trust: 0.1,
+Distrust: 0.7,
+Love: 0,
+Saudade: 0,
+Awe: 0,
+Bittersweetness: 0.4,
+Melancholy: 0.6,
+Nostalgia: 0]
+
+Please note that emotions can be interpreted subjectively, and the vector is an estimation based on the given text.

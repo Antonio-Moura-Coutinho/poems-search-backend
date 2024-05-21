@@ -1,0 +1,8 @@
+Based on the text provided, the emotional content seems to involve elements of:
+
+- Anticipation (wondering about the workers' intent)
+- Disgust (at the lack of understanding or empathy)
+- Distrust (skepticism about the situation and motivations)
+- Sadness (mention of workers needing one-way trips and the cost involved)
+
+Emotion Vector: [0, 0.3, 0, 0.3, 0, 0, 0.2, 0, 0.2, 0, 0, 0, 0, 0]

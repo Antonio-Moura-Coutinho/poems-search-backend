@@ -1,0 +1,5 @@
+The emotional analysis of the text yields the following emotion vector:
+
+[Happiness: 0, Sadness: 0.75, Fear: 0.95, Disgust: 0.55, Anger: 0.6, Surprise: 0.2, Anticipation: 0.4, Trust: 0.1, Distrust: 0.9, Love: 0, Saudade: 0.4, Awe: 0, Bittersweetness: 0.7, Melancholy: 0.8, Nostalgia: 0.3]
+
+The text predominantly evokes feelings of sadness, fear, disgust, and anger, with elements of distrust, melancholy, and bittersweetness. A sense of anticipation and nostalgia is also present to a lesser degree.

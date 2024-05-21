@@ -1,0 +1,3 @@
+The emotional content of the text is primarily melancholic and somewhat sad, with a touch of sadness, fear, and perhaps a hint of bittersweetness. The scene described evokes a sense of loss and impending death, contributing to the melancholic tone.
+
+Emotion vector: [0, 0.4, 0.2, 0, 0, 0, 0, 0, 0, 0, 0, 0.3, 0.3, 0]

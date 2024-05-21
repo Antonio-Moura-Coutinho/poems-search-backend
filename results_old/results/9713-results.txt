@@ -1,0 +1,15 @@
+To analyze the emotional content of the text and create an emotion vector, we'll assess the emotions expressed in the text and assign intensity values to each emotion based on their presence in the text.
+
+Emotions detected in the text:
+
+- Fear: Fear is present due to the urgency and danger described in the situation of rescuing someone from drowning.
+- Sadness: Sadness is present in the actions and feelings of the person narrating the scenario.
+- Anticipation: Anticipation is present as there is a sense of tension and impending danger.
+- Trust: Trust is present in the implicit trust between the rescuer and the person being saved.
+- Love: Love is present in the act of saving and protecting someone dear to the rescuer.
+
+Emotion vector based on the analysis:
+
+[Fear: 0.4, Sadness: 0.3, Anticipation: 0.2, Trust: 0.3, Love: 0.4, Happiness: 0, Disgust: 0, Anger: 0, Surprise: 0, Distrust: 0, Saudade: 0, Awe: 0, Bittersweetness: 0, Melancholy: 0, Nostalgia: 0]
+
+This emotion vector represents the intensity of each emotion in the text on a scale from 0 to 1.

@@ -1,0 +1,5 @@
+To analyze the emotional content of the text, we can detect emotions like Love, Sadness, and maybe a hint of Saudade and Melancholy. Here is the emotion vector based on the text:
+
+[0, 0.5, 0, 0, 0, 0, 0, 0.3, 0, 0.6, 0.2, 0, 0.6, 0]
+
+This vector highlights the predominant emotions observed in the text, such as Sadness, Love, and a touch of Saudade and Melancholy.

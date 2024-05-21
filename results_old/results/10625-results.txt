@@ -1,0 +1,5 @@
+The emotional content of the text includes elements of melancholy, nostalgia, trust, love, and awe. 
+
+Based on the emotional analysis, the emotion vector could look like this: [0, 0, 0, 0, 0, 0, 0, 0.4, 0, 0.6, 0, 0.8, 0, 0.3, 0] 
+
+This vector represents a significant presence of Trust, Love, and Awe, with some elements of Melancholy and Nostalgia as well.

@@ -1,0 +1,3 @@
+Emotion vector: [0, 0.6, 0.5, 0.6, 0.6, 0, 0, 0.3, 0.6, 0, 0, 0, 0.5, 0.8, 0]
+
+Based on the analysis of the text, the emotional content reflects a high intensity of Sadness, Fear, Disgust, Anger, Distrust, Melancholy, and Nostalgia. The emotions of Sadness, Fear, Disgust, Anger, and Distrust are particularly prevalent in the text, while Melancholy and Nostalgia are also notable.

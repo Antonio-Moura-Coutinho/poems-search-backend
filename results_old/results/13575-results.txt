@@ -1,0 +1,5 @@
+Based on the text provided, the emotional content seems to be primarily focused on admiration, respect, and inspiration rather than strong emotions. Here is the emotion vector based on the text:
+
+[0.2, 0.1, 0, 0, 0, 0, 0.3, 0.4, 0, 0.3, 0, 0.3, 0, 0]
+
+This emotional vector indicates a moderate level of anticipation, trust, love, and bittersweetness, with a hint of happiness and nostalgia. Other emotions like sadness, fear, disgust, anger, surprise, distrust, saudade, awe, melancholy are not strongly evident in the text provided.

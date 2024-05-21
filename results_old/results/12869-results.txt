@@ -1,0 +1,1 @@
+Analyzing the emotional content of the text, the dominant emotions conveyed are Anticipation, Happiness, and Awe, with a hint of Melancholy and Nostalgia. The emotion vector for the text would be: [0.3, 0, 0, 0, 0, 0, 0.6, 0, 0, 0, 0, 0.4, 0.3, 0.2, 0].

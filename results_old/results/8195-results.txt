@@ -1,0 +1,11 @@
+Based on the emotional content of the text, the emotion vector can be analyzed as follows:
+
+[Happiness, Sadness, Fear, Disgust, Anger, Surprise, Anticipation, Trust, Distrust, Love, Saudade, Awe, Bittersweetness, Melancholy, Nostalgia]
+
+The emotional intensity observed in the text seems to primarily include elements of sadness, disgust, anger, and possibly a hint of bittersweetness and melancholy. The mention of trees being felled, the disregard for nature and ecology, and the destruction being wrought evoke feelings of sadness, disgust, and anger.
+
+Therefore, the emotion vector for this text could be:
+
+[0, 0.6, 0, 0.7, 0.7, 0, 0, 0, 0, 0, 0, 0, 0.3, 0.6, 0]
+
+This vector represents high levels of sadness, disgust, and anger, with a moderate level of bittersweetness and melancholy.

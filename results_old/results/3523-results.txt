@@ -1,0 +1,5 @@
+This text expresses a sense of melancholy, nostalgia, and a hint of anticipation. The emotions in the text can be summarized in the emotion vector as follows: 
+
+[0, 0, 0, 0, 0, 0, 0.2, 0.5, 0, 0, 0, 0, 0.4, 0.6, 0.5]
+
+This vector shows a high intensity of nostalgia and melancholy, a moderate level of anticipation, and a certain amount of trust and bittersweetness in contemplating the passage of time and beauty.

@@ -1,0 +1,5 @@
+To analyze the emotional content of the text provided, I will assess the intensity of each emotion in the context of the given poem. Here is the emotion vector for the text: 
+
+[Happiness: 0, Sadness: 0.7, Fear: 0, Disgust: 0, Anger: 0, Surprise: 0, Anticipation: 0, Trust: 0, Distrust: 0, Love: 0, Saudade: 0, Awe: 0, Bittersweetness: 0.8, Melancholy: 0.9, Nostalgia: 0.7] 
+
+Based on the text, it primarily conveys feelings of sadness, melancholy, bittersweetness, and nostalgia, with a strong emphasis on the loss of beauty and nature's transience. The imagery of tears, grief, and wilted flowers evokes a deep sense of sorrow, longing, and reflection on the past. The emotions of trust, surprise, fear, and anger are not prominent in this poem.

@@ -1,0 +1,1 @@
+['Sadness: 0.3', ' Desire: 0.6', ' Longing: 0.4', ' Reflectiveness: 0.3', ' Yearning: 0.4', ' Nostalgia: 0.4']

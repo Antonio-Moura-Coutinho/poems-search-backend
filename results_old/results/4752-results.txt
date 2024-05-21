@@ -1,0 +1,9 @@
+Based on the emotional content of the text, here is the emotion vector:
+
+[0, 0.7, 0.8, 0, 0.6, 0, 0.6, 0, 0.7, 0, 0, 0, 0.6, 0.8, 0]
+
+Explanation:
+- Sadness and Distrust are the most prominent emotions in the text, indicated by the high scores for those emotions.
+- Fear, Anger, and Melancholy also have notable intensities in the text.
+- Anticipation, Love, and Nostalgia have moderate intensities.
+- Other emotions like Happiness, Disgust, Surprise, Trust, Saudade, Awe, and Bittersweetness are not strongly expressed in the text.

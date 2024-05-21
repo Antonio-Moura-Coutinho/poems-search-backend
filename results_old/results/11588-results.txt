@@ -1,0 +1,13 @@
+To analyze the emotional content of the text, we can identify the following emotions:
+
+- Sadness
+- Fear
+- Disgust
+- Anger
+- Distrust
+
+Considering the intensity of these emotions in the text, the emotion vector can be approximated as follows:
+
+[0, 0.7, 0.8, 0.8, 0.9, 0, 0, 0, 0.6, 0, 0, 0, 0, 0, 0]
+
+This vector represents the intensity of each of the emotions mentioned in the text on a scale from 0 to 1. The text predominantly conveys feelings of sadness, fear, disgust, anger, and distrust.

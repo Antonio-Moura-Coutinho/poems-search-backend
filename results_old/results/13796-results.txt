@@ -1,0 +1,3 @@
+The emotional content of the text indicates a mix of emotions, including a sense of defiance, frustration, resilience, and a hint of melancholy and nostalgia. The emotions present in varying intensities are: Anger, Defiance, Defensiveness, Resilience, Frustration, Yearning, and Melancholy. Based on these emotional cues, the emotion vector for the text could be as follows:
+
+[0, 0, 0, 0, 0.7, 0, 0, 0, 0, 0, 0, 0, 0, 0.5, 0.3]

@@ -1,0 +1,5 @@
+Based on the emotional content of the text, the following emotion vector could be generated:
+
+[0.2, 0.1, 0.1, 0, 0, 0.3, 0.3, 0.2, 0, 0, 0.1, 0, 0.1, 0.3, 0]
+
+This indicates moderate levels of Surprise, Anticipation, Trust, Melancholy, and Nostalgia, with lower levels of Happiness, Sadness, Fear, and Love.

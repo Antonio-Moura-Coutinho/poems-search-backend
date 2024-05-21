@@ -1,0 +1,18 @@
+Emotion Vector: [0, 0.5, 0.4, 0.3, 0.2, 0, 0.4, 0.3, 0.5, 0, 0, 0, 0, 0.4, 0]
+
+Explanation:
+- Happiness: 0 (Not present)
+- Sadness: 0.5 (Expressed through themes of deception and lost trust)
+- Fear: 0.4 (Fear of being deceived or losing trust)
+- Disgust: 0.3 (Disgust towards doubt and deception)
+- Anger: 0.2 (Anger towards the doubting fiend and deceit)
+- Surprise: 0 (Not present)
+- Anticipation: 0.4 (Anticipation of potential deception or loss)
+- Trust: 0.3 (Desire for trust and belief)
+- Distrust: 0.5 (Theme of doubt and deception)
+- Love: 0 (Not directly expressed)
+- Saudade: 0 (Not present)
+- Awe: 0 (Not present)
+- Bittersweetness: 0 (Not present)
+- Melancholy: 0.4 (Feelings of sadness combined with a sense of longing for truth)
+- Nostalgia: 0 (Not present)

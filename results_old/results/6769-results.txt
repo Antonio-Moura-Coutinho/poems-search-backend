@@ -1,0 +1,5 @@
+This text contains a mix of intense emotions, including Fear, Anticipation, Anger, and Awe. Based on the emotional content of the text, the emotion vector could be as follows:
+
+[0, 0.1, 0.6, 0.3, 0.4, 0, 0.5, 0.8, 0, 0, 0, 0, 0, 0]
+
+This vector indicates a high level of Fear, Anticipation, Anger, and Awe, while other emotions have lower or no intensity in this text.

@@ -1,0 +1,5 @@
+Emotion vector for the text:
+
+[Happiness: 0.2, Sadness: 0.3, Fear: 0.4, Disgust: 0.1, Anger: 0.2, Surprise: 0.3, Anticipation: 0.4, Trust: 0.4, Distrust: 0.1, Love: 0.2, Saudade: 0, Awe: 0.2, Bittersweetness: 0.3, Melancholy: 0.3, Nostalgia: 0.1] 
+
+Based on the text, the emotions of fear, anticipation, and trust appear to be more prominent, followed by a sense of sadness, surprise, bittersweetness, and melancholy. Other emotions such as happiness, disgust, anger, love, awe, distrust, saudade, and nostalgia have a lower intensity within the text.

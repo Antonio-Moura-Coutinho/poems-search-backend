@@ -1,0 +1,19 @@
+To analyze the emotional content of the text and create an emotion vector, we'll need to identify the predominant emotions expressed in the text. After analyzing the text, the following emotions appear to be present to varying degrees:
+
+Happiness: 0
+Sadness: 0.4
+Fear: 0.3
+Disgust: 0.4
+Anger: 0.2
+Surprise: 0
+Anticipation: 0.2
+Trust: 0
+Distrust: 0.3
+Love: 0
+Saudade: 0
+Awe: 0
+Bittersweetness: 0.3
+Melancholy: 0.5
+Nostalgia: 0.3
+
+The resulting emotion vector would be: [0, 0.4, 0.3, 0.4, 0.2, 0, 0.2, 0, 0.3, 0, 0, 0.3, 0.5, 0.3]

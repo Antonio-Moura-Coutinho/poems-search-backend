@@ -1,0 +1,11 @@
+To analyze the emotional content of the text, we can identify the emotions expressed and determine their intensity. In this poem, the emotions conveyed include:
+
+- Sadness: The mention of a corpse being carried from the house and the lilies rotting implies a sense of sadness and loss.
+- Fear: The image of a corpse being carried and the mystery of the situation can evoke fear.
+- Anticipation: The repeated knocking on the door and the mention of the closed door build anticipation and suspense.
+
+Based on these emotions, we can create an emotion vector representing the intensity of each emotion:
+
+[Sadness: 0.8, Fear: 0.6, Anticipation: 0.5, Happiness: 0, Disgust: 0, Anger: 0, Surprise: 0, Trust: 0, Distrust: 0, Love: 0, Saudade: 0, Awe: 0, Bittersweetness: 0, Melancholy: 0, Nostalgia: 0]
+
+This vector indicates a high level of sadness and fear, with a moderate level of anticipation present in the text.

@@ -1,0 +1,6 @@
+To analyze the emotional content of the text, we can identify the following emotions based on the words used:
+- Love
+- Trust
+- Anticipation
+
+Emotion Vector: [0, 0, 0, 0, 0, 0, 0.8, 0.7, 0, 0, 0, 0, 0, 0, 0]

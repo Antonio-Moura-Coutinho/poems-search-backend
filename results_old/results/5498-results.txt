@@ -1,0 +1,19 @@
+To analyze the emotional content of the text and create an emotion vector, we will examine the text for various emotions mentioned. Let's break it down into emotions and assign an intensity to each emotion on a scale from 0 to 1.
+
+- Happiness: Low(0.1)
+- Sadness: High(0.8)
+- Fear: Low(0.1)
+- Disgust: Low(0.1)
+- Anger: Low(0.1)
+- Surprise: Low(0.1)
+- Anticipation: Low(0.1)
+- Trust: Low(0.1)
+- Distrust: Low(0.1)
+- Love: Low(0.1)
+- Saudade: Low(0.1)
+- Awe: Low(0.1)
+- Bittersweetness: High(0.7)
+- Melancholy: High(0.7)
+- Nostalgia: Moderate(0.4)
+
+The emotion vector based on the emotional analysis of the text would be: [0.1, 0.8, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.7, 0.7, 0.4]

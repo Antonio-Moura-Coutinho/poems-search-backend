@@ -1,0 +1,12 @@
+To analyze the emotional content of the text, we can identify the following emotions and their intensities:
+
+- Sadness: The mention of both Lynn's mother and the narrator's father having died indicates a sense of loss and sadness. The text also conveys a sense of disconnect in communication between family members, which adds to the overall feeling of sadness.
+- Disgust: The description of the game where the captor shoots arrows into the prisoner's heart may evoke feelings of disgust due to the violent imagery.
+- Fear: The idea of the game itself, with one person being the prisoner and having arrows shot into their heart, could evoke feelings of fear.
+- Trust: Despite the initial dislike between Lynn and the narrator, the shared experience of playing the secret game suggests a form of trust or bonding.
+
+Based on the emotional analysis, the emotion vector for the text could be:
+
+[0, 0.5, 0.3, 0.2, 0, 0, 0, 0.4, 0, 0.3, 0, 0, 0, 0, 0] 
+
+This vector indicates a high level of sadness, some fear, a moderate sense of disgust, and a significant level of trust.

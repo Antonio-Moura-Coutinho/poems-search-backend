@@ -1,0 +1,20 @@
+To analyze the emotional content of the text and create an emotion vector, we will focus on the predominant emotions expressed throughout the text. Based on the text provided, the following emotions are prominent:
+
+Happiness: 0.20
+Sadness: 0.50
+Fear: 0.20
+Disgust: 0.00
+Anger: 0.20
+Surprise: 0.20
+Anticipation: 0.30
+Trust: 0.60
+Distrust: 0.10
+Love: 0.30
+Saudade: 0.00
+Awe: 0.40
+Bittersweetness: 0.30
+Melancholy: 0.70
+Nostalgia: 0.30
+
+Putting these values into the emotion vector format, the resulting emotion vector would be:
+[0.20, 0.50, 0.20, 0.00, 0.20, 0.20, 0.30, 0.60, 0.10, 0.30, 0.00, 0.40, 0.30, 0.70, 0.30]

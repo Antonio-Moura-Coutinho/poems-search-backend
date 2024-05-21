@@ -1,0 +1,6 @@
+The emotional content of the text leans heavily towards positive emotions such as Happiness, Trust, and Love, with elements of Awe and Anticipation. The religious nature of the text also conveys a sense of Awe and Wonder.
+
+Based on the analysis, the emotion vector for the text could be:
+[0.8, 0, 0, 0, 0, 0.3, 0.4, 0.6, 0, 0.6, 0, 0.4, 0, 0].
+
+This vector represents a high intensity of Happiness, Trust, Love, Anticipation, and Awe while other emotions like Fear, Anger, Disgust, Distrust, and Melancholy are minimal or absent in the text.

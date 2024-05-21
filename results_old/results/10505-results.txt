@@ -1,0 +1,4 @@
+The emotional vector for the text is:
+[0.1, 0.4, 0.3, 0.3, 0.2, 0.3, 0.3, 0.4, 0.2, 0.1, 0.2, 0.3, 0.4, 0.3, 0.3]
+
+This indicates a significant presence of emotions such as sadness, fear, disgust, anticipation, distrust, bittersweetness, and melancholy in the text.

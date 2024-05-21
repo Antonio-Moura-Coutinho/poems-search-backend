@@ -1,0 +1,3 @@
+The emotional vector for the provided text is as follows: [0.1, 0.4, 0.6, 0.3, 0.2, 0.3, 0.4, 0.5, 0.2, 0.1, 0.2, 0.4, 0.4, 0.4, 0]. 
+
+This text conveys a mix of emotions, with a higher intensity of Fear, Anticipation, Trust, Bittersweetness, Melancholy, and Nostalgia. The depiction of the protagonist's experience of feeling valued and needed in a place they were forced to leave creates emotions of longing and reminiscence, contributing to the higher values for Nostalgia, Melancholy, and Bittersweetness in the vector. The intense imagery of the operating system crash and being airlifted mid-gesture evokes feelings of Fear and Surprise. The admission of being taken with the place underscores Trust and Anticipation.

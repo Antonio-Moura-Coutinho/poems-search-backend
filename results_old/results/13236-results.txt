@@ -1,0 +1,19 @@
+Emotion Vector: [0.7, 0.1, 0, 0, 0, 0, 0.5, 0.7, 0, 0.4, 0, 0.2, 0.2, 0.3, 0]
+
+Based on the emotional content of the text provided, the emotion vector reflects the intensity of various emotions as follows:
+
+- Happiness: 0.7
+- Sadness: 0.1
+- Fear: 0
+- Disgust: 0
+- Anger: 0
+- Surprise: 0
+- Anticipation: 0.5
+- Trust: 0.7
+- Distrust: 0
+- Love: 0.4
+- Saudade: 0
+- Awe: 0.2
+- Bittersweetness: 0.2
+- Melancholy: 0.3
+- Nostalgia: 0

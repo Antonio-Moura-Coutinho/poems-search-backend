@@ -1,0 +1,3 @@
+Analyzing the emotional content of the text provided, the predominant emotions seem to be Sadness, Disgust, Anticipation, and Trust. Here is the emotion vector based on the intensity of each emotion present in the text:
+
+[Sadness: 0.4, Disgust: 0.3, Anticipation: 0.6, Trust: 0.5, Happiness: 0, Fear: 0, Anger: 0, Surprise: 0, Distrust: 0, Love: 0, Saudade: 0, Awe: 0, Bittersweetness: 0, Melancholy: 0.4, Nostalgia: 0]

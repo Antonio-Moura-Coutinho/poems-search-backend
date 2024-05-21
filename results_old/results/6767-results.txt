@@ -1,0 +1,5 @@
+The text you provided contains a mix of emotions, including fear, surprise, disgust, and a hint of love. Here is the emotion vector based on the emotional content of the text:
+
+[0, 0, 0.4, 0.3, 0, 0.3, 0, 0.2, 0, 0.2, 0, 0, 0, 0]
+
+This vector indicates a moderate presence of fear, disgust, and surprise, a slight presence of love, and minimal to no presence of other emotions in the text.

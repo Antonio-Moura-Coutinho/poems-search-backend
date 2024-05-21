@@ -1,0 +1,12 @@
+To analyze the emotional content of the text, we need to consider the overall tone and themes present in the verses. From the given text, we can observe a mix of various emotions, including:
+
+- Sadness
+- Anticipation
+- Awe
+- Melancholy
+
+Based on these emotional cues, we can create an emotion vector to represent the intensity of each emotion in the text:
+
+[Sadness: 0.6, Anticipation: 0.4, Awe: 0.3, Melancholy: 0.5, Happiness: 0, Fear: 0, Disgust: 0, Anger: 0, Surprise: 0, Trust: 0, Distrust: 0, Love: 0, Saudade: 0, Bittersweetness: 0, Nostalgia: 0]
+
+This emotion vector indicates that the text contains a higher intensity of sadness and melancholy, with elements of anticipation and awe present as well. Happiness, fear, disgust, anger, surprise, trust, distrust, love, saudade, bittersweetness, and nostalgia are not prominently featured in this particular text.

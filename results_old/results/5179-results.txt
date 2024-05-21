@@ -1,0 +1,14 @@
+Emotion vector analysis for the provided text:
+
+- Happiness: The text contains elements of happiness, particularly in the descriptions of joyful memories like the birthday gift for the mother and the appreciation of beauty in the vase. [0.6]
+- Sadness: While there are mentions of past struggles and tougher times, the overall tone of the text is not strongly sad. [0.3]
+- Fear: There is no significant fear expressed in the text. [0]
+- Disgust: There is no indication of disgust in the text. [0]
+- Anger: The text does not convey any anger. [0]
+- Surprise: There are moments of surprise and wonder, especially in the admiration for the intricate details on the vase. [0.4]
+- Anticipation: There is anticipation highlighted through the secrecy of the birthday gift mission and the admiration for the distant and beautiful Japan. [0.5]
+- Trust: Trust is evident in the relationship between the daughter and her mother, where gifts and memories are exchanged. [0.4]
+- Distrust: There is no indication of distrust in the text. [0]
+- Love: Love is a key emotion displayed, particularly in the gesture of the birthday gift for the mother and the appreciation for the sentimental value of the vase. [0.7]
+- Saudade: There is a subtle sense of nostalgia and longing for the past, but it is not the predominant emotion. [0.3]
+-

@@ -1,0 +1,5 @@
+The emotional content of the text seems to primarily convey feelings of sadness, betrayal, disappointment, resentment, and a sense of loss. The intensity of these emotions can be represented in the emotion vector as follows: 
+
+[0, 0.8, 0, 0, 0.6, 0, 0, 0, 0, 0, 0, 0, 0, 0.7, 0]
+
+This vector shows high levels of sadness, anger, and nostalgia, indicating the deep emotional impact of the text.

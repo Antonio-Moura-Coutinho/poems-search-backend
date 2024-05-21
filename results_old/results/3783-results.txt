@@ -1,0 +1,3 @@
+The emotional vector for the given text is as follows: [0, 0.6, 0.5, 0.8, 0, 0, 0, 0.2, 0.4, 0, 0, 0, 0, 0.4, 0]. 
+
+The analysis indicates a high intensity of emotions such as Sadness, Disgust, Distrust, and Bittersweetness within the text.

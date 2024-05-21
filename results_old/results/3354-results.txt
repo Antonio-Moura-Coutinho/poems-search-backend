@@ -1,0 +1,5 @@
+Based on the emotional content of the text, the emotion vector can be approximated as follows:
+
+[Happiness: 0.3, Sadness: 0.6, Fear: 0.1, Disgust: 0.1, Anger: 0.1, Surprise: 0.1, Anticipation: 0.3, Trust: 0.4, Distrust: 0.1, Love: 0.4, Saudade: 0, Awe: 0.1, Bittersweetness: 0.4, Melancholy: 0.5, Nostalgia: 0.3]
+
+This vector shows a mix of emotions with a higher presence of sadness, trust, love, and bittersweetness. The text conveys a sense of longing, attachment, and complexity in relationships, leading to a combination of emotions such as sadness, trust, love, and nostalgia.

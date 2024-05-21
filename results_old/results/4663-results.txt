@@ -1,0 +1,10 @@
+Analyzing the emotional content of the text, we can see the following emotions expressed:
+
+- Happiness
+- Trust
+- Love
+- Anticipation
+- Nostalgia
+
+Based on the emotions expressed in the text, the emotion vector representing the intensity of each emotion on a scale from 0 to 1 would be: 
+[0.2, 0, 0, 0, 0, 0, 0.2, 0.3, 0, 0.4, 0, 0, 0, 0.4, 0]

@@ -1,0 +1,1 @@
+Based on the emotional content of the text provided, the emotion vector is as follows: [0, 0.4, 0.4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0.6, 0.4, 0]. The emotions of Sadness, Fear, Bittersweetness, Melancholy, and Nostalgia are more prevalent in the text.

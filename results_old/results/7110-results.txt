@@ -1,0 +1,5 @@
+Based on the text provided, the emotional content appears to mainly revolve around Sadness, Anticipation, and Trust. Here is the emotion vector for the text:
+
+[0, 0.7, 0, 0, 0, 0, 0.5, 0.6, 0, 0, 0, 0, 0, 0]
+
+This vector indicates a high level of Sadness, moderate levels of Anticipation and Trust, and low levels of other emotions.

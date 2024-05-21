@@ -1,0 +1,17 @@
+Based on the text provided, the emotional vector could be as follows:
+[0.2, 0.4, 0.7, 0.3, 0.5, 0.2, 0.6, 0.3, 0, 0, 0, 0, 0, 0.6, 0.4].
+
+Explanation:
+- Happiness: Low intensity as there are mentions of natural beauty but overshadowed by the overall tone of the text.
+- Sadness: Moderate intensity due to references to a grave, bodies being trans-buried, destruction of nature, and flooding.
+- Fear: High intensity indicated by the tone of destruction, dynamite, fires burning for two years, and the overall unsettling description.
+- Disgust: Moderate intensity due to disturbing imagery like drilling rock, clearing trees, and burning the land.
+- Anger: Moderate intensity due to references to destruction, the unfortunate fate of the land, and the violence in the descriptions.
+- Surprise: Low intensity, not explicitly mentioned with strong emotional cues.
+- Anticipation: Moderate intensity as there is a sense of foreboding and wondering what will happen next.
+- Trust: Low intensity, not prominently featured in the text.
+- Distrust: None indicated in the text.
+- Love: None indicated in the text.
+- Saudade: None indicated in the text.
+- Awe: None indicated in the text.
+- Bittersweet

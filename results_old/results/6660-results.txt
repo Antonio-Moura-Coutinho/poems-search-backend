@@ -1,0 +1,5 @@
+The emotional content of the text seems to involve a mix of various negative emotions such as Disgust, Anger, and Distrust, with an overall tone of resignation and denial. Here is the emotion vector based on the analysis of the text:
+
+[0, 0.6, 0.2, 0.5, 0.6, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+This vector indicates a high intensity of sadness, disgust, anger, and a moderate level of fear in the text, while other emotions like happiness, surprise, anticipation, trust, love, and nostalgia are not prominently present.

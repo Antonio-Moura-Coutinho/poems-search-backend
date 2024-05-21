@@ -1,0 +1,5 @@
+Analyzing the emotional content of the text, it conveys primarily positive emotions such as Happiness, Love, Anticipation, Trust, and Awe. There are also elements of joy, beauty, and tranquility depicted throughout the text. The overall tone is uplifting and hopeful, with a sense of admiration for nature and love.
+
+The emotion vector based on the analysis of the text is:
+
+[Happiness: 0.4, Sadness: 0, Fear: 0, Disgust: 0, Anger: 0, Surprise: 0.2, Anticipation: 0.4, Trust: 0.4, Distrust: 0, Love: 0.6, Saudade: 0, Awe: 0.4, Bittersweetness: 0, Melancholy: 0, Nostalgia: 0]

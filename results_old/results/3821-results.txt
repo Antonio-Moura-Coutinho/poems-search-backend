@@ -1,0 +1,12 @@
+Analyzing the emotional content of the text, the emotions expressed include:
+
+- Sadness: The text conveys sadness through descriptions of starvation, loss of trees, and the struggles faced by the people of Haiti.
+- Anger: There is anger expressed toward historical oppressors and the hardships faced by the Haitian people.
+- Trust: Trust is implied through references to resilience, pride, and the strong cultural identity of the Haitian people.
+- Anticipation: Anticipation is not prominently featured in the text.
+
+Based on these emotional elements, the emotion vector for the text could be:
+
+[0, 0.6, 0, 0, 0.5, 0, 0.4, 0.5, 0, 0, 0, 0, 0, 0]
+
+This vector indicates a high intensity of sadness, anger, trust, and anticipation in the text.

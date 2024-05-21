@@ -1,0 +1,18 @@
+To analyze the emotional content of the given text and provide an emotion vector, we can assess the intensity of specific emotions conveyed in the text. Based on the language and context used in the text, we can determine the following emotions and their intensities from 0 to 1 on a scale:
+
+[Happiness, Sadness, Fear, Disgust, Anger, Surprise, Anticipation, Trust, Distrust, Love, Saudade, Awe, Bittersweetness, Melancholy, Nostalgia]
+
+Emotion Vector: [0.1, 0.6, 0, 0, 0, 0, 0.1, 0.1, 0, 0, 0, 0, 0.2, 0.6, 0.6]
+
+Explanation:
+- Happiness: 0.1 (Low intensity of happiness)
+- Sadness: 0.6 (High intensity of sadness)
+- Fear: 0 (No expression of fear)
+- Disgust: 0 (No expression of disgust)
+- Anger: 0 (No expression of anger)
+- Surprise: 0 (No expression of surprise)
+- Anticipation: 0.1 (Slight anticipation)
+- Trust: 0.1 (Slight trust)
+- Distrust: 0 (No expression of distrust)
+- Love: 0 (No expression of love)
+- Saudade:

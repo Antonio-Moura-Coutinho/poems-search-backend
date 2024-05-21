@@ -1,0 +1,7 @@
+To analyze the emotional content of the text, we can identify the following emotions:
+
+Happiness: The text conveys a sense of closeness and connection between the speaker and the person they are referring to, which can be seen as a form of happiness.
+Anticipation: There is a feeling of anticipation and longing in the text, as the speaker eagerly awaits hearing the other person's sleep sounds.
+Trust: The trust and intimacy between the speaker and the other person are evident in the description of shared sleep experiences.
+
+Based on the analysis, the emotion vector for the text could be: [0.3, 0, 0, 0, 0, 0, 0.4, 0.5, 0, 0, 0, 0, 0, 0, 0].

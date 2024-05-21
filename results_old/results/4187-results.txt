@@ -1,0 +1,5 @@
+Analyzing the emotional content of the text, we can detect the following emotions: Sadness, Fear, Anticipation, Distrust, Melancholy, Nostalgia. 
+
+Based on the emotional intensity observed in the text, the emotion vector could look like the following: [0, 0.6, 0.5, 0, 0, 0, 0.4, 0, 0, 0, 0, 0, 0.7, 0.8, 0.5]. 
+
+This vector indicates a high level of sadness, fear, melancholy, and nostalgia, with moderate anticipation, and lower levels of distrust being present in the text.

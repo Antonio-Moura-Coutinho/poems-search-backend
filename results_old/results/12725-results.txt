@@ -1,0 +1,10 @@
+Analyzing the emotional content of the provided text, the emotions that stand out are:
+
+- Trust: The speaker has a relationship with their neighbor centered around trust, cooperation, and respectful boundaries.
+- Anticipation: There is a sense of anticipation or curiosity about questioning the necessity of the wall and its role.
+- Love: The speaker seems to care for the neighbor and contemplates the nature of their relationship.
+- Bittersweetness: The bittersweet feeling of maintaining boundaries while questioning their purpose and the impact on relationships is present.
+
+Based on this analysis, the emotion vector for the text could be:
+
+[0, 0, 0, 0, 0, 0, 0.3, 0.5, 0, 0.4, 0, 0, 0.4, 0]

@@ -1,0 +1,5 @@
+To analyze the emotional content of the text provided, we can observe a mix of emotions conveyed, such as sadness, disgust, anger, and distrust. The tone of the text seems critical of usury and its negative impacts on art, society, and human relationships. Here is the emotion vector based on the emotional analysis of the text:
+
+[0, 0.8, 0, 0.7, 0.7, 0, 0, 0, 0.8, 0, 0, 0, 0, 0]
+
+This vector indicates a high intensity of sadness, disgust, anger, and distrust, reflecting the critical stance towards usury and its consequences presented in the text.

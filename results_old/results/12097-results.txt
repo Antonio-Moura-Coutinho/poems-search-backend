@@ -1,0 +1,19 @@
+Based on the text provided, the emotions detected and their intensities are as follows:
+
+- Happiness: 0
+- Sadness: 0.1
+- Fear: 0
+- Disgust: 0
+- Anger: 0
+- Surprise: 0.2
+- Anticipation: 0.3
+- Trust: 0.4
+- Distrust: 0
+- Love: 0.4
+- Saudade: 0
+- Awe: 0.1
+- Bittersweetness: 0.3
+- Melancholy: 0.3
+- Nostalgia: 0
+
+Emotion vector: [0, 0.1, 0, 0, 0, 0.2, 0.3, 0.4, 0, 0.4, 0, 0.1, 0.3, 0.3]

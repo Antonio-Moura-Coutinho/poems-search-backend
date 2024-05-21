@@ -1,0 +1,3 @@
+The text "Near Butte, Montana" does not provide explicit emotional content. As a result, I will provide a neutral emotion vector to reflect the absence of specific emotions in the text.
+
+Emotion Vector: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]

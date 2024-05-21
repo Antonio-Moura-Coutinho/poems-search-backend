@@ -1,0 +1,8 @@
+To analyze the emotional content of the text, let's break it down into the prominent emotions it conveys:
+
+- Sadness: The mention of shadows, voices rising and receding, and the melancholic imagery like "rain on the roof tiles" suggests a sense of sadness and introspection.
+- Anticipation: The anticipation of music playing and instruments sustaining the voices creates a sense of anticipation or expectancy.
+
+Based on the text analysis, the emotion vector for the text might look like this: [0, 0.5, 0, 0, 0, 0, 0.3, 0, 0, 0, 0, 0, 0.5, 0]
+
+This vector represents medium intensity of sadness, low anticipation, and medium intensity of melancholy.

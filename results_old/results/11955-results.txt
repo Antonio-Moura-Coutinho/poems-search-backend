@@ -1,0 +1,5 @@
+[Happiness, Sadness, Fear, Disgust, Anger, Surprise, Anticipation, Trust, Distrust, Love, Saudade, Awe, Bittersweetness, Melancholy, Nostalgia] emotion vector for the provided text:
+
+[0.2, 0.4, 0.4, 0.3, 0.5, 0.1, 0.3, 0.3, 0.4, 0.2, 0.2, 0.2, 0.4, 0.3, 0.4]
+
+This vector indicates medium levels of sadness, fear, anger, distrust, disgust, melancholy, and nostalgia, along with slight elements of happiness, anticipation, trust, bittersweetness, and love present in the text.

@@ -1,0 +1,7 @@
+To analyze the emotional content of the text provided, we can identify various emotions such as:
+
+- Trust: "Some know that all pigeons are doves"
+- Anger: "Some angry as if pigeons were not doves"
+- Anticipation: "And I try to reconstruct / The tattoo on one of your many branches"
+
+Based on the text, the emotional vector could be interpreted as follows: [0, 0, 0, 0, 0.2, 0, 0.3, 0.2, 0, 0, 0, 0, 0, 0].

@@ -1,0 +1,19 @@
+To analyze the emotional content of the text, we will identify the emotions present and then generate an emotion vector based on the intensity of each emotion. After analyzing the text, we can identify the following emotions and their intensities:
+
+- Happiness: Moderate (Alice's success in bowling is celebrated)
+- Sadness: Low (No explicit sadness)
+- Fear: Low (No explicit fear)
+- Disgust: Low (No explicit disgust)
+- Anger: Low (No explicit anger)
+- Surprise: Moderate (The surprise of Alice's success in bowling)
+- Anticipation: Moderate (Anticipation builds as Alice's streak continues)
+- Trust: High (Trust is shown as the group supports Alice)
+- Distrust: Low (No explicit distrust)
+- Love: Low (No explicit love)
+- Saudade: Low (No explicit saudade)
+- Awe: High (Awe is felt as Alice's performance seems almost miraculous)
+- Bittersweetness: Low (No explicit bittersweetness)
+- Melancholy: Low (No explicit melancholy)
+- Nostalgia: Low (No explicit nostalgia)
+
+Based on the above analysis, the emotion vector for the text is: [0.4, 0.1, 0, 0, 0, 0.4, 0.4, 0.6, 0, 0, 0, 0, 0, 0, 0]

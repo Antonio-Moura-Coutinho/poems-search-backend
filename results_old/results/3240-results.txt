@@ -1,0 +1,5 @@
+Based on the emotional content of the text provided, the emotion vector can be estimated as follows:
+
+[Happiness: 0.3, Sadness: 0.1, Fear: 0.2, Disgust: 0.5, Anger: 0.3, Surprise: 0.2, Anticipation: 0.2, Trust: 0.4, Distrust: 0, Love: 0.4, Saudade: 0, Awe: 0.2, Bittersweetness: 0.1, Melancholy: 0.1, Nostalgia: 0]
+
+The text conveys a mix of emotions. While there is a sense of happiness and relief in the lines, there is also an underlying tone of caution and disgust towards the fly potentially carrying disease. Trust in the fly not causing harm is present along with a slight sense of love for the beauty of the fly. The overall tone leans towards a more positive outlook despite the initial fear and disgust.

@@ -1,0 +1,5 @@
+Based on the emotional content of the text provided, the emotion vector can be determined as follows:
+
+[Happiness: 0, Sadness: 0.8, Fear: 0.2, Disgust: 0.4, Anger: 0.7, Surprise: 0, Anticipation: 0, Trust: 0, Distrust: 0.4, Love: 0, Saudade: 0, Awe: 0, Bittersweetness: 0.6, Melancholy: 0.8, Nostalgia: 0]
+
+This emotional vector suggests that the text primarily conveys a sense of sadness, disgust, anger, distrust, bittersweetness, and melancholy. The narrator reflects on the lack of action or empathy from others towards suffering, leading to a mix of negative emotions.

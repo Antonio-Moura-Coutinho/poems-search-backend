@@ -1,0 +1,10 @@
+The emotional content of the text "Mosquito at my ear— does he think I'm deaf?" can be analyzed as follows:
+
+- Fear: The presence of a mosquito near the ear can evoke a sense of fear due to the potential bite or annoyance caused by the insect.
+- Surprise: The sudden realization or annoyance of having a mosquito near the ear can trigger a brief moment of surprise.
+
+Based on this analysis, the emotion vector for the text can be:
+
+[0, 0, 0.7, 0, 0, 0.3, 0, 0, 0, 0, 0, 0, 0, 0]
+
+This vector indicates a high intensity of fear and a moderate intensity of surprise in the emotional content of the text.

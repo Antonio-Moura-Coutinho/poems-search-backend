@@ -1,0 +1,5 @@
+This text carries multiple emotional tones. Here is the emotion vector based on the analysis:
+
+[Happiness: 0, Sadness: 0.5, Fear: 0.7, Disgust: 0.4, Anger: 0.6, Surprise: 0, Anticipation: 0.2, Trust: 0.1, Distrust: 0.4, Love: 0, Saudade: 0, Awe: 0.3, Bittersweetness: 0.4, Melancholy: 0.6, Nostalgia: 0]
+
+These scores indicate a prevalence of sadness, fear, disgust, and anger in the text, along with elements of bittersweetness and melancholy. There's also a touch of anticipation and awe present.

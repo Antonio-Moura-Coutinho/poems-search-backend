@@ -1,0 +1,20 @@
+Emotion vector: [0.1, 0.4, 0.6, 0.2, 0.3, 0, 0, 0.1, 0.4, 0.3, 0, 0, 0.6, 0.7, 0.8]
+
+Analysis:
+- Happiness: 0.1
+- Sadness: 0.4
+- Fear: 0.6
+- Disgust: 0.2
+- Anger: 0.3
+- Surprise: 0
+- Anticipation: 0
+- Trust: 0.1
+- Distrust: 0.4
+- Love: 0.3
+- Saudade: 0
+- Awe: 0
+- Bittersweetness: 0.6
+- Melancholy: 0.7
+- Nostalgia: 0.8
+
+This text conveys a mix of emotions with a predominant sense of nostalgia, melancholy, and bittersweetness. There are elements of fear, disgust, and sadness, along with traces of love and distrust.

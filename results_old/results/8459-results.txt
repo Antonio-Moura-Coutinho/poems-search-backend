@@ -1,0 +1,5 @@
+The emotional content of the text seems to be primarily centered around themes of sadness, disgust, anger, and distrust. The intensity levels of each emotion can be represented in a vector as follows:
+
+[0, 0.6, 0, 0.8, 0.9, 0, 0, 0, 0.7, 0, 0, 0, 0, 0]
+
+This vector indicates a high level of sadness, anger, and disgust, along with an element of distrust in the interactions described in the text.

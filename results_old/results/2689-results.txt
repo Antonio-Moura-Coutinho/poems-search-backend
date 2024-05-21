@@ -1,0 +1,8 @@
+Analyzing the emotional content of the text, we can identify the following emotions:
+
+- Sadness: The poem reflects a sense of sadness and lamentation for those who fought for England and are buried far from home.
+- Anticipation: There is an element of anticipation or uncertainty conveyed regarding the fate of those who currently rule in England.
+
+Based on the analysis, the emotion vector for the text could be:
+
+[0, 0.6, 0, 0, 0, 0, 0.2, 0, 0, 0, 0, 0, 0, 0, 0]

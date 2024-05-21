@@ -1,0 +1,21 @@
+This text conveys a sense of pleasure, anticipation, and love, along with elements of sensuality and desire. There is a focus on the richness and intensity of sensory experiences. The emotions expressed in the text can be broken down as follows:
+
+- Happiness: Low
+- Sadness: Low
+- Fear: Low
+- Disgust: Low
+- Anger: Low
+- Surprise: Low
+- Anticipation: Moderate
+- Trust: Moderate
+- Distrust: Low
+- Love: High
+- Saudade: Low
+- Awe: Low
+- Bittersweetness: Low
+- Melancholy: Low
+- Nostalgia: Low
+
+Based on these emotions, the emotion vector for the text would be:
+
+[0.1, 0.1, 0, 0, 0, 0, 0.5, 0.4, 0, 0.6, 0, 0, 0, 0, 0]

@@ -1,0 +1,5 @@
+The emotional content analysis of the text suggests the following emotion vector:
+
+[0.25, 0.75, 0.6, 0.25, 0.55, 0.35, 0.55, 0.4, 0.45, 0, 0, 0, 0, 0.25, 0]
+
+This vector indicates moderate to high levels of emotions such as Sadness, Fear, Anger, Anticipation, and Distrust, while also hinting at some level of Nostalgia. Inspecting the text, we can see phrases and words that evoke feelings of concern, uncertainty, and potential danger, contributing to the intensity of these emotions in the vector.

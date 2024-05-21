@@ -1,0 +1,11 @@
+To analyze the emotional content of the text and generate an emotion vector, we need to identify the emotions conveyed in the text. Based on the content, the emotions present in the text are:
+- Sadness
+- Disgust
+- Anger
+- Distrust
+- Anticipation
+- Love
+
+Now, let's generate the emotion vector based on the intensity of each emotion mentioned in the text:
+
+[Sadness: 0.4, Disgust: 0.2, Anger: 0.3, Distrust: 0.4, Anticipation: 0.3, Love: 0.3, Others: 0.0]

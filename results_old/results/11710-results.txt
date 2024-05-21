@@ -1,0 +1,13 @@
+Based on the emotional content of the text provided, the emotion vector could be estimated as follows: [0, 0.7, 0.6, 0.8, 0.7, 0.2, 0.4, 0.3, 0.6, 0, 0, 0.3, 0.7, 0.9, 0.9].
+
+Explanation:
+- Happiness: 0 (No indication of happiness in the text)
+- Sadness: 0.7 (The text is filled with themes of melancholy and grief, indicating a high degree of sadness)
+- Fear: 0.6 (Words like suicides, broken rim of reason, betray, flays, and grief evoke a sense of fear)
+- Disgust: 0.8 (The text contains themes that are disturbing and evoke disgust)
+- Anger: 0.7 (Lines referencing God 'nodding off', the inevitability of pain, and the door closing suggest frustration and anger)
+- Surprise: 0.2 (There is not much element of surprise in the text)
+- Anticipation: 0.4 (Some anticipation is hinted at, particularly regarding the return of someone)
+- Trust: 0.3 (Trust is not a prominent emotion in this text)
+- Distrust: 0.6 (Themes of betrayal and sorrowful memories contribute to a sense of distrust)
+-

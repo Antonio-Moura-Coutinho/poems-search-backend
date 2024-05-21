@@ -1,0 +1,5 @@
+To analyze the emotional content of the text, we can identify various emotions such as Nostalgia, Sadness, and a hint of Melancholy. The longing for the past, memories of the childhood room, and the emptiness conveyed through phrases like "You are not even here" all contribute to the emotional depth of Nostalgia and Sadness in the text.
+
+Here is the emotion vector for the text based on the identified emotions:
+
+[Nostalgia: 0.6, Sadness: 0.4, Happiness: 0, Fear: 0, Disgust: 0, Anger: 0, Surprise: 0, Anticipation: 0, Trust: 0, Distrust: 0, Love: 0, Saudade: 0, Awe: 0, Bittersweetness: 0.2, Melancholy: 0.4]

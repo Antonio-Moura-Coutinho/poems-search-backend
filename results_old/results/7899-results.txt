@@ -1,0 +1,18 @@
+Emotion vector: [0.3, 0.5, 0.1, 0, 0, 0, 0.2, 0, 0, 0, 0, 0, 0, 0, 0]
+
+Explanation:
+- Happiness: 0.3 (Mild indication due to the theme of movement and preservation)
+- Sadness: 0.5 (The poem expresses a sense of loss, absence, and an underlying melancholy)
+- Fear: 0.1 (There is a slight hint of uncertainty but not prominent)
+- Disgust: 0 (No indication)
+- Anger: 0 (No indication)
+- Surprise: 0 (No indication)
+- Anticipation: 0.2 (There is an element of anticipation in the speaker's actions to keep things whole)
+- Trust: 0 (No indication)
+- Distrust: 0 (No indication)
+- Love: 0 (No indication)
+- Saudade: 0 (No indication of longing or nostalgic longing)
+- Awe: 0 (No indication)
+- Bittersweetness: 0 (No clear bittersweet emotions)
+- Melancholy: 0.5 (The predominant emotion conveyed in the text)
+- Nostalgia: 0 (No clear depiction of nostalgia)

@@ -1,0 +1,14 @@
+Emotion vector: [0.1, 0.6, 0.8, 0.7, 0.8, 0.5, 0.4, 0.2, 0.4, 0, 0, 0, 0.7, 0.6, 0.7]
+
+Explanation:
+
+- Happiness: 0.1 - The text conveys a somber mood focusing on sacrifice and struggle rather than joy.
+- Sadness: 0.6 - There is a theme of impending loss and sacrifice, evoking feelings of sadness and melancholy.
+- Fear: 0.8 - The text expresses fear of the unknown, especially in the face of impending peril.
+- Disgust: 0.7 - There is a sense of disgust towards the oppressive forces mentioned in the text.
+- Anger: 0.8 - The text conveys a strong emotion of defiance and anger towards the oppressors.
+- Surprise: 0.5 - There is a sense of unexpected defiance and determination in the text.
+- Anticipation: 0.4 - The text hints at a sense of anticipation for the coming conflict or sacrifice.
+- Trust: 0.2 - Trust is not a prominent emotion in the text.
+- Distrust: 0.4 - There is a general sense of distrust towards the executioners or oppressors.
+- Love: 0 - Love is not a

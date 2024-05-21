@@ -1,0 +1,25 @@
+To analyze the emotional content of the text and create an emotion vector, I will identify the emotions expressed in the text and assign a score from 0 to 1 to each emotion based on its intensity.
+
+Happiness: The text conveys feelings of connection, fond memories, and shared moments, suggesting a sense of happiness. Score: 0.6
+
+Sadness: While there is no overt expression of sadness, a sense of nostalgia and the passage of time may evoke some feelings of sadness. Score: 0.3
+
+Fear: There are no indications of fear in the text. Score: 0
+
+Disgust: There are no elements that convey disgust. Score: 0
+
+Anger: The text does not exhibit anger. Score: 0
+
+Surprise: There are no elements of surprise. Score: 0
+
+Anticipation: The text hints at anticipation of spending time together and sharing stories. Score: 0.4
+
+Trust: The strong bond and connection between the speaker and their grandmother imply trust. Score: 0.7
+
+Distrust: There is no indication of distrust. Score: 0
+
+Love: The text is filled with expressions of love and affection towards the grandmother. Score: 0.8
+
+Saudade: The text evokes a feeling of longing and nostalgia, capturing elements of saudade. Score: 0.5
+
+Awe: The reverence for the grandmother and nature may evoke a sense of

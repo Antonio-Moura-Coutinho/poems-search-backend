@@ -1,0 +1,5 @@
+Analyzing the emotional content of the text from Twelfth Night, we can identify several emotions such as sadness, melancholy, nostalgia, and a hint of bittersweetness. Based on this analysis, here is the emotion vector for the text:
+
+[0, 0.7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0.3, 0.3, 0.5, 0.7]
+
+This vector shows a high intensity of sadness, nostalgia, and melancholy, along with some bittersweetness conveyed in the text. There are no other prominent emotions detected in the text.

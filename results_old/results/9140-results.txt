@@ -1,0 +1,14 @@
+Based on the text provided, the emotional content can be analyzed as follows:
+
+- Happiness: The text conveys positivity, courage, and following one's heart, which indicates a sense of happiness and fulfillment. [0.8]
+- Sadness: There are hints of sadness in the lines that talk about parting and letting go, but overall, the text leans more towards positive emotions. [0.3]
+- Fear: There isn't a strong sense of fear in the text. [0]
+- Disgust: There is no indication of disgust in the text. [0]
+- Anger: The text does not convey anger. [0]
+- Surprise: There is a mention of surprise, but it is more about embracing freedom rather than fear or shock. [0.2]
+- Anticipation: The text encourages hope and following one's path with vigor, indicating anticipation for something better. [0.7]
+- Trust: Trust in oneself and following one's heart is a prevalent theme in the text. [0.9]
+- Distrust: There are no indications of distrust. [0]
+- Love: Love is a central theme in the text, particularly in terms of following one's heart and being true to oneself. [0.9]
+- Saudade: There is a sense of longing or nostalgia in some lines, but it is not the predominant emotion. [0.2]
+- Awe: The text conveys a sense of wonder and

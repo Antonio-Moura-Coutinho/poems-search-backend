@@ -1,0 +1,5 @@
+Based on the emotional content of the text, here is the emotion vector:
+
+[0, 0.35, 0.7, 0.2, 0, 0, 0, 0, 0, 0.2, 0, 0, 0.6, 0.6, 0]
+
+This vector represents the intensity of each emotion in the text. The emotions that are most prevalent are Sadness, Fear, Disgust, Bittersweetness, Melancholy, and Nostalgia, while other emotions like Happiness, Anger, and Trust are less prominent.

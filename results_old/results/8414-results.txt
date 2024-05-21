@@ -1,0 +1,5 @@
+Analyzing the emotional content of the text, the predominant emotions are Anticipation, Trust, Love, Happiness, and Awe. There are also subtle elements of Melancholy and Nostalgia present.
+
+Here is the computed emotion vector based on the intensity of each emotion:
+
+[0.7, 0, 0, 0, 0, 0, 0.8, 0.7, 0, 0.8, 0, 0.6, 0, 0.4, 0.5]

@@ -1,0 +1,16 @@
+Based on the text, the emotional content can be analyzed as follows:
+
+- Happiness: The text portrays a sense of happiness and joy in sharing new experiences and love with another person. (0.5)
+- Sadness: There is no explicit sadness in the text. (0)
+- Fear: There is no indication of fear in the text. (0)
+- Disgust: There is no expression of disgust. (0)
+- Anger: There is no indication of anger. (0)
+- Surprise: There is no element of surprise. (0)
+- Anticipation: The anticipation of spending time with a loved one is implied in the text. (0.3)
+- Trust: The text conveys trust and intimacy between the speaker and the intended listener. (0.4)
+- Distrust: There is no distrust implied in the text. (0)
+- Love: The primary emotion displayed in the text is love and affection. (0.6)
+- Saudade: While this text does not directly reference feelings of longing or nostalgia, the longing for a loved one's presence can be interpreted as a subtle element of saudade. (0.2)
+- Awe: There is an element of admiration and awe for the loved one in the text. (0.3)
+- Bittersweetness: The text may evoke bittersweet emotions due to the poetic language and the idea of love and longing. (0.3)
+- Mel

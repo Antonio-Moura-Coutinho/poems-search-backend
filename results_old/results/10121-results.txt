@@ -1,0 +1,3 @@
+Based on the emotional content of the text, the emotion vector could be as follows: [0, 0.6, 0.7, 0.5, 0.8, 0, 0.6, 0, 0.8, 0, 0, 0, 0.7, 0.6, 0].
+
+This indicates a high level of sadness, fear, disgust, anger, distrust, and melancholy in the text, while also having elements of anticipation, bittersweetness, and nostalgia. Love, happiness, surprise, and awe are not predominant in this text.

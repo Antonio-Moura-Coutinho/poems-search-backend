@@ -1,0 +1,5 @@
+The emotional content of the text is primarily focused on admiration, exploration of architecture, and deep contemplation. Based on the text, the emotion vector can be approximated as follows:
+
+[0.1, 0, 0, 0, 0, 0.3, 0.8, 0.7, 0, 0.6, 0, 0.7, 0, 0.3, 0]
+
+Please note that the emotion vector is subjective and may vary based on individual interpretation.

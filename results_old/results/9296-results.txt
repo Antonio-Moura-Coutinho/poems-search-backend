@@ -1,0 +1,11 @@
+To analyze the emotional content of the text, we can break it down based on the emotions it evokes:
+
+- Disgust: The text describes a behavior that can be considered disgusting, as it talks about excessive eating and lechery.
+- Anger: The description of the character's actions may evoke a sense of anger or disapproval towards their behavior.
+- Distrust: The text implies a lack of trustworthiness in the character due to their indulgent and self-destructive behavior.
+
+With the emotions identified, we can create an emotion vector based on the intensity of each emotion present in the text:
+
+[0, 0, 0, 0.7, 0.6, 0, 0, 0, 0.7, 0, 0, 0, 0, 0]
+
+This vector shows high levels of disgust, anger, and distrust in the text.

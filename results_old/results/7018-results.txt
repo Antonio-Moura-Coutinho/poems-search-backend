@@ -1,0 +1,5 @@
+The emotional content of the text contains elements of Sadness, Grief, Loss, Regret, and Contemplation. Based on the analysis, here is the emotion vector for the text:
+
+[0, 0.8, 0, 0, 0, 0, 0.6, 0, 0, 0, 0.7, 0, 0.9, 0.9, 0.8]
+
+This vector indicates a high intensity of Sadness, Grief, Saudade, Bittersweetness, Melancholy, and Nostalgia while also showing significant levels of Anticipation, Awe, and Love.

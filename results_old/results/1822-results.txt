@@ -1,0 +1,1 @@
+The emotional content of the text includes elements of Sadness, Love, Trust, and a touch of Melancholy and Nostalgia. The vector representing these emotions could be approximately: [0, 0.3, 0, 0, 0, 0, 0, 0.6, 0, 0.5, 0, 0, 0, 0.4].

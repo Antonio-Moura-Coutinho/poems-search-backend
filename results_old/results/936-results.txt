@@ -1,0 +1,10 @@
+The emotional content of the text includes elements of:
+  -Sadness: The speaker feels trapped, restricted, and anguished by the expectations and limitations imposed by their mother. There is a sense of longing for freedom and independence.
+  -Fear: There is a fear of being cast aside or not meeting the mother's expectations.
+  -Anger: The speaker expresses anger and rebellion towards the mother's control and constraints.
+  -Trust: The falconess-mother seems to have control and authority, which the speaker acknowledges by trying to fulfill her wishes.
+
+Based on this analysis, the emotion vector for the text could be:
+[0, 0.5, 0.2, 0, 0.4, 0, 0, 0.6, 0, 0, 0, 0, 0, 0]
+
+This vector represents a high level of sadness and trust, moderate anger and fear, and no other significant emotions.

@@ -1,0 +1,5 @@
+Based on the text provided, the emotional vector would be:
+
+[0.4, 0, 0.7, 0, 0, 0, 0.2, 0, 0, 0, 0, 0, 0, 0]
+
+This indicates a mixture of fear and anticipation, with a subtle touch of happiness and anticipation.

@@ -1,0 +1,5 @@
+The emotional vector derived from the text you provided is:
+
+[0.1, 0.8, 0.25, 0.2, 0.25, 0, 0.25, 0.5, 0.25, 0, 0.2, 0, 0.6, 0.8, 0.6]
+
+Each number in the vector corresponds to the intensity of the respective emotion. The text predominantly conveys emotions of Sadness, Trust, Melancholy, and Nostalgia.

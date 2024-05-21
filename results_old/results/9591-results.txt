@@ -1,0 +1,5 @@
+Based on the text provided, the emotional content analysis reveals the following emotion vector:
+
+[0, 0.6, 0.2, 0.4, 0.4, 0, 0, 0, 0, 0, 0, 0, 0.4, 0.6, 0] 
+
+This suggests a high presence of Sadness, Disgust, Anger, Bittersweetness, Melancholy, and Nostalgia in the text.

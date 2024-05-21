@@ -1,0 +1,2 @@
+The emotional vector for the text you provided is as follows: 
+[Happiness: 0.3, Sadness: 0.5, Fear: 0.1, Disgust: 0.2, Anger: 0.3, Surprise: 0.1, Anticipation: 0.3, Trust: 0.2, Distrust: 0.2, Love: 0.4, Saudade: 0, Awe: 0.1, Bittersweetness: 0.4, Melancholy: 0.4, Nostalgia: 0.2].

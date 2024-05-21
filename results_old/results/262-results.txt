@@ -1,0 +1,14 @@
+Emotion Vector: [0.2, 0.6, 0.6, 0.6, 0.6, 0.3, 0.4, 0.3, 0.6, 0, 0, 0.3, 0.2, 0.3]
+
+Explanation:
+- Happiness: 0.2 (Low, as the text focuses more on worry and fear)
+- Sadness: 0.6 (High, as the text evokes sadness related to the fear and struggles expressed)
+- Fear: 0.6 (High, prevalent throughout the text with references to police encounters and tension)
+- Disgust: 0.6 (High, in the context of feeling unjustly targeted and discriminated against)
+- Anger: 0.6 (High, anger is implied towards the injustices and fears faced by the characters)
+- Surprise: 0.3 (Moderate, with elements of unexpected events and emotions throughout)
+- Anticipation: 0.4 (Moderate, anticipation of potentially negative outcomes)
+- Trust: 0.3 (Low, due to the lack of trust emphasized in the text)
+- Distrust: 0.6 (High, with themes of distrust between citizens and the police)
+- Love: 0 (No significant expression of love in the text)
+- Saudade: 0 (No explicit mention or strong indication of sa

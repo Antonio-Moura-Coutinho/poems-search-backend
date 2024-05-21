@@ -1,0 +1,8 @@
+To analyze the emotional content of the text, we can identify the following emotions:
+
+Trust (positive) in the unknown and natural world - [Trust]: High
+Fear of the unknown - [Fear]: Moderate
+Connection with nature and animals - [Trust, Anticipation]: Moderate
+Nuances of fear and similarity with human emotions - [Fear, Trust]: Moderate
+
+Considering these emotions, the emotion vector for the text would be as follows: [0, 0, 0.5, 0, 0, 0, 0.3, 0.5, 0, 0, 0, 0, 0, 0].

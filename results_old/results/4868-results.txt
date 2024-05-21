@@ -1,0 +1,3 @@
+The emotional vector for the given text is as follows: [0.45, 0.35, 0.3, 0.15, 0.3, 0.25, 0.35, 0.4, 0.2, 0.3, 0.15, 0.25, 0.35, 0.35, 0.3]
+
+This vector indicates that the text conveys a mix of emotions, with higher intensities in Trust, Sadness, Anticipation, Happiness, Melancholy, Nostalgia, and Bittersweetness. These emotions are intertwined within the text, reflecting a complex and introspective theme centered around personal reflection, memories, and longing.

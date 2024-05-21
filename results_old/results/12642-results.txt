@@ -1,0 +1,11 @@
+To analyze the emotional content of the text and create an emotion vector, I will identify the intensity of each emotion present in the text.
+
+- Happiness: The text contains elements of lightheartedness, humor, and a carefree attitude, such as laughing at all things and enjoying wine. (Intensity: 0.6)
+- Sadness: There are moments of discomfort, sickness, complaints, and frustrations expressed by some characters. (Intensity: 0.4)
+- Fear: There is a sense of apprehension and uncertainty about the journey ahead, with references to foul breezes and tempests. (Intensity: 0.3)
+- Disgust: Instances of vomiting, discomfort, and complaints about the conditions on the ship. (Intensity: 0.3)
+- Anger: There are moments of cursing, frustration, and discontent expressed by the characters. (Intensity: 0.4)
+- Surprise: There are unexpected events and reactions that evoke surprise, such as sickness and discomfort among the passengers. (Intensity: 0.2)
+- Anticipation: The text hints at the anticipation of the journey and the experiences that lie ahead. (Intensity: 0.3)
+- Trust: There is a sense of reliance on the captain and crew, as well as trust in the companions on the ship. (Intensity: 0.4)
+- Distrust: There are moments of skepticism and doubt, particularly regarding the conditions on the

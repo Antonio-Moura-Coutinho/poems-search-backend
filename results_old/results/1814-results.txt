@@ -1,0 +1,5 @@
+Based on the emotional content of the text, the emotion vector would be:
+
+[0.6, 0.3, 0.2, 0, 0.4, 0.2, 0.8, 0.7, 0, 0.6, 0.1, 0.5, 0.3, 0.4, 0.4]
+
+This vector indicates a mix of emotions present in the text, with higher intensities for anticipation, trust, and happiness. There are also elements of sadness, surprise, love, bittersweetness, melancholy, and nostalgia.

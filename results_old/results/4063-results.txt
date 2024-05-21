@@ -1,0 +1,1 @@
+The emotional content analysis of the text yields the following emotion vector: [0.1, 0.3, 0.2, 0.1, 0.1, 0.2, 0.2, 0.3, 0.0, 0.2, 0.1, 0.1, 0.2, 0.3, 0.3]. This vector indicates the intensity of each emotion present in the text, with higher values indicating stronger presence.

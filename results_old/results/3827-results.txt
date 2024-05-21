@@ -1,0 +1,3 @@
+Based on the emotional content of the text provided, the emotion vector is as follows: [0.1, 0.4, 0.6, 0, 0.3, 0, 0.2, 0.4, 0.4, 0.4, 0, 0.1, 0.4, 0.4, 0.4].
+
+This vector shows a higher intensity of emotions such as Fear, Anger, Distrust, Love, Melancholy, and Nostalgia. It indicates feelings of loss, longing, and uncertainty, as well as elements of reminiscence, sadness, and a hint of anticipation.

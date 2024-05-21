@@ -1,0 +1,13 @@
+Analyzing the emotional content of the text, the emotions present are as follows:
+
+- Sadness: The text explores themes of loss, death, and moments of emotional hardship such as cradling a dying parent, a father watching his son, and the howls of a crying woman, indicating a sense of deep sorrow.
+- Fear: There are elements that invoke fear, such as the imagery of a finger trembling inside a grenade pin's ring, blood coughed into a child's palm, and the reference to potential danger from a man with multiple desires.
+- Disgust: The text discusses unpleasant situations like a mother being wronged by someone and not receiving an apology, which could evoke feelings of disgust.
+- Anger: There are mentions of knuckles cracking and a father observing his son, potentially hinting at repressed anger or frustration.
+- Trust: The text hints at trust in relationships, as seen in the reference to two people sitting stubbornly in love, showcasing a sense of trust and commitment.
+
+Based on this analysis, the emotion vector for the text could be:
+
+[0, 0.6, 0.4, 0.2, 0.3, 0, 0, 0.4, 0, 0, 0, 0, 0, 0.1, 0]
+
+This vector reflects the intensity of various emotions found in the text, with higher values assigned to sadness, fear, and trust,

@@ -1,0 +1,15 @@
+Emotion Vector: [0.3, 0, 0.2, 0, 0, 0.3, 0.4, 0.5, 0, 0.4, 0, 0.5, 0, 0]
+
+Explanation:
+- Happiness: There are mentions of truths, grace, and being lovely and pure, indicating a sense of positivity and happiness, but it's not overwhelming.
+- Sadness: There is a mention of Judah's tearful-eyed race, but it is not a dominant emotion in the text.
+- Fear: There is a slight element of fear in the mention of celestial armies, but it is not the predominant emotion.
+- Disgust: There is no indication of disgust in the text.
+- Anger: There is no indication of anger in the text.
+- Surprise: There is a hint of surprise in the imagery of gates opening swiftly to various aspects, but it is not strongly expressed.
+- Anticipation: The text conveys a sense of anticipation through the opening of gates and seeking grace.
+- Trust: Trust is expressed through the mention of obedience to God's Law and resting secure in God.
+- Distrust: There is no indication of distrust in the text.
+- Love: Love is expressed through confession, seeking grace, and resting secure in God.
+- Saudade: There is no explicit mention of saudade in the text.
+- Awe: Awe

@@ -1,0 +1,5 @@
+This text conveys a mix of sadness, despair, grief, unrequited love, and pleading. The emotional vector for this text could be:
+
+[0, 0.6, 0.4, 0, 0.5, 0, 0.2, 0, 0.7, 0.4, 0, 0, 0.6, 0.7, 0.7]
+
+This vector indicates a high intensity of sadness, grief, anger, distrust, love, bittersweetness, melancholy, and nostalgia within the text.

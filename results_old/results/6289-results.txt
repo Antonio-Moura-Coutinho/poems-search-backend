@@ -1,0 +1,14 @@
+To analyze the emotional content of the text and create an emotion vector, we will break down the text and identify the emotions expressed:
+
+Happiness: There is a sense of happiness expressed through the camaraderie and laughter shared between the narrator and their brothers.
+
+Trust: The narrator seems to trust and feel a sense of belonging with their brothers, particularly emphasizing their connection and shared experiences.
+
+Anticipation: The mention of the card game and the interactions between the narrator and their brothers create a sense of anticipation and excitement.
+
+Love: The affection and bond between the narrator and their brothers indicate a feeling of love and closeness.
+
+Nostalgia: The text reflects on past memories and family dynamics, evoking a sense of nostalgia and reflection.
+
+Based on the emotional analysis, the emotion vector for the text could be:
+[Happiness: 0.4, Sadness: 0, Fear: 0, Disgust: 0, Anger: 0, Surprise: 0, Anticipation: 0.3, Trust: 0.4, Distrust: 0, Love: 0.4, Saudade: 0, Awe: 0, Bittersweetness: 0, Melancholy: 0, Nostalgia: 0.4]

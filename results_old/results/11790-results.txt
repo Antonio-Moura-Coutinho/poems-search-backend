@@ -1,0 +1,11 @@
+To analyze the emotional content in the text provided, we can identify the following dominant emotions:
+
+- Sadness: The text revolves around themes of loss, longing, and reminiscence, indicating a strong presence of sadness.
+- Love: The speaker expresses deep affection and attachment to Mary, emphasizing a sense of love and devotion.
+- Nostalgia: The text is filled with memories, dreams, and a longing for the past, evoking a strong feeling of nostalgia.
+
+Based on these emotional cues, the emotion vector for the text could be as follows:
+
+[0, 0.8, 0, 0, 0, 0, 0, 0.5, 0, 0.7, 0, 0, 0, 0.6, 0]
+
+This vector indicates high intensity in sadness, love, and nostalgia, while showing some level of trust and anticipation.

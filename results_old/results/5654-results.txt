@@ -1,0 +1,5 @@
+This text conveys emotions of sadness, nostalgia, awe, trust, and bittersweetness. Here is the emotion vector based on the intensity of these emotions:
+
+[0, 0.4, 0, 0, 0, 0, 0, 0.6, 0, 0, 0, 0, 0.5, 0.4, 0] 
+
+This vector indicates a significant level of sadness, nostalgia, and bittersweetness, moderate level of trust, and minor intensity of awe in the text.

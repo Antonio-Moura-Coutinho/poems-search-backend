@@ -1,0 +1,7 @@
+To analyze the emotional content of the text, it seems to evoke emotions of Fear, Awe, Anticipation, and possibly Melancholy. The imagery of the ice breaking, the groaning ledge, and the warning of what's yet to break can instill a sense of fear and anticipation. The mention of the rivers inside the ice and the retreat of the turquoise also evoke a feeling of awe. The overall tone of the text may carry a hint of melancholy due to the imagery of breaking and retreating. 
+
+Based on this analysis, the emotion vector for the text could be:
+
+[0, 0, 0.5, 0, 0, 0, 0.3, 0, 0, 0, 0, 0.5, 0.3, 0] 
+
+This vector indicates medium levels of Fear, Anticipation, Awe, Bittersweetness, and Melancholy in the text.

@@ -1,0 +1,13 @@
+Emotion vector: [0.1, 0.4, 0.4, 0, 0, 0.2, 0.4, 0.4, 0, 0, 0, 0, 0.3, 0.4, 0.3]
+
+Explanation:
+- Happiness: 0.1 - There is a lack of overt happiness in the text.
+- Sadness: 0.4 - The text conveys a sense of sadness and introspection, particularly regarding uncertainty about the future and feeling confined.
+- Fear: 0.4 - There is a strong undercurrent of fear and anxiety expressed, with references to the fear of drowning and existential fears.
+- Disgust: 0 - There is no indication of disgust in the text.
+- Anger: 0 - There is no overt anger expressed in the text.
+- Surprise: 0.2 - There are elements of surprise in the text as the speaker navigates uncertainty and contemplation of existence.
+- Anticipation: 0.4 - The text conveys anticipation and apprehension about what the future holds.
+- Trust: 0.4 - Trust is mentioned in the context of the speaker pondering on whether they will be able to trust again.
+- Distrust: 0 - There is no explicit expression of distrust in the text.
+- Love: 0 - Love is not a prominent emotion in this text.

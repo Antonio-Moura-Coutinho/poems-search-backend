@@ -1,0 +1,19 @@
+The emotional content of the text seems to be reflective, nostalgic, contemplative, and somewhat melancholic. The emotions present in the text are as follows:
+
+- Happiness: Low
+- Sadness: Medium
+- Fear: Low
+- Disgust: Low
+- Anger: Low
+- Surprise: Low
+- Anticipation: Low
+- Trust: Medium
+- Distrust: Low
+- Love: Low
+- Saudade: High
+- Awe: Low
+- Bittersweetness: Medium
+- Melancholy: High
+- Nostalgia: High
+
+Therefore, the emotion vector for the text would be: [0.1, 0.4, 0.1, 0.1, 0.1, 0.1, 0.1, 0.4, 0.1, 0, 0.5, 0.1, 0.4, 0.5].

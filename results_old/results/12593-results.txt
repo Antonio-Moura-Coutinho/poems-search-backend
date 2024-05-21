@@ -1,0 +1,5 @@
+Analyzing the emotional content of the text, the prominent emotions that stand out are Love, Melancholy, and Awe. Here is the emotion vector based on the intensity of each emotion in the text:
+
+[0, 0, 0, 0, 0, 0, 0, 0.8, 0, 0.6, 0, 0.4, 0, 0] 
+
+This vector indicates a high level of Trust, Love, and Awe, with some traces of Melancholy.

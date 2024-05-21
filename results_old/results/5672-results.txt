@@ -1,0 +1,11 @@
+Analyzing the emotional content of the text, the following emotion vector is produced: [0.1, 0.2, 0.3, 0.3, 0.2, 0.1, 0.4, 0.3, 0.3, 0, 0, 0, 0, 0.2].
+
+Explanation of the emotions:
+- Happiness: 0.1 - There is a sense of acceptance and preparation in the text rather than outright happiness.
+- Sadness: 0.2 - The mention of adapting to the unimaginable and preparing for things not going well hints at a tinge of sadness.
+- Fear: 0.3 - The text discusses the need for this small anti-seed in case of a complete reversal, indicating fear of the unknown or unforeseen circumstances.
+- Disgust: 0.3 - The text mentions minuses stacked in a safe, which could imply a sense of disgust or displeasure.
+- Anger: 0.2 - The idea of being ready if things don't go well might hint at some underlying anger or frustration.
+- Surprise: 0.1 - There is not a strong element of surprise present in the text.
+- Anticipation: 0.4 - The theme of preparing for an uncertain future suggests anticipation.
+- Trust: 0.3 - Trust is implied in the sense of relying on this small anti-seed for adapting

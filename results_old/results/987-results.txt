@@ -1,0 +1,12 @@
+The emotional analysis of the given text results in the following emotion vector: [0.1, 0.4, 0.2, 0.1, 0.1, 0.3, 0.3, 0.3, 0.1, 0.2, 0.1, 0.3, 0.3, 0.4, 0.2].
+
+Explanation:
+- Happiness: 0.1 - There are no prominent expressions of happiness in the text.
+- Sadness: 0.4 - The text conveys a sense of loneliness, darkness, and longing, contributing to the higher sadness score.
+- Fear: 0.2 - There is an undertone of fear or unease in the description of darkness and the unknown.
+- Disgust: 0.1 - There are subtle elements that may evoke disgust, but they are not significant.
+- Anger: 0.1 - There are no explicit indicators of anger in the text.
+- Surprise: 0.3 - The unexpected revelations and surreal imagery evoke a sense of surprise.
+- Anticipation: 0.3 - The anticipation of the unknown and the future is prevalent in the text.
+- Trust: 0.3 - Trust is expressed in the narrator's actions and interactions at the Thunderbird.
+- Distrust: 0.1 - There is a minor hint of distrust, especially with the reference

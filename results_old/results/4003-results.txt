@@ -1,0 +1,5 @@
+After analyzing the emotional content of the text, the emotion vector is as follows: 
+
+[0.3, 0.2, 0, 0, 0.1, 0, 0.4, 0, 0, 0, 0, 0, 0.1, 0] 
+
+These scores represent the intensity of each emotion in the text. The text evokes a moderate level of anticipation and some elements of trust, with a slight touch of happiness, anger, and nostalgia.

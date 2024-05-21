@@ -1,0 +1,12 @@
+[Happiness, Sadness, Fear, Disgust, Anger, Surprise, Anticipation, Trust, Distrust, Love, Saudade, Awe, Bittersweetness, Melancholy, Nostalgia]
+
+Emotion Vector: [0.1, 0.8, 0.7, 0.4, 0.9, 0.3, 0.5, 0.1, 0.1, 0, 0, 0.3, 0.6, 0.8, 0.7]
+
+Explanation:
+- Happiness: 0.1 - There is very little happiness expressed in the text, with a predominant tone of sadness and negative emotions.
+- Sadness: 0.8 - The text conveys a profound sense of sadness, loss, and despair throughout.
+- Fear: 0.7 - Fear is prominent in the descriptions of the destruction caused by human actions and the consequences faced by the narrator.
+- Disgust: 0.4 - There is a depiction of disgust towards the destructive nature of humans and the loss of control over the land.
+- Anger: 0.9 - Anger is a prevalent emotion, especially towards those who have caused ruin and betrayal.
+- Surprise: 0.3 - There are elements of surprise in the unexpected turn of events and the consequences faced by the narrator.
+- Anticipation: 0.5 -

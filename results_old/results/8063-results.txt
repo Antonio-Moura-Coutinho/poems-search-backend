@@ -1,0 +1,5 @@
+To analyze the emotional content of the text, we can identify various emotions portrayed in the poem. Here is the emotion vector based on the intensity of each emotion:
+
+[Happiness: 0.3, Sadness: 0.6, Fear: 0.6, Disgust: 0.3, Anger: 0.4, Surprise: 0.3, Anticipation: 0.4, Trust: 0.3, Distrust: 0.5, Love: 0.3, Saudade: 0, Awe: 0.5, Bittersweetness: 0.5, Melancholy: 0.6, Nostalgia: 0.4]
+
+The text predominantly conveys feelings of sadness, fear, and melancholy with elements of surprise, anticipation, and bittersweetness. Feelings of distrust are also present in the poem.

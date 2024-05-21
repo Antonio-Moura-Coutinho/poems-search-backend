@@ -1,0 +1,5 @@
+To analyze the emotional content of the provided text and create an emotion vector, I will consider the overall tone and themes present in the text. Based on the text, the primary emotions that stand out include Sadness, Disgust, and Fear. The sense of confusion, unease, and contemplation conveyed by the imagery of "flie[s] fall awake mid-sentence" and "feeling like old cigarette butts called back to life" evoke a combination of these emotions.
+
+Emotion Vector: [0, 0.6, 0.5, 0.7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+This emotion vector represents the intensity of Sadness, Disgust, and Fear in the text while the other emotions have minimal presence.

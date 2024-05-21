@@ -1,0 +1,5 @@
+The emotional content of the text leans heavily towards Sadness, a bit of Disgust, and a hint of Trust. Here is the emotion vector based on the analysis of the text:
+
+[0, 0.8, 0, 0.2, 0, 0, 0, 0.1, 0, 0, 0, 0, 0, 0.2, 0]
+
+Please note that these emotion intensities are subjective and may vary based on individual interpretation.

@@ -1,0 +1,13 @@
+To analyze the emotional content of the text, we will look for specific emotional cues and undertones within the language used. Based on the text provided, we can identify the following emotions and their respective intensities in the vector format:
+
+[Happiness, Sadness, Fear, Disgust, Anger, Surprise, Anticipation, Trust, Distrust, Love, Saudade, Awe, Bittersweetness, Melancholy, Nostalgia]
+
+Emotion Vector:
+[0.1, 0.5, 0.6, 0.4, 0.6, 0.2, 0.3, 0.4, 0.3, 0.4, 0.4, 0.3, 0.4, 0.5, 0.6]
+
+Explanation:
+- Happiness: 0.1 - There are minimal instances of happiness in the text. The overall tone is more serious and reflective.
+- Sadness: 0.5 - The text carries a significant level of sadness, especially with mentions of death and loss of life.
+- Fear: 0.6 - Fear is prevalent in the text, particularly in descriptions of dangers associated with the river and immigration issues.
+- Disgust: 0.4 - There is a sense of disgust towards the environmental and humanitarian crises depicted in the text.
+- Anger: 0.6 - Anger is a prominent emotion

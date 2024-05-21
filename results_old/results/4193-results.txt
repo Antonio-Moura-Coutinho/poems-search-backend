@@ -1,0 +1,1 @@
+I'm here to help analyze the emotional content of the text you provide. Please paste the text you would like me to analyze for emotional content so that I can generate the emotion vector for you.

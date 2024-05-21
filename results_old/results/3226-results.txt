@@ -1,0 +1,5 @@
+Based on the text provided, the emotional content appears to be focused on wonder, curiosity, and appreciation for the diversity and uniqueness of different animals. This evokes emotions like Awe, Anticipation, Trust, Love, and to a lesser extent, Surprise and Bittersweetness.
+
+Therefore, the emotion vector for the text could be:
+
+[Awe: 0.8, Anticipation: 0.6, Trust: 0.7, Love: 0.6, Surprise: 0.4, Bittersweetness: 0.3, Happiness: 0, Sadness: 0, Fear: 0, Disgust: 0, Anger: 0, Distrust: 0, Saudade: 0, Melancholy: 0, Nostalgia: 0]

@@ -1,0 +1,14 @@
+To analyze the emotional content of the text, we can identify emotions expressed through the use of language and imagery. In the given text, we can observe the following emotions:
+
+1. Sadness: The text conveys a sense of sadness and loss through descriptions of death and destruction.
+2. Fear: There is an element of fear depicted in the scenes of battle and death.
+3. Disgust: The imagery of fallen soldiers and the aftermath of battle may evoke feelings of disgust.
+4. Anger: The mention of the foe and the devastation caused by the Angel of Death can evoke feelings of anger.
+5. Anticipation: There is anticipation and tension built up throughout the text as the events unfold.
+6. Trust: There is a sense of trust or faith implied through the mention of the glance of the Lord.
+
+Based on the emotional analysis, we can construct an emotion vector as follows:
+
+[Sadness: 0.6, Fear: 0.4, Disgust: 0.3, Anger: 0.4, Surprise: 0, Anticipation: 0.5, Trust: 0.4, Distrust: 0, Love: 0, Saudade: 0, Awe: 0, Bittersweetness: 0, Melancholy: 0.6, Nostalgia: 0]
+
+This vector represents the intensity of each emotion in the text.

@@ -1,0 +1,1 @@
+This text appears to primarily convey emotions of sadness, despair, and a sense of being trapped or controlled. The emotional vector based on the text could be as follows: [0, 0.8, 0.4, 0, 0.4, 0, 0, 0, 0, 0, 0, 0, 0, 0.6, 0].

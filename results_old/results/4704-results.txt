@@ -1,0 +1,5 @@
+To analyze the emotional content of the text, we can identify various emotions as expressed in the descriptions of gazelles and their interactions with their environment. Based on the text, the emotion vector can be represented as follows:
+
+[0.2, 0.4, 0.6, 0.2, 0.3, 0.3, 0.5, 0.4, 0.2, 0, 0.5, 0.4, 0.5, 0.4, 0.3]
+
+This vector indicates a moderate level of emotions such as Fear, Anticipation, Awe, Bittersweetness, Melancholy, and Nostalgia, with lower levels of Happiness, Disgust, Anger, Distrust, and Love. The emotional content includes elements of danger, survival instincts, and a sense of fleeting beauty intertwined with threats in the gazelles' lives.

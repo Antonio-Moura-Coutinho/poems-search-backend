@@ -1,0 +1,4 @@
+Analyzing the emotional content of the text provided, the predominant emotions observed are melancholy, sadness, and a touch of bittersweetness. The overall tone of the poem is reflective, nostalgic, and somewhat sorrowful.
+
+Emotion vector for the text: 
+[0, 0.6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0.4, 0.3, 0]

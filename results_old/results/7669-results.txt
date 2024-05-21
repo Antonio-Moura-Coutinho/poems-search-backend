@@ -1,0 +1,9 @@
+To analyze the emotional content of the text, we can identify the following emotions present:
+
+- Sadness: The text evokes sadness through phrases like "the cauld hairst nicht" and "eerie memories."
+- Melancholy: There is a sense of melancholy in the imagery of memories fading away and the inability to read the words.
+- Nostalgia: The mention of memories and history's hazelraw can evoke nostalgia for the past.
+
+Based on this analysis, the emotion vector for the text could be:
+
+[0, 0.6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0.8, 0.6]

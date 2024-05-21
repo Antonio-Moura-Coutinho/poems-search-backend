@@ -1,0 +1,6 @@
+The emotional content of the text includes a mix of emotions such as Shock (antecedent to Fear), Confusion (linked to Distrust), Disbelief (related to Distrust and Surprise), Disgust (due to the description of recycled materials), and possibly Awe (from the intricate descriptions).
+
+Based on the text analysis, the emotion vector could be:
+[0, 0, 0.4, 0.3, 0, 0.3, 0, 0, 0.4, 0, 0.4, 0.3, 0.3, 0]
+
+This represents the intensity of each emotion on a scale of 0 to 1 for the specified emotions.

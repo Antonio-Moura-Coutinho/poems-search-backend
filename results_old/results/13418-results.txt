@@ -1,0 +1,11 @@
+To analyze the emotional content of the text, we can identify the following emotions:
+
+- Sadness: The poem carries a melancholic tone as it describes the sailor's transition from the dynamic, unpredictable sea to a calm and quiet home. The sense of finality and reflection on past endeavors evoke sadness.
+
+- Nostalgia: The references to the sailor's past experiences at sea, such as waiting for the fishing fleet, watching liners, and being carried away from the old sea's pride, evoke feelings of nostalgia for his previous life.
+
+- Anticipation: Despite the sadness and nostalgia, there is an undercurrent of anticipation as the sailor observes the surroundings and wonders about the future from his new perspective.
+
+Based on this analysis, the emotion vector for the text could be:
+
+[0, 0.6, 0, 0, 0, 0, 0.3, 0, 0, 0, 0, 0, 0, 0.6, 0]

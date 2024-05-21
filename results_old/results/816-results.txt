@@ -1,0 +1,5 @@
+The emotional content analysis of the text results in the following emotion vector:
+
+[0.1, 0.6, 0.4, 0, 0, 0, 0.3, 0, 0, 0.5, 0.3, 0, 0.6, 0.8, 0.6]
+
+This vector suggests that the text primarily conveys emotions of sadness, nostalgia, bittersweetness, love, and melancholy. However, it also contains elements of fear, anticipation, and trust.

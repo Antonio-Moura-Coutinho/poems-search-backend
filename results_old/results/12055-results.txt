@@ -1,0 +1,3 @@
+Analyzing the emotional content of the text, the following emotions are present to varying degrees: Sadness, Fear, Disgust, Anticipation, Trust, Love, and Awe. The emotional vector based on the intensity of each emotion would be approximately as follows: 
+
+[0, 0.4, 0.2, 0.2, 0, 0.3, 0.3, 0.6, 0, 0.5, 0, 0.3, 0, 0, 0]

@@ -1,0 +1,11 @@
+To analyze the emotional content of the text, we can identify the following emotions:
+
+- Sadness
+- Melancholy
+- Nostalgia
+
+Based on the text, the emotional vector can be calculated as follows:
+
+[Sadness: 1, Melancholy: 1, Nostalgia: 1, Happiness: 0, Fear: 0, Disgust: 0, Anger: 0, Surprise: 0, Anticipation: 0, Trust: 0, Distrust: 0, Love: 0, Saudade: 0, Awe: 0, Bittersweetness: 0]
+
+This emotional vector indicates a strong presence of sadness, melancholy, and nostalgia in the text, with no other emotions detected.

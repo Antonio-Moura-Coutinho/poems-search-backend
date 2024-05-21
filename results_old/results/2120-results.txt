@@ -1,0 +1,3 @@
+The emotional content of the text includes elements of anticipation, curiosity, contemplation, and a sense of profound discovery. There is a hint of tension between opposing forces (earthquake and kiss) and a theme of restraint and delayed decision-making. The overall tone is introspective and thought-provoking. Based on this analysis, the emotion vector for the text could be:
+
+[0.2, 0, 0.1, 0, 0, 0, 0.3, 0.4, 0, 0, 0, 0, 0.2, 0.2, 0]

@@ -1,0 +1,12 @@
+To analyze the emotional content of the text, we can identify several emotions present and assign intensity values to create an emotion vector. Based on the text, the following emotions are evident:
+
+- Happiness: Mrs. Caldera appears content and serene, radiating a sense of happiness - 0.7
+- Trust: The narrator seems to trust Mrs. Caldera's kindness and welcoming nature - 0.6
+- Anticipation: The anticipation of something mysterious or unexpected happening in Mrs. Caldera's house - 0.4
+- Love: The narrator feels valued by Mrs. Caldera, conveying a sense of love and appreciation - 0.5
+- Awe: There is a sense of awe in the descriptions of Mrs. Caldera's home and her ability to find a place for everything - 0.4
+- Nostalgia: The mention of the song from childhood and the objects that hold sentimental value evoke a feeling of nostalgia - 0.5
+
+Taking into account the above emotions, the emotion vector would be:
+
+[0.7, 0, 0, 0, 0, 0, 0.4, 0.6, 0, 0.5, 0, 0.4, 0, 0.5]

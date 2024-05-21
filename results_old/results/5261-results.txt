@@ -1,0 +1,5 @@
+The emotional content of the text includes elements of sadness, disgust, distrust, and melancholy. Here is the emotion vector based on the analysis:
+
+[0, 0.3, 0, 0.2, 0, 0, 0, 0, 0.3, 0, 0, 0, 0, 0.5, 0]
+
+This vector indicates a moderate level of sadness, a slight sense of disgust, some feelings of distrust, and a significant presence of melancholy in the text.

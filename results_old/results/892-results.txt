@@ -1,0 +1,19 @@
+Based on the text provided, the emotional content can be analyzed as follows:
+
+Happiness: 0.1
+Sadness: 0.2
+Fear: 0.4
+Disgust: 0.1
+Anger: 0.3
+Surprise: 0.2
+Anticipation: 0.5
+Trust: 0.2
+Distrust: 0.4
+Love: 0.1
+Saudade: 0
+Awe: 0.3
+Bittersweetness: 0
+Melancholy: 0.4
+Nostalgia: 0
+
+The emotions of fear, distrust, and melancholy appear to be predominant in the text, followed by anticipation, anger, and awe. Other emotions such as happiness, disgust, surprise, trust, and love have lower intensities. Feelings of saudade, bittersweetness, and nostalgia do not seem to be prominent in the text. Overall, the text evokes a mix of intense and darker emotions.

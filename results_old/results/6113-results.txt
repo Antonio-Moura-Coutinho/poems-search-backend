@@ -1,0 +1,6 @@
+Based on the text provided, the emotional content seems to primarily express sadness, disgust, anger, and fear. There are elements of sorrow for the mistreated individuals and an undercurrent of anger towards the systemic issues described. The overall tone is somber and critical of societal injustices.
+
+Here is the emotion vector calculated for the text:
+[0, 0.8, 0.6, 0.9, 0.7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+This vector indicates high levels of sadness, disgust, anger, and fear, while other emotions such as happiness, surprise, love, and anticipation are not prominently conveyed in the text.

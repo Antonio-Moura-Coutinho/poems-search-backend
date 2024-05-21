@@ -1,0 +1,5 @@
+This text contains a mixture of emotions, primarily focusing on themes of love, longing, transformation, and bittersweetness. The emotion vector representing the intensity of each emotion could be as follows:
+
+[0.1, 0, 0, 0, 0, 0, 0.1, 0.4, 0, 0.6, 0, 0, 0.5, 0.6, 0.5]
+
+This suggests a relatively low level of happiness and fear, no disgust, anger, or surprise, moderate levels of anticipation, trust, love, bittersweetness, and melancholy, and high levels of sadness, trust, love, melancholy, and nostalgia.

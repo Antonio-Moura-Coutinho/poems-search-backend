@@ -1,0 +1,5 @@
+The emotional content of the text includes elements of Anticipation, Awe, Beauty, Joy, Disillusionment, and Appreciation of nature. Based on the analysis, the emotion vector for the text could be estimated as follows:
+
+[0.3, 0.1, 0, 0, 0, 0.3, 0.2, 0.5, 0, 0, 0, 0.7, 0.2, 0.1, 0]
+
+This vector represents the intensity of each emotion mentioned in the text on a scale from 0 to 1.

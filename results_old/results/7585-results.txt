@@ -1,0 +1,6 @@
+To analyze the emotional content of the text, we can identify various emotional tones present such as defiance, sacrifice, struggle, pain, perseverance, and hope. Based on these emotional tones, we can create an emotion vector representing the intensity of different emotions. 
+
+Here is the emotion vector for the text you provided:
+[0.0, 0.6, 0.7, 0.4, 0.3, 0.3, 0.4, 0.2, 0.5, 0.3, 0.3, 0.5, 0.5, 0.5]
+
+This emotion vector indicates a higher intensity of emotions like Sadness, Fear, Disgust, Distrust, Love, Bittersweetness, Melancholy, and Nostalgia in the text.

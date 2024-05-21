@@ -1,0 +1,5 @@
+To analyze the emotional content of the text, we can identify key emotions expressed throughout the poem. Here is an emotion vector based on the emotional content of the text you provided:
+
+[0.4, 0.2, 0.1, 0.1, 0.2, 0.2, 0.2, 0.3, 0, 0.4, 0, 0.3, 0.3, 0.3, 0.3]
+
+This vector indicates the intensity of various emotions in the text, such as Happiness, Sadness, Fear, Disgust, Anger, Surprise, Anticipation, Trust, Distrust, Love, Saudade, Awe, Bittersweetness, Melancholy, and Nostalgia.

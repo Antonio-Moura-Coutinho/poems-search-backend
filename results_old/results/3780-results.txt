@@ -1,0 +1,11 @@
+Emotion vector: [0, 0.8, 0.7, 0, 0, 0, 0, 0.4, 0, 0, 0, 0.6, 0.7, 0.8, 0.7]
+
+Explanation:
+
+- Sadness (0.8): The text evokes a strong sense of sadness and melancholy through the imagery of children playing mutely and the somber tone throughout the poem.
+- Fear (0.7): There is an underlying sense of fear or unease expressed through the description of the children's mutiny and the mention of death.
+- Trust (0.4): The children seem to rely on their keeper as they are escorted to the play yard, which hints at a level of trust in the relationship.
+- Awe (0.6): The description of the play yard, the children's actions, and the surrounding environment evoke a sense of wonder or awe that is present in the text.
+- Bittersweetness (0.7): The overall tone of the text combines elements of both sadness and sweetness, creating a bittersweet atmosphere.
+- Melancholy (0.8): The melancholic mood is prevalent throughout the text, emphasizing feelings of sadness, longing, and nostalgia.
+- Nostalgia (0.7): The text conveys a nostalgic tone, possibly reflecting on childhood memories and the passage of time.

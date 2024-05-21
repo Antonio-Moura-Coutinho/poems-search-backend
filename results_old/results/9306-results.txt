@@ -1,0 +1,3 @@
+Analyzing the emotional content of the given text, we detect elements of pride, determination, resilience, and endurance, which evoke emotions of Trust, Anticipation, and Awe. The overall tone of the text appears positive and hopeful. Based on this analysis, the emotion vector for the text could be represented as follows:
+
+[0, 0, 0, 0, 0, 0, 0.3, 0.5, 0, 0, 0, 0.3, 0, 0]

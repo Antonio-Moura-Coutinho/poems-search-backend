@@ -1,0 +1,10 @@
+To analyze the emotional content of the text, we can identify the presence of various emotions:
+
+- Sadness: The text expresses feelings of sorrow, grief, and mourning, indicating a predominant sense of sadness.
+- Love: There is a mention of withering in love and mourning for a departed loved one, suggesting the presence of love.
+- Melancholy: The overall tone of the text conveys a sense of melancholy and lamentation.
+
+Based on the analysis, the emotion vector for the text can be represented as follows:
+[0, 0.8, 0, 0, 0, 0, 0, 0, 0, 0.3, 0, 0, 0, 0.6, 0]
+
+This vector assigns high intensity values to Sadness, Love, and Melancholy, while keeping other emotions at low or zero intensity levels.

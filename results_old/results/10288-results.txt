@@ -1,0 +1,8 @@
+Analyzing the emotional content of the text, the emotions present are:
+
+- Happiness (Easy grace, love)
+- Anticipation (Secret dream)
+- Trust (Walking alone)
+- Love (Love enough)
+
+The emotional vector can be represented as [0.4, 0, 0, 0, 0, 0, 0.4, 0.4, 0, 0.4, 0, 0, 0, 0, 0].

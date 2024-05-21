@@ -1,0 +1,3 @@
+The emotional content of the text from Julius Caesar, spoken by Marc Antony, contains elements of Sadness, Anger, Love, and Anticipation. The emotions of Sadness and Love are particularly prominent throughout the speech, as Marc Antony mourns the death of Caesar and expresses his love and loyalty towards him. Anger is also present, directed towards Brutus and the other conspirators for their betrayal. The anticipation of the audience's reaction and the desire to honor Caesar are also evident.
+
+Emotion vector: [0, 0.7, 0, 0, 0.5, 0, 0.3, 0.6, 0, 0.5, 0, 0, 0, 0, 0]

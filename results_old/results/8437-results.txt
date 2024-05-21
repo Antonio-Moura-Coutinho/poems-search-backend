@@ -1,0 +1,5 @@
+Based on the text, the emotions present seem to be primarily Love, Trust, and a sense of solitude or introspection. Here is the emotion vector for the given text:
+
+[0, 0, 0, 0, 0, 0, 0, 0.6, 0, 0.8, 0, 0, 0, 0, 0]
+
+This vector indicates a high level of Trust and Love, and a sense of being alone with a certain peace or connection.

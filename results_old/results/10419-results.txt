@@ -1,0 +1,7 @@
+To analyze the emotional content of the text, we can identify the following emotions:
+
+- Sadness (reflecting on forgotten memories, pain, and betrayal)
+- Anticipation (questioning the future and hope)
+
+Based on these emotions, the emotion vector for the text might be:
+[0, 0.6, 0, 0, 0, 0, 0.3, 0, 0, 0, 0, 0, 0, 0, 0]

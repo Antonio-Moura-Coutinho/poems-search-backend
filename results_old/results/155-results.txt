@@ -1,0 +1,9 @@
+Based on the text provided, the emotional vector could be as follows:
+
+[0, 0.7, 0.4, 0, 0, 0, 0.3, 0, 0, 0, 0, 0.2, 0.6, 0]
+
+Explanation:
+- Sadness is quite prominent, indicated by the focus on the ancient well-site and the sense of not reaching it.
+- Fear is present as the text mentions the underground part labeled as The Crypt, which can evoke a sense of unease or fear.
+- Anticipation is hinted at in the text by referencing that it costs a pretty penny to see The Crypt, implying a sense of looking forward to or eagerly waiting for something.
+- Melancholy, Nostalgia, and Bittersweetness are also present in the text, reflected in the reflective and wistful tone of the writing.

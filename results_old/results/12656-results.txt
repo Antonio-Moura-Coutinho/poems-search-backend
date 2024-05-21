@@ -1,0 +1,12 @@
+To analyze the emotional content of the text, we can infer the following emotions:
+
+- Sadness: The text conveys a sense of sadness and betrayal as the speaker expresses the consequences of the other person's actions. 
+- Anger: There is an underlying tone of anger towards the individual who is being condemned for their actions.
+- Distrust: The speaker shows a lack of trust and faith in the person being addressed.
+- Betrayal: The feeling of betrayal is palpable in the text, indicating a sense of being let down or deceived.
+
+Based on the emotional analysis, the emotion vector for the text could be:
+
+[0, 0.6, 0, 0, 0.4, 0, 0, 0, 0.8, 0, 0, 0, 0, 0.4, 0] 
+
+This vector represents high levels of sadness, anger, distrust, and a moderate level of betrayal within the text.

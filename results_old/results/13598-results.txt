@@ -1,0 +1,15 @@
+Analyzing the emotional content of the text, the prominent emotions that can be identified are:
+
+Sadness (Intense): The text conveys a sense of mourning, tragedy, and sadness through the imagery and descriptions used.
+
+Fear (Moderate): There is an underlying sense of fear or apprehension surrounding the themes of birth, death, and the unknown.
+
+Disgust (Mild): The description of butchery, flesh, and the dark imagery might evoke a mild sense of disgust.
+
+Anticipation (Mild): The anticipation of birth, the mystery of life, and the waiting behind closed doors hint at a sense of anticipation.
+
+Trust (Mild): The reference to self-denial, grace, and duty may suggest a minor element of trust.
+
+The emotion vector based on the analysis of the text would be:
+
+[0, 0.9, 0.4, 0.2, 0, 0, 0.2, 0.1, 0, 0.1, 0, 0, 0, 0.1, 0]

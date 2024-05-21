@@ -1,0 +1,9 @@
+Based on the text provided, the emotional content can be analyzed as follows:
+
+- Sadness: The text conveys a sense of nostalgia and longing for the past, which are associated with sadness.
+- Bittersweetness: The reminiscence of listening to old wartime songs and the contrast with the excitement of rock 'n' roll music brings a bittersweet tone to the text.
+- Nostalgia: There is a strong element of nostalgia present in the text, reflecting on past experiences and the changes in music tastes over time.
+
+Emotion vector: [0, 0.5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0.5, 0.5]
+
+This emotion vector indicates a high level of sadness, bittersweetness, and nostalgia while not prominently featuring other specific emotions listed.

@@ -1,0 +1,5 @@
+The emotional content of the text seems to evoke a mix of fear, superstition, rituals, and a sense of the supernatural. Based on the text, here is the emotion vector:
+
+[0, 0, 0.7, 0, 0, 0, 0.5, 0, 0, 0, 0, 0, 0, 0]
+
+This vector indicates high levels of Fear and Anticipation in the text, suggesting a focus on mysticism, rituals, and the unknown.

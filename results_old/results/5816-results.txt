@@ -1,0 +1,5 @@
+Based on the text "I Out of scarcity,—", the emotional content seems to convey a sense of struggle or lack. This could be associated with emotions such as Sadness, Anticipation, and possibly Fear. Here is an emotion vector representing the intensity of each emotion:
+
+[0, 0.4, 0.3, 0, 0, 0, 0.4, 0, 0, 0, 0, 0, 0, 0, 0]
+
+This vector indicates a moderate level of Sadness and Anticipation, with a slight undercurrent of Fear.

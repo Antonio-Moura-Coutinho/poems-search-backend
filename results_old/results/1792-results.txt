@@ -1,0 +1,8 @@
+To analyze the emotional content of the text, we can identify the following emotions based on the context:
+
+- Anticipation (wondering about the river and its surroundings)
+- Awe (appreciating the beauty and charm of the river and its elements)
+- Surprise (noting the unique aspects like the shadow left by the boat)
+- Nostalgia (reflecting on the timeless quality of the scene)
+
+Given these emotions, the emotion vector may look like this: [0, 0, 0, 0, 0, 0.3, 0.5, 0, 0, 0, 0, 0.7, 0, 0.6, 0]. A higher value indicates a stronger presence of the corresponding emotion.

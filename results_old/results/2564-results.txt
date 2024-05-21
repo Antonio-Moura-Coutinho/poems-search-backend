@@ -1,0 +1,19 @@
+To analyze the emotional content of the text, we will identify and assess the presence of various emotions. 
+
+Happiness: The text conveys a sense of wonder and admiration, which may contain an element of happiness - 0.3
+Sadness: There is no explicit sadness expressed in the text - 0
+Fear: There is no indication of fear in the text - 0
+Disgust: There is no disgust expressed - 0
+Anger: There is no anger conveyed - 0
+Surprise: The text contains an element of surprise with the imagery of arrows flying to the skies - 0.2
+Anticipation: The anticipation of the morning heroes rising towards the god adds anticipation to the text - 0.4
+Trust: There is trust implied in the reverence towards Apollo and the morning heroes - 0.3
+Distrust: There is no indication of distrust - 0
+Love: There is a sense of admiration and reverence expressed, which may contain elements of love - 0.4
+Saudade: The text does not explicitly convey saudade or longing - 0
+Awe: The text inspires awe through its imagery and description - 0.5
+Bittersweetness: There are no indications of bittersweetness - 0
+Melancholy: There is no melancholy expressed in the text - 0
+Nostalgia: There is no nostalgia expressed - 0
+
+Emotion

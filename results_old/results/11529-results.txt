@@ -1,0 +1,13 @@
+To analyze the emotional content of the text provided, we can identify the following emotions:
+
+- Happiness: There is a sense of comfort and adaptation shown by the family, suggesting a level of happiness in their situation.
+- Sadness: There is a hint of sadness in the mention of suffering and the children crying.
+- Fear: The initial fear of strange noises in the house is mentioned.
+- Surprise: The revelation of the ghost and its harmless nature could evoke surprise.
+- Trust: The family starts to trust and rely on the ghost "Daniel" for various happenings in the house.
+
+Based on the text and the emotions identified, the emotion vector could be approximated as follows:
+
+[0.4, 0.1, 0.3, 0, 0, 0.2, 0, 0.3, 0, 0.5, 0, 0, 0, 0]
+
+This vector reflects a moderate level of Happiness, a slight level of Sadness, Fear, and Trust, with a small amount of Surprise. The other emotions show minimal to no presence in the text.

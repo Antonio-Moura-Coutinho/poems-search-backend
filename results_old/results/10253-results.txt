@@ -1,0 +1,5 @@
+The text portrays a deep sense of melancholy, despair, isolation, and a lack of hope or happiness. There are also elements of anger, distrust, fear, and nostalgia present. The emotions in the text are mainly centered around darker and negative feelings. 
+
+Based on the emotional analysis of the text, the emotion vector would look like:
+
+[0, 0.7, 0.6, 0.3, 0.4, 0, 0, 0, 0.6, 0, 0, 0, 0.8, 0.6]

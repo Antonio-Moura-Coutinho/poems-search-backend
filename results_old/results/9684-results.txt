@@ -1,0 +1,5 @@
+Based on the emotional content of the text provided, the emotion vector would be as follows:
+
+[Happiness: 0.4, Sadness: 0, Fear: 0.3, Disgust: 0, Anger: 0.2, Surprise: 0, Anticipation: 0.5, Trust: 0.6, Distrust: 0, Love: 0.5, Saudade: 0, Awe: 0.4, Bittersweetness: 0, Melancholy: 0, Nostalgia: 0]
+
+The text has elements of happiness from the description of nature and beauty, anticipation from exploring the new surroundings, trust in the visuals and scenery being described, and a sense of wonder or awe in observing the wildlife and nature. There is also a hint of fear from the sudden mention of savages approaching in the twilight and a slight touch of anger in their hostile depiction. The overall emotional tone leans more towards positive emotions like happiness, anticipation, trust, and love, with a mix of fear, anger, and awe.

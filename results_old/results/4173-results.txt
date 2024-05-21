@@ -1,0 +1,18 @@
+Emotion vector: [0, 0.25, 0.35, 0, 0.3, 0.2, 0.1, 0, 0, 0, 0, 0, 0.3, 0.4, 0]
+
+Analysis:
+- Happiness: 0
+- Sadness: 0.25 (References to pain, being crushed by life, memories rising to the surface)
+- Fear: 0.35 (Feelings of pain, unknown reasons for poetry, alien elements)
+- Disgust: 0
+- Anger: 0.3 (References to resentment, temper, punishment)
+- Surprise: 0.2 (Unexpected experiences with poetry)
+- Anticipation: 0.1 (Waiting in line, bait/quick kill metaphor)
+- Trust: 0
+- Distrust: 0
+- Love: 0
+- Saudade: 0
+- Awe: 0
+- Bittersweetness: 0.3 (Theme of memories, reflection on past pain)
+- Melancholy: 0.4 (Overall tone of reflection, heaviness, and emotion)
+- Nostalgia: 0

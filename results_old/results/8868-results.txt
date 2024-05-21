@@ -1,0 +1,11 @@
+Based on the emotional content of the text provided, the emotion vector could be represented as follows: [0, 0.8, 0.7, 0, 0.9, 0.4, 0.5, 0, 0.7, 0.6, 0, 0.5, 0.8, 0.6, 0.7].
+
+Explanation:
+- Sadness: The text expresses a strong sense of sadness, longing, and loss throughout, indicating a high intensity of sadness.
+- Fear: There are references to fear of losing love and the inevitability of aging and death, contributing to a significant level of fear.
+- Anger: The text conveys a sense of anger towards time, destiny, and the cruelty of circumstances, which results in a high intensity of anger.
+- Surprise: While there is a mild sense of surprise at the inevitable passage of time and its effects, it is not a dominant emotion in the text.
+- Trust: There is a theme of unfulfilled trust and betrayal in love, leading to a moderate intensity of distrust.
+- Love: Love is present in the text, but it is portrayed as unrequited and doomed, resulting in a moderate intensity of love.
+- Saudade: The text evokes feelings of nostalgia, longing, and a sense of melancholy, pointing to a high intensity of saudade.
+- Awe: The text does not el

@@ -1,0 +1,5 @@
+The emotional content analysis of the text yields the following emotion vector:
+
+[0.15, 0.6, 0.6, 0.2, 0.5, 0.3, 0.35, 0.35, 0.25, 0, 0, 0, 0.6, 0.5, 0.45]
+
+This vector indicates a high intensity of sadness, fear, anger, bittersweetness, melancholy, and nostalgia in the text. There are also moderate levels of surprise, anticipation, and trust present in the emotional content. The emotions of disgust, love, saudade, awe, and distrust have lower intensities or are not prominently featured in the text.

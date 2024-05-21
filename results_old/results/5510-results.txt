@@ -1,0 +1,12 @@
+To analyze the emotional content of the text, we can identify the following emotions and their intensities:
+
+- Sadness: Moderate (references to courtroom, shedding the body, singeing back into skull, leaving some alive)
+- Fear: Moderate (references to pupils swallowing, being turned on by weapons)
+- Anticipation: Low (imagining a time when the subject would be human among humans)
+- Trust: Low (mention of imagining a time when the subject would be human among humans)
+- Distrust: Low (leaving some alive suggests a sense of distrust)
+- Melancholy: Moderate (overall tone of the text)
+
+Emotion vector: [0, 0.5, 0.4, 0, 0, 0.1, 0.2, 0.2, 0.2, 0, 0, 0, 0.3, 0]
+
+This vector represents the intensity of each emotion in the text on a scale from 0 to 1 for the specified emotions.

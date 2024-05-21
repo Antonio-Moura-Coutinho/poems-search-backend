@@ -1,0 +1,6 @@
+To analyze the emotional content of the text, we can identify the following emotions present in the poem:
+
+- Sadness: The speaker reflects on the passage of time and mortality, expressing a sense of melancholy and acceptance.
+- Trust: The speaker expresses trust in their own commitment to truth despite the inevitability of time passing.
+
+Emotion Vector: [0, 0.4, 0, 0, 0, 0, 0, 0.4, 0, 0, 0, 0, 0, 0.4, 0]

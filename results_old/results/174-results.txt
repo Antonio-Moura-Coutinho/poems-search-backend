@@ -1,0 +1,18 @@
+To analyze the emotional content of the text and create the emotion vector, we can identify the emotions conveyed in the passage. Here is the emotion vector based on the emotional content of the text:
+
+[0, 0.75, 0.75, 0, 0, 0, 0.5, 0, 0, 0, 0, 0, 0, 0, 0]
+
+Explanation:
+- Happiness: 0 (Not present in the text)
+- Sadness: 0.75 (The text conveys a deep sense of sadness, especially with descriptions of defeat, broken divinity, and tragic scenes)
+- Fear: 0.75 (Fear is implied through the gravity of the occasion and the unsettling events described)
+- Disgust: 0 (Not explicitly present in the text)
+- Anger: 0 (Not present)
+- Surprise: 0 (Not prominent in the text)
+- Anticipation: 0.5 (There is anticipation and tension in the text as the events unfold)
+- Trust: 0 (Not a significant emotion in this context)
+- Distrust: 0 (Not notably conveyed)
+- Love: 0 (Not the main focus of the text)
+- Saudade: 0 (Does not directly evoke a feeling of nostalgia for something loved and lost)
+- Awe: 0 (Not explicitly expressed)
+- Bittersweetness: 0 (The

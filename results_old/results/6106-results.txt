@@ -1,0 +1,6 @@
+Based on the text provided, the emotional content appears to be primarily focused on sadness, disgust, and melancholy. The mention of an asylum, maternity hospital, women's bodies expelling and leaving babies there evoke feelings of sadness, disgust, and a touch of melancholy. There is a sense of solemn reflection and a somber tone in the words used to describe the location. 
+
+The emotion vector for this text could be: 
+[0, 0.6, 0.1, 0.5, 0, 0, 0, 0, 0, 0, 0, 0, 0.4, 0] 
+
+This vector indicates high levels of sadness, disgust, and melancholy, with a hint of bittersweetness.

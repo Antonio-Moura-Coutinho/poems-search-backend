@@ -1,0 +1,20 @@
+The emotional vector for the given text is as follows: 
+
+[0.1, 0.6, 0.6, 0.2, 0.4, 0.2, 0.3, 0.1, 0.5, 0, 0, 0, 0.6, 0.6, 0.8]
+
+Explanation:
+- Happiness: 0.1 (Low intensity)
+- Sadness: 0.6 (High intensity)
+- Fear: 0.6 (High intensity)
+- Disgust: 0.2 (Moderate intensity)
+- Anger: 0.4 (Moderate intensity)
+- Surprise: 0.2 (Low intensity)
+- Anticipation: 0.3 (Low to moderate intensity)
+- Trust: 0.1 (Low intensity)
+- Distrust: 0.5 (High intensity)
+- Love: 0 (No expression of love in the text)
+- Saudade: 0 (No reference to nostalgia for something that may never return)
+- Awe: 0 (No expression of reverence or wonder)
+- Bittersweetness: 0.6 (High intensity)
+- Melancholy: 0.6 (High intensity)
+- Nostalgia: 0.8 (High intensity)

@@ -1,0 +1,3 @@
+This text evokes emotions of Sadness, Anticipation, Fear, and Melancholy. 
+
+Emotion vector: [0, 0.5, 0.25, 0, 0, 0, 0.25, 0, 0, 0, 0, 0, 0, 0.5, 0]

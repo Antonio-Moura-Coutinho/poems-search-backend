@@ -1,0 +1,3 @@
+The emotional vector for the provided text is as follows: [0, 0.2, 0, 0, 0, 0, 0, 0.2, 0, 0, 0, 0.2, 0.2, 0.3, 0]. 
+
+This vector indicates a sense of Melancholy, Nostalgia, Trust, Awe, and Bittersweetness in the text. The feelings of tiredness, reflection, and missed opportunities are prominent throughout the text, resulting in a higher intensity of Melancholy and Nostalgia. Trust is highlighted in the recognition of truth and the presence of God in the imagery. Awe is depicted through the description of God's appearance. Bittersweetness is evident in the realization of being too tired to fully embrace the moment.

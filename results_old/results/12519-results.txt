@@ -1,0 +1,5 @@
+Based on the emotional content of the text provided, we can analyze the intensity of various emotions present. Please find below the emotion vector:
+
+[Happiness: 0.1, Sadness: 0.5, Fear: 0.3, Disgust: 0.3, Anger: 0.3, Surprise: 0.2, Anticipation: 0.4, Trust: 0.2, Distrust: 0.4, Love: 0, Saudade: 0, Awe: 0.1, Bittersweetness: 0.2, Melancholy: 0.5, Nostalgia: 0.4].
+
+This emotion vector suggests that the text conveys a blend of emotions with notable intensity in Sadness, Disgust, Anger, Anticipation, Distrust, Melancholy, and Nostalgia.

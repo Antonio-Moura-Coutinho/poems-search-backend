@@ -1,0 +1,19 @@
+Analyzing the emotional content of the text, the following emotions can be identified to various degrees:
+
+Happiness: low
+Sadness: low
+Fear: low
+Disgust: low
+Anger: low
+Surprise: low
+Anticipation: low
+Trust: moderate
+Distrust: low
+Love: low
+Saudade: low
+Awe: low
+Bittersweetness: low
+Melancholy: moderate
+Nostalgia: moderate
+
+Therefore, the emotion vector for the text would be: [0, 0, 0, 0, 0, 0, 0, 0.4, 0, 0, 0, 0, 0, 0.4, 0].

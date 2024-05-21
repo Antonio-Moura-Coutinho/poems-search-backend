@@ -1,0 +1,5 @@
+Based on the text provided, the emotional vector could be:
+
+[0.4, 0.3, 0.25, 0.2, 0.3, 0.1, 0.2, 0.4, 0.3, 0.3, 0.1, 0.2, 0.3, 0.3, 0.3]
+
+This vector represents the intensity of each emotion.

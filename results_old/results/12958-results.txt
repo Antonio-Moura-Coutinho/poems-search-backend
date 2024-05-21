@@ -1,0 +1,8 @@
+To analyze the emotional content of the text, we can identify the following emotions:
+
+- Sadness: Present throughout the text, reflecting on the past with a sense of loss and longing.
+- Love: Expresses a sweet and tender love that could not last, contributing to the overall melancholic tone.
+- Melancholy: The text conveys a deep sense of melancholy and regret for the time that has passed.
+- Nostalgia: The reminiscing of past memories and the longing for them to continue evoke a strong sense of nostalgia.
+
+Based on the emotional analysis, the emotion vector for the given text is as follows: [0, 0.6, 0, 0, 0, 0, 0, 0, 0, 0.4, 0, 0, 0.7, 0.8, 0.9].

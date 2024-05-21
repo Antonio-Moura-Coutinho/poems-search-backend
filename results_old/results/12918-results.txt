@@ -1,0 +1,12 @@
+Analyzing the emotional content of the text, we can identify the following emotions:
+
+- Sadness: The theme of impermanence, youth fading, and time passing evokes a sense of sadness.
+- Anticipation: The anticipation of change and the desire to preserve youth and beauty are present.
+- Love: The speaker expresses love and admiration for the addressee.
+- Nostalgia: Reflecting on lost youth can evoke feelings of nostalgia for the past.
+
+Based on this analysis, the emotion vector for the text could be:
+
+[0, 0.4, 0, 0, 0, 0, 0.3, 0.6, 0, 0.7, 0, 0, 0, 0, 0.4] 
+
+This vector indicates moderate levels of sadness, anticipation, trust, love, and nostalgia in the text.

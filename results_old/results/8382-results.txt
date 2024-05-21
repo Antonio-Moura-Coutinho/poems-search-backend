@@ -1,0 +1,11 @@
+To analyze the emotional content of the text, we can identify the following emotions:
+
+- Sadness: The text conveys a sense of longing, loss, and mortality, which evoke feelings of sadness.
+- Love: The narrator expresses deep love and admiration for their grandmother, creating a strong emotional connection.
+- Anticipation: There is anticipation and hope in the grandmother waiting for news, showing a mix of emotions.
+- Trust: The grandmother's unwavering trust in Allah and belief in the greater purpose convey feelings of trust and faith.
+
+Based on these emotional cues, the emotion vector for the text would be:
+[0, 0.6, 0, 0, 0, 0, 0.3, 0.4, 0, 0.4, 0, 0, 0, 0]
+
+This vector indicates a high level of sadness, trust, love, and anticipation in the text. The presence of sadness and love are particularly strong, reflecting the emotional depth of the relationship between the narrator and their grandmother.

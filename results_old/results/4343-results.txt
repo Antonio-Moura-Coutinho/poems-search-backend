@@ -1,0 +1,5 @@
+Analyzing the emotional content of the text, the primary emotions that stand out are Sadness, Disgust, and a hint of Melancholy. The speaker reflects on memories of the past, possibly tinged with a sense of loss or regret, which evokes feelings of sadness. The mention of tears dried and forgotten can contribute to the perception of sadness. Additionally, the imagery of a skeleton protruding from the first room can evoke a sense of disgust and create a slightly eerie and unsettling atmosphere, which contributes to the emotional tone. The overall tone of the text carries a subtle feeling of Melancholy.
+
+Based on the emotional analysis, the emotion vector for the text could be:
+
+[0, 0.6, 0, 0.5, 0, 0, 0, 0, 0, 0, 0, 0, 0.4, 0]

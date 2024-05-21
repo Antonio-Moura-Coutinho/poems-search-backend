@@ -1,0 +1,4 @@
+The emotional vector for the given text is as follows: 
+[0.2, 0.2, 0.2, 0, 0.1, 0, 0, 0.2, 0, 0.2, 0, 0, 0.1, 0.2, 0] 
+
+This indicates a mix of various emotions such as Trust, Love, Anticipation, and Melancholy in the text.

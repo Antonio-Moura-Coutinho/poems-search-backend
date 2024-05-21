@@ -1,0 +1,15 @@
+Emotion vector: [0.2, 0.6, 0.3, 0.4, 0.5, 0.1, 0.4, 0.1, 0.3, 0.3, 0.2, 0.1, 0.3, 0.5, 0.2]
+
+Explanation:
+- Happiness: 0.2 (Low happiness as the text conveys more negative emotions)
+- Sadness: 0.6 (High sadness due to expressions of regret, feeling burdened or hurt)
+- Fear: 0.3 (Fear is present in the apprehension of things arriving unexpectedly)
+- Disgust: 0.4 (Disgust is evident in the curse towards God)
+- Anger: 0.5 (High anger as frustration and resentment are expressed)
+- Surprise: 0.1 (Low surprise as the events described do not appear to elicit surprise)
+- Anticipation: 0.4 (Moderate anticipation towards the unexpected events)
+- Trust: 0.1 (Low trust is shown, especially towards the divine entity)
+- Distrust: 0.3 (Moderate distrust towards the unknown)
+- Love: 0.3 (Love is mentioned in a negative context)
+- Saudade: 0.2 (Saudade is present in the nostalgic and reflective tone)
+- Awe: 0

@@ -1,0 +1,13 @@
+To analyze the emotional content of the text and create an emotion vector, we will assess the intensity of each emotion based on the provided text. 
+
+After analyzing the text, here is the emotional vector representing the intensity of emotions present in the text:
+[0.2, 0.7, 0.7, 0.7, 0.6, 0.7, 0.5, 0.2, 0.7, 0.1, 0.5, 0.8, 0.5, 0.7, 0.5]
+
+Explanation of the emotion vector:
+- Happiness: 0.2 - The text does not contain significant indicators of happiness.
+- Sadness: 0.7 - The text conveys a sense of sadness, especially with the mention of Death watching the soldiers in the wood.
+- Fear: 0.7 - There is a strong element of fear present, as Death is portrayed as laughing and the soldiers represent the Apocalypse.
+- Disgust: 0.7 - The text contains imagery related to bodily functions like shitting, farting, and urine dripping, evoking disgust.
+- Anger: 0.6 - This emotion is present due to the grim and unsettling imagery depicted in the text.
+- Surprise: 0.7 - There is an element of surprise in the unexpected and macabre juxtaposition of life and death in the text.
+- Ant

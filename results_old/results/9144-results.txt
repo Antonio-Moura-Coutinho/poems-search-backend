@@ -1,0 +1,5 @@
+Based on the text provided, the emotional content seems to include elements of sadness, bitterness, longing, and a sense of loss. Here is the emotion vector analysis for the text:
+
+[Sadness: 0.8, Bittersweetness: 0.6, Love: 0.4, Anticipation: 0.2, Nostalgia: 0.3, Happiness: 0, Fear: 0, Disgust: 0, Anger: 0, Surprise: 0, Trust: 0, Distrust: 0, Saudade: 0.4, Awe: 0, Melancholy: 0.7]
+
+This vector indicates that the text contains high levels of sadness, bittersweetness, and melancholy, along with moderate levels of love and saudade. Other emotions like happiness, fear, disgust, anger, surprise, anticipation, trust, and awe are not prominently represented in this text.

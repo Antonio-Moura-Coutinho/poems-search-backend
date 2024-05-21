@@ -1,0 +1,3 @@
+To analyze the emotional content of the text, I will evaluate the keywords and overall tone to determine the intensity of various emotions. Based on the text provided, the emotional vector would look as follows:
+
+[Happiness: 0.6, Sadness: 0.2, Fear: 0, Disgust: 0, Anger: 0, Surprise: 0.3, Anticipation: 0.5, Trust: 0.7, Distrust: 0, Love: 0.8, Saudade: 0, Awe: 0.4, Bittersweetness: 0.3, Melancholy: 0.2, Nostalgia: 0.5]

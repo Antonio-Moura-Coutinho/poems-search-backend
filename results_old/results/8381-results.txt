@@ -1,0 +1,17 @@
+To analyze the emotional content of the text and generate an emotion vector, we will consider the prevailing emotions within the text.
+
+[Happiness, Sadness, Fear, Disgust, Anger, Surprise, Anticipation, Trust, Distrust, Love, Saudade, Awe, Bittersweetness, Melancholy, Nostalgia]
+
+- Happiness: The text contains instances of happiness, especially when describing moments of joy and contentment despite pain. 
+- Sadness: There are elements of sadness portrayed, such as the pain experienced by the people despite their efforts. 
+- Fear: There is no overt expression of fear in the text. 
+- Disgust: There is no indication of disgust in the text. 
+- Anger: There are mentions of pain and suffering, but not explicitly anger. 
+- Surprise: The text does not evoke surprise. 
+- Anticipation: The anticipation of reaching Mecca is hinted at in the text. 
+- Trust: Trust is illustrated through the act of prayer and reliance on faith. 
+- Distrust: There is no illustration of distrust in the text. 
+- Love: Love is depicted in the acts of caring for one another and praying for the well-being of others. 
+- Saudade: The longing for Mecca and the pilgrimage could evoke a sense of saudade. 
+- Awe: The reverence towards the holy places and prayers could evoke awe. 
+- Bittersweetness: The

@@ -1,0 +1,5 @@
+Based on the text provided, the emotional content seems to include elements of Sadness and possibly a hint of Anticipation or Reassurance. The overall emotional vector for the text could be as follows:
+
+[0, 0.5, 0, 0, 0, 0, 0.2, 0, 0, 0, 0, 0, 0, 0, 0]
+
+This suggests a moderate level of sadness and a slight touch of anticipation. The text conveys a message that encourages someone feeling sad to look beyond their current situation with a sense of hope for a better tomorrow.

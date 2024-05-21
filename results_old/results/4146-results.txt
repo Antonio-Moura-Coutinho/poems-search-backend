@@ -1,0 +1,21 @@
+Based on the text provided, the emotional vector could be:
+
+[0.7, 0, 0.3, 0, 0, 0.8, 0.6, 0, 0, 0, 0, 0, 0, 0, 0]
+
+Explanation of emotions:
+
+- Happiness: 0.7 (The mention of having orgies at home and watching The Book of Mormon may imply a sense of enjoyment and pleasure)
+- Sadness: 0 (No indication of sadness in the text)
+- Fear: 0.3 (Mild apprehension or excitement about the event)
+- Disgust: 0 (No indication of disgust in the text)
+- Anger: 0 (No indication of anger in the text)
+- Surprise: 0.8 (The unexpected or unusual nature of having orgies at home and watching The Book of Mormon might evoke surprise)
+- Anticipation: 0.6 (Anticipation for the upcoming event and experience)
+- Trust: 0 (No indication of trust in the text)
+- Distrust: 0 (No indication of distrust in the text)
+- Love: 0 (No indication of love in the text)
+- Saudade: 0 (No indication of saudade in the text)
+- Awe: 0
+- Bittersweetness: 0
+- Melancholy: 0
+- Nostalg

@@ -1,0 +1,5 @@
+The emotional content of the text leans towards a mix of melancholy, sadness, fear, and a touch of anticipation. The intensity of each emotion can be represented in the emotion vector as follows:
+
+[0, 0.7, 0.5, 0, 0, 0, 0.3, 0.3, 0, 0, 0, 0, 0, 0]
+
+This vector indicates a high level of sadness, fear, and some anticipation, with negligible happiness, disgust, anger, surprise, trust, distrust, love, saudade, awe, bittersweetness, and nostalgia.

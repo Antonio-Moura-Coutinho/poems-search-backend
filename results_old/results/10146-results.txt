@@ -1,0 +1,15 @@
+To analyze the emotional content of the provided text and create an emotion vector, I will break down the text into different emotions it conveys. Based on the emotional content of the text, the following emotion vector can be generated:
+
+[0.2, 0.5, 0.4, 0.3, 0.4, 0.1, 0.3, 0.2, 0.4, 0.1, 0, 0.1, 0.3, 0.5, 0.4]
+
+Explanation:
+
+- Happiness: 0.2 (The text conveys a sense of sadness and loneliness rather than happiness)
+- Sadness: 0.5 (The predominant emotion in the text is sadness and melancholy)
+- Fear: 0.4 (The lines evoke a sense of fear about the corrupt nature of humanity)
+- Disgust: 0.3 (There is a hint of disgust towards the insincerity and corruption mentioned)
+- Anger: 0.4 (There is an underlying tone of anger towards the perceived hollowness of mankind)
+- Surprise: 0.1 (Not a prominent emotion in the text)
+- Anticipation: 0.3 (There is a sense of anticipation for love but it is subdued by sadness)
+- Trust: 0.2 (There is a lack of trust conveyed in the text)
+- Distrust:

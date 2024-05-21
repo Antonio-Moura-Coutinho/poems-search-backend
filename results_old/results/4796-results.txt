@@ -1,0 +1,7 @@
+To analyze the emotional content of the text from Song of Solomon, we can identify various emotions expressed throughout the passages. Based on the text, the emotions portrayed include:
+
+1. Trust: The speaker seems to trust the person being described, shown in phrases like "his fingers are in the stream."
+2. Love: There are references to love and intimacy in lines such as "Comfort me with apples; for I am sick of love" and descriptions of physical intimacy.
+3. Awe: The text conveys a sense of wonder and reverence, for example, "sacrament of the blood" and "the watchmen have not seen him."
+
+Emotion vector: [0, 0, 0, 0, 0, 0, 0, 0.5, 0, 0.5, 0, 0.5, 0, 0]

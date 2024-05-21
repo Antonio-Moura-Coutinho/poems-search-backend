@@ -1,0 +1,14 @@
+The emotional vector for the provided text is as follows: [0.1, 0.6, 0.6, 0.5, 0.4, 0.3, 0.3, 0.1, 0.6, 0, 0, 0, 0.7, 0.5, 0.5].
+
+Explanation:
+- Happiness: 0.1 - The text has little positive content.
+- Sadness: 0.6 - There are elements of sadness, melancholy, and nostalgia in the text, reflecting a predominant feeling of sadness.
+- Fear: 0.6 - There are mentions of fear-inducing activities and unsettling themes, contributing to a high level of fear.
+- Disgust: 0.5 - The text includes descriptions that may evoke feelings of disgust.
+- Anger: 0.4 - There is a presence of anger and contempt in the text.
+- Surprise: 0.3 - There is minimal surprise expressed.
+- Anticipation: 0.3 - Anticipation is not a prominent emotion in the text.
+- Trust: 0.1 - Trust is lacking in the content.
+- Distrust: 0.6 - There is a higher level of distrust displayed towards others.
+- Love: 0 - There is no genuine expression of love in the text.
+- Saudade: 0 - There is no strong sense of Saudade

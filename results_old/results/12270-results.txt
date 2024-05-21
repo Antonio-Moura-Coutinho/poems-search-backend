@@ -1,0 +1,5 @@
+This text contains strong emotions of anger, violence, and detachment. The emotions are intense and somewhat disturbing, evoking feelings of aggression, rebellion, and coldness. Based on the text, the emotion vector can be represented as follows:
+
+[0, 0, 0, 0.8, 0.9, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+This indicates a high intensity of Anger and Disgust, with low to no presence of other emotions in the text.

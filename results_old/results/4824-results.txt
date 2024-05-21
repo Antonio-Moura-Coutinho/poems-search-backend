@@ -1,0 +1,7 @@
+Based on the text "a wife will wean," the emotional content is quite subtle and open to interpretation as it might trigger feelings like:
+
+- Anticipation: The mention of a wife weaning can imply a sense of looking forward to change or transition.
+- Trust: The reference to a wife implies a sense of reliability or trustworthiness.
+- Surprise: The phrase "a wife will wean" might also evoke surprise or curiosity at this unexpected situation.
+
+Here is the emotion vector based on the emotions mentioned above in order: [0, 0, 0, 0, 0, 0.3, 0.4, 0.5, 0, 0.2, 0, 0, 0, 0, 0].

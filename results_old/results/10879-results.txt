@@ -1,0 +1,9 @@
+Based on the text provided, the emotional content can be analyzed as follows:
+
+- Sadness: The text conveys a sense of despair, violence, and loss, evident in descriptions such as "living rot on the bodies of the dead," "combatants’ teeth become knives," and "roses grow only in cemeteries."
+- Fear: There is a strong element of fear depicted through imagery of aggression, betrayal, and brutality.
+- Anger: The text expresses anger through references to aggressors, victors, and the crucifixion, highlighting a theme of conflict and hostility.
+- Distrust: The betrayals and actions of officials and clergymen suggest a theme of distrust and betrayal.
+- Melancholy: The overall tone of the text is somber and melancholic, reflecting on the darker aspects of human nature and conflict.
+
+Emotion Vector: [0, 0.6, 0.7, 0.4, 0.8, 0, 0, 0, 0, 0, 0, 0, 0, 0.6, 0]

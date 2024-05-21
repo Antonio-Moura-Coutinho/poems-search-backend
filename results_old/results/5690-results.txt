@@ -1,0 +1,15 @@
+The emotional vector for the provided text is as follows: [0.1, 0.3, 0.4, 0.3, 0.3, 0.3, 0.1, 0.1, 0.1, 0, 0.1, 0.1, 0.2, 0.3, 0.4].
+
+Explanation:
+- Happiness: 0.1 (There is a sense of melancholy and sadness in the text)
+- Sadness: 0.3 (Several references to death and a somber tone)
+- Fear: 0.4 (Imagery and concepts related to death, corpses, and a sense of loss evoke fear)
+- Disgust: 0.3 (Reference to corpses and a certain sadness can trigger disgust)
+- Anger: 0.3 (The reference to a blood clot and the emotional atmosphere may evoke anger)
+- Surprise: 0.3 (Some unexpected elements in the text)
+- Anticipation: 0.1 (Limited anticipation present in the text)
+- Trust: 0.1 (Not much trust-related content in the text)
+- Distrust: 0.1 (Limited content to evoke distrust)
+- Love: 0 (No significant references to love)
+- Saudade: 0.1 (Feelings of longing or nostalgia)
+- Awe: 0.1 (Limited awe

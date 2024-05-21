@@ -1,0 +1,10 @@
+Analyzing the emotional content of the text provided, the emotions present are:
+
+- Happiness: The scene depicts a lively and vibrant atmosphere with buskers playing music and people enjoying the performance. There is a sense of joy and celebration.
+- Anticipation: The text hints at anticipation with the description of the buskers performing and the audience watching with interest.
+- Trust: There is a sense of trust portrayed in the text, especially in the interactions between the performers and the audience.
+- Surprise: There are elements of surprise, such as the unexpected actions of the buskers and the arrival of the caravans.
+
+Based on the analysis, the emotion vector for the text could be [0.4, 0, 0, 0, 0, 0.2, 0.3, 0.3, 0, 0, 0, 0, 0, 0].
+
+Let me know if you need further assistance or more details!

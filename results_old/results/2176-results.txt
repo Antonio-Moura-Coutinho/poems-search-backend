@@ -1,0 +1,3 @@
+Based on the provided text, the emotional content appears to be primarily centered around sadness, with potential undertones of anger, disgust, and a sense of injustice. The mention of a lynching and recovery of a body from the river conveys a somber and tragic event. The text does not overtly express happiness, fear, surprise, anticipation, trust, distrust, love, saudade, awe, bittersweetness, melancholy, or nostalgia.
+
+Emotion Vector: [0, 0.8, 0, 0.6, 0.6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]

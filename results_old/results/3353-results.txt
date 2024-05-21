@@ -1,0 +1,21 @@
+To analyze the emotional content of the text and create an emotion vector, we can identify emotions expressed in the text and measure their intensity.
+
+Here is the emotion vector based on the text you provided:
+
+[Happiness: 0, Sadness: 0.6, Fear: 0.6, Disgust: 0, Anger: 0.8, Surprise: 0, Anticipation: 0.4, Trust: 0, Distrust: 0.6, Love: 0, Saudade: 0, Awe: 0, Bittersweetness: 0.5, Melancholy: 0.8, Nostalgia: 0]
+
+Explanation of emotions based on the text:
+
+- Happiness: Not present
+- Sadness: Moderate intensity due to the melancholic and regretful tone of the speaker.
+- Fear: Moderate intensity, as the speaker expresses fear of vulnerability and being harmed.
+- Disgust: Not present
+- Anger: High intensity, as the speaker expresses feelings of spite and resentment.
+- Surprise: Not present
+- Anticipation: Moderate intensity, as the speaker anticipates negative outcomes.
+- Trust: Not present
+- Distrust: Moderate intensity, as the speaker expresses distrust towards those who hate them.
+- Love: Not present
+- Saudade: Not present
+- Awe: Not present
+- Bittersweetness: Moderate intensity, as the speaker reflects

@@ -1,0 +1,18 @@
+Emotion vector: [0.2, 0.6, 0.4, 0.3, 0.2, 0.3, 0.3, 0.4, 0.3, 0, 0, 0, 0.5, 0.4, 0.6]
+
+Explanation:
+- Happiness: 0.2 (low intensity)
+- Sadness: 0.6 (high intensity)
+- Fear: 0.4 (moderate intensity)
+- Disgust: 0.3 (moderate intensity)
+- Anger: 0.2 (low intensity)
+- Surprise: 0.3 (moderate intensity)
+- Anticipation: 0.3 (moderate intensity)
+- Trust: 0.4 (moderate intensity)
+- Distrust: 0.3 (moderate intensity)
+- Love: 0 (not present)
+- Saudade: 0 (not present)
+- Awe: 0 (not present)
+- Bittersweetness: 0.5 (moderate to high intensity)
+- Melancholy: 0.4 (moderate intensity)
+- Nostalgia: 0.6 (high intensity)

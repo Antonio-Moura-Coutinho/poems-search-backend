@@ -1,0 +1,5 @@
+Based on the text provided, the emotional vector can be analyzed as follows:
+
+[Happiness: 0, Sadness: 0.5, Fear: 0, Disgust: 0, Anger: 0, Surprise: 0, Anticipation: 0.5, Trust: 0, Distrust: 0, Love: 0, Saudade: 0, Awe: 0, Bittersweetness: 0.5, Melancholy: 0.5, Nostalgia: 0.5]
+
+This text expresses feelings of sadness, anticipation, bittersweetness, melancholy, and nostalgia. There is a sense of reminiscence and reflection on past memories and friends, creating a mix of emotions with a focus on the past.

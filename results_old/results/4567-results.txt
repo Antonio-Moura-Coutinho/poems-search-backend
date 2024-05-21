@@ -1,0 +1,10 @@
+To analyze the emotional content of the text, we can identify several emotions present:
+
+- Fear: The text contains fear-inducing phrases like "spasms and fasciculations," "bump on your back," "chondrosarcoma," and "unplugged your router."
+- Disgust: The mention of excessive googling of freckles and dry skin diagnosis due to too much shower gel can evoke a sense of disgust.
+- Anger: There is an undertone of frustration and warning present in the text, expressed in lines like "Do you know where your priorities lie?" and "Don't say we didn't warn you."
+- Anticipation: The text builds anticipation through questioning the reader about life, priorities, and the outcomes of therapy sessions and courses.
+
+Based on these identified emotions, the emotional vector for the text could be:
+
+[0, 0, 0.6, 0.4, 0.3, 0, 0.4, 0, 0, 0, 0, 0, 0, 0, 0]

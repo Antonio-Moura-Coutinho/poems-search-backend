@@ -1,0 +1,1 @@
+The emotional content of the text seems to primarily evoke feelings of Awe, Anticipation, Trust, and Wonder. Based on the text, the emotion vector can be approximated as follows: [0, 0, 0, 0, 0, 0, 0.3, 0.6, 0, 0.5, 0, 0.6, 0, 0]. This indicates a high level of anticipation, trust, and wonder present in the text.

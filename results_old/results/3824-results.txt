@@ -1,0 +1,5 @@
+The emotional content of the text leans heavily towards sadness, fear, anger, and distrust, with elements of bittersweetness and melancholy. Love is also present in the form of references to familial relationships and survival. Awe and nostalgia can be inferred from the descriptions of loss and the haunting impact of the events described. The emotion vector for the text would be approximately as follows: 
+
+[0, 0.7, 0.6, 0, 0.7, 0, 0, 0.3, 0.8, 0.4, 0, 0.7, 0.5, 0.4, 0.6] 
+
+This vector indicates a high intensity of sadness, fear, and anger, moderate intensity of bittersweetness, love, and nostalgia, and lower intensity of distrust, melancholy, and anticipation.

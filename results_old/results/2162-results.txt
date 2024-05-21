@@ -1,0 +1,3 @@
+Analyzing the emotional content of the text, we can detect various emotions such as Sadness, Anger, Disgust, Anticipation, and a hint of Love. Here is an emotion vector based on the intensity of these emotions in the text:
+
+[0, 0.4, 0, 0.3, 0.6, 0, 0.3, 0, 0, 0.2, 0, 0, 0, 0]

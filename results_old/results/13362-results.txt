@@ -1,0 +1,9 @@
+Based on the text, the emotional content can be analyzed as follows:
+
+- Happiness: The overall tone of the nursery rhyme is cheerful and positive, suggesting happiness.
+- Anticipation: There is an element of anticipation in the rhyme as Little Jack Horner eagerly reaches into the pie to discover what he will find.
+- Trust: Little Jack Horner displays confidence in his actions and self-assurance when he declares himself a good boy.
+
+Emotion vector: [0.8, 0, 0, 0, 0, 0, 0.5, 0.7, 0, 0, 0, 0, 0, 0, 0]
+
+This vector indicates a high level of happiness and trust, along with a moderate level of anticipation.

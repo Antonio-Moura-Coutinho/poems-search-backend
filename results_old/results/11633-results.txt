@@ -1,0 +1,5 @@
+The emotional content of the text seems to include elements of Disgust, Fear, and Surprise. Here is the emotion vector based on the intensity of each emotion:
+
+[0, 0, 0.6, 0.4, 0, 0.6, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+This vector indicates a higher intensity of Fear, Surprise, and Disgust in the text.

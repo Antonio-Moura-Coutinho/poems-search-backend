@@ -1,0 +1,13 @@
+To analyze the emotional content of the text, we can identify the following emotions:
+
+Sadness: The text conveys a sense of desolation and loneliness with descriptions of an occupied country, dark houses, and gutted storefronts.
+
+Fear: There is a feeling of fear present with mentions of being alone, out at night, and afraid to put on the Halloween mask.
+
+Anticipation: The search for the black dog and the tension created by being out before curfew on the streets contribute to a sense of anticipation.
+
+Distrust: The narrator feels out of place and shouldn't be on the street corner, indicating a level of distrust or apprehension.
+
+Melancholy: The overall tone of the text is melancholic, reflecting a deep sadness and emotional heaviness.
+
+Based on the analysis, the emotion vector for the text could be [0, 0.5, 0.4, 0, 0, 0, 0.3, 0, 0.3, 0, 0, 0, 0.7, 0.7, 0].

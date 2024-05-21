@@ -1,0 +1,19 @@
+Analyzing the emotional content of the text, the following emotion vector can be generated:
+
+[0.2, 0.3, 0.4, 0, 0, 0.4, 0.3, 0, 0.2, 0.2, 0.1, 0.3, 0, 0.4, 0] 
+
+Explanation of the emotional intensities:
+- Happiness: 0.2 (Mild happiness implied in the mention of the moon)
+- Sadness: 0.3 (Some sadness associated with introspection and relationships)
+- Fear: 0.4 (Fear and vulnerability reflected in the imagery)
+- Disgust: 0 (No explicit disgust)
+- Anger: 0 (No visible anger)
+- Surprise: 0.4 (Surprise element in the imagery and introspection)
+- Anticipation: 0.3 (Anticipation of future events or emotions)
+- Trust: 0 (Trust is not prominently featured)
+- Distrust: 0.2 (Slight hint of distrust or uncertainty)
+- Love: 0.2 (Love implied in the relationship dynamics)
+- Saudade: 0.1 (Slight sense of nostalgia or longing)
+- Awe: 0.3 (Sense of awe in the imagery and introspection)
+- Bittersweetness: 0 (No direct bittersweetness)
+- Mel

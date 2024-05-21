@@ -1,0 +1,11 @@
+Analyzing the emotional content of the text, the emotions conveyed include:
+
+- Anticipation: The anticipation of a football play is present in the opening scene of the text.
+- Confusion: The confusion and realization that something unexpected has happened with the football turning out to be a shoe instead.
+- Determination: The resolve not to go through with throwing the shoe instead of the football.
+
+Based on the emotional analysis, the emotion vector for the text could be:
+
+[0, 0, 0, 0, 0, 0, 0.3, 0, 0, 0, 0, 0, 0, 0, 0] 
+
+This vector indicates a moderate level of anticipation and a lack of other emotions such as sadness, fear, disgust, anger, surprise, trust, distrust, love, saudade, awe, bittersweetness, melancholy, and nostalgia.

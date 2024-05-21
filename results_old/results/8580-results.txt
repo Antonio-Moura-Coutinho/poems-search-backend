@@ -1,0 +1,19 @@
+Based on the text provided, the emotional vector could be:
+
+[0, 0.6, 0.6, 0, 0, 0.4, 0.3, 0, 0, 0, 0, 0, 0.6, 0]
+
+Explanation:
+- Happiness: 0 (not displayed in the text)
+- Sadness: 0.6 (Imminent disaster, groans, trap door, and the overall tone of the text suggest sadness)
+- Fear: 0.6 (Imminent disaster, trap door, and feeling of impending trouble)
+- Disgust: 0 (Not displayed in the text)
+- Anger: 0 (Not displayed in the text)
+- Surprise: 0.4 (Unexpected actions and outcomes, such as doves and plastic roses coming out)
+- Anticipation: 0.3 (Anticipation of what will happen next with the setting and descriptions)
+- Trust: 0 (Not displayed in the text)
+- Distrust: 0 (Not displayed in the text)
+- Love: 0 (Not displayed in the text)
+- Saudade: 0 (Not displayed in the text)
+- Awe: 0 (Not displayed in the text)
+- Bittersweetness: 0.6 (The mix of humor and sadness can evoke bittersweet emotions)
+- Melancholy: 0 (Not displayed in the

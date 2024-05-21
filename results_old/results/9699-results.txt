@@ -1,0 +1,10 @@
+The emotional content of the text can be analyzed as follows:
+
+- Sadness: The text conveys a strong sense of sadness, particularly through the portrayal of the mother, Eliza, being separated from her son. Eliza's tears, begging, and emotional distress contribute to the overall sadness of the narrative.
+- Anger: There is an undercurrent of anger present, especially in the actions of the man selling the slaves who threatens Eliza with lashes if she does not stop crying. The man's cursing and derogatory language towards Eliza also evoke feelings of anger.
+- Fear: Fear is palpable in the text as Eliza is threatened with physical punishment and lashes if she does not comply with the man selling the slaves. Eliza's desperate pleas and reactions also reflect a sense of fear.
+- Distrust: There is a sense of distrust in the interactions between Eliza and the man from Baton Rouge, as Eliza fears being separated from her children and questions the buyer's intentions.
+- Love: Love is evident in Eliza's strong affection for her son, as she hugs and kisses him repeatedly before their separation. Her unconditional love for her children is a central theme in the text.
+
+Based on the emotional analysis, the emotion vector for the text could be:
+[0.2, 0.8, 0.2, 0, 0.6, 0, 0, 0, 0, 0.6, 0

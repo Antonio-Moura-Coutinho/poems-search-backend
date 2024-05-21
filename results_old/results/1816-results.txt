@@ -1,0 +1,11 @@
+To analyze the emotional content of the text provided, I will focus on the themes and sentiments expressed in the poem. Based on the content, I will generate an emotion vector representing the intensity of each emotion. Here is the emotion vector for the text:
+
+[0.1, 0.7, 0.6, 0.3, 0.4, 0.2, 0.5, 0.2, 0.6, 0.3, 0.2, 0.2, 0.4, 0.6, 0.5]
+
+Explanation:
+- Happiness: 0.1 - The text primarily conveys a somber and reflective mood, lacking in expressions of happiness.
+- Sadness: 0.7 - The poem is filled with themes of sadness, melancholy, and loss, evoking a strong sense of sorrow and mourning.
+- Fear: 0.6 - There are elements of fear present in the descriptions of war, bloodshed, and the haunting phantoms of the living, contributing to a feeling of unease.
+- Disgust: 0.3 - While there is no explicit disgust expressed, the mention of blood and warfare may elicit a moderate sense of disgust.
+- Anger: 0.4 - The poem hints at the emotions of anger or frustration through the imagery of war and the toll it takes on individuals and families.
+- Surprise: 0

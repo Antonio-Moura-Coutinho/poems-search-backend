@@ -1,0 +1,17 @@
+To analyze the emotional content of the text and provide an emotion vector, let's identify the emotions expressed throughout the text:
+
+Happiness: The text conveys a sense of joy and thrill in activities like smuggling wine, driving fast cars, and enjoying time with friends.
+Sadness: There is an underlying tone of sadness or melancholy in the descriptions of poverty, lack of resources, and the overall atmosphere of escapism.
+Fear: The text does not explicitly convey fear.
+Disgust: There are elements of disregard for rules and authority, but not necessarily disgust.
+Anger: There are hints of rebellion and opposition to societal norms but not intense anger.
+Surprise: The text features unexpected or unconventional situations but not strong surprise.
+Anticipation: There is a sense of excitement and anticipation for the activities described.
+Trust: There is trust among the group of friends engaging in these activities.
+Distrust: There is no explicit distrust expressed in the text.
+Love: There is camaraderie and shared experiences among the friends, suggesting a form of love.
+Saudade: There is a hint of saudade in the escapism and fleeting nature of the experiences.
+Awe: The text describes moments of awe-inspiring experiences such as looking up at the sky.
+Bittersweetness: There is a bittersweet quality to the descriptions of temporary joy amidst difficult circumstances.
+Melancholy: The overall tone of the text conveys a sense of melancholy and wistfulness.
+Nost

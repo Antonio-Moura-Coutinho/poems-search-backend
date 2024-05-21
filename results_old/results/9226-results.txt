@@ -1,0 +1,12 @@
+Analyzing the emotional content of the text, we can identify the following emotions:
+
+1. Happiness: The speaker expresses gratitude and contentment with the way they are designed and how they can find joy in simple things. [Intensity: 0.6]
+2. Trust: There is a sense of trust in the universe or a higher power, thanking "Good Heav'n" for the design. [Intensity: 0.4]
+3. Anticipation: The speaker looks forward to enjoying pleasures and praises, as long as they are in line with reason and religion. [Intensity: 0.3]
+4. Contentment: The speaker seems to find contentment in being able to live without relying on external aids or fortune. [Intensity: 0.4]
+5. Love: While not explicitly mentioned, the overall tone suggests a love for simplicity, self-sufficiency, and finding joy in both sunlit and shaded moments. [Intensity: 0.3]
+
+Based on these identified emotions, the emotion vector for the text would be approximately: 
+[0.6, 0, 0, 0, 0, 0, 0.3, 0.4, 0, 0.3, 0, 0, 0, 0]
+
+This vector represents the intensity of each emotion in the text according to the scale provided.

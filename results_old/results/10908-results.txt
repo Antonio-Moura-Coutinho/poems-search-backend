@@ -1,0 +1,5 @@
+The emotional content of the text appears to have elements of Sadness, Nostalgia, and Love. Here is the emotion vector based on the text:
+
+[0, 0.4, 0, 0, 0, 0, 0, 0.4, 0, 0.6, 0, 0, 0, 0, 0.3]
+
+This vector reflects the intensity of Sadness, Nostalgia, and Love in the text, with higher values indicating a stronger presence of those emotions.

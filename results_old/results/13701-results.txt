@@ -1,0 +1,10 @@
+Analyzing the emotional content of the text, the predominant emotions present are:
+
+- Anticipation: The description of the child's fascination with dinosaurs and the excitement of discovering new aspects about them creates a sense of anticipation and curiosity.
+- Love: The bond between the child and the dinosaurs is portrayed through the child's engagement and imagination with the toys.
+- Awe: The awe-inspiring nature of the dinosaurs and the child's admiration for them evoke a sense of wonder and amazement.
+- Nostalgia: The text reminisces about the child's playtime with the dinosaurs, evoking feelings of nostalgia for the past.
+
+Based on these emotional cues, the emotion vector for the text could be:
+
+[0, 0, 0, 0, 0, 0, 0.6, 0.7, 0, 0.6, 0, 0.6, 0, 0.5, 0.6]

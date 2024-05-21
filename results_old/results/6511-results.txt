@@ -1,0 +1,19 @@
+Based on the text provided, the emotional content can be analyzed as follows:
+
+Happiness: 0.4 (references to something perfect, breeze, glory of heaven)
+Sadness: 0.1
+Fear: 0
+Disgust: 0
+Anger: 0
+Surprise: 0.2
+Anticipation: 0.3
+Trust: 0.6 (references to the sunlight of morn)
+Distrust: 0
+Love: 0.5 (references to move upward to the woodland)
+Saudade: 0
+Awe: 0.4
+Bittersweetness: 0
+Melancholy: 0
+Nostalgia: 0
+
+Emotion vector: [0.4, 0.1, 0, 0, 0, 0.2, 0.3, 0.6, 0, 0.5, 0, 0.4, 0, 0]

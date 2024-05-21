@@ -1,0 +1,10 @@
+Based on the provided text, the emotional vector for the text can be as follows: [0.6, 0, 0.1, 0, 0, 0.4, 0.4, 0.5, 0, 0.6, 0, 0.3, 0, 0].
+
+Explanation:
+- Happiness: The overall tone of the text seems light-hearted and whimsical, with elements of happiness conveyed through the playful interaction between the Duck and the Kangaroo. Therefore, the intensity of Happiness is relatively high at 0.6.
+- Sadness: There are no explicit instances of sadness in the text, leading to a Sadness intensity of 0.
+- Fear: A slight sense of fear can be inferred when the Kangaroo expresses concern about catching "roo-Matiz" from the Duck's wet feet, resulting in a low intensity of Fear at 0.1.
+- Disgust: There are no indications of disgust in the text, leading to a Disgust intensity of 0.
+- Anger: There are no instances of anger in the text, resulting in an Anger intensity of 0.
+- Surprise: The text includes moments of surprise, such as the request for a ride and the unexpected hopping around the world, contributing to a medium intensity of Surprise at 0.4.
+- Anticipation: Both the Duck and the Kangaroo express anticipation and excitement for their adventure

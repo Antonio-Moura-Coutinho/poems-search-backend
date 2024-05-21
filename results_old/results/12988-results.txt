@@ -1,0 +1,5 @@
+The emotional content of the text includes a mix of different emotions such as passion, melancholy, love, sadness, longing, and even a sense of awe. Based on this analysis, here is the emotion vector for the text:
+
+[0.3, 0.4, 0.2, 0, 0, 0, 0, 0.6, 0, 0.5, 0.3, 0.3, 0.3, 0.4, 0.4]
+
+This vector reflects the intensity of each emotion within the text on a scale from 0 to 1.

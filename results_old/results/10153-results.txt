@@ -1,0 +1,3 @@
+The emotional content of the text appears to include elements of Sadness, Fear, and Anticipation. The repetition of the phrase "The thought of what America would be like" conveys a sense of concern or worry, indicating a level of Fear and Anticipation. The overall tone of the text seems reflective and introspective, suggesting a hint of Sadness as well.
+
+Based on this analysis, the emotion vector for the text could be approximately: [0, 0.3, 0.4, 0, 0, 0, 0.3, 0, 0, 0, 0, 0, 0, 0, 0].

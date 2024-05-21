@@ -1,0 +1,14 @@
+This text contains a mix of positive and negative emotions with various intensities. The emotional vector representing the text could be as follows: [0.4, 0.3, 0.4, 0.3, 0.2, 0.1, 0.3, 0.4, 0.4, 0.5, 0, 0.2, 0.3, 0.3]. 
+
+Interpretation:
+- Happiness: 0.4 (Moderate level of positivity in the descriptions)
+- Sadness: 0.3 (Some hints of sadness, possibly due to contrasting statements)
+- Fear: 0.4 (Imagery of razorblade eyes and splintered hands can evoke fear)
+- Disgust: 0.3 (Negative descriptions might lead to a sense of disgust)
+- Anger: 0.2 (Mild hints of anger towards those who cannot handle "claws")
+- Surprise: 0.1 (Not much surprise indicated in the text)
+- Anticipation: 0.3 (Anticipation of what a Filipina represents)
+- Trust: 0.4 (Positive attributes like loyalty and sincerity boost trust)
+- Distrust: 0.4 (Hints of distrust towards those who may not handle the Filipina)
+- Love: 0.5 (Strong emphasis on love and deserving of it)
+- Saudade: 0

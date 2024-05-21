@@ -1,0 +1,3 @@
+The emotional vector for the text you provided is as follows: [0.1, 0.2, 0.2, 0, 0.2, 0, 0, 0.4, 0, 0.2, 0, 0, 0.2, 0.3, 0].
+
+This analysis indicates a higher intensity of emotions such as Trust, Anger, Melancholy, and Nostalgia, with lower intensities of other emotions like Happiness and Fear.

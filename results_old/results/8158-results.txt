@@ -1,0 +1,17 @@
+Emotion vector for the given text:
+
+[0.2, 0, 0.2, 0, 0, 0, 0.3, 0.2, 0, 0, 0, 0.6, 0.4, 0] 
+
+Explanation:
+- Happiness: 0.2 - There is a sense of positivity and appreciation in the imagery of nature being depicted.
+- Sadness: 0 - There is no explicit indication of sadness in the text.
+- Fear: 0.2 - The "whirl," "splash," and "hurl" images could evoke a mild sense of fear or unease.
+- Disgust: 0 - There are no elements suggesting disgust in the text.
+- Anger: 0 - There are no indications of anger in the text.
+- Surprise: 0 - There are no elements of surprise in the text.
+- Anticipation: 0.3 - The anticipation of the sea's actions and its impact on the rocks and surroundings is present.
+- Trust: 0.2 - Trust in the sea's power and beauty is subtly expressed.
+- Distrust: 0 - There is no distrust depicted in the text.
+- Love: 0 - There are no direct expressions of love in the text.
+- Saudade: 0 - There is no specific reference to nostalgia or longing.
+- Awe: 0.6 - The description

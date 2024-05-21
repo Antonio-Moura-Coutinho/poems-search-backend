@@ -1,0 +1,3 @@
+The text contains a wide range of emotions including awe, anticipation, fear, anger, and triumph. The emotions are described with varying intensities throughout the text. Here is the emotion vector based on the analysis of the text:
+
+[0.15, 0.25, 0.25, 0.05, 0.2, 0.2, 0.2, 0.15, 0.25, 0, 0.2, 0, 0.1, 0.1, 0.1]

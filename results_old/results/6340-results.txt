@@ -1,0 +1,3 @@
+The emotional content of the text suggests a mix of emotions, including sadness, disgust, surprise, distrust, and a hint of anticipation. The vector representing the intensity of each emotion on a scale from 0 to 1 would be as follows:
+
+[0, 0.3, 0, 0.2, 0, 0.2, 0.1, 0, 0.3, 0, 0, 0, 0, 0]

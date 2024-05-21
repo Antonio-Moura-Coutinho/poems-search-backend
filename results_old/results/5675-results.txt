@@ -1,0 +1,3 @@
+Since the text provided is not expressive of any specific emotions, the emotion vector would be predominantly neutral with very low values for all emotions. Here is the emotion vector for the given text:
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]

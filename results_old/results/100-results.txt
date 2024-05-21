@@ -1,0 +1,29 @@
+To analyze the emotional content of the text provided and create an emotion vector, let's break down the emotions expressed in the text:
+
+1. Fear: The text conveys a strong sense of fear, with the mention of the possibility of an atom bomb being thrown and the fear felt by the narrator and their friends.
+
+2. Anticipation: There is a sense of anticipation as the characters prepare for a potential threat and make plans accordingly.
+
+3. Disgust: While not explicitly mentioned, there is a subtle hint of disgust in the fear and the need to act to protect themselves.
+
+4. Trust: The trust is evident between the friends as they confide in each other and make decisions together.
+
+5. Anger: There is no direct expression of anger in the text.
+
+6. Surprise: There is no element of surprise mentioned in the text.
+
+7. Happiness: There is no indication of happiness in the text.
+
+8. Sadness: While not explicitly mentioned, the underlying fear and need to act could evoke a sense of sadness.
+
+9. Distrust: There is no distrust shown in the relationships between the characters.
+
+10. Love: There is no direct expression of love in the text.
+
+11. Saudade: There is no indication of longing or nostalgia for something missing.
+
+12. Awe: There is no sense of wonder or admiration described.
+
+13. Bittersweetness: The text does not convey a mix of happiness and sadness together.
+
+14. Melancholy:

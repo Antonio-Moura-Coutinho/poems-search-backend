@@ -1,0 +1,5 @@
+Analyzing the emotional content of the text, we can identify emotions of Loneliness, Love, Desire, Passion, Longing, Confusion, and Yearning. Based on these emotions, the emotion vector for the text could be:
+
+[0.15, 0, 0.2, 0, 0, 0, 0.4, 0.6, 0, 0.5, 0.3, 0, 0.6, 0.5, 0.4]
+
+These values indicate the intensity of each emotion present in the text on a scale from 0 to 1. Feel free to adjust these values based on your interpretation of the emotional content.

@@ -1,0 +1,13 @@
+To analyze the emotional content of the text and create an emotion vector, we can identify the emotions expressed in each line. Based on the text provided, we can detect the following emotions:
+
+- Happiness
+- Love
+- Anticipation
+- Trust
+- Joy
+
+Now, let's create the emotion vector based on the intensity of each emotion:
+
+[Happiness: 0.3, Sadness: 0, Fear: 0, Disgust: 0, Anger: 0, Surprise: 0, Anticipation: 0.2, Trust: 0.2, Distrust: 0, Love: 0.4, Saudade: 0, Awe: 0, Bittersweetness: 0, Melancholy: 0, Nostalgia: 0]
+
+This vector represents the emotional content of the text, highlighting the presence and intensity of each emotion expressed.

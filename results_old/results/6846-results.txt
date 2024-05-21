@@ -1,0 +1,5 @@
+This text evokes a mix of different emotions, including sadness, fear, darkness, introspection, and a sense of searching and transformation. Here is the emotional vector based on the analysis of the text:
+
+[Sadness: 0.6, Fear: 0.6, Happiness: 0, Disgust: 0, Anger: 0, Surprise: 0, Anticipation: 0.3, Trust: 0.2, Distrust: 0.4, Love: 0, Saudade: 0, Awe: 0.4, Bittersweetness: 0.5, Melancholy: 0.6, Nostalgia: 0]
+
+This vector shows a higher intensity of sadness, fear, bittersweetness, melancholy, and a mix of anticipation, distrust, and awe, while other emotions like happiness, love, and nostalgia are not as prominent in the text.

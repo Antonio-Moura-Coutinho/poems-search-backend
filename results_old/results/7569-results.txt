@@ -1,0 +1,18 @@
+The emotional content analysis of the text yields the following emotion vector: [0.6, 0, 0.1, 0, 0, 0.2, 0.4, 0.6, 0, 0, 0, 0, 0, 0]. 
+
+Explanation:
+- Happiness: 0.6 (Significant presence of positive emotions in the description of people singing joyfully)
+- Sadness: 0 (No explicit sadness detected in the text)
+- Fear: 0.1 (Slight anticipation and uncertainty in the mentions of preparing for work)
+- Disgust: 0 (No disgust expressed in the text)
+- Anger: 0 (No anger displayed)
+- Surprise: 0.2 (Mentions of various individuals singing could evoke a sense of pleasant surprise)
+- Anticipation: 0.4 (Anticipation felt in the depiction of people getting ready for work or taking breaks)
+- Trust: 0.6 (Trust is prominent in the description of people singing their songs)
+- Distrust: 0 (No distrust indicated)
+- Love: 0 (No explicit love emotions described)
+- Saudade: 0 (No Saudade emotions evident)
+- Awe: 0 (No awe expressed)
+- Bittersweetness: 0 (No bittersweet emotions conveyed)
+- Melancholy: 0 (No melancholic feelings depicted)
+- N

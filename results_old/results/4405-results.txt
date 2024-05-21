@@ -1,0 +1,4 @@
+Analyzing the emotional content of the text, we observe elements of awe, anticipation, and trust. The descriptive language and botanical references evoke a sense of wonder and admiration for nature, which aligns with the emotions of awe and trust. Anticipation is present as the text builds anticipation through the detailed descriptions of various flora and their properties.
+
+The emotion vector for the text based on the identified emotions is as follows:
+[0, 0, 0, 0, 0, 0, 0.5, 0.5, 0, 0, 0, 1, 0, 0]

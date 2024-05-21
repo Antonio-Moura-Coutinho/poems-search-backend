@@ -1,0 +1,15 @@
+To analyze the emotional content of the text and create an emotion vector, we can identify the emotions expressed in the text and determine their intensity. Based on the text provided, the following emotions are present:
+
+- Happiness: The text does not explicitly convey happiness.
+- Sadness: There are elements of sadness, especially in phrases such as "Was it sadness or fear?" and the reference to lasting difference making the character unhappy or afraid.
+- Fear: The text hints at fear through phrases like "excited suspicion in the infant" and the uncertainty expressed by the characters.
+- Disgust: There is no explicit display of disgust in the text.
+- Anger: Anger is not prominently featured in the text.
+- Surprise: The element of surprise is not strongly evident in the text.
+- Anticipation: Anticipation is subtly present, particularly in the description of the characters' behaviors and expectations.
+- Trust: Trust is not explicitly conveyed in the text.
+- Distrust: There are hints of distrust, especially in the uncertainty and questioning conveyed by the characters.
+- Love: Love is not a dominant emotion in the text.
+- Saudade: The text does not convey a strong sense of longing or nostalgia specific to "saudade."
+- Awe: Awe is not a prominent emotion in the text.
+- Bittersweetness: There are elements of bittersweetness in the text, particularly in the reference to an act of identification as a pleasure that also leads to unh

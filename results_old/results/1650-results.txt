@@ -1,0 +1,3 @@
+Based on the emotional content of the text, the emotion vector would look like this: [0.3, 0.5, 0.2, 0, 0, 0.3, 0.2, 0.4, 0, 0.2, 0.2, 0.3, 0.4, 0.3, 0]
+
+This vector indicates a mix of emotions, with sadness being the strongest followed by trust, bittersweetness, anticipation, and love. There are also elements of happiness, surprise, awe, melancholy, and nostalgia present. The emotions of fear, disgust, anger, distrust, and saudade are not as prominent in this text.

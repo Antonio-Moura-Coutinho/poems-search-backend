@@ -1,0 +1,5 @@
+Based on the text provided, the emotional content can be interpreted as a mixture of fear, disgust, and perhaps a hint of sadness. Here is the emotion vector based on the analysis:
+
+[0, 0, 0.4, 0.6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+This vector indicates a relatively high level of disgust and fear while lacking in other emotional aspects.

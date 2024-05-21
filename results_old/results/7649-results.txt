@@ -1,0 +1,23 @@
+To analyze the emotional content of the text and create an emotion vector, let's break down the emotions expressed in the text and assign intensity values on a scale from 0 to 1 for each emotion.
+
+Happiness: There is a sense of happiness and joy in the gathering of friends, shared laughter, and the common wish to connect with one another. Intensity: 0.6
+
+Sadness: There is a hint of sadness in the reflection on past moments and the passage of time. Intensity: 0.3
+
+Fear: There is no overt sense of fear in the text. Intensity: 0
+
+Disgust: There is no expression of disgust in the text. Intensity: 0
+
+Anger: There is a positive sense of energy and gathering around the tree, but not anger. Intensity: 0
+
+Surprise: There is an element of surprise in the unexpected proposal to "eat the tree." Intensity: 0.4
+
+Anticipation: There is anticipation in the shared experience of enjoying the fruit of the tree and the gathering. Intensity: 0.5
+
+Trust: There is trust evident in the camaraderie and shared moments among friends. Intensity: 0.6
+
+Distrust: There is no sense of distrust. Intensity: 0
+
+Love: There is a sense of connection, affection, and shared moments among friends. Intensity: 0.7
+
+Saudade:

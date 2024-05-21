@@ -1,0 +1,16 @@
+To analyze the emotional content of the text and create an emotion vector, we will identify the emotions expressed and determine their intensity in the provided text. Here is the emotion vector based on the text you provided:
+
+[Happiness: 0.7, Sadness: 0, Fear: 0, Disgust: 0, Anger: 0.3, Surprise: 0, Anticipation: 0, Trust: 0.6, Distrust: 0, Love: 0, Saudade: 0, Awe: 0, Bittersweetness: 0, Melancholy: 0, Nostalgia: 0]
+
+Explanation of emotions:
+- Happiness: The protagonist shows happiness with an intensity of 0.7 expressed through their positive attitude despite the loss.
+- Sadness: There is no significant expression of sadness in this text.
+- Fear: No evident expression of fear.
+- Disgust: No expression of disgust.
+- Anger: There is a slight expression of anger (intensity of 0.3) shown through fist pumping and the reaction to losing.
+- Surprise: No clear expression of surprise.
+- Anticipation: No clear expression of anticipation.
+- Trust: The protagonist shows trust (intensity of 0.6) through their positive outlook and reactions during and after the game.
+- Distrust: No expression of distrust.
+- Love: No expression of love.
+- Saudade

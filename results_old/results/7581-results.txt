@@ -1,0 +1,3 @@
+This text conveys a strong sense of sadness, melancholy, and a longing for peace and quietness. The imagery of death, weariness, and the desire for oblivion and silence contributes to the somber emotional tone of the text. The presence of phrases like "weary soul," "silent pool," and "gloom of shadowy caves" alludes to feelings of melancholy and introspection.
+
+Emotion vector: [0, 0.8, 0.2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0.7, 0]

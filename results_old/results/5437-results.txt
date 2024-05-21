@@ -1,0 +1,15 @@
+To analyze the emotional content of the text and create an emotion vector, we will first identify the emotions expressed in the text and then assign intensity values to each emotion on a scale from 0 to 1. 
+
+Emotions identified in the text:
+1. Sadness: The text conveys a sense of sadness through themes of loss, separation, and longing.
+2. Anticipation: There is anticipation and searching for the other person throughout the text.
+3. Love: The text hints at a deep connection and love between the characters.
+4. Melancholy: There is a pervasive feeling of melancholy and nostalgia present in the text.
+
+Emotion Vector: [0, 0.6, 0, 0, 0, 0, 0.4, 0.8, 0, 0.6, 0, 0, 0.7, 0.8, 0]
+
+Explanation of Emotion Intensity:
+- Sadness: 0.6 - The text heavily conveys feelings of sadness and longing.
+- Anticipation: 0.4 - There is an element of anticipation and searching for the other person.
+- Love: 0.6 - The text hints at a deep connection and love between the characters.
+- Melancholy: 0.7 - There is a pervasive feeling of melancholy and nostalgia present.

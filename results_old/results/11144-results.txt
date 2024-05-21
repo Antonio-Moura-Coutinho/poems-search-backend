@@ -1,0 +1,9 @@
+To analyze the emotional content of the text, we can identify various emotions expressed in the text:
+
+1. Sadness: The description of the smashed plane feeling "lonelier than god" and the overall desolate tone of the text.
+2. Fear: The mention of the "ghostly boreal dark" and the sense of something foreboding in the atmosphere.
+3. Anger: The reference to the night stirring angrily and the suspicion indicated in the text.
+
+Based on these identified emotions, the emotion vector for the text could be as follows:
+
+[Sadness: 0.5, Fear: 0.3, Anger: 0.2, Happiness: 0, Disgust: 0, Surprise: 0, Anticipation: 0, Trust: 0, Distrust: 0, Love: 0, Saudade: 0, Awe: 0, Bittersweetness: 0, Melancholy: 0, Nostalgia: 0]

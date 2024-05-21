@@ -1,0 +1,11 @@
+To analyze the emotional content of the text, we can identify the following emotions:
+
+- Sadness: The text expresses sadness by highlighting the inequality and suffering of those who have to work in difficult conditions.
+- Disgust: There is a sense of disgust towards the injustice and exploitation depicted in the text.
+- Anger: The text conveys anger towards the unjust distribution of wealth and privilege.
+- Anticipation: There is an anticipation of a call for change or for a shift in perspective regarding prosperity and privilege.
+
+Based on the emotional analysis, the emotion vector for the text could look like this: 
+[0, 0.7, 0, 0.5, 0.7, 0, 0.3, 0, 0, 0, 0, 0, 0, 0]
+
+This vector indicates a high intensity of sadness, disgust, anger, and anticipation expressed in the text.

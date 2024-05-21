@@ -1,0 +1,3 @@
+Based on the text provided, the emotional content reflects a mix of emotions such as Sadness, Fear, Disgust, and a sense of longing (Saudade) and nostalgia. The caged bird's restricted freedom and expression evoke feelings of sadness, fear, and longing. The theme of captivity, inability to reach full potential, and the desire for freedom contribute to the emotional depth in the text.
+
+Emotion vector: [0, 0.6, 0.3, 0.4, 0, 0, 0, 0, 0, 0, 0.4, 0, 0, 0.6, 0.6]

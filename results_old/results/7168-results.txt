@@ -1,0 +1,5 @@
+The text expresses a range of emotions such as Love, Sadness, Anticipation, Bittersweetness, and Distrust. Based on this emotional content, the emotion vector can be calculated as follows: 
+
+[Happiness: 0, Sadness: 0.3, Fear: 0, Disgust: 0, Anger: 0, Surprise: 0, Anticipation: 0.3, Trust: 0, Distrust: 0.2, Love: 0.5, Saudade: 0, Awe: 0, Bittersweetness: 0.5, Melancholy: 0.2, Nostalgia: 0]
+
+Feel free to reach out if you need further assistance!

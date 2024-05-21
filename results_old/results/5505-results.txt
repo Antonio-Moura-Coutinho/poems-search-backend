@@ -1,0 +1,14 @@
+To analyze the emotional content of the text and create an emotion vector, I will focus on the predominant emotions conveyed in the text. Here's the emotion vector based on the emotional content of the text:
+
+[0.6, 0.8, 0.6, 0.7, 0.7, 0.3, 0.5, 0.7, 0.6, 0.6, 0.4, 0.6, 0.7, 0.8, 0.6]
+
+Explanation:
+
+- Happiness: The text contains elements of love, longing, and the narrator's connection to the baby, indicated by high Happiness scores.
+- Sadness: There are mentions of desperation, separation, and emotional struggle, leading to a high Sadness score.
+- Fear: Fear is present in mentions of uncertainty and a sense of being scared, contributing to a moderate Fear score.
+- Disgust: Descriptions of undesirable situations and mentions of discomfort contribute to a moderate Disgust score.
+- Anger: The text conveys underlying feelings of anger and dissatisfaction, resulting in a high Anger score.
+- Surprise: While there are elements of surprise in some revelations, the surprise emotion is not predominant, leading to a low Surprise score.
+- Anticipation: Anticipation is evident in the narrator's approach to explaining the truth, resulting in a moderate Anticipation score.
+- Trust: The trust between the mother and

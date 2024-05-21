@@ -1,0 +1,19 @@
+To analyze the emotional content of the text and create an emotion vector, we need to consider the emotions expressed and implied in Juliet's words. In this excerpt from Romeo and Juliet, Juliet is expressing love, contemplation, and a bit of sadness over the idea that names can be barriers to love. Let's generate an emotion vector based on the emotions evoked by the text:
+
+Love: High (0.9)
+Sadness: Moderate (0.6)
+Fear: Low (0.1)
+Disgust: Low (0)
+Anger: Low (0)
+Surprise: Low (0)
+Anticipation: Moderate (0.4)
+Trust: High (0.8)
+Distrust: Low (0)
+Saudade: Low (0)
+Awe: Low (0)
+Bittersweetness: Moderate (0.5)
+Melancholy: Low (0)
+Nostalgia: Low (0)
+
+The resulting emotion vector based on the analysis of the text is:
+[0, 0.6, 0.1, 0, 0, 0, 0.4, 0.8, 0, 0, 0, 0.5, 0, 0]

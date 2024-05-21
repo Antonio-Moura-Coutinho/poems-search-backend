@@ -1,0 +1,14 @@
+To analyze the emotional content of the text, we can identify various emotions expressed in the text:
+
+- Anticipation: The text hints at events about to happen and the unpredictability of life.
+- Fear: There is a sense of uncertainty and impending change.
+- Sadness: The imagery of the crying child and the overall melancholic tone evoke a feeling of sadness.
+- Awe: The mention of stars flying apart and contemplating the vastness of the universe induces a sense of awe.
+- Disgust: The description of the crow with its prey may evoke feelings of disgust.
+- Trust: The presence of the woman comforting her child may convey a sense of trust and care.
+
+Based on the emotional analysis, the emotion vector for the text could be:
+
+[0.1, 0.3, 0.2, 0.1, 0, 0, 0.2, 0.2, 0, 0, 0, 0.1, 0.3, 0]
+
+This vector represents the intensity of each emotion from 0 to 1 as outlined in the order provided.

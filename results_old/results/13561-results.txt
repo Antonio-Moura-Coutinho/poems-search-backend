@@ -1,0 +1,10 @@
+To analyze the emotional content of the text provided, we can identify the following emotions:
+
+1. Happiness (due to contentment)
+2. Sadness (due to the mention of scarcity of cheese)
+3. Anticipation (indirectly implied, as the speaker mentions what could make them content)
+
+Based on this analysis, the emotion vector for the text could look like:
+[0.3, 0.2, 0, 0, 0, 0, 0.2, 0, 0, 0, 0, 0, 0, 0, 0]
+
+This vector shows moderate happiness, slight sadness, and a medium level of anticipation.

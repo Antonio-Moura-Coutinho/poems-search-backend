@@ -1,0 +1,13 @@
+The emotional vector for the text is as follows: [0.5, 0, 0.1, 0, 0, 0.4, 0.7, 0.6, 0, 0.2, 0.1, 0.4, 0.3, 0.4, 0]
+
+Explanation:
+- Happiness: 0.5 - The text describes a charming scene with street performers that seems to bring joy and fascination to the observer.
+- Sadness: 0 - There is no explicit reference to sadness in the text.
+- Fear: 0.1 - The mention of a crowd gathered under a tree may evoke a slight sense of fear or unease in the observer.
+- Disgust: 0 - There is no mention of anything that would evoke disgust.
+- Anger: 0 - There is no mention of anything that would evoke anger.
+- Surprise: 0.4 - The observer expresses surprise at the scene of the street performers and the unexpected translation of "mountebank."
+- Anticipation: 0.7 - The anticipation is high as the observer is curious about the street performers and their act.
+- Trust: 0.6 - The observer shows trust by putting money into the hat of the performers, indicating a sense of goodwill and trust in their performance.
+- Distrust: 0 - There is no reference to distrust in the text.
+- Love:

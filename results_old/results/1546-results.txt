@@ -1,0 +1,14 @@
+To analyze the emotional content of the text provided, let's break it down and assign emotional intensity for each emotion:
+
+- Happiness: The text expresses hope, praise, and admiration for God, which can be associated with happiness. Intensity: 0.7
+- Sadness: There are mentions of struggles and the need for protection, which could suggest underlying sadness. Intensity: 0.3
+- Fear: The text includes references to facing challenges and enemies, indicating a sense of fear. Intensity: 0.5
+- Disgust: There is no explicit expression of disgust in the text. Intensity: 0
+- Anger: While there is a call for God's intervention against enemies, it does not convey strong anger. Intensity: 0.2
+- Surprise: There are no elements in the text that suggest surprise. Intensity: 0
+- Anticipation: The text does include a sense of anticipation for God's help and protection. Intensity: 0.6
+- Trust: There is a strong sense of trust and faith in God throughout the text. Intensity: 0.8
+- Distrust: There is no indication of distrust. Intensity: 0
+- Love: The text expresses love and devotion towards God. Intensity: 0.7
+- Saudade: There are elements of longing and seeking comfort in the text. Intensity: 0.4
+- Awe

@@ -1,0 +1,15 @@
+Based on the provided text, the emotional content can be analyzed as follows:
+
+- Happiness: The text conveys a sense of shared past happiness and pleasant memories of walking and talking together. [0.4]
+- Sadness: There are hints of nostalgia and fleeting moments that have passed, indicating a touch of sadness. [0.3]
+- Fear: There is a mention of war and soldiers in the distance, which could evoke a sense of fear. [0.1]
+- Disgust: There is no explicit mention of disgust in the text. [0]
+- Anger: There is no indication of anger in the text. [0]
+- Surprise: There are no elements of surprise in the description. [0]
+- Anticipation: There is a muted sense of anticipation for what the future may hold. [0.1]
+- Trust: The relationship described implies a level of trust between the individuals. [0.3]
+- Distrust: There is no indication of distrust in the text. [0]
+- Love: The text conveys a deep sense of companionship and shared experiences, indicating a form of love. [0.4]
+- Saudade: The yearning and nostalgic tone of the text suggest a presence of saudade. [0.3]
+- Awe: There are references to nature's beauty and the appreciation of small details that could evoke awe. [0.2]
+- Bittersweetness: The text carries

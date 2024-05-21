@@ -1,0 +1,1 @@
+This text contains emotions of Disgust and Distrust due to the explicit and graphic nature of the content. The emotion vector based on the analysis of the text would be: [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]. The presence of disgust is predominant in the text, indicating a strong negative reaction to the described actions.

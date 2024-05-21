@@ -1,0 +1,7 @@
+The emotional content analysis of the text suggests the presence of the following emotions:
+
+Sadness, Anger, Disgust, Distrust, Love, Melancholy
+
+Considering the intensity of each emotion, the emotion vector could be:
+
+[0.1, 0.3, 0, 0.5, 0.4, 0, 0, 0.2, 0.3, 0.4, 0, 0, 0, 0.3, 0]

@@ -1,0 +1,21 @@
+To analyze the emotional content of the text, we can identify various emotions present and assign intensity values to them.
+
+Happiness: 0
+Sadness: 0.4
+Fear: 0
+Disgust: 0
+Anger: 0
+Surprise: 0
+Anticipation: 0
+Trust: 0
+Distrust: 0
+Love: 0
+Saudade: 0
+Awe: 0
+Bittersweetness: 0.2
+Melancholy: 0.6
+Nostalgia: 0
+
+Emotion vector: [0, 0.4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0.2, 0.6, 0]
+
+This analysis indicates that the text conveys a considerable amount of sadness and melancholy, with a touch of bittersweetness. There are no emotions like happiness, fear, or surprise expressed in this text excerpt.

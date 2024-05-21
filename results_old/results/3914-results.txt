@@ -1,0 +1,18 @@
+To analyze the emotional content of the text, we need to consider the overall tone and the specific emotions conveyed in each section. 
+
+Section I: 
+- There are themes of friendship, unity, and peace.
+- Emotions: Trust, Love, Awe, Hope
+- Intensity of emotions: [0.2, 0, 0, 0, 0, 0, 0.3, 0.5, 0, 0, 0, 0, 0, 0, 0]
+
+Section II:
+- Reflects on the past, mentions peace and lack of feuds.
+- Emotions: Nostalgia, Peace
+- Intensity of emotions: [0, 0.3, 0, 0, 0, 0, 0, 0.5, 0, 0, 0, 0, 0.2, 0.4, 0]
+
+Section III:
+- Talks about the history of humanity, cruelty, and separation.
+- Emotions: Melancholy, Disgust, Distrust
+- Intensity of emotions: [0, 0.4, 0.6, 0.5, 0, 0, 0, 0, 0.4, 0.2, 0, 0, 0, 0.6, 0]
+
+Overall emotion vector based on

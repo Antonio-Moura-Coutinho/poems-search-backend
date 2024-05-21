@@ -1,0 +1,5 @@
+Based on the emotional content of the text, the emotion vector would be:
+
+[0.6, 0, 0, 0, 0, 0.2, 0.7, 0.8, 0, 0.9, 0, 0, 0, 0]
+
+This vector indicates the presence of emotions like Happiness, Anticipation, Trust, and Love in varying intensities, while other emotions like Fear, Anger, Distrust, and Disgust are not prominently expressed in the text.

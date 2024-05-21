@@ -1,0 +1,15 @@
+Based on the emotional content of the text, the emotion vector could be as follows: [0.4, 0.3, 0, 0, 0, 0.4, 0.6, 0.6, 0, 0, 0, 0, 0.2, 0.4, 0].
+
+Explanation:
+
+- Happiness: The text expresses a sense of enjoyment and pleasure associated with breakfast and the start of a new day.
+- Sadness: There are subtle hints of sadness in the comparison between the parting words at night and the joy of greeting a new morning, but overall it's not a predominant emotion.
+- Fear: There are no indications of fear in the text.
+- Disgust: There are no elements of disgust present in the text.
+- Anger: There are no elements of anger present in the text.
+- Surprise: There is a modest element of surprise associated with the descriptions of the breakfast experience.
+- Anticipation: The anticipation of a new day and the enjoyment of breakfast are prominent in the text.
+- Trust: The text conveys a sense of trust in the routine and comfort of the breakfast experience.
+- Distrust: There are no indications of distrust in the text.
+- Love: The fondness for the breakfast experience and the routines associated with it showcase a sense of love.
+- Saudade: While there is a slight tinge of nostalgia, it does not represent a

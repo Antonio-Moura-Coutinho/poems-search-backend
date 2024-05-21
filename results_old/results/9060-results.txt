@@ -1,0 +1,6 @@
+Based on the text provided, the emotional content seems to reflect feelings of sadness, disillusionment, and perhaps a hint of bitterness or resignation towards the concept of marriage and love. The primary emotions conveyed include Sadness and Distrust.
+
+The emotion vector for the text could be:
+[0, 0.6, 0, 0, 0, 0, 0, 0.2, 0.4, 0, 0, 0, 0.3, 0]
+
+This vector indicates a high intensity of Sadness and Distrust, moderate Bittersweetness and Melancholy, and low Trust.

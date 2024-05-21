@@ -1,0 +1,6 @@
+To analyze the emotional content of the text, we can identify the following emotions:
+
+- Sadness: The text includes references to women carrying bony infants, men sobbing over graves, and descriptions of devastation and suffering in other lands. These evoke a sense of sadness.
+- Distrust: The lines "Do they hate me for it" and the repetition of "Do they hate me" suggest a feeling of distrust or suspicion towards others.
+
+Based on the emotional content identified in the text, the emotion vector could be estimated as follows: [0, 0.8, 0, 0, 0, 0, 0, 0, 0.5, 0, 0, 0, 0, 0, 0]. This vector represents a high intensity of sadness and a moderate intensity of distrust.

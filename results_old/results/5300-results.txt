@@ -1,0 +1,5 @@
+The emotional analysis of the text provides the following emotion vector:
+
+[0, 0.6, 0.5, 0, 0.5, 0, 0.5, 0, 0, 0, 0, 0, 0, 0.6, 0]
+
+This vector indicates a high intensity of sadness, fear, anger, and melancholy in the text. It also shows elements of anticipation and nostalgia.

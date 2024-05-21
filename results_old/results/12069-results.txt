@@ -1,0 +1,5 @@
+Based on the text provided, the emotional content seems to contain elements of Anticipation, Surprise, and possibly a hint of Awe. Here is the emotion vector for the text:
+
+[0, 0, 0, 0, 0, 0.5, 0.5, 0, 0, 0, 0, 0.5, 0, 0]
+
+This vector shows high intensity for Surprise, Anticipation, and Awe, while other emotions like Happiness, Sadness, Fear, Disgust, and Anger are not strongly present.

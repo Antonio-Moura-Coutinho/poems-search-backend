@@ -1,0 +1,19 @@
+Analyzing the emotional content of the text, we can see the following emotions are present to varying degrees:
+
+Happiness: 0
+Sadness: 0.5
+Fear: 0.4
+Disgust: 0.1
+Anger: 0.3
+Surprise: 0.1
+Anticipation: 0.3
+Trust: 0.4
+Distrust: 0.3
+Love: 0.2
+Saudade: 0
+Awe: 0
+Bittersweetness: 0.4
+Melancholy: 0.6
+Nostalgia: 0.3
+
+Therefore, the emotion vector for the given text is: [0, 0.5, 0.4, 0.1, 0.3, 0.1, 0.3, 0.4, 0.3, 0.2, 0, 0, 0.4, 0.6, 0.3].

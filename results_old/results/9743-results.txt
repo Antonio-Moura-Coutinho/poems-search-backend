@@ -1,0 +1,5 @@
+This text expresses emotions of resilience, strength, courage, and defiance in the face of adversity. Based on the emotional content of the text, the emotion vector could be:
+
+[0.3, 0, 0.4, 0, 0.4, 0, 0.3, 0.6, 0, 0, 0, 0.3, 0, 0.3, 0]
+
+This indicates moderate levels of feeling anticipation, trust, and awe, along with lower levels of fear, anger, bittersweetness, and melancholy.

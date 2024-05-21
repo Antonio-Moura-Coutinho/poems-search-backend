@@ -1,0 +1,15 @@
+To analyze the emotional content of the text and provide an emotion vector, let's break down the emotions expressed in the text. Based on the content, the emotions seem to include:
+
+Sadness (due to the loss of old shrines and the struggle to rebuild)
+Trust (shown in observing the weaver bird's actions)
+Disgust (regarding the weaver's excrement)
+Anticipation (in searching for new homes and rebuilding altars)
+The emotion vector for the text could be calculated as follows:
+
+Sadness: 0.4
+Trust: 0.3
+Disgust: 0.2
+Anticipation: 0.5
+Other emotions like happiness, fear, anger, surprise, distrust, love, saudade, awe, bittersweetness, melancholy, and nostalgia are not prominently expressed in the text. Therefore, their values in the emotion vector would be 0.
+
+The resulting emotion vector for the text is: [0, 0.4, 0, 0.2, 0, 0, 0.5, 0.3, 0, 0, 0, 0, 0, 0]

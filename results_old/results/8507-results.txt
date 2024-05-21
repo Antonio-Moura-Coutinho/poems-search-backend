@@ -1,0 +1,1 @@
+The text "'The Raven'" by Edgar Allan Poe contains elements of melancholy, sadness, fear, and a sense of anticipation. Based on the analysis, the emotion vector for this text would look like this: [0, 0.3, 0.5, 0, 0, 0, 0.2, 0, 0, 0, 0, 0, 0, 0].

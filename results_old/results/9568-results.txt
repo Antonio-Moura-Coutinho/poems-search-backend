@@ -1,0 +1,1 @@
+The emotional content of the text includes elements of sadness, fear, anticipation, trust, and a touch of bittersweetness. The vector representing the emotions in the text is as follows: [0, 0.2, 0.2, 0, 0, 0, 0.3, 0.4, 0, 0, 0, 0, 0.1, 0].

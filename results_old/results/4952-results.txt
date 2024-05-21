@@ -1,0 +1,5 @@
+To analyze the emotional content of the text and generate an emotion vector, we can first identify the key emotions conveyed in the text. Based on the content, we can extract the following emotions: Anticipation, Awe, and Nostalgia.
+
+Given that the text evokes a sense of anticipation towards the construction and development along the river, an awe-inspired appreciation for the scenery and activities described, and a nostalgic tone reflecting on the changes and events happening in the setting, we can generate the following emotion vector:
+
+[0, 0, 0, 0, 0, 0, 0.6, 0.7, 0, 0, 0, 0.5, 0, 0.5]

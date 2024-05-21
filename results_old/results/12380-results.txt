@@ -1,0 +1,3 @@
+The emotion vector for the provided text is as follows: [0.1, 0.6, 0.3, 0, 0.1, 0, 0.3, 0.1, 0, 0, 0, 0, 0.3, 0.4, 0.2].
+
+This vector indicates a high intensity of Sadness, as the text conveys a sense of worry, fear, and uncertainty surrounding a lost child. There are also elements of Anticipation for the discovery, Trust in the volunteers, Melancholy, and Nostalgia for the human life involved. Additionally, there are traces of Fear and Distrust in the narrator's feelings.

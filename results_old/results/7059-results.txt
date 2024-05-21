@@ -1,0 +1,11 @@
+To analyze the emotional content of the text, let's break down the emotions conveyed in the text and generate an emotion vector based on the intensity of each emotion.
+
+Emotions identified in the text:
+- Sadness: The speaker expresses sadness and longing for lost love and missed opportunities.
+- Disgust: There is a sense of disappointment and frustration in the speaker's tone.
+- Anger: The speaker feels anger at the situation and the lack of reciprocity in love.
+- Anticipation: The speaker is hopeful but also questioning the future and the possibility of love returning.
+
+Emotion Vector: [0, 0.6, 0, 0.3, 0.4, 0, 0.3, 0, 0, 0.3, 0, 0, 0, 0]
+
+This emotion vector indicates a high intensity of sadness, followed by anger, anticipation, and a touch of disgust, while other emotions like Surprise, Trust, and Love are not prominently expressed in the text.

@@ -1,0 +1,4 @@
+Analyzing the emotional content of the text, the predominant emotions are Anticipation, Confusion, and Disgust.
+
+Based on the emotional analysis, the emotion vector for the text can be represented as follows:
+[0, 0, 0, 0.3, 0, 0, 0.6, 0.2, 0, 0, 0, 0, 0, 0]

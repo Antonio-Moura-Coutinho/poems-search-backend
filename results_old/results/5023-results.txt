@@ -1,0 +1,2 @@
+The emotional content of the text seems to contain elements of sadness, fear, disgust, and melancholy. The overall tone is dark and introspective, with a sense of heaviness and somberness. Based on this analysis, the emotion vector for the text could be as follows:
+[0, 0.4, 0.3, 0.6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0.4, 0]

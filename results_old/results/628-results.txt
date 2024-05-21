@@ -1,0 +1,3 @@
+The emotional content of the text seems to include elements of sadness, fear, and a hint of melancholy. The mention of "bitter love," cries of police, burning like new sex, debt ceiling, child support, and references to diseases and liabilities all contribute to these emotional undertones.
+
+Emotion Vector: [0, 0.4, 0.3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0.2, 0]

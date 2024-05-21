@@ -1,0 +1,11 @@
+To analyze the emotional content of the text, we can identify the following emotions expressed:
+
+- Trust: "I said is it true? we are sisters? They said Yes, we are of one family."
+- Love: Expressions of collective love in the family and promoting love among the young.
+- Awe: The descriptions of important tasks and advancements made in the face of challenges.
+
+Based on these emotional expressions, the emotion vector for the text can be estimated as follows:
+
+[0, 0, 0, 0, 0, 0, 0, 0.8, 0, 0.7, 0, 0.5, 0, 0]
+
+Please note that this is a simplified analysis and interpretation of emotions in the text. The emotions expressed can be perceived subjectively, and nuances may vary depending on individual interpretations.

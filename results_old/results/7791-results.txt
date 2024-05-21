@@ -1,0 +1,4 @@
+After analyzing the text, the emotional vector is as follows:
+[0.3, 0.2, 0, 0.1, 0.1, 0, 0, 0.2, 0, 0, 0, 0, 0.4, 0.3, 0.3]
+
+This indicates a moderate level of Melancholy, Nostalgia, and Bittersweetness, with slight elements of Happiness, Disgust, Trust, and Anticipation. There are no significant displays of Fear, Anger, Surprise, Distrust, Love, Saudade, or Awe.

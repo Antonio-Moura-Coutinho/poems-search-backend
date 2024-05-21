@@ -1,0 +1,35 @@
+To analyze the emotional content of the text provided, we can identify the following emotions and their intensities:
+
+Happiness: High (referenced in lines such as "This was the happiest day of our lives")
+
+Sadness: Moderate (mentions of recalling memories, nostalgia, and the loss of Jan)
+
+Fear: Low
+
+Disgust: Low
+
+Anger: Low
+
+Surprise: Low
+
+Anticipation: Moderate (excitement, anticipation of visiting the hot dog factory)
+
+Trust: Moderate (relationship with Miss Haynes and the man at the factory)
+
+Distrust: Low
+
+Love: Low
+
+Saudade: Moderate (reference to longing for the past experiences)
+
+Awe: Low
+
+Bittersweetness: Moderate (mix of happy memories with a tinge of sadness)
+
+Melancholy: Moderate (reflection on the past and memories)
+
+Nostalgia: High (strong feelings of nostalgia and fond remembrance)
+
+Based on these assessments, the emotion vector for the text would be:
+
+[0.6, 0.4, 0, 0, 0, 0, 0.4, 0.4, 0, 0, 0, 0, 0.4, 0.4, 0]

@@ -1,0 +1,6 @@
+The emotional content of the text seems to convey a mixture of emotions, including sadness, remorse, nostalgia, and a hint of anticipation. 
+
+Here is the emotion vector based on the analysis:
+[0, 0.35, 0, 0, 0, 0, 0, 0, 0, 0.2, 0, 0, 0, 0.25, 0]
+
+This vector suggests a higher intensity of sadness, nostalgia, and melancholy in the text, with a moderate level of anticipation and love.

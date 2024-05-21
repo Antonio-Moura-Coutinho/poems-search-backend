@@ -1,0 +1,5 @@
+To analyze the emotional content of the text, we will identify and analyze the prominent emotions expressed in the text. Based on the text, the emotions that stand out are Sadness, Anger, Disgust, and a hint of Love and Nostalgia. The overall emotional tone suggests a mix of sorrow, frustration, and a reflection on loss and missed opportunities.
+
+Emotion Vector: [0, 0.4, 0.3, 0.3, 0.2, 0, 0.1, 0, 0, 0.2, 0, 0, 0.3, 0.2, 0] 
+
+This emotion vector represents the intensity of each emotion on a scale from 0 to 1 for the given emotions. It shows a higher intensity of Sadness, followed by Disgust and Anger, with lower levels of Love, Nostalgia, and Bittersweetness.

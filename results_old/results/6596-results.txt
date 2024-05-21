@@ -1,0 +1,5 @@
+The emotional content of the text leans towards a mixture of sadness, nostalgia, love, and a touch of bittersweetness. Here is the emotion vector based on the analysis of the text:
+
+[0, 0.7, 0, 0, 0, 0, 0, 0, 0, 0.5, 0, 0, 0.5, 0]
+
+This vector represents the emotional intensity of each specified emotion in the text. Feel free to reach out if you need further assistance or have any other questions.

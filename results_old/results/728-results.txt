@@ -1,0 +1,3 @@
+The emotional vector for the text provided is as follows: [0, 0.6, 0.7, 0.6, 0.9, 0, 0.6, 0, 0.7, 0, 0, 0.8, 0.6, 0.9, 0]. 
+
+This shows a high intensity of emotions like Sadness, Fear, Disgust, Anger, Distrust, Melancholy, and Nostalgia. These emotions are predominant in the text due to the themes of struggle, challenges, mistreatment, and resilience depicted in the narrative.

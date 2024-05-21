@@ -1,0 +1,11 @@
+To analyze the emotional content of the text, we can identify the following emotions:
+
+- Sadness: The text conveys a sense of loss and melancholy, especially through the imagery of paper and the impact on nature.
+- Fear: There is a suggestion of fear or unease regarding the consequences of human actions on the environment and the idea of restless spirits.
+- Disgust: The mention of hands stained with paper and the line "stacks and stacks of flesh on a desk" can evoke feelings of disgust towards the destruction of nature and the dehumanization implied.
+- Anticipation: There is a sense of anticipation or foreboding regarding the consequences of human actions on the earth and the environment.
+
+Based on this analysis, the emotion vector for the text could be:
+[0, 0.4, 0.2, 0.3, 0, 0, 0.2, 0, 0, 0, 0, 0, 0, 0.4, 0]
+
+This vector represents the intensity of different emotions present in the text. Feel free to adjust the vector based on your interpretation of the emotional content in the text.

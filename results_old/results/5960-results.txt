@@ -1,0 +1,5 @@
+The emotional content analysis of the text yields the following emotion vector: 
+
+[0.3, 0.1, 0, 0, 0, 0, 0, 0.5, 0, 0, 0, 0, 0, 0, 0]
+
+This indicates a moderate level of Happiness and Trust, a slight level of Sadness, and low to no indication of other emotions in the text.

@@ -1,0 +1,5 @@
+Based on the text provided, here is the emotion vector for the text:
+
+[Happiness: 0.1, Sadness: 0.4, Fear: 0.3, Disgust: 0.3, Anger: 0.5, Surprise: 0.1, Anticipation: 0.3, Trust: 0.1, Distrust: 0.3, Love: 0, Saudade: 0, Awe: 0, Bittersweetness: 0.1, Melancholy: 0.3, Nostalgia: 0]
+
+The text conveys a mix of emotions including sadness, fear, disgust, and anger, with a slightly higher intensity of anger and sadness. The overall emotional tone is negative and reflects feelings of betrayal, hurt, and confusion.

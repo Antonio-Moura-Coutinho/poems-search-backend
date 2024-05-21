@@ -1,0 +1,9 @@
+The emotional content of the text is primarily centered around a serious and empathetic tone, discussing the complex dynamics of abuse and victim behavior. The emotions conveyed include:
+
+- Anticipation: anticipating the need to create a sense of normalcy despite adverse circumstances
+- Trust: acknowledging the desire to seek proximity to the abuser for reasons beyond sickness or syndrome
+- Empathy: understanding the struggle of individuals facing abusive situations
+
+Based on this analysis, the emotion vector for the text could be represented as follows:
+
+[0, 0, 0, 0, 0, 0, 0.3, 0.5, 0, 0, 0, 0, 0, 0, 0]

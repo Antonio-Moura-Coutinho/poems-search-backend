@@ -1,0 +1,8 @@
+Based on the text provided, the emotional content can be analyzed as follows:
+
+- Sadness: The speaker seems to be reflecting on the aging process, feeling melancholic about the changes in appearance and the passing of time.
+- Disgust: The description of the face-lift procedure and the mention of using implants from dead babies may evoke feelings of disgust.
+- Fear: There could be an underlying fear of aging and mortality expressed in the text.
+- Anticipation: The contemplation of getting a face-lift and the potential changes it might bring could generate a sense of anticipation.
+
+Emotion vector: [0, 0.3, 0.2, 0.2, 0, 0, 0.2, 0, 0, 0, 0, 0, 0, 0.2, 0]

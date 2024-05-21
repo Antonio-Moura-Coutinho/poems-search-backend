@@ -1,0 +1,11 @@
+To analyze the emotional content of the text provided, we can identify the following emotions and their intensities:
+
+- Happiness: The text reminisces about past memories, parties, friendships, and a sense of community, indicating a nostalgic joy. Intensity: 0.6
+- Sadness: There are mentions of conflicts, frozen walls, and police questioning, hinting at moments of discomfort and struggle. Intensity: 0.3
+- Fear: Descriptions of near accidents, such as the fire incident, and police interactions suggest an underlying sense of fear. Intensity: 0.2
+- Disgust: While there are references to unpleasant situations like the burnt food, there is no clear indication of disgust in the text. Intensity: 0
+- Anger: The narrative includes instances of shouting hexes, conflicts, and police scrutiny, reflecting moments of anger. Intensity: 0.3
+- Surprise: The text contains elements of surprise, such as unexpected events during parties, but they are not the dominant emotion. Intensity: 0.2
+- Anticipation: The anticipation of events like the national leaders debate and the uncertainties of daily life are present throughout the text. Intensity: 0.4
+- Trust: Trust is evident in relationships and interactions with friends and neighbors. Intensity: 0.5
+- Distrust: There are hints of skepticism, particularly in political discussions, but it is not a predominant emotion

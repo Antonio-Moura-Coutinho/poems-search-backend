@@ -1,0 +1,11 @@
+To determine the emotional content of the text and generate an emotion vector, I'll need to analyze the underlying emotions expressed. Based on the text provided, the predominant emotions appear to be:
+
+- Sadness: Descriptions of a boy being beaten evoke a sense of sadness.
+- Fear: The atmosphere of tension and danger, as well as the urgency implied by sirens, suggest fear.
+- Empathy: The narrator's feelings of pity and understanding for the boy's situation.
+
+With this analysis in mind, the emotion vector for the text could be as follows:
+
+[0, 0.6, 0.5, 0, 0, 0, 0, 0, 0, 0.3, 0, 0, 0.4, 0]
+
+This vector indicates a high intensity of sadness, fear, and empathetic love, while other emotions like happiness, anger, or surprise are not prominently expressed in the text.

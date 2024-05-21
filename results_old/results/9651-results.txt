@@ -1,0 +1,10 @@
+To analyze the emotional content of the text and create an emotion vector, we will look for keywords, context, and the overall tone of the text to determine the intensity of different emotions. Based on the text provided, here is the emotion vector:
+
+[0.2, 0.6, 0.4, 0.4, 0.3, 0.2, 0.3, 0.2, 0.4, 0, 0, 0, 0.6, 0.6, 0.5]
+
+Explanation:
+- Sadness is the most predominant emotion in the text, indicated by descriptions of an empty courtyard, a tourist attraction that was once a vibrant plantation, and the loss of livelihood.
+- Melancholy and Nostalgia are also strong emotions present in the text, reflecting on the past beauty and vibrance that is now lost and replaced by artificial representations.
+- Fear, Disgust, and Anger are moderately expressed through the imagery of artificial tourist trinkets replacing the natural beauty and life that used to thrive in the setting.
+- Trust is slightly present in the description of the now lifeless environment.
+- Anticipation is mildly hinted at through the changing perception of the hummingbirds being likened to jewels now instead of being part of everyday life.

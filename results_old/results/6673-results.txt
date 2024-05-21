@@ -1,0 +1,1 @@
+This text seems to contain a mix of emotions such as Love, Trust, Anticipation, Happiness, and Sadness. Here is the emotion vector for the text: [0.4, 0.2, 0, 0, 0, 0, 0.2, 0.4, 0, 0, 0, 0, 0, 0, 0].

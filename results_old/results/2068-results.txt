@@ -1,0 +1,5 @@
+Based on the emotional content of the text, the emotion vector can be analyzed as follows:
+
+[Happiness: 0.1, Sadness: 0.5, Fear: 0.1, Disgust: 0.2, Anger: 0.3, Surprise: 0, Anticipation: 0, Trust: 0.1, Distrust: 0, Love: 0.1, Saudade: 0, Awe: 0, Bittersweetness: 0.4, Melancholy: 0.7, Nostalgia: 0.4]
+
+The text predominantly conveys feelings of sadness, melancholy, and bittersweetness due to the theme of loss, grief, and unrealized expectations surrounding the party for the deceased brother. There are elements of disgust and anger in the brother's perception of the party as imagined and unsuccessful. Some minor elements of fear, trust, and nostalgia are also present.

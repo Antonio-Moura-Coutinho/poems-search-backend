@@ -1,0 +1,12 @@
+Emotion Vector: [0.5, 0.4, 0.5, 0, 0.2, 0.3, 0.5, 0.6, 0, 0.7, 0.2, 0.3, 0.6, 0.4, 0]
+
+Explanation:
+- Happiness: 0.5 - There are moments of optimism and inner strength expressed despite the challenging circumstances.
+- Sadness: 0.4 - The text conveys a sense of sadness, reflecting on the harsh realities of prison and the emotional toll on the narrator.
+- Fear: 0.5 - The wind is described as frightening, and there is a sense of tension and unease in the environment.
+- Disgust: 0 - There is no explicit disgust expressed in the text.
+- Anger: 0.2 - While there is a hint of defiance and resistance, there is not a strong presence of anger.
+- Surprise: 0.3 - Some elements of surprise are present, particularly in the narrator's reflection on their own resilience.
+- Anticipation: 0.5 - There is a feeling of anticipation and contemplation about the future and the narrator's emotional state.
+- Trust: 0.6 - The narrator expresses a sense of trust in themselves and their ability to endure and love despite adversity.
+- Distrust: 0 - There is no indication of distrust

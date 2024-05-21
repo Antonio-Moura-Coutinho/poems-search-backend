@@ -1,0 +1,14 @@
+To analyze the emotional content of the text, we can identify various emotions expressed in the poem:
+
+- Anticipation: The anticipation and preparation for the hunt and facing the enemy.
+- Trust: Trust in the wisdom and teachings of the old black man.
+- Fear: Fear of the unknown, trembling cold, dark forest, and enemies.
+- Awe: A sense of awe and admiration for the old man's abilities and insights.
+- Melancholy: A feeling of sadness and reflection on the passing of time and memories.
+- Nostalgia: Nostalgia for the past and the memories of the interactions with the old man.
+
+Based on the emotions identified, the emotion vector for the text could be:
+
+[0, 0, 0.2, 0, 0, 0, 0.2, 0.4, 0, 0, 0, 0, 0.3, 0.3, 0.4]
+
+This vector reflects the presence and intensity of various emotions found throughout the text.

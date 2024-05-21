@@ -1,0 +1,16 @@
+Emotion vector: [0.1, 0.3, 0.4, 0.3, 0.4, 0.2, 0.2, 0.2, 0.4, 0, 0, 0, 0, 0]
+
+Explanation:
+- Happiness: 0.1 (Low happiness, as the overall tone of the text seems more negative)
+- Sadness: 0.3 (Mentions of death and the feeling of swimming through bricks suggest some sadness)
+- Fear: 0.4 (Feeling overwhelmed like swimming through bricks can elicit fear)
+- Disgust: 0.3 (Negative emotions towards the task of compiling the anthology and the feeling of degrading work)
+- Anger: 0.4 (The tone of frustration towards the task and external factors)
+- Surprise: 0.2 (There are no explicit mentions or indications of surprise)
+- Anticipation: 0.2 (No elements suggesting anticipation)
+- Trust: 0.2 (No indications of trust in the text)
+- Distrust: 0.4 (Feelings of distrust represented through the bank manager's actions)
+- Love: 0 (No love elements in the text)
+- Saudade: 0 (No indications of nostalgia or longing)
+- Awe: 0 (No elements indicating awe)
+- Bittersweetness: 0 (No bitters

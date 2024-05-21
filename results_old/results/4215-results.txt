@@ -1,0 +1,20 @@
+The emotion vector for the analyzed text is as follows: [0.1, 0.3, 0.5, 0.3, 0.4, 0.1, 0.3, 0.2, 0.4, 0.2, 0.1, 0.2, 0.3, 0.1, 0.1].
+
+This vector represents the intensity of each emotion in the text on a scale from 0 to 1 for the specified emotions: 
+- Happiness: 0.1
+- Sadness: 0.3
+- Fear: 0.5
+- Disgust: 0.3
+- Anger: 0.4
+- Surprise: 0.1
+- Anticipation: 0.3
+- Trust: 0.2
+- Distrust: 0.4
+- Love: 0.2
+- Saudade: 0.1
+- Awe: 0.2
+- Bittersweetness: 0.3
+- Melancholy: 0.1
+- Nostalgia: 0.1
+
+The text conveys a strong sense of fear, along with elements of sadness, disgust, anger, distrust, anticipation, and bittersweetness. The emotions of happiness, surprise, trust, love, saudade, awe, melancholy, and

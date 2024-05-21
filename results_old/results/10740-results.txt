@@ -1,0 +1,5 @@
+This text contains a mix of emotions, including concern, frustration, and a sense of imbalance or injustice. Here is the emotion vector based on the text:
+
+[0, 0.4, 0.4, 0, 0.2, 0, 0.2, 0.2, 0, 0, 0, 0, 0.3, 0]
+
+The vector indicates a higher intensity of emotions like Sadness, Fear, Anticipation, Trust, Bittersweetness, and Melancholy compared to other emotions.

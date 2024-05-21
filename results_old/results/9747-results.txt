@@ -1,0 +1,5 @@
+Analyzing the emotional content of the text, we can see various emotions being conveyed, including a sense of wonder (Awe), admiration (Trust), and perhaps a hint of nostalgia and bittersweetness at the changes brought about by the presence of the jar in the wilderness.
+
+Therefore, the emotional vector for this text could be:
+
+[Awe: 0.5, Trust: 0.7, Bittersweetness: 0.4, Nostalgia: 0.3, Other emotions: 0.0]

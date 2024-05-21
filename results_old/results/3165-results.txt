@@ -1,0 +1,21 @@
+This text contains various emotions, and the emotion vector is as follows: [0.15, 0.4, 0.65, 0, 0.6, 0.6, 0, 0.35, 0, 0.15, 0.3, 0.45, 0.45, 0.3, 0.45].
+
+Explanation of the emotions present in the text:
+
+- Happiness: Low intensity (0.15)
+- Sadness: Moderate intensity (0.4)
+- Fear: High intensity (0.65)
+- Disgust: Not evident (0)
+- Anger: High intensity (0.6)
+- Surprise: High intensity (0.6)
+- Anticipation: Not evident (0)
+- Trust: Moderate intensity (0.35)
+- Distrust: Not evident (0)
+- Love: Low intensity (0.15)
+- Saudade: Moderate intensity (0.3)
+- Awe: Moderate intensity (0.45)
+- Bittersweetness: Moderate intensity (0.45)
+- Melancholy: Moderate intensity (0.3)
+- Nostalgia: Moderate intensity (0.45)
+
+Please note that the emotional analysis is subjective and open to interpretation based on individual perceptions.

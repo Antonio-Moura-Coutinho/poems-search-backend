@@ -1,0 +1,6 @@
+Based on the text provided, the emotional content appears to be primarily focused on themes of Sadness, Fear, Disgust, and perhaps Anger. The imagery of a "love child lapped in blood," women hounding her from home, and the menacing presence of pots and pans, hooks, and ladles suggest a somber and troubling tone.
+
+Here is the emotion vector for the given text: 
+[0, 0.7, 0.6, 0.8, 0.7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+This vector reflects high intensity for Sadness, Fear, Disgust, and Anger, while other emotions are not prominently present in the text.

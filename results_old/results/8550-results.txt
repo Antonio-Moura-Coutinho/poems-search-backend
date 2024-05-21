@@ -1,0 +1,15 @@
+Emotion vector for the text provided:
+[0, 0.8, 0.7, 0.7, 0.5, 0, 0.3, 0.5, 0.6, 0, 1, 0, 0.7, 0.8, 0.9]
+
+Explanation:
+- Happiness: 0 (No positive emotions detected)
+- Sadness: 0.8 (The text contains strong feelings of sadness throughout)
+- Fear: 0.7 (There are elements of fear, uncertainty, and loss in the text)
+- Disgust: 0.7 (The description of cleaning up after the cat and dealing with the aftermath can evoke disgust)
+- Anger: 0.5 (Feelings of anger are present, especially in the part about leaving her daughter at college)
+- Surprise: 0 (No elements of surprise detected)
+- Anticipation: 0.3 (There is a sense of anticipation or expectation as the narrator reflects on the past and moves forward)
+- Trust: 0.5 (Some elements of trust can be inferred, especially in the relationship between the narrator and their daughter)
+- Distrust: 0.6 (The text hints at a sense of distrust or unease in certain situations)
+- Love: 0 (No explicit expressions of love in the text)
+- Saudade: 1 (The text is filled with feelings

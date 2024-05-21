@@ -1,0 +1,4 @@
+Analyzing the emotional content of the text, we can detect multiple emotions such as Sadness, Awe, Melancholy, and a sense of Longing. 
+
+Here is the emotion vector based on the text: 
+[0, 0.6, 0, 0, 0, 0, 0, 0.2, 0, 0, 0, 0.4, 0, 0.4, 0]

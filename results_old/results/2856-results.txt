@@ -1,0 +1,3 @@
+This text conveys a sense of introspection and existential questioning, with elements of doubt, uncertainty, and isolation. The predominant emotions in this text appear to be Sadness, Fear, and Anticipation. There are also hints of Anger and Distrust towards the end as the speaker grapples with the idea of existence and the possibility of being alone in the world.
+
+Emotion vector: [0, 0.6, 0.4, 0, 0.2, 0, 0.4, 0, 0.4, 0, 0, 0, 0, 0.2, 0]

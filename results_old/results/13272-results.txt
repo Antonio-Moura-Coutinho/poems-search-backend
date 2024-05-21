@@ -1,0 +1,9 @@
+Analyzing the emotional content of the text, the predominant emotions present are:
+
+Anticipation: The description of the fish swimming in the frame creates a sense of anticipation as the fish is portrayed as continuous and persistent, swimming in the candlelight, darkness, and even into the night.
+Trust: The fish's presence on the wall suggests a sense of reliability and trustworthiness, as it is a constant and familiar sight for the narrator.
+Awe: The imagery evoked by the fish swimming in the frame and looking out with its spellbound eye can inspire a feeling of awe and wonder.
+
+The emotion vector based on the analysis of the text would be:
+
+[0, 0, 0, 0, 0, 0, 0.5, 0.5, 0, 0, 0, 0.5, 0, 0]

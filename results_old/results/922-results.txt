@@ -1,0 +1,18 @@
+Emotion Vector: [0, 0.7, 0.6, 0.6, 0.6, 0.4, 0.5, 0, 0.7, 0, 0, 0, 0.6, 0.9, 0.8]
+
+Explanation:
+- Happiness: 0
+- Sadness: 0.7 (The text expresses a sense of sadness and misery throughout)
+- Fear: 0.6 (The speaker seems to fear the actions or traits of the person being referred to)
+- Disgust: 0.6 (There is a feeling of intense dissatisfaction or disapproval)
+- Anger: 0.6 (The speaker is questioning and expressing a certain level of anger)
+- Surprise: 0
+- Anticipation: 0.5 (The text conveys anticipation or a sense of expectation for an answer)
+- Trust: 0
+- Distrust: 0.7 (The speaker seems to distrust the person being mentioned)
+- Love: 0
+- Saudade: 0
+- Awe: 0
+- Bittersweetness: 0.6 (There is a bittersweet tone in the text)
+- Melancholy: 0.9 (The text evokes a strong sense of melancholy and sorrow)
+- Nostalgia: 0.8 (There is a sentiment of longing

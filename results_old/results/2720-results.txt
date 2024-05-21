@@ -1,0 +1,3 @@
+The emotional content of the text involves elements of Fear, Anticipation, Trust, and a hint of Love. The intensity of each emotion can be represented in the emotion vector as follows: 
+
+[Fear: 0.4, Anticipation: 0.3, Trust: 0.2, Love: 0.1, Happiness: 0, Sadness: 0, Disgust: 0, Anger: 0, Surprise: 0, Distrust: 0, Saudade: 0, Awe: 0, Bittersweetness: 0, Melancholy: 0, Nostalgia: 0]

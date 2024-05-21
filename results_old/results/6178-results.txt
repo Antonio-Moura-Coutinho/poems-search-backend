@@ -1,0 +1,13 @@
+Emotion vector for the provided text:
+[0.1, 0.4, 0.4, 0.4, 0.3, 0.2, 0.2, 0.2, 0.3, 0, 0, 0.1, 0.4, 0.3, 0.4]
+
+Explanation:
+- Happiness: 0.1 - There is very little to no indication of happiness in the text.
+- Sadness: 0.4 - The text conveys a sense of sadness through the imagery of the dead and the contemplative tone.
+- Fear: 0.4 - The mention of the dead settling in and the eerie atmosphere contribute to a feeling of fear.
+- Disgust: 0.4 - The imagery of the dead and the badger treading on them could evoke a sense of disgust.
+- Anger: 0.3 - Some underlying tension or anger can be sensed in the text, especially with the living badger's actions.
+- Surprise: 0.2 - There are elements of surprise, particularly in the unexpected actions described.
+- Anticipation: 0.2 - Anticipation is present as the reader wonders what will happen next in the narrative.
+- Trust: 0.2 - There is an element of trust related to the badger's behavior and its interactions with its environment.
+- Distrust: 0.3

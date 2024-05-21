@@ -1,0 +1,3 @@
+Analyzing the emotional content of the text, we see a mix of emotions such as sadness, fear, trust, love, and bittersweetness. Here is the emotion vector representing the intensity of each emotion on a scale from 0 to 1:
+
+[Sadness: 0.8, Fear: 0.6, Trust: 0.5, Love: 0.5, Bittersweetness: 0.7, Happiness: 0, Disgust: 0, Anger: 0, Surprise: 0, Anticipation: 0, Distrust: 0, Saudade: 0, Awe: 0, Melancholy: 0, Nostalgia: 0]

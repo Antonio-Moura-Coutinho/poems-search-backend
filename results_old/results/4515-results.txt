@@ -1,0 +1,3 @@
+The emotional content analysis of the text "Shekhinah Speaks" yields the following emotion vector: [0.4, 0.7, 0.5, 0.4, 0.4, 0.3, 0.6, 0.7, 0.3, 0.5, 0.6, 0.5, 0.8, 0.6, 0.7].
+
+This vector indicates that the text expresses moderate levels of sadness, fear, disgust, anger, anticipation, love, awe, bittersweetness, and nostalgia. It also contains lower levels of happiness, surprise, trust, and melacholy.

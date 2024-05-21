@@ -1,0 +1,5 @@
+Analyzing the emotional content of the text, we can identify various emotions present. The text seems to convey elements of sadness, fear, distrust, and nostalgia. The emotions of sadness and nostalgia are particularly prominent.
+
+Here is the emotion vector based on the intensity of each emotion:
+
+[Sadness: 0.7, Fear: 0.4, Distrust: 0.4, Nostalgia: 0.8, Happiness: 0, Disgust: 0, Anger: 0, Surprise: 0, Anticipation: 0, Trust: 0, Love: 0, Saudade: 0, Awe: 0, Bittersweetness: 0, Melancholy: 0]

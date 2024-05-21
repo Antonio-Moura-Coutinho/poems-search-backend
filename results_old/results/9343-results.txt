@@ -1,0 +1,17 @@
+Based on the emotional content of the text, the emotion vector would be:
+
+[0.3, 0.4, 0.2, 0.1, 0.1, 0.1, 0.4, 0.4, 0, 0.2, 0, 0.2, 0.4, 0] 
+
+Explanation:
+- Happiness: 0.3 (Mention of love and the imagery of sending light back across waters)
+- Sadness: 0.4 (Themes of separation, wintering, and melancholy)
+- Fear: 0.2 (Sense of unknowing and separation)
+- Disgust: 0.1 (The text doesn't carry strong elements of disgust)
+- Anger: 0.1 (The text doesn't show strong signs of anger)
+- Surprise: 0.1 (No elements that evoke surprise)
+- Anticipation: 0.4 (Imagery of sending light back and anticipation of the crest that breaks)
+- Trust: 0.4 (Sense of trust in the journey of wintering)
+- Distrust: 0 (No explicit signs of distrust)
+- Love: 0.2 (Reference to love but not the central emotion)
+- Saudade: 0 (Not explicitly mentioned)
+- Awe: 0.2 (Imagery of lighthouse light and ocean evokes a sense of awe

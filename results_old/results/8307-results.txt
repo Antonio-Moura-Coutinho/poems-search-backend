@@ -1,0 +1,12 @@
+Based on the emotional content of the text provided, the emotion vector could be as follows: [0.1, 0.6, 0.6, 0.4, 0.4, 0, 0.2, 0, 0.3, 0, 0, 0.3, 0.5, 0.5, 0.4].
+
+Explanation:
+- Happiness: Low (0.1) - The text conveys a somber and reflective tone, lacking elements of happiness.
+- Sadness: High (0.6) - The text evokes feelings of sadness through the descriptions of decay, death, and loss.
+- Fear: Moderate (0.6) - There is a sense of fear present in the vivid imagery of war, blood, and trial-day.
+- Disgust: Moderate (0.4) - Descriptions of decay and blood could elicit feelings of disgust.
+- Anger: Moderate (0.4) - The mention of crowns hacked and trial-day hints at underlying anger or unrest.
+- Surprise: None (0) - The text is more contemplative and lacks elements of surprise.
+- Anticipation: Low (0.2) - There is a subtle sense of anticipation related to the descriptions of trial-day and decay.
+- Trust: None (0) - Trust is not a prominent emotion in the text.
+- Distrust: Moderate (0.3

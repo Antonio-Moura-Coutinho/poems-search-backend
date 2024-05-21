@@ -1,0 +1,4 @@
+The emotional vector for the text is as follows: 
+[0.1, 0.2, 0.3, 0.2, 0.2, 0, 0.1, 0, 0.2, 0, 0, 0, 0.2, 0.3, 0] 
+
+This text conveys a mix of emotions, with a moderate level of fear, disgust, anger, distrust, melancholy, and nostalgia. There is a slight sense of sadness and bittersweetness in the text as well.

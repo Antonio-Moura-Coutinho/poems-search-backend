@@ -1,0 +1,9 @@
+Based on the text provided, the emotional content can be analyzed as follows:
+
+- Sadness: The text conveys a sense of nostalgia, longing, and melancholy associated with memories of the past and forgotten relationships.
+- Anticipation: There is a hint of anticipation or longing for memories and the passage of time.
+- Trust: The connection with nature and the surroundings suggests a sense of trust and familiarity.
+- Melancholy: The overall tone of the text is melancholic, reflecting on the passage of time and the loss of memories.
+
+The emotion vector based on the analysis would be:
+[0, 0.5, 0, 0, 0, 0, 0.3, 0.3, 0, 0, 0, 0, 0, 0.5, 0]

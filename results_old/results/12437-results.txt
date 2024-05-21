@@ -1,0 +1,10 @@
+To analyze the emotional content of the text provided, we can detect various emotions portrayed within the narrative. The emotions present in the text include:
+
+- Sadness: Described by the somber tone, references to fire and devastation, and the sense of loss and weariness conveyed throughout the narrative.
+- Anticipation: Anticipation is reflected in the description of the man living in two houses, the sense of waiting for something to unfold, and the tension surrounding the changes brought about by the fire.
+- Trust: Trust is evident in the imagery of the man weaving wire and making careful seams, symbolizing trust in routine tasks and everyday activities despite the challenges faced.
+- Melancholy: The melancholic atmosphere is created by the feelings of nostalgia, the reflection on loss and change, and the melancholic beauty in the descriptions of the sea and human figures.
+
+Based on these emotions, we can calculate the emotion vector as follows:
+
+[Sadness: 0.6, Anticipation: 0.4, Trust: 0.3, Melancholy: 0.5]

@@ -1,0 +1,12 @@
+To analyze the emotional content of the text, we can identify and gauge the emotions conveyed in the passage. From the text provided, we can derive the following emotional vector:
+
+[0, 0.3, 0.5, 0, 0, 0, 0.5, 0, 0.3, 0, 0, 0, 0.5, 0.4, 0]
+
+Explanation:
+- Sadness: 0.3 (references to missing a man, broken holystone)
+- Fear: 0.5 (mention of stormy petrel, harm, fear, not to be worn during the voyage)
+- Anticipation: 0.5 (references to setting off on a voyage, preparations)
+- Distrust: 0.3 (references to missing a man, small stuff, wages seldom mentioned)
+- Melancholy: 0.4 (overall tone and imagery evoke a sense of somber reflection and nostalgia)
+  
+Please let me know if you need further analysis or clarification.

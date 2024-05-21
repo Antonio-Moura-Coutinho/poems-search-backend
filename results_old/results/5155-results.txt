@@ -1,0 +1,5 @@
+Based on the analysis of the text, the emotion vector would be:
+
+[0, 0.7, 0.6, 0.8, 0.7, 0.3, 0.6, 0, 0.5, 0, 0, 0, 0.6, 0.5, 0]
+
+This suggests a strong presence of emotions such as Sadness, Fear, Disgust, Anger, Surprise, Distrust, Melancholy, and Nostalgia within the text.

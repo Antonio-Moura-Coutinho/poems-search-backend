@@ -1,0 +1,10 @@
+Analyzing the emotional content of the text, we can break down the emotions into the following categories:
+
+- Sadness: The text expresses deep sadness and longing for the beloved Marian.
+- Love: The speaker's strong love and devotion to Marian are evident throughout the text.
+- Anticipation: There is a sense of anticipation and hope for a reunion, even though obstacles are mentioned.
+- Longing: The text conveys a deep sense of longing and loss for Marian.
+
+Based on this analysis, we can create an emotion vector representing the intensity of each emotion:
+
+[Sadness: 0.8, Love: 0.7, Anticipation: 0.4, Longing: 0.7, Other Emotions: 0]

@@ -1,0 +1,10 @@
+Based on the emotional content of the text provided, the emotion vector could be as follows: [0, 0.8, 0, 0, 0, 0, 0, 0, 0, 0, 0.6, 0, 0.7, 0.9, 0]
+
+Explanation:
+- Sadness: The text expresses a deep sense of longing and unfulfilled desire, indicating a strong presence of sadness.
+- Saudade: The concept of saudade, a deep emotional state of longing or nostalgia, is prominent in the text, contributing to the high score for nostalgia.
+- Love: While there is a mention of dreams and unwonted things, the focus on absence and yearning rather than presence or fulfillment contributes to a low score for love.
+- Melancholy: The overall tone and themes of the text evoke a strong sense of melancholy and lamentation, leading to a high score for melancholy.
+- Awe: The imagery of stars, the sun, and moon adds a touch of awe and wonder, albeit overshadowed by the predominant feelings of sadness and nostalgia.
+
+This emotion vector represents the emotional intensity of the text based on the specified emotions.

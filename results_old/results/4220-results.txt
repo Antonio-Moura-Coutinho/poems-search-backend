@@ -1,0 +1,5 @@
+Analyzing the emotional content of the text, the emotions expressed seem to be a mixture of Sadness, Nostalgia, and Love. The speaker appears to reminisce about the past, expressing a sense of loss and longing while also conveying a connection and affection towards Sheila. Based on this analysis, the emotion vector for the text could be:
+
+[0, 0.6, 0, 0, 0, 0, 0, 0.3, 0, 0.4, 0, 0, 0.6, 0.5, 0]
+
+This emotion vector indicates a high intensity of Sadness, Nostalgia, Love, Melancholy, and Anticipation in the text, while other emotions are negligible or absent.

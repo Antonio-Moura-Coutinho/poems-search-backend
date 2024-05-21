@@ -1,0 +1,10 @@
+The emotion vector for the provided text is: [0.4, 0.6, 0.6, 0.3, 0.7, 0.6, 0.5, 0.6, 0.6, 0.7, 0, 0.6, 0.5, 0.7, 0.7]
+
+Explanation of emotions in the text:
+
+1. Happiness: 0.4 - The text seems to have elements of happiness, particularly in the descriptions of the customized Eldorado car and the stylish outfits worn by the speaker.
+2. Sadness: 0.6 - The text conveys a sense of sadness through the speaker's feelings of betrayal, realization of manipulation, and plans to confront the man.
+3. Fear: 0.6 - Fear is prominent in the text as the speaker expresses fear of being used up and killed by the man and the need for protection.
+4. Disgust: 0.3 - There are elements of disgust in the text, especially in the way the speaker describes the man's actions and deceitful behavior.
+5. Anger: 0.7 - Anger is a strong emotion throughout the text, as the speaker confronts the man, expresses feelings of betrayal, and plans revenge.
+6. Surprise: 0.6 - The text contains elements of surprise, particularly in the unexpected turn of events as the speaker takes control of

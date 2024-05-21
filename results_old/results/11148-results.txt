@@ -1,0 +1,5 @@
+The emotional content analysis based on the provided text indicates the presence of the following emotions along with their intensities in the vector format:
+
+[Happiness: 0.1, Sadness: 0.9, Fear: 0.3, Disgust: 0.2, Anger: 0.4, Surprise: 0.1, Anticipation: 0.4, Trust: 0.2, Distrust: 0.3, Love: 0.1, Saudade: 0.4, Awe: 0.1, Bittersweetness: 0.7, Melancholy: 0.9, Nostalgia: 0.6]
+
+This vector reflects a strong presence of sadness, melancholy, and bittersweetness. The emotions of fear, anger, and distrust are moderately present, while trust, surprise, happiness, love, and awe have lower intensities. Anticipation and nostalgia have moderate to high levels in the emotional content of the text.

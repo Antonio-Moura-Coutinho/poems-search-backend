@@ -1,0 +1,4 @@
+The emotional content of the text leans towards negative emotions such as defiance, anger, distrust, and a sense of revenge. The emotions of sadness, fear, and bittersweetness are also evoked through the imagery and tone of the text.
+
+Based on this analysis, the emotion vector for the text could be:
+[0, 0.5, 0.5, 0, 0.7, 0, 0.3, 0, 0.7, 0, 0, 0, 0, 0.5, 0]

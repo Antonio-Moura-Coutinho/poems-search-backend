@@ -1,0 +1,19 @@
+This text contains a mix of emotions, primarily centered around longing, nostalgia, and a sense of waiting. Based on the emotional content of the text, the emotion vector representing the intensity of emotions could be as follows: 
+
+[Happiness: 0,
+Sadness: 0.4,
+Fear: 0,
+Disgust: 0,
+Anger: 0,
+Surprise: 0,
+Anticipation: 0.4,
+Trust: 0,
+Distrust: 0,
+Love: 0,
+Saudade: 0.6,
+Awe: 0,
+Bittersweetness: 0.2,
+Melancholy: 0.6,
+Nostalgia: 0.6]
+
+This vector indicates a higher level of Sadness, Nostalgia, and Saudade, with some elements of Anticipation and Bittersweetness present in the text.

@@ -1,0 +1,14 @@
+Based on the emotional content of the text, the emotion vector could be as follows: [0.1, 0.2, 0.3, 0.1, 0.1, 0.1, 0.2, 0.2, 0.1, 0, 0, 0, 0, 0.2, 0].
+
+Explanation:
+- Happiness: 0.1 (Slightly present with references to sitting in a tavern and having a drink)
+- Sadness: 0.2 (Mention of unemployed guy and the disruptive elements in the environment)
+- Fear: 0.3 (Mention of the pederast and the sense of unease or discomfort)
+- Disgust: 0.1 (Mention of the pederast and other possibly unsavory characters)
+- Anger: 0.1 (Subtle indication with the disruption to the narrator's smoke)
+- Surprise: 0.1 (Slight element with unexpected appearances of different characters)
+- Anticipation: 0.2 (Mention of sitting and observing different individuals)
+- Trust: 0.2 (Reference to working at Lucento, indicating some form of stability)
+- Distrust: 0.1 (Slight hint with the presence of various characters)
+- Love: 0 (Not explicitly present in the text)
+- Saudade: 0 (Not explicitly present

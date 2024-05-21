@@ -1,0 +1,13 @@
+To analyze the emotional content of the text and create an emotion vector, I will focus on the prevalent emotions expressed in the text. Here is the emotion vector corresponding to the text:
+
+[0.3, 0.4, 0.4, 0.3, 0.4, 0.3, 0.5, 0.4, 0.2, 0.3, 0.2, 0.4, 0.4, 0.4, 0.3]
+
+Explanation of each emotion's intensity in the vector based on the text:
+- Happiness: Moderate happiness expressed through the lively scene and elements like fireworks and people gathering.
+- Sadness: Moderate sadness is present through references to death and the imagery of death and life coexisting.
+- Fear: Moderate fear depicted through the description of armed police officers and the mention of bombs.
+- Disgust: Mild disgust is portrayed through the unsettling descriptions of certain characters and scenes.
+- Anger: Moderate anger is suggested by the presence of revolutionaries and dictators, along with the mention of guns and rifles.
+- Surprise: Mild surprise is expressed through unexpected elements like the Virgin in a Madonna T-shirt and conquistadores on roller skates.
+- Anticipation: High anticipation is felt through the buildup of the event, the introduction of poets with fireworks, and the presence of a diverse audience.
+- Trust: Moderate trust is implied by the description of people wanting

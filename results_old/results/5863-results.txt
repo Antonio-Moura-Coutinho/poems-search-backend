@@ -1,0 +1,27 @@
+To analyze the emotional content of the text and create an emotion vector, let's break down the emotions portrayed in the text:
+
+- Happiness: There are moments of blush and anticipation when watching a movie, indicating a subtle sense of happiness. [0.2]
+
+- Sadness: There is a hint of sadness or longing for the past as the narrator mentions memories that are starting to yellow and the passing of time. [0.1]
+
+- Fear: There is a sense of nervousness mentioned in the passage. [0.1]
+
+- Disgust: There is no explicit mention of disgust in the text.
+
+- Anger: There is no explicit mention of anger in the text.
+
+- Surprise: There is a mild surprise at the nervousness when guests left the narrator and the person alone. [0.1]
+
+- Anticipation: There is anticipation or expectation when the narrator talks about getting the colors right. [0.1]
+
+- Trust: There is no explicit mention of trust in the text.
+
+- Distrust: There is no explicit mention of distrust in the text.
+
+- Love: There is no explicit mention of love in the text.
+
+- Saudade: There is a subtle sense of saudade, a nostalgic longing for something that might never happen again. [0.1]
+
+- Awe: There is no explicit mention of awe in the text.
+
+- Bittersweetness: There is a bittersweet feeling conveyed through memories and the passing of time

@@ -1,0 +1,21 @@
+To analyze the emotional content of the text, we can identify the following emotions:
+
+- Happiness: References to laughter, enjoyment, leisure activities, and being at a beautiful beach.
+- Sadness: Absence of overt sadness in the text.
+- Fear: Not prominently featured in the text.
+- Disgust: Possible association with the description of oysters being eaten.
+- Anger: Not prominently featured in the text.
+- Surprise: Not prominently featured in the text.
+- Anticipation: Anticipation of leisure and enjoyment at the beach.
+- Trust: Trustworthiness implied by the interaction with the men opening oysters.
+- Distrust: Absence of distrust in the text.
+- Love: Mother spending time on the beach with the children.
+- Saudade: Nostalgic elements, such as recalling childhood memories at the beach.
+- Awe: Possible awe of the beauty of the beach.
+- Bittersweetness: The combination of nostalgia with the potential bittersweetness of reminiscing about the past.
+- Melancholy: A sense of longing and nostalgia for past experiences.
+- Nostalgia: Memories of past beach visits and childhood experiences.
+
+Based on the analysis, the emotion vector for the text could be: 
+
+[0.6, 0, 0, 0.3, 0, 0, 0.4, 0.3, 0, 0.2, 0.4, 0

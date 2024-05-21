@@ -1,0 +1,10 @@
+To analyze the emotional content of the text, we can identify the following emotions:
+
+- Sadness: The text conveys a sense of sadness, melancholy, grief, and pity as it describes the gradual weakening of the will, fading of brightness, lack of good to touch, and the sick falling from earth.
+- Disgust: There is an element of disgust in the depiction of corrupt and unsubstantial aspects, as well as the description of pulverous grief and the melting of bones with pity.
+
+Based on the identified emotions, the emotion vector representing the intensity of each emotion can be approximated as follows: 
+
+[Sadness: 0.8, Disgust: 0.4, Happiness: 0, Fear: 0, Anger: 0, Surprise: 0, Anticipation: 0, Trust: 0, Distrust: 0, Love: 0, Saudade: 0, Awe: 0, Bittersweetness: 0, Melancholy: 0.7, Nostalgia: 0]
+
+This vector emphasizes the strong presence of sadness and a moderate level of disgust, with low levels or absence of other emotions.

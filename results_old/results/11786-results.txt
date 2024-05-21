@@ -1,0 +1,1 @@
+[Happiness: 0.9, Sadness: 0, Fear: 0, Disgust: 0, Anger: 0, Surprise: 0.6, Anticipation: 0.4, Trust: 0.5, Distrust: 0, Love: 0, Saudade: 0, Awe: 0, Bittersweetness: 0, Melancholy: 0, Nostalgia: 0]

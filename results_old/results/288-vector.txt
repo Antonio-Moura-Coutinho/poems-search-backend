@@ -1,0 +1,1 @@
+['Happiness: 0.1', ' Sadness: 0.7', ' Fear: 0', ' Disgust: 0', ' Anger: 0.6', ' Surprise: 0', ' Anticipation: 0', ' Trust: 0', ' Distrust: 0.6', ' Love: 0.7', ' Saudade: 0', ' Awe: 0', ' Bittersweetness: 0.4', ' Melancholy: 0.6', ' Nostalgia: 0.6']

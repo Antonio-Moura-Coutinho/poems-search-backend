@@ -1,0 +1,12 @@
+To analyze the emotional content of the given text and output an emotion vector, we can identify the prominent emotions expressed in the text. Based on the text provided, the following emotions are prevalent:
+
+- Awe: The text conveys a sense of awe and wonder towards the vastness of the universe and the beauty of the stars.
+- Anticipation: There is a feeling of anticipation and contemplation of the cosmos and one's place within it.
+
+The emotion vector for the given text can be represented as follows:
+[0, 0, 0, 0, 0, 0, 0.7, 0.8, 0, 0, 0, 0.9, 0.6, 0]
+
+Explanation of the emotion vector:
+- Anticipation and Trust have high intensities, indicating the sense of wonder and contemplation present in the text.
+- Awe, Bittersweetness, Melancholy, and Nostalgia have moderate values, reflecting the emotional depth and reflective nature of the text.
+- The remaining emotions have a value of 0, indicating that they are not strongly expressed in the text.

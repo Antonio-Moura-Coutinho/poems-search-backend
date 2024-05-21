@@ -1,0 +1,5 @@
+Based on the text provided, here is the emotion vector analysis:
+
+[Happiness: 0.1, Sadness: 0.4, Fear: 0.3, Disgust: 0.3, Anger: 0.3, Surprise: 0.2, Anticipation: 0.2, Trust: 0.1, Distrust: 0.4, Love: 0, Saudade: 0, Awe: 0.1, Bittersweetness: 0.4, Melancholy: 0.5, Nostalgia: 0.2]
+
+The text conveys a mix of negative emotions such as sadness, fear, disgust, anger, and distrust, with higher intensities in sadness, disgust, and distrust. The presence of themes related to body image issues, self-criticism, and societal pressure contributes to these emotions. There is also a hint of bittersweetness, melancholy, and nostalgia, likely stemming from reflections on personal struggles and societal expectations. Overall, the tone of the text is reflective and somewhat melancholic.

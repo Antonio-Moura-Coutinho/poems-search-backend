@@ -1,0 +1,9 @@
+To analyze the emotional content of the text provided, we can identify the following emotions:
+
+- **Sadness**: The poem conveys a sense of sadness through the description of Poor Susan who appears to be reminiscing about past happiness that has now faded. The fading of the beautiful images she sees contributes to a feeling of loss and melancholy. 
+- **Love**: Poor Susan is deeply connected to the single small cottage, described as the one only dwelling on earth that she loves. This evokes feelings of love and attachment.
+- **Melancholy**: The overall tone and mood of the text are melancholic, as Poor Susan's visions of beauty and happiness are fleeting and elusive, leaving her feeling disillusioned and forlorn.
+
+Here is the emotion vector based on the emotional analysis of the text:
+
+[0, 0.8, 0, 0, 0, 0, 0, 0, 0, 0.7, 0, 0, 0, 0.8, 0]

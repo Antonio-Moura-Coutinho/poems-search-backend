@@ -1,0 +1,15 @@
+To analyze the emotional content of the text, we can identify various emotions expressed through the words and context. Based on the provided text, we can determine the emotions and their intensities as follows:
+
+1. Happiness: There are elements of happiness in reminiscing about youthful experiences and love. (0.4)
+2. Sadness: The nostalgia and reflection on past experiences evoke a sense of sadness. (0.3)
+3. Fear: There is no explicit expression of fear in the text. (0)
+4. Disgust: Disgust is not evident in the text. (0)
+5. Anger: Anger is not prominent in the text. (0)
+6. Surprise: There is a lack of surprise in the text. (0)
+7. Anticipation: The anticipation of past memories and experiences can be felt. (0.2)
+8. Trust: Trust is reflected through the appreciation of Michelangelo's work. (0.4)
+9. Distrust: There is no indication of distrust. (0)
+10. Love: Love is a central theme in the text, as love and poetry are highlighted. (0.6)
+11. Saudade: The text expresses longing and nostalgia, resembling Saudade. (0.4)
+12. Awe: The admiration for Michelangelo's work may evoke a sense of awe. (0.3)
+13. Bittersweetness: There is a mix of happiness and sadness,

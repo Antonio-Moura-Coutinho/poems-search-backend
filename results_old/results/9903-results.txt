@@ -1,0 +1,4 @@
+Based on the emotional content of the text, the emotion vector can be analyzed as follows: 
+[Happiness: 0, Sadness: 0.7, Fear: 0, Disgust: 0, Anger: 0, Surprise: 0, Anticipation: 0, Trust: 0, Distrust: 0, Love: 0, Saudade: 0, Awe: 0, Bittersweetness: 0, Melancholy: 0.7, Nostalgia: 0]
+
+This emotional vector indicates a high intensity of sadness and melancholy in the text, portraying the struggles and sufferings of the poor depicted in the poem.

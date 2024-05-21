@@ -1,0 +1,1 @@
+The emotional content of the text includes elements of Love, Happiness, Anticipation, Trust, and Awe. Based on the text, the emotion vector can be approximated as follows: [0.6, 0, 0, 0, 0, 0, 0.3, 0.6, 0, 0.8, 0, 0.5, 0, 0].

@@ -1,0 +1,1 @@
+The emotional content of the text appears to include elements of Happiness (0.3), Trust (0.2), Love (0.4), Anticipation (0.1), and Awe (0.2). The emotion vector would look like this: [0.3, 0, 0, 0, 0, 0, 0.1, 0.2, 0, 0, 0, 0.2, 0, 0].

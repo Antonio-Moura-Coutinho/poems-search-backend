@@ -1,0 +1,9 @@
+Emotion Vector: [0.1, 0.4, 0.3, 0.1, 0.2, 0, 0.3, 0.1, 0.2, 0, 0.1, 0.1, 0.2, 0.4, 0]
+
+Based on the text provided, the emotional content can be analyzed as follows:
+- Sadness: The poem expresses a sense of frustration and longing in the pursuit of an elusive dream, as exemplified by lines like "And I run after a vanishing dream" and "I work and I work till I nearly am dead."
+- Fear: There is a subtle undercurrent of fear or anxiety associated with the pressure of conforming to the scholarly attitude, as indicated by lines such as "unceasingly sighed over, wept over, cried over."
+- Anger: The speaker appears to feel a sense of exasperation or resentment towards the expectations placed upon them to adopt the scholarly attitude, as shown by lines like "I really am sometimes tempted to say" and "ruthlessly said."
+- Anticipation: There is a hint of anticipation or longing for something different or more fulfilling outside the confines of the scholarly attitude, reflected in phrases like "tempted to say" and "people have just fallen into the way."
+
+The emotion vector represents the intensity of each emotion mentioned within the text on a scale from 0 to

@@ -1,0 +1,15 @@
+This text conveys a mix of emotions including Fear, Disgust, Trust, Love, and Awe. The emotional vector for this text could be represented as follows: 
+
+[0, 0, 0.4, 0.2, 0, 0, 0, 0.4, 0, 0.6, 0, 0, 0, 0, 0]
+
+- Fear: 0.4 - Indicated by phrases like "afraid we’d find her later, knocking at our door" and "Some nights we waited through like captured prey."
+
+- Disgust: 0.2 - Implied through descriptions such as "slightly slutty mermaid" and references to the characters in an unflattering manner.
+
+- Trust: 0.4 - Demonstrated in phrases like "To you I'd turn in bed, saying the furtive words against your back, I love..." indicating a sense of trust between the characters.
+
+- Love: 0.6 - This emotion is prevalent throughout the text, with expressions of affection like "I love..." and "I do, too" highlighting the strong emotional connection between the characters.
+
+- Awe: 0 - While there is a sense of admiration and surprise in some descriptions, the overall intensity of awe is low compared to other emotions in this text.
+
+This emotional vector encapsulates the predominant emotions expressed in the text based on the given categories

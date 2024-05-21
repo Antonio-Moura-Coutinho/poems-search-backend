@@ -1,0 +1,5 @@
+To determine the emotional content of the text, we can analyze the words and phrases that convey different emotions. Here is the emotion vector based on the emotional content of the text you provided:
+
+[0.2, 0.3, 0.6, 0.3, 0.4, 0.3, 0.4, 0.5, 0.3, 0.3, 0.2, 0.4, 0.2, 0.4, 0.3]
+
+This vector indicates a moderate level of Fear, Anger, Trust, Surprise, and Bittersweetness. It also shows a slightly higher level of Sadness, Disgust, and Anticipation, while having lower levels of Happiness, Distrust, Love, Saudade, Awe, Melancholy, and Nostalgia.

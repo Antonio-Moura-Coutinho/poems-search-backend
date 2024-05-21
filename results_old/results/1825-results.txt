@@ -1,0 +1,5 @@
+To calculate the emotional content of the text, we can analyze the keywords and context to determine the intensity of various emotions. Based on the provided text, the emotional vector can be estimated as follows:
+
+[Happiness: 0.1, Sadness: 0.6, Fear: 0.2, Disgust: 0, Anger: 0.3, Surprise: 0, Anticipation: 0.2, Trust: 0.3, Distrust: 0, Love: 0.2, Saudade: 0.1, Awe: 0, Bittersweetness: 0.5, Melancholy: 0.8, Nostalgia: 0.3]
+
+This vector suggests a mix of emotions with a higher intensity of sadness, melancholy, and bittersweetness in the text. Please note that the emotional interpretation may vary between individuals, and this is an estimation based on the emotional cues present in the text.

@@ -1,0 +1,22 @@
+To analyze the emotional content of the text, we will identify the emotional tones conveyed and provide an emotion vector based on the intensity of each emotion. 
+
+After analyzing the text, the emotion vector looks like this: [0.12, 0.32, 0.28, 0, 0, 0.16, 0.24, 0.16, 0, 0, 0, 0, 0.32, 0.36, 0.2].
+
+Explanation of the emotions:
+- Happiness: 0.12
+- Sadness: 0.32
+- Fear: 0.28
+- Disgust: 0
+- Anger: 0
+- Surprise: 0.16
+- Anticipation: 0.24
+- Trust: 0.16
+- Distrust: 0
+- Love: 0
+- Saudade: 0
+- Awe: 0
+- Bittersweetness: 0.32
+- Melancholy: 0.36
+- Nostalgia: 0.2
+
+This emotion vector indicates that the text primarily conveys emotions of sadness, fear, anticipation, trust, bittersweetness, melancholy, and nostalgia.

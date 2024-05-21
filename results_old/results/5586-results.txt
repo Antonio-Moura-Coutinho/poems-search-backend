@@ -1,0 +1,5 @@
+To analyze the emotional content of the text you provided, we can identify the presence of certain emotions and assign them a relative intensity on a scale from 0 to 1. Here is the emotion vector representing the emotions in the text:
+
+[Happiness: 0.4, Sadness: 0.3, Fear: 0, Disgust: 0, Anger: 0, Surprise: 0, Anticipation: 0.2, Trust: 0.4, Distrust: 0, Love: 0.1, Saudade: 0, Awe: 0, Bittersweetness: 0.5, Melancholy: 0.3, Nostalgia: 0.3]
+
+The emotions of bittersweetness, melancholy, and nostalgia are moderately present in the text, along with lower levels of happiness, sadness, and trust, and a hint of anticipation and love. The absence of fear, disgust, anger, surprise, and distrust indicates a lack of these emotions in the text.

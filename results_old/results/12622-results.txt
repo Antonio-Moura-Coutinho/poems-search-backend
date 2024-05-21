@@ -1,0 +1,5 @@
+The emotional content in the given text contains a mix of various emotions, including Trust, Anticipation, Awe, and a touch of Sadness. The intensity of each emotion on a scale from 0 to 1 for the mentioned emotions is as follows:
+
+[Happiness: 0, Sadness: 0.2, Fear: 0, Disgust: 0, Anger: 0, Surprise: 0, Anticipation: 0.4, Trust: 0.7, Distrust: 0, Love: 0, Saudade: 0, Awe: 0.6, Bittersweetness: 0, Melancholy: 0.2, Nostalgia: 0]
+
+This vector represents the predominant emotional tones present in the text, focusing on trust, anticipation, awe, and a subtle undertone of sadness.

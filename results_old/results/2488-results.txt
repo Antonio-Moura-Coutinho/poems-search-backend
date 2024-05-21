@@ -1,0 +1,5 @@
+Based on the text provided, the emotional content seems to indicate feelings of Disgust, Anger, Distrust, and possibly a hint of Sadness. Here is the emotion vector for the given text:
+
+[0, 0.2, 0, 0.6, 0.6, 0, 0, 0, 0.6, 0, 0, 0, 0, 0, 0]
+
+This vector reflects the intensity of each emotion in the text on a scale from 0 to 1 as requested.

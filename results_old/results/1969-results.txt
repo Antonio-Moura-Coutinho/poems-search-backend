@@ -1,0 +1,14 @@
+Based on the emotional content of the text, the emotion vector can be calculated as follows:
+
+[Happiness, Sadness, Fear, Disgust, Anger, Surprise, Anticipation, Trust, Distrust, Love, Saudade, Awe, Bittersweetness, Melancholy, Nostalgia]
+
+Analyzing the text, the emotions expressed are primarily:
+
+- Sadness: The text conveys a sense of melancholy and sorrow, especially with the mentioned theme of a mother burying her child.
+- Love: There is a sense of love and care, particularly evident in the interactions between the boy, the woman, and the environment.
+
+Based on this analysis, the emotion vector for the text could be:
+
+[0.2, 0.6, 0, 0, 0, 0, 0, 0.5, 0, 0.3, 0, 0, 0.3, 0.5, 0]
+
+This vector indicates a significant level of sadness, love, trust, bittersweetness, and nostalgia in the text.

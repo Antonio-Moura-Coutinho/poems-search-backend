@@ -1,0 +1,16 @@
+Emotion vector analysis for the text:
+
+[Happiness, Sadness, Fear, Disgust, Anger, Surprise, Anticipation, Trust, Distrust, Love, Saudade, Awe, Bittersweetness, Melancholy, Nostalgia]
+
+Emotion vector: [0, 0.6, 0.4, 0, 0.7, 0, 0, 0, 0.6, 0, 0, 0, 0, 0.7, 0]
+
+Explanation:
+- Sadness: The text conveys significant sadness through themes of colorism, discrimination, and feeling of being of less value due to darker skin color.
+- Fear: There is an undercurrent of fear, particularly regarding societal judgment and internal struggles with self-acceptance.
+- Anger: The narrator references feelings of shame, indignation, and burnout, indicative of underlying anger.
+- Distrust: The mention of shaming, color perception, and ideal hierarchy suggests a level of distrust.
+- Love: While not prominently featured, the text hints at self-comfort and acceptance as a form of self-love.
+- Melancholy: The overall tone and themes evoke feelings of deep sadness and reflection, aligning with melancholic emotions.
+- Nostalgia: The reflections on childhood experiences and self-affirmation could be seen as nostalgic, though less prominent than other emotions.
+
+Feel free to

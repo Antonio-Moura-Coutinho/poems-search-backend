@@ -1,0 +1,7 @@
+Analyzing the emotional content of the text provided, the emotions that stand out are:
+
+- Sadness: The text conveys a sense of rejection or lack of communication, which can evoke feelings of sadness.
+- Disgust: The mention of being "unforgiving" and the rejection of words could imply a degree of disgust.
+- Distrust: The image of one person's back deflecting every word could also suggest a lack of trust.
+
+Based on this analysis, the emotion vector for the text could be: [0, 0.6, 0, 0.3, 0, 0, 0, 0, 0.4, 0, 0, 0, 0, 0.2].

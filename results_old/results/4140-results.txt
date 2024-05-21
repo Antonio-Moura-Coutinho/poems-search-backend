@@ -1,0 +1,12 @@
+To analyze the emotional content of the text provided, we can break it down and identify the emotional tones present:
+
+1. Happiness (Mild) - The mention of Richmond becoming one of the great capitals and lining the streets with apple trees conveys a sense of potential joy and contentment.
+
+2. Anticipation (Mild) - The anticipation of Richmond becoming a great capital implies a sense of looking forward to a positive future outcome.
+
+3. Awe (Mild) - The idea of lining the streets with apple trees could evoke a sense of wonder or admiration.
+
+Given the emotional analysis, the emotion vector for the text could be approximately:
+[0.3, 0, 0, 0, 0, 0, 0.3, 0, 0, 0, 0, 0.3, 0, 0]
+
+This vector suggests a moderate level of happiness, anticipation, and awe, with minimal presence of other emotions.

@@ -1,0 +1,19 @@
+The emotional analysis of the text identifies the following emotions and their intensities:
+
+- Happiness: 0.10
+- Sadness: 0.45
+- Fear: 0.20
+- Disgust: 0.10
+- Anger: 0.30
+- Surprise: 0.10
+- Anticipation: 0.15
+- Trust: 0.05
+- Distrust: 0.05
+- Love: 0.0
+- Saudade: 0.05
+- Awe: 0.05
+- Bittersweetness: 0.25
+- Melancholy: 0.55
+- Nostalgia: 0.20
+
+Emotion Vector: [0.10, 0.45, 0.20, 0.10, 0.30, 0.10, 0.15, 0.05, 0.05, 0.0, 0.05, 0.05, 0.25, 0.55, 0.20]

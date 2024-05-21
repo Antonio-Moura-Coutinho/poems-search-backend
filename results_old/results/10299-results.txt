@@ -1,0 +1,13 @@
+Analyzing the emotional content of the text, the dominant emotions present are:
+
+- Ambition
+- Pride
+- Nostalgia
+- Confidence
+- Humor
+
+Based on these emotions, the emotion vector would be:
+
+[0.4, 0, 0.1, 0, 0, 0.3, 0.4, 0.5, 0, 0, 0, 0, 0, 0.5, 0]
+
+Please note that the intensity of each emotion is subjective and can vary depending on individual interpretation.

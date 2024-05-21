@@ -1,0 +1,5 @@
+The emotional content of the text leans towards a mix of emotions, including sadness, forgiveness, love, remembrance, regret, and hope. Here is the emotion vector based on the intensity of each emotion in the text:
+
+[Sadness: 0.7, Happiness: 0.2, Fear: 0, Disgust: 0.3, Anger: 0.4, Surprise: 0, Anticipation: 0.5, Trust: 0.6, Distrust: 0.1, Love: 0.8, Saudade: 0, Awe: 0, Bittersweetness: 0.5, Melancholy: 0.7, Nostalgia: 0.9]
+
+This emotional vector reflects the nuanced feelings of the narrator as they navigate complex emotions tied to their relationship with their father figure.

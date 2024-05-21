@@ -1,0 +1,5 @@
+Based on the text provided, the emotional content seems to be a mix of sadness, disgust, and a touch of bittersweetness. Here is the emotion vector based on the intensity of each emotion on a scale from 0 to 1:
+
+[0, 0.5, 0, 0.6, 0, 0, 0, 0, 0, 0, 0, 0, 0.4, 0, 0]
+
+This vector represents that the text mainly conveys feelings of disgust and sadness, with a hint of bittersweetness.

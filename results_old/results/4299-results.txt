@@ -1,0 +1,1 @@
+Based on the text provided, it does not convey any specific emotional content related to the emotions you listed for analysis. Therefore, the emotion vector would be [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0].

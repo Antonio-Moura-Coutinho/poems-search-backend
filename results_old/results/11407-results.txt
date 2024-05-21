@@ -1,0 +1,1 @@
+Based on the emotional analysis of the text, the emotion vector would be as follows: [0.3, 0.4, 0.1, 0.1, 0.1, 0.2, 0.3, 0.2, 0.1, 0, 0, 0, 0, 0.2, 0]. This indicates a moderate level of sadness, a low level of fear, disgust, anger, and distrust, some surprise and anticipation, moderate trust, and a hint of nostalgia.

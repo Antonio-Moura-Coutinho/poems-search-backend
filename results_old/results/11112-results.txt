@@ -1,0 +1,6 @@
+The emotional content of the text is a mix of melancholy and bittersweetness. The speaker in the text expresses a sense of acceptance and resignation towards the impermanence of life and the inevitability of the candle burning out. There is a touch of sadness combined with a hint of appreciation for the beauty and brightness that the burning candle provides in the moment. 
+
+The emotion vector for this text could be:
+[0, 0.2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0.7, 0.5, 0]
+
+This vector reflects a moderate presence of bittersweetness and melancholy in the text, with slight sadness and a significant sense of nostalgia added to emphasize the wistful reflection on the transient nature of life.

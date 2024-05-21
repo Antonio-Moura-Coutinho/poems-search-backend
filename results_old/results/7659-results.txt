@@ -1,0 +1,3 @@
+Analyzing the text, the emotions observed are primarily Sadness, Disgust, Anger, Distrust, and a hint of Fear. The emotional vector representing the intensities of each emotion would be as follows:
+
+[Sadness: 0.8, Disgust: 0.6, Anger: 0.5, Fear: 0.3, Distrust: 0.7, Happiness: 0, Surprise: 0, Anticipation: 0, Trust: 0, Love: 0, Saudade: 0, Awe: 0, Bittersweetness: 0, Melancholy: 0.8, Nostalgia: 0]

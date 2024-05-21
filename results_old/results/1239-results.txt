@@ -1,0 +1,22 @@
+Based on the text provided, the emotional content can be analyzed as follows:
+
+- Happiness: Love, Nostalgia, Anticipation
+- Sadness: Melancholy
+- Fear: None
+- Disgust: None
+- Anger: None
+- Surprise: None
+- Anticipation: Anticipation
+- Trust: Trust, Love
+- Distrust: None
+- Love: Love
+- Saudade: None
+- Awe: None
+- Bittersweetness: None
+- Melancholy: Melancholy
+- Nostalgia: Nostalgia
+
+The emotion vector representing the intensity of each emotion on a scale from 0 to 1 would be:
+[0.2, 0.5, 0, 0, 0, 0, 0.3, 0.5, 0, 0.5, 0, 0, 0, 0.5, 0.5]
+
+This vector indicates a higher intensity of emotions related to Nostalgia, Love, Trust, and Sadness in the text.

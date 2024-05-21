@@ -1,0 +1,5 @@
+[Happiness, Sadness, Fear, Disgust, Anger, Surprise, Anticipation, Trust, Distrust, Love, Saudade, Awe, Bittersweetness, Melancholy, Nostalgia]
+
+Emotion Vector: [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+The emotional content of the text is predominantly sad and melancholic, expressing the solemn act of self-immolation by Norman Morrison. The text does not evoke any of the other specified emotions, leading to a high intensity of sadness and melancholy in the emotion vector.

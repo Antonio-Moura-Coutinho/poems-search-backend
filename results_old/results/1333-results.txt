@@ -1,0 +1,8 @@
+Analyzing the emotional content of the text provided, the emotions seem to include elements of:
+
+- Happiness: The mention of a midsummer midafternoon and the interaction with the horse and blackberries evoke a sense of warmth and joy.
+- Anticipation: The description of the horse approaching and the exchange of goods convey a feeling of anticipation and excitement.
+- Nostalgia: The reference to blackberries and memories suggests a tinge of nostalgia for the past.
+
+Based on this analysis, the emotion vector for the text could be:
+[0.4, 0, 0, 0, 0, 0, 0.3, 0, 0, 0, 0, 0, 0, 0.2, 0.1]

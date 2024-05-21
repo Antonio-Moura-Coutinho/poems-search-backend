@@ -1,0 +1,17 @@
+Based on the emotional content of the text, the emotion vector could be:
+
+[0.5, 0, 0, 0, 0, 0, 0.3, 0.7, 0, 0, 0, 0, 0, 0.4, 0]
+
+Explanation:
+- Happiness: The text conveys a sense of satisfaction and happiness when the speaker finds the arrowhead instead of the bolt. (0.5)
+- Sadness: There is no evident sadness in the text. (0)
+- Fear: No fear is expressed in the text. (0)
+- Disgust: No disgust is evident in the text. (0)
+- Anger: No anger is expressed in the text. (0)
+- Surprise: There is a slight element of surprise when the speaker finds the arrowhead unexpectedly. (0)
+- Anticipation: The speaker seems to anticipate the story behind the arrowhead, indicating a moderate level of anticipation. (0.3)
+- Trust: The act of putting the arrowhead into the pocket and contemplating the story behind it suggests trust or confidence. (0.7)
+- Distrust: No distrust is evident. (0)
+- Love: There is no explicit expression of love in the text. (0)
+- Saudade: There is no explicit longing or nostalgia expressed. (0)
+- Awe: The description of the sharp and delicate arrowhead might

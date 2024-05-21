@@ -1,0 +1,7 @@
+Based on the text provided from Macbeth, the emotional content can be analyzed as follows:
+
+- Fear: The mention of ingredients like fenny snake, eye of newt, toe of frog, wool of bat, and other unsettling components creates a sense of fear and unease.
+- Disgust: The combination of grotesque and unusual ingredients in the potion recipe can evoke feelings of disgust.
+- Awe: The use of magical elements and potion-making in the text can inspire a sense of awe and wonder.
+
+Emotion Vector: [0, 0, 0.8, 0.6, 0, 0, 0, 0, 0, 0, 0, 0.6, 0, 0]

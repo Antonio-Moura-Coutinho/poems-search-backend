@@ -1,0 +1,3 @@
+Based on the text provided, the emotional content appears to include elements of Sadness, Disgust, Distrust, and perhaps a hint of Melancholy and Nostalgia. The overall tone seems reflective and carries a sense of loss or detachment.
+
+Emotion Vector: [0, 0.4, 0, 0.4, 0, 0, 0, 0, 0.5, 0, 0, 0, 0.4, 0.3]

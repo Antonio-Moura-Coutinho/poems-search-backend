@@ -1,0 +1,4 @@
+The emotional content of the text consists of elements of Fear, Anticipation, Trust, and Melancholy.
+
+Based on the text, the emotion vector could be:
+[0, 0, 0.4, 0, 0, 0, 0.3, 0.6, 0, 0, 0, 0, 0, 0.5, 0]

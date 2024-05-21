@@ -1,0 +1,1 @@
+The emotional content of the text appears to include elements of Disgust, Distrust, and Anger. The tone of the text conveys a sense of disdain and reproach towards the character of "mistress Anne" and criticizes her behaviors. Here is the emotion vector based on the analysis of the text: [0, 0, 0, 0.8, 0.6, 0, 0, 0, 0.8, 0, 0, 0, 0, 0].

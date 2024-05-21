@@ -1,0 +1,1 @@
+This text contains elements of sadness, grief, and possibly a sense of disappointment. Based on the emotional content, the emotion vector could look like this: [0, 0.6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0.4, 0]. This vector indicates a high intensity of sadness and a moderate intensity of melancholy, while other emotions are not prominent in the text.

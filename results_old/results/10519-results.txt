@@ -1,0 +1,21 @@
+In the given text, various emotions are expressed, including sadness, melancholy, love, and introspection. To create an emotion vector, we will analyze the intensity of each emotion present in the text:
+
+[Happiness, Sadness, Fear, Disgust, Anger, Surprise, Anticipation, Trust, Distrust, Love, Saudade, Awe, Bittersweetness, Melancholy, Nostalgia]
+
+1. Happiness: 0
+2. Sadness: 0.4
+3. Fear: 0
+4. Disgust: 0
+5. Anger: 0
+6. Surprise: 0
+7. Anticipation: 0
+8. Trust: 0
+9. Distrust: 0
+10. Love: 0.4
+11. Saudade: 0
+12. Awe: 0
+13. Bittersweetness: 0
+14. Melancholy: 0.5
+15. Nostalgia: 0
+
+Therefore, the emotion vector for the given text would be: [0, 0.4, 0, 0, 0, 0, 0, 0, 0, 0.4, 0, 0, 0, 0.5, 0]

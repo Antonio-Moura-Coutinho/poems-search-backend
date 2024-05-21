@@ -1,0 +1,18 @@
+Based on the emotional content of the text provided, the emotion vector is as follows: [0.1, 0.8, 0.5, 0.7, 0.3, 0.4, 0.3, 0.2, 0.3, 0.1, 0.4, 0.6, 0.7, 0.4, 0.7].
+
+Explanation of the emotions present in the text:
+- Happiness: Low (0.1)
+- Sadness: High (0.8)
+- Fear: Moderate (0.5)
+- Disgust: High (0.7)
+- Anger: Low (0.3)
+- Surprise: Moderate (0.4)
+- Anticipation: Moderate (0.3)
+- Trust: Low (0.2)
+- Distrust: Moderate (0.3)
+- Love: Low (0.1)
+- Saudade: Moderate (0.4)
+- Awe: High (0.6)
+- Bittersweetness: High (0.7)
+- Melancholy: Moderate (0.4)
+- Nostalgia: High (0.7)

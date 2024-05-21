@@ -1,0 +1,4 @@
+The emotional content of the text appears to be primarily about joy, playfulness, and excitement. There is a sense of happiness, playfulness, and anticipation in the activities described. The use of words like "best game," "heaps and heaps of fun," and "they're very nice" convey positive emotions. There is also an element of surprise in the activity of sliding down steeples.
+
+Based on the emotional content of the text, the emotion vector could be:
+[Happiness: 0.9, Sadness: 0, Fear: 0, Disgust: 0, Anger: 0, Surprise: 0.3, Anticipation: 0.6, Trust: 0.8, Distrust: 0, Love: 0, Saudade: 0, Awe: 0, Bittersweetness: 0, Melancholy: 0, Nostalgia: 0]

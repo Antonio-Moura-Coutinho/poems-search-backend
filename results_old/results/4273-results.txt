@@ -1,0 +1,17 @@
+Emotion vector: [0.1, 0.6, 0.3, 0.3, 0.2, 0, 0.4, 0.3, 0.2, 0, 0, 0, 0.4, 0.6, 0.5]
+
+Explanation:
+- Happiness: 0.1 (Low happiness expressed)
+- Sadness: 0.6 (High level of sadness expressed, referencing loss and hurt)
+- Fear: 0.3 (Mentions fear or discomfort with the situation)
+- Disgust: 0.3 (Feelings of disgust towards certain aspects)
+- Anger: 0.2 (Mentions hurt and negative past experiences, but not strongly focused on anger)
+- Surprise: 0 (No explicit surprise expressed)
+- Anticipation: 0.4 (Expressions of looking forward to growth and change in the future)
+- Trust: 0.3 (Mentions trust towards nature and certain relationships)
+- Distrust: 0.2 (Some feelings of distrust are implied)
+- Love: 0 (No explicit expression of love)
+- Saudade: 0 (Not explicitly mentioned)
+- Awe: 0 (Not expressed in the text)
+- Bittersweetness: 0.4 (Implications of mixed feelings, such as relief from past hurt and a sense of growth)
+- Melancholy:

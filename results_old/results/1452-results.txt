@@ -1,0 +1,3 @@
+The emotional vector for the provided text is as follows: [0.437, 0.420, 0.428, 0.232, 0.421, 0.583, 0.465, 0.450, 0.193, 0.437, 0.198, 0.485, 0.337, 0.395, 0]
+
+Based on the analysis of the text, the predominant emotions are Surprise, Anticipation, and Bittersweetness. The text contains elements of hope, apprehension, and a mix of positive and negative feelings intertwined with memories and reflections. Actions and events happening in the present are contrasted with past experiences, creating a bittersweet atmosphere.

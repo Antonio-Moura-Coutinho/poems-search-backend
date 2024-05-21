@@ -1,0 +1,14 @@
+Based on the emotional content of the text you provided, the emotion vector is as follows: [0.25, 0.6, 0.6, 0.6, 0.3, 0.4, 0.3, 0.3, 0, 0.3, 0, 0.3, 0.4, 0.5, 0]
+
+Explanation of emotions:
+- Happiness: 0.25 (Some positive elements like being with his mother and her support)
+- Sadness: 0.6 (Feelings of shame, embarrassment, confusion, and the absence of the father figure)
+- Fear: 0.6 (Fear related to the dreams, confusion about sexuality, and fear of turning into something 'freaky')
+- Disgust: 0.6 (Feelings of disgust towards oneself for having inappropriate thoughts)
+- Anger: 0.3 (No explicit expressions of anger)
+- Surprise: 0.4 (Surprise at the mother's reaction and support)
+- Anticipation: 0.3 (Some anticipation of learning and growing up)
+- Trust: 0.3 (Some trust shown by the mother)
+- Distrust: 0 (No explicit expressions of distrust)
+- Love: 0.3 (Mention of the mother's love and support)
+- Saudade: 0 (No specific indication of deep nostalgia or longing)

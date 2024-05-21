@@ -1,0 +1,22 @@
+Emotion vector for the given text:
+
+[0.1, 0.6, 0.4, 0.3, 0.2, 0.2, 0.3, 0.1, 0, 0, 0, 0, 0.5, 0.4, 0.3]
+
+Explanation:
+- Happiness: 0.1 (low)
+- Sadness: 0.6 (high)
+- Fear: 0.4 (moderate)
+- Disgust: 0.3 (moderate)
+- Anger: 0.2 (low)
+- Surprise: 0.2 (low)
+- Anticipation: 0.3 (moderate)
+- Trust: 0.1 (low)
+- Distrust: 0 (none)
+- Love: 0 (none)
+- Saudade: 0 (none)
+- Awe: 0 (none)
+- Bittersweetness: 0.5 (moderate)
+- Melancholy: 0.4 (moderate)
+- Nostalgia: 0.3 (moderate)
+
+Overall, the text predominantly conveys sadness and melancholy along with elements of fear, disgust, and bittersweetness.

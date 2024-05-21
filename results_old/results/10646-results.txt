@@ -1,0 +1,5 @@
+Based on the text provided, the emotional content appears to include elements of Fear, Anger, Anticipation, Distrust, and possibly a hint of Awe. The intensity of each emotion may vary, but here is an emotion vector that reflects these emotions:
+
+[0, 0, 0.5, 0, 0.6, 0, 0.4, 0, 0.4, 0, 0, 0.3, 0, 0]
+
+This vector indicates a moderate level of fear and anticipation, a high level of anger and distrust, along with a hint of awe. Feel free to adjust the values based on your interpretation of the text.

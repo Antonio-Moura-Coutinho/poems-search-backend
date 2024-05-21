@@ -1,0 +1,3 @@
+The emotional content of the text includes elements of Love, Awe, and Trust. Here is the emotion vector based on the analysis:
+
+[0, 0, 0, 0, 0, 0, 0, 0.7, 0, 0.9, 0, 0.8, 0, 0]

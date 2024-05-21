@@ -1,0 +1,5 @@
+The emotional content of the text includes expressions of sadness, bitterness, melancholy, nostalgia, and some elements of longing or love. Here is the emotion vector representing the intensity of each emotion on a scale from 0 to 1:
+
+[0, 0.8, 0, 0, 0, 0, 0, 0, 0, 0.2, 0, 0, 0.7, 0.8, 0.9]
+
+This vector indicates a high level of sadness, melancholy, nostalgia, and some bittersweetness, with a touch of love and mention of Saudade.

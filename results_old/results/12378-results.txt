@@ -1,0 +1,10 @@
+Based on the text provided, the emotional content can be analyzed as follows:
+
+- Sadness: The text conveys a sense of unease and discomfort in the interactions described, especially with the white woman's reaction and the feeling of being "looked through."
+- Anger: There is an undercurrent of anger in the descriptions of how the protagonist is perceived and treated by others based on race.
+- Distrust: The theme of deception and assumptions about race suggest a level of distrust among the characters in the text.
+- Anticipation: There is a sense of anticipation in the protagonist's question to the class and the tension in the interactions described.
+
+Emotion vector: [0, 0.5, 0, 0, 0.3, 0, 0.4, 0, 0.5, 0, 0, 0, 0, 0]
+
+This vector indicates a moderate level of sadness, anger, distrust, and anticipation in the text.

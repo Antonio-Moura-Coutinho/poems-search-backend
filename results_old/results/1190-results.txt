@@ -1,0 +1,2 @@
+[Happiness, Sadness, Fear, Disgust, Anger, Surprise, Anticipation, Trust, Distrust, Love, Saudade, Awe, Bittersweetness, Melancholy, Nostalgia]
+Emotion Vector: [0.3, 0.4, 0.3, 0.2, 0.2, 0.3, 0.2, 0.2, 0.3, 0, 0, 0, 0, 0.4, 0]

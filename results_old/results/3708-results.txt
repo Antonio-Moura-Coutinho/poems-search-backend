@@ -1,0 +1,5 @@
+The emotional content of the provided text includes elements of Disgust, Sadness, and Anticipation. Based on the analysis, the emotion vector for the text could be:
+
+[0, 0.4, 0, 0.8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+This vector indicates a strong sense of Disgust and Sadness, with a moderate level of Anticipation. Other emotions like Happiness, Fear, Anger, and others are not strongly conveyed in this text.

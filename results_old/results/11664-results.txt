@@ -1,0 +1,5 @@
+Analyzing the emotional content of the text, the vector representing the intensities of different emotions might look like this:
+
+[0.4, 0.3, 0.2, 0, 0, 0.4, 0.3, 0.4, 0, 0, 0, 0.4, 0.4, 0.3, 0]
+
+This vector suggests that the text has a moderate level of Happiness, Sadness, Surprise, Anticipation, Awe, Bittersweetness, Melancholy, and Nostalgia. It also contains a low level of Fear.

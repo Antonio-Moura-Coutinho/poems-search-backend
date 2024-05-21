@@ -1,0 +1,19 @@
+To analyze the emotional content of the text and provide an emotion vector, I will consider the predominant emotions expressed in the text. Based on the content provided, the emotions present in the text are:
+
+Happiness: The text conveys a sense of happiness through the descriptions of being in a beautiful setting, sharing experiences with a loved one, and enjoying local wine and food.
+
+Trust: The text conveys a sense of trust and contentment in the relationship between the two young Americans.
+
+Anticipation: There is an anticipation and longing for the experience to last forever, indicating a sense of excitement and expectation.
+
+Love: The text portrays a deep connection and love between the two individuals as they share a moment of happiness and contentment together.
+
+Awe: The descriptions of the Umbrian hills, moon, and stars evoke a feeling of awe and wonder.
+
+Nostalgia: The speaker reflects on the past experience, indicating a sense of nostalgia for the simpler and happier times.
+
+Based on these emotions, the emotional vector for the text could be:
+
+[0.5, 0, 0, 0, 0, 0, 0.3, 0.4, 0, 0.6, 0, 0.7, 0, 0.6, 0.8] 
+
+This vector suggests a significant presence of emotions such as happiness, trust, love, nostalgia, and awe, with moderate levels of anticipation and a sense of contentment

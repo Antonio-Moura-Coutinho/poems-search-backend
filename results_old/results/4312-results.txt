@@ -1,0 +1,13 @@
+Based on the text provided, the emotion vector for the emotional content could be as follows:
+[0, 0, 0.6, 0.3, 0.5, 0.4, 0.4, 0.1, 0, 0, 0, 0, 0, 0.3, 0]
+
+Explanation:
+- Fear (0.6): The text contains elements that evoke fear, such as the bear's rage and the violent imagery of rivers being scratched open.
+- Disgust (0.3): The description of the bear's rage and the actions attributed to it may evoke feelings of disgust.
+- Anger (0.5): The text conveys a sense of anger through the imagery of the bear's actions and the reference to the killer-of-enemies.
+- Surprise (0.4): There are unexpected and contrasting elements in the text that can evoke a sense of surprise.
+- Anticipation (0.4): The text builds anticipation with its descriptions and imagery, leading the reader to expect further developments.
+- Trust (0.1): There is a minimal sense of trust conveyed in the text, perhaps in the reference to the name "Angel."
+- Distrust (0): No clear elements of distrust are present in the text.
+- Love (0): There is no explicit expression of love in the text.
+- Saudade (0): The text does not evoke a sense of longing

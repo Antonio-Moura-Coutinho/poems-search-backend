@@ -1,0 +1,5 @@
+The emotional content of the text seems to convey a mixture of sadness, melancholy, nostalgia, and a sense of loss. Here is the emotion vector based on the analysis:
+
+[Sadness: 0.6, Melancholy: 0.8, Nostalgia: 0.7, Happiness: 0, Fear: 0, Disgust: 0, Anger: 0, Surprise: 0, Anticipation: 0, Trust: 0, Distrust: 0, Love: 0, Saudade: 0, Awe: 0, Bittersweetness: 0]
+
+These scores indicate that the text is predominantly melancholic and nostalgic, with a high level of sadness and a low presence of other emotions.

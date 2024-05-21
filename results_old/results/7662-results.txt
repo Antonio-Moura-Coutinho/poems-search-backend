@@ -1,0 +1,4 @@
+The emotional content of the text seems to convey a mix of sadness, fear, anger, and defiance. There are elements of hardship, mistreatment, and longing for freedom expressed through the suffering of the individuals described in the text. The intense emotions of being oppressed, mistreated, and eventually seeking freedom are prominent.
+
+Based on the text, the emotion vector could be as follows:
+[0, 0.7, 0.6, 0.2, 0.5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]

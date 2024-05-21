@@ -1,0 +1,15 @@
+Emotion Vector: [0.4, 0.4, 0.3, 0.4, 0.3, 0, 0.5, 0.6, 0, 0, 0, 0, 0.4, 0.4, 0] 
+
+Explanation:
+- Happiness: Moderate level of happiness expressed through imagery of warm pomegranates, setting suns, and the beauty of dawn within the crack.
+- Sadness: Moderate level of sadness conveyed through the mention of being wrong and the preference for a broken heart.
+- Fear: Mild undercurrent of fear in the descriptions of viciousness and the green, slippery city of Venice.
+- Disgust: Mention of "abhorrent, green, slippery city" reflects a slight sense of disgust.
+- Anger: Mild anger is present in the defiance against being told one is wrong and the challenging questions posed.
+- Surprise: No explicit surprise in the text.
+- Anticipation: Strong anticipation is felt through the descriptions of fissures, glittering dawn, and the opening of the end cracks.
+- Trust: High level of trust is conveyed through the preference for a broken heart and finding beauty within it.
+- Distrust: No explicit distrust present in the text.
+- Love: No direct expressions of love in the text.
+- Saudade: No specific nostalgic longing or melancholy.
+- Awe: Slight sense of awe in the

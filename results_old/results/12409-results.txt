@@ -1,0 +1,3 @@
+The emotional content of the text appears to convey a mix of emotions such as Anticipation, Love, and Nostalgia. The imagery of the garden, the water, and the desire to see a loved one evoke feelings of anticipation, longing, and affection.
+
+Emotion vector: [0, 0, 0, 0, 0, 0, 0.5, 0.8, 0, 0.7, 0, 0, 0, 0.6, 0]

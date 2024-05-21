@@ -1,0 +1,6 @@
+Based on the provided text, here is an emotion vector representing the intensity of each emotion:
+
+[Happiness: 0, Sadness: 0, Fear: 0, Disgust: 0.2, Anger: 0, Surprise: 0, Anticipation: 0.2, Trust: 0.4, Distrust: 0, Love: 0, Saudade: 0, Awe: 0, Bittersweetness: 0, Melancholy: 0, Nostalgia: 0]
+
+
+This text portrays elements of anticipation (for the tang and succulence) and mild disgust (referring to squirreling the day away for pawing and tonguing), with a hint of trust associated with the subject's action.

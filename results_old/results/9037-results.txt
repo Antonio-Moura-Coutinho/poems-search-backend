@@ -1,0 +1,2 @@
+This text conveys emotions of Love, Trust, Anticipation, and Happiness. It reflects a sense of deep connection and sincerity. The emotion vector for this text could be: 
+[0.8, 0, 0, 0, 0, 0, 0.6, 0.7, 0, 0.9, 0, 0, 0, 0, 0].

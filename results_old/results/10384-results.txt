@@ -1,0 +1,9 @@
+Based on the text provided, the emotional content seems to involve a sense of wonder, curiosity, and awe. There are elements of surprise and anticipation as the description progresses from a simple house to the vastness of the universe. The language used conveys a sense of amazement and fascination with the expanding scale of the subject matter.
+
+Here is the emotion vector based on the analysis of the text: 
+[0, 0, 0, 0, 0, 0.6, 0.6, 0.8, 0, 0, 0, 0, 0, 0]
+
+In this vector:
+- Surprise, Anticipation, and Trust receive higher values, indicating the predominant emotions in the text.
+- Awe is also present but not as strongly expressed as Surprise and Anticipation.
+- Other emotions like Happiness, Sadness, Fear, Disgust, Anger, Distrust, Love, Saudade, Bittersweetness, Melancholy, and Nostalgia are not prominent in this text.

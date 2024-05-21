@@ -1,0 +1,17 @@
+To determine the emotional content of the text, we can analyze the implied emotions in each stanza.
+
+Stanza 1:
+- Underlying confusion and questioning: Anticipation, Trust, Distrust
+     Emotion Vector: [0, 0, 0, 0, 0, 0, 0.3, 0.3, 0.3, 0, 0, 0, 0, 0]
+
+Stanza 2:
+- Sense of change and movement: Surprise, Anticipation
+     Emotion Vector: [0, 0, 0, 0, 0, 0.5, 0.5, 0, 0, 0, 0, 0, 0, 0]
+
+Stanza 3:
+- Beauty leading to sadness and loss: Sadness
+     Emotion Vector: [0, 0.8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+Stanza 4:
+- Dark imagery of death and execution: Fear, Disgust, Anger
+     Emotion Vector: [0, 0, 0.7, 0.7, 0.7, 0, 0, 0, 0, 0, 0, 0, 0, 0

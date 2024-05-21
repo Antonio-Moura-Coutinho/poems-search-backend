@@ -1,0 +1,1 @@
+The emotional content of the text leans towards a mix of nostalgia, melancholy, love, bittersweetness, trust, anticipation, and happiness. The emotion vector for the text can be represented as: [0.2, 0.4, 0, 0, 0, 0.3, 0.3, 0.4, 0, 0.4, 0.3, 0.3, 0.4, 0.2, 0.2].

@@ -1,0 +1,5 @@
+The emotional vector for the provided text is as follows based on the analysis:
+
+[0.1, 0.6, 0.7, 0.3, 0.5, 0.3, 0.4, 0.1, 0.4, 0, 0, 0, 0.2, 0.4, 0]
+
+The intensity values are on a scale from 0 to 1, with 0 representing very low intensity and 1 representing high intensity. Feel free to ask if you need more information or assistance!

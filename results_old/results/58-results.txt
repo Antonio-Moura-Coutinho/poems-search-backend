@@ -1,0 +1,10 @@
+First, we need to analyze the emotional content of the text. Based on the text, we can identify various emotions such as:
+
+- Sadness (feelings of disappointment when Kenji loses the championship)
+- Anticipation (as the contest progresses)
+- Trust (the town's trust in Kenji and their support for him)
+- Joy/Happiness (Mack's laughter and enjoyment)
+
+Now, let's convert this emotional content into an emotion vector reflecting the intensity of each emotion:
+
+[Sadness: 0.4, Anticipation: 0.3, Trust: 0.3, Joy/Happiness: 0.5, Fear: 0, Disgust: 0, Anger: 0, Surprise: 0, Distrust: 0, Love: 0, Saudade: 0, Awe: 0, Bittersweetness: 0, Melancholy: 0, Nostalgia: 0]

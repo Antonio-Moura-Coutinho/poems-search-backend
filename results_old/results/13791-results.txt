@@ -1,0 +1,8 @@
+Based on the text provided, the emotional content can be analyzed as follows:
+
+- Sadness: The description of decay and loss in the text conveys a sense of sadness.
+- Disgust: The imagery of broken utensils and decay can evoke feelings of disgust.
+- Awe: The detailed description of the objects and their significance may elicit a sense of awe or wonder.
+
+Using this analysis, the emotion vector for the text could be:
+[0, 0.3, 0, 0.4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0.2]

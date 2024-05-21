@@ -1,0 +1,4 @@
+Based on the emotional content of the text provided, the emotion vector could be as follows:
+[0, 0.5, 0.6, 0.8, 0.7, 0.4, 0.3, 0.1, 0.9, 0, 0, 0, 0.6, 0.7, 0.8]
+
+The text conveys strong emotions of Sadness, Fear, Disgust, Anger, Distrust, Melancholy, and Nostalgia. These emotions are prominent in the themes of torture, pain, brutality, and the dark imagery depicted in the description of the scene.

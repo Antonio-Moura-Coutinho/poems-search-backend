@@ -1,0 +1,3 @@
+The emotional content of the text includes elements of longing, introspection, conflict, and contemplation. Based on the text, the vector representing the intensity of each emotion could be as follows:
+
+[Happiness: 0.1, Sadness: 0.45, Fear: 0.1, Disgust: 0.05, Anger: 0.2, Surprise: 0.1, Anticipation: 0.2, Trust: 0.25, Distrust: 0.1, Love: 0.1, Saudade: 0.2, Awe: 0.05, Bittersweetness: 0.4, Melancholy: 0.35, Nostalgia: 0.25]

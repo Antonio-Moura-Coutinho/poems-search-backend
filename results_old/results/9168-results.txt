@@ -1,0 +1,5 @@
+By analyzing the emotional content of the text, the following emotion vector has been generated:
+
+[0.2, 0.6, 0.1, 0, 0.3, 0.2, 0.3, 0.2, 0, 0.1, 0, 0.2, 0.4, 0.3, 0]
+
+This vector indicates a moderate level of sadness, some elements of anger and bittersweetness, and a mix of anticipation and trust. There are also traces of happiness, surprise, and melancholy present in the text.

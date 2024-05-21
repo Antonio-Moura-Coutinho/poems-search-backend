@@ -1,0 +1,11 @@
+Emotion Vector: [0.3, 0.4, 0.2, 0.1, 0.1, 0.2, 0.3, 0.4, 0, 0, 0.4, 0.1, 0.3, 0.4, 0.3] 
+
+Explanation:
+- Happiness: 0.3 - There are mentions of positive elements such as the enduring nature of the chokecherries, good pottery clay, and remembering old places.
+- Sadness: 0.4 - The text reflects a sense of loss, defeat, unfulfilled visions, and the changing dynamics within the community.
+- Fear: 0.2 - Fear is present in the description of the scared farm lady and the suffering faces at the rodeo.
+- Disgust: 0.1 - There are subtle hints of dissatisfaction but not a prominent emotion in the text.
+- Anger: 0.1 - While there are mentions of unfairness and hidden visions, anger is not explicitly expressed.
+- Surprise: 0.2 - There is an element of surprise in the observations made at the rodeo and the introspective reflections.
+- Anticipation: 0.3 - The text hints at a sense of looking forward to new understandings and ways of thinking.
+- Trust: 0.4 - Trust is expressed in the bonds of community, respectful salutes, and

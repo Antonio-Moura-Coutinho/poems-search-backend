@@ -1,0 +1,3 @@
+The emotional content of the text leans towards a mix of Anticipation, Trust, and Awe. Here is the emotion vector based on the intensity of each emotion:
+
+[0, 0, 0, 0, 0, 0, 0.6, 0.8, 0, 0, 0, 0.4, 0, 0]

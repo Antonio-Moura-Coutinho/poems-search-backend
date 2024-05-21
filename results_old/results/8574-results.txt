@@ -1,0 +1,3 @@
+Analyzing the emotional content of the text, the predominant emotions are Anticipation, Awe, and maybe some Happiness. Here is the emotion vector based on the text:
+
+[0.3, 0, 0, 0, 0, 0, 0.6, 0, 0, 0, 0, 0.4, 0, 0]

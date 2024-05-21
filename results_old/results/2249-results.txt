@@ -1,0 +1,19 @@
+The emotional analysis of the text suggests the presence of the following emotions with varying intensities:
+
+[Happiness: 0
+Sadness: 0.8
+Fear: 0.4
+Disgust: 0
+Anger: 0.3
+Surprise: 0
+Anticipation: 0.4
+Trust: 0.4
+Distrust: 0
+Love: 0.2
+Saudade: 0
+Awe: 0
+Bittersweetness: 0.6
+Melancholy: 0.7
+Nostalgia: 0.5] 
+
+This vector represents the intensity of each emotion in the text on a scale from 0 to 1. The strongest emotions in the text are sadness, bittersweetness, and melancholy, indicating a somber and reflective tone throughout the passages.

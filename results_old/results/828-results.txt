@@ -1,0 +1,20 @@
+After analyzing the emotional content of the provided text, the emotion vector is:
+
+[0.3, 0.2, 0.1, 0, 0, 0.2, 0.1, 0.2, 0, 0, 0, 0, 0.2, 0, 0]
+
+Explanation:
+- Happiness: 0.3 (Moderate)
+- Sadness: 0.2 (Slight)
+- Fear: 0.1 (Low)
+- Disgust: 0 (None)
+- Anger: 0 (None)
+- Surprise: 0.2 (Low)
+- Anticipation: 0.1 (Low)
+- Trust: 0.2 (Low)
+- Distrust: 0 (None)
+- Love: 0 (None)
+- Saudade: 0 (None)
+- Awe: 0 (None)
+- Bittersweetness: 0.2 (Low)
+- Melancholy: 0 (None)
+- Nostalgia: 0 (None)

@@ -1,0 +1,7 @@
+The emotional content of the text seems to involve elements of love, desire, longing, and intensity. The emotions conveyed include Love, Anticipation, Awe, Bittersweetness, and Lust. 
+
+Based on this analysis, the emotion vector for the text could be:
+
+[0, 0, 0, 0, 0, 0, 0.4, 0.9, 0, 0.8, 0, 0.6, 0.6, 0] 
+
+This vector indicates a high level of Trust, Love, Bittersweetness, Anticipation, Awe, and a moderate anticipation of Melancholy in the text.

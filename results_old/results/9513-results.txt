@@ -1,0 +1,1 @@
+This text conveys a mix of emotions, including sadness, anger, melancholy, and a hint of bittersweetness. The emotional vector representing the intensity of these emotions could be: [0, 0.4, 0, 0, 0.4, 0, 0, 0, 0, 0, 0, 0.2, 0.3, 0].

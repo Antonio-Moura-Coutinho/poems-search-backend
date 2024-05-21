@@ -1,0 +1,14 @@
+To analyze the emotional content of the text, we can identify several emotions present with varying intensities. Here is the emotion vector representing the emotions in the text:
+
+[0.2, 0.4, 0.4, 0.2, 0, 0.2, 0.2, 0, 0, 0, 0, 0.2, 0.6, 0]
+
+Explanation of emotions in the vector:
+- Happiness: 0.2 (Mild indications, possibly from the imagery of a mother giving birth and the creation of a shoebox universe)
+- Sadness: 0.4 (Evident from the description of the little girl crying and the overall melancholic tone)
+- Fear: 0.4 (Fear may be perceived through the imagery of a girl giving birth in a forest with a helicopter present)
+- Disgust: 0.2 (Mild hints, likely from the intense birthing scene and the unsettling environment described)
+- Anger: 0 (No significant indications of anger in the text)
+- Surprise: 0.2 (Slight indications of surprise as the text describes unexpected events like the helicopter arrival and departure)
+- Anticipation: 0.2 (Slight anticipation may be felt as the reader is led through a sequence of events with unknown outcomes)
+- Trust: 0 (No specific indications of trust in the text)
+- Distrust:

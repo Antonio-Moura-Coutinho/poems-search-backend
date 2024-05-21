@@ -1,0 +1,7 @@
+Based on the emotional content of the text, the emotion vector can be calculated as follows:
+
+[Happiness, Sadness, Fear, Disgust, Anger, Surprise, Anticipation, Trust, Distrust, Love, Saudade, Awe, Bittersweetness, Melancholy, Nostalgia]
+
+0.2, 0.7, 0.3, 0, 0.3, 0, 0.3, 0.5, 0.4, 0.3, 0.1, 0, 0.6, 0.5, 0.4
+
+This vector indicates a high level of sadness, moderate levels of fear, distrust, love, bittersweetness, melancholy, and nostalgia, and lower levels of happiness, anger, and trust. The text conveys a sense of longing, deep emotional pain, and a mix of conflicting emotions towards Germany and the speaker's mother.

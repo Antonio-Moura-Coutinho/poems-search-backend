@@ -1,0 +1,3 @@
+Analyzing the emotional content of the text, we can observe the presence of various emotions such as Sadness, Fear, Anticipation, and Distrust. The text conveys a sense of introspection, vulnerability, and unease. Here is the emotion vector based on the intensity of each emotion present in the text:
+
+[0, 0.4, 0.3, 0, 0, 0, 0.2, 0, 0.3, 0, 0, 0, 0, 0, 0]

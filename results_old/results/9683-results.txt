@@ -1,0 +1,5 @@
+Based on the emotional content of the text, the emotion vector can be represented as follows:
+
+[0, 0.6, 0.6, 0, 0.5, 0, 0.3, 0.3, 0.2, 0, 0, 0, 0.7, 0.7, 0.8]
+
+This vector indicates a high intensity of emotions such as Sadness, Fear, Anger, Melancholy, Nostalgia, Bittersweetness, and Disgust in the text. It also shows some level of Anticipation and Trust. Happiness, Surprise, Love, Saudade, and Awe are not prominent emotions in this text.

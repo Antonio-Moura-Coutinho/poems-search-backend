@@ -1,0 +1,22 @@
+Analyzing the emotional content of the text, we can determine the emotions present and their intensities in the following emotion vector:
+
+[0.2, 0.5, 0.4, 0, 0.3, 0, 0.3, 0, 0, 0, 0, 0.2, 0.6, 0]
+
+Explanation of emotions in the vector:
+- Happiness: 0.2 (Low happiness)
+- Sadness: 0.5 (Moderate sadness)
+- Fear: 0.4 (Moderate fear)
+- Disgust: 0 (No disgust)
+- Anger: 0.3 (Low anger)
+- Surprise: 0 (No surprise)
+- Anticipation: 0.3 (Low anticipation)
+- Trust: 0 (No trust)
+- Distrust: 0 (No distrust)
+- Love: 0 (No love)
+- Saudade: 0 (No saudade)
+- Awe: 0.2 (Low awe)
+- Bittersweetness: 0.6 (High bittersweetness)
+- Melancholy: 0 (No melancholy)
+- Nostalgia: 0 (No nostalgia)
+
+These values indicate that the text primarily conveys emotions of sadness, fear, and bittersweetness, with elements of low happiness, low anger, low anticipation, and low awe.

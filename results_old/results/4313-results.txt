@@ -1,0 +1,5 @@
+The emotional content of the text suggests the following emotional vector:
+
+[0.4, 0.4, 0.2, 0.3, 0.1, 0.2, 0.3, 0.3, 0.4, 0.2, 0.1, 0.3, 0.3, 0.4, 0.3]
+
+This indicates a mixture of emotions including sadness, disgust, trust, love, anticipation, and a touch of fear and anger.

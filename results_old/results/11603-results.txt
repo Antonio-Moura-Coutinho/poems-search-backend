@@ -1,0 +1,5 @@
+To analyze the emotional content of the text provided, we'll look for keywords, phrases, and overall tone that convey different emotions. Based on the text, the emotional vector could be as follows:
+
+[Happiness: 0, Sadness: 0.3, Fear: 0, Disgust: 0, Anger: 0, Surprise: 0, Anticipation: 0.2, Trust: 0.1, Distrust: 0, Love: 0, Saudade: 0, Awe: 0, Bittersweetness: 0.1, Melancholy: 0.3, Nostalgia: 0.2]
+
+The text evokes a sense of melancholy and nostalgia with a slight undertone of anticipation, trust, and bittersweetness. There's a hint of sadness in the partner's demeanor and the anticipation of getting paid, along with a reflective feel that contributes to the nostalgic and melancholic elements.

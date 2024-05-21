@@ -1,0 +1,13 @@
+To analyze the emotional content of the text and generate an emotion vector, I will consider the predominant emotions expressed:
+
+Happiness: The text reflects fond memories and the joy of shared experiences, indicated by actions like laughing and having fun together [0.6].
+Sadness: There is an underlying theme of loss and longing, especially evident in the last stanza referring to the funeral and dreaming of the departed person still being around [0.4].
+Fear: While there is not a strong presence of fear, the reference to veering into a hedge and the uncertainty of life post-death can evoke some sense of fear [0.2].
+Disgust: No elements of disgust are apparent in the text [0].
+Anger: There are no direct references to anger [0].
+Surprise: The element of surprise is present in the memories shared, like the unexpected actions of the person being remembered [0.3].
+Anticipation: There is anticipation in the shared experiences and the excitement of not knowing what would happen next during those times [0.4].
+Trust: Trust is evident in the way the person who passed away was perceived positively by others, as seen at the funeral [0.3].
+Distrust: There are no indications of distrust in the text [0].
+Love: The text conveys a sense of love and connection in the shared memories and longing for the person who passed away [0.5].
+Saudade: The feeling of saudade, a deep emotional state

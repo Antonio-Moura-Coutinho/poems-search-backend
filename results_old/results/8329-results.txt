@@ -1,0 +1,3 @@
+After analyzing the emotional content of the text, the emotion vector representing the intensity of different emotions is as follows: [0, 0.9, 0.8, 0.9, 0.9, 0, 0.1, 0, 0.9, 0, 0, 0, 0, 0.9, 0]. 
+
+This vector indicates a strong presence of Sadness, Fear, Disgust, Anger, and Distrust in the text, while also showing elements of Anticipation and Nostalgia.

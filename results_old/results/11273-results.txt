@@ -1,0 +1,5 @@
+Based on the emotional content of the text, the emotion vector would be as follows:
+
+[0.3, 0.5, 0.15, 0.1, 0.1, 0.1, 0.2, 0.3, 0.1, 0.35, 0.2, 0.15, 0.25, 0.3, 0.2]
+
+This vector indicates that the text primarily conveys emotions of sadness, trust, love, bittersweetness, melancholy, and nostalgia. The intensity of each emotion is represented on a scale from 0 to 1.

@@ -1,0 +1,3 @@
+Based on the text provided, the emotional vector would look like this: [0.4, 0.2, 0, 0, 0, 0, 0.3, 0.7, 0, 0.6, 0, 0, 0, 0.6, 0.5].
+
+This emotional vector indicates high levels of Trust, Love, and Nostalgia, moderate levels of Happiness, Anticipation, and Surprise, and low levels of Sadness.

@@ -1,0 +1,7 @@
+The emotional content of the text seems to primarily evoke a sense of fear, distrust, and a hint of sadness. The language used to describe the situation, the urgency in the message, and the consequences mentioned contribute to the overall tone of fear and distrust. Additionally, the plea to "RUN AWAY" and the warning against harboring the individuals further emphasize the sense of danger and caution.
+
+Based on the emotional analysis of the text, the emotion vector could be represented as follows:
+
+[0, 0.2, 0.8, 0, 0, 0, 0, 0, 0.7, 0.6, 0, 0, 0, 0.2, 0]
+
+This vector indicates a high intensity of fear, moderate levels of sadness and distrust, and slight feelings of nostalgia.

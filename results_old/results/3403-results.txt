@@ -1,0 +1,7 @@
+The emotional content of the text includes elements of:
+
+Sadness, Fear, Disgust, Anger, Anticipation, Distrust, Awe, Bittersweetness, Melancholy, and Nostalgia.
+
+Based on these emotions, the emotion vector for the text could be:
+
+[0, 0.6, 0.6, 0.6, 0.6, 0.3, 0, 0, 0.4, 0.4, 0, 0.3, 0.4, 0.7, 0.5]

@@ -1,0 +1,1 @@
+The emotional content of the text includes elements of Fear, Anticipation, and a sense of Danger. The intensity of each emotion can be represented in the emotion vector as follows: [0, 0, 0.5, 0, 0, 0, 0.4, 0, 0, 0, 0, 0, 0, 0].

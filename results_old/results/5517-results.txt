@@ -1,0 +1,3 @@
+Emotion vector for the text:
+
+[Happiness: 0, Sadness: 0.6, Fear: 0.5, Disgust: 0, Anger: 0, Surprise: 0, Anticipation: 0, Trust: 0, Distrust: 0, Love: 0, Saudade: 0, Awe: 0, Bittersweetness: 0.3, Melancholy: 0.8, Nostalgia: 0]

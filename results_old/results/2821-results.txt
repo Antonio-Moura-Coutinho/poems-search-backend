@@ -1,0 +1,16 @@
+Emotion vector: [0.4, 0.1, 0, 0.1, 0, 0, 0.3, 0.5, 0, 0.1, 0, 0, 0.1, 0.3, 0] 
+
+Explanation:
+- Happiness: 0.4 (Expresses admiration and appreciation for hard-working and dedicated individuals)
+- Sadness: 0.1 (Mention of the toil and challenges in work)
+- Fear: 0 (No indication of fear in the text)
+- Disgust: 0.1 (Mention of work getting botched and smearing hands)
+- Anger: 0 (No indication of anger in the text)
+- Surprise: 0 (No indication of surprise in the text)
+- Anticipation: 0.3 (Anticipation for accomplishing tasks and the satisfaction of a job well done)
+- Trust: 0.5 (Shows trust and admiration for people who work diligently and responsibly)
+- Distrust: 0 (No indication of distrust in the text)
+- Love: 0.1 (Expression of a desire to be with hardworking individuals)
+- Saudade: 0 (No clear indication of nostalgic longing in the text)
+- Awe: 0 (No direct sense of awe in the text)
+- Bittersweetness: 0.1 (Mention of the

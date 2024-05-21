@@ -1,0 +1,14 @@
+Based on the emotional content of the text provided, the emotion vector could be interpreted as follows: [0.4, 0.3, 0.1, 0.1, 0, 0.2, 0.3, 0.4, 0, 0, 0, 0.1, 0.2, 0.4, 0.3].
+
+Explanation:
+
+- Happiness: The text describes Han-Shan engaging in various activities in his garden, indicating a sense of contentment and happiness. (0.4)
+- Sadness: Although the text does not explicitly convey sadness, there are hints of solitude and introspection in Han-Shan's activities, which could evoke a sense of melancholy. (0.3)
+- Fear: There is no element of fear present in the text. (0)
+- Disgust: No explicit indication of disgust is present in the text. (0)
+- Anger: The text does not convey any anger. (0)
+- Surprise: There are no elements of surprise in the text. (0)
+- Anticipation: Han-Shan's activities and the peaceful setting suggest a sense of anticipation for the future. (0.3)
+- Trust: The contentment and peacefulness in Han-Shan's actions evoke a sense of trust. (0.4)
+- Distrust: There are no indications of distrust in the text. (0)
+-

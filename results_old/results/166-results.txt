@@ -1,0 +1,5 @@
+The emotional content of the text leans towards a mix of Anticipation, Trust, Awe, and Bittersweetness. Here is the emotion vector for the text:
+
+[0, 0, 0, 0, 0, 0, 0.6, 0.8, 0, 0, 0, 0.6, 0.4, 0]
+
+This vector indicates a notable presence of Anticipation and Trust, a moderate level of Awe and Bittersweetness, but very low levels of other emotions.

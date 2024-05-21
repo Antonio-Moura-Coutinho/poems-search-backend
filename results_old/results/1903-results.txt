@@ -1,0 +1,19 @@
+Based on the text provided, the emotional content appears to be primarily focused on disgust, self-reflection, contemplation, internal conflict, and a sense of striving for completeness. The emotions portrayed suggest a mix of negative feelings with undertones of introspection and longing for fulfillment. 
+
+Here is the emotional vector for the text:
+
+[Happiness: 0,
+Sadness: 0,
+Fear: 0,
+Disgust: 1,
+Anger: 0,
+Surprise: 0,
+Anticipation: 0,
+Trust: 0,
+Distrust: 0,
+Love: 0,
+Saudade: 0,
+Awe: 0,
+Bittersweetness: 0,
+Melancholy: 0.25,
+Nostalgia: 0]

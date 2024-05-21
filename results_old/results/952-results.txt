@@ -1,0 +1,15 @@
+To analyze the emotional content of the text and output an emotion vector, we need to assess the presence and intensity of various emotions within the text. Here is the emotion vector based on the emotional content of the text you provided:
+
+[0.2, 0.6, 0.4, 0.2, 0.4, 0, 0, 0.3, 0, 0, 0, 0, 0.7, 0.6, 0.6]
+
+Explanation:
+
+- Happiness: 0.2 - There is a lack of explicit happiness in the text.
+- Sadness: 0.6 - The text conveys a sense of sadness through descriptions of challenging work conditions and personal struggles.
+- Fear: 0.4 - There are elements of fear present in the descriptions of the challenging and unsettling work environment.
+- Disgust: 0.2 - There are subtle references to disgust, possibly related to the working conditions and treatment of the workers.
+- Anger: 0.4 - The text hints at underlying anger due to mistreatment or dissatisfaction with work conditions.
+- Surprise: 0 - There are no clear surprises in the text.
+- Anticipation: 0 - Anticipation is not a prominent emotion in this text.
+- Trust: 0.3 - Trust is questioned or undermined in the interactions between characters.
+- Distrust: 0 - There is no explicit mention

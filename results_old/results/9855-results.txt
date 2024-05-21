@@ -1,0 +1,17 @@
+To analyze the emotional content of the text provided, I will assess the intensity of various emotions mentioned in the text and then calculate the emotion vector accordingly.
+
+- Happiness: The overall tone of the text seems to convey a sense of happiness, especially in the descriptions of meeting Collin and Damon, as well as in the idea of being with them. The intensity of happiness can be considered moderate to high.
+
+- Sadness: There are elements of sadness in the text, particularly in the internal conflict of the speaker as she struggles with her feelings towards both Collin and Damon. The intensity of sadness can be considered moderate.
+
+- Fear: There is no explicit mention of fear in the text, so the intensity of fear can be considered low at 0.
+
+- Disgust: There is no mention of disgust in the text, so the intensity of disgust can be considered low at 0.
+
+- Anger: There are hints of conflicting emotions which can sometimes lead to a sense of internal frustration or anger, albeit not strongly expressed. The intensity of anger can be considered low.
+
+- Surprise: There are no instances of surprise mentioned in the text, so the intensity of surprise can be considered low at 0.
+
+- Anticipation: The text does hint at anticipation or uncertainty about the speaker's future decisions regarding the two individuals, so the intensity of anticipation can be considered moderate.
+
+- Trust: The speaker seems to trust both Collin and Damon to some extent, as evident from the feelings described towards them

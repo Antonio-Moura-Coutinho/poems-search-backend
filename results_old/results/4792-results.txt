@@ -1,0 +1,12 @@
+To analyze the emotional content of the text, we can identify the following emotions:
+
+Sadness: The text conveys a sense of longing, existential contemplation, and a feeling of being lost or detached. This suggests a strong presence of sadness.
+
+Anticipation: The repetition of phrases like "I won't" followed by the list of contrasting dualities creates a sense of anticipation or expectancy as one tries to reconcile these apparent contradictions.
+
+Trust: The mention of losing oneself in the repeated utterance of a name implies a sense of trust or reliance on something beyond oneself.
+
+Existential themes like the ephemeral nature of identity, interconnectivity, and the speaker's perceived non-existence evoke a combination of complexity and introspection that could be associated with emotions like Awe, Love, and Trust.
+
+Based on the emotional analysis, the emotion vector for the text could look like: 
+[0, 0.7, 0, 0, 0, 0, 0.5, 0.3, 0, 0.4, 0, 0.6, 0.7, 0].

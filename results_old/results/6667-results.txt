@@ -1,0 +1,6 @@
+Analyzing the emotional content of the text, the following emotion vector can be generated:
+
+[0.1, 0.6, 0.4, 0.3, 0.4, 0, 0.3, 0.2, 0.4, 0, 0, 0.1, 0.5, 0.6, 0.6]
+
+
+This vector indicates the presence and intensity of various emotions in the text. Happiness and surprise have very low intensity, while sadness, fear, disgust, anger, distrust, bittersweetness, melancholy, and nostalgia are present with moderate to high intensity. Anticipation and trust have a low presence, and there is no indication of love, saudade, or awe in the text.

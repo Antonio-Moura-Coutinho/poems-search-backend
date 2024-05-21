@@ -1,0 +1,17 @@
+Emotion vector for the provided text: [0, 0.7, 0, 0.5, 0, 0, 0, 0.1, 0.3, 0.3, 0, 0, 0.6, 0.9, 0.5]
+
+Explanation:
+- Happiness: 0 (No explicit mention of happiness)
+- Sadness: 0.7 (The text conveys a sense of sadness and reflection on past experiences)
+- Fear: 0 (No mention of fear)
+- Disgust: 0.5 (Expressions like "this month was shit" indicate a level of disgust)
+- Anger: 0 (No direct expression of anger)
+- Surprise: 0 (No element of surprise)
+- Anticipation: 0 (No anticipation mentioned)
+- Trust: 0.1 (Some trust may be implied in lines like "we forget what we remember")
+- Distrust: 0.3 (Mentions of lost time and two pasts suggest a level of distrust)
+- Love: 0.3 (Reflects on falling in love in the past)
+- Saudade: 0 (No explicit mention of Saudade)
+- Awe: 0 (No awe expressed)
+- Bittersweetness: 0.6 (The text carries a bittersweet tone, recalling both positive and negative emotions)
+- Melancholy:

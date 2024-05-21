@@ -1,0 +1,16 @@
+To analyze the emotional content of the text provided, we will break down the emotions displayed in the text and assign intensity values to each emotion. Based on the text, we will identify the following emotions:
+
+- Happiness: References to enjoying donuts and the sense of camaraderie with the characters in the scenario.
+- Sadness: Implied sadness in the context of unlawful behavior and the consequences experienced by the characters.
+- Fear: There is a subtle sense of fear or apprehension when discussing the potential consequences of the characters' actions.
+- Disgust: There are hints of disgust when the characters reflect on the situation at hand.
+- Anger: Brief mentions of anger directed towards the characters' actions.
+- Surprise: Elements of surprise when imagining the scenarios presented in the text.
+- Anticipation: Anticipation in the form of wondering what would happen next in the narrative.
+- Trust: Trust is not prominent in this text.
+- Distrust: Distrust is not prominently expressed.
+- Love: Feelings of affection are hinted at through the references to the characters.
+- Saudade: A sense of nostalgia or longing for a past state is present, particularly with references to the characters' actions.
+- Awe: Awe is not a dominant emotion in this text.
+- Bittersweetness: There is a bittersweet tone evident in the text when reflecting on the characters' situations.
+- Melancholy: There is a subtle feeling of melancholy in the text,

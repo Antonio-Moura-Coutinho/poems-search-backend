@@ -1,0 +1,5 @@
+Analyzing the emotional content of the text, we can detect elements of surprise, awe, and anticipation. Here is the emotion vector representing the intensity of each emotion on a scale from 0 to 1:
+
+[0, 0, 0, 0, 0, 0.5, 0.5, 0, 0, 0, 0, 0.5, 0, 0] 
+
+This vector represents a high level of Surprise, Anticipation, and Awe, but does not show significant levels of other emotions such as Happiness, Sadness, Fear, Disgust, Anger, Distrust, Love, Saudade, Bittersweetness, Melancholy, or Nostalgia.

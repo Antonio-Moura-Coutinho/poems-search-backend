@@ -1,0 +1,19 @@
+Based on the given text, the emotional vector for the text is as follows: 
+
+[Happiness: 0
+Sadness: 0
+Fear: 0
+Disgust: 0
+Anger: 0
+Surprise: 0
+Anticipation: 0
+Trust: 0
+Distrust: 0
+Love: 0
+Saudade: 0
+Awe: 0
+Bittersweetness: 0
+Melancholy: 1
+Nostalgia: 1] 
+
+The text conveys a sense of Melancholy and Nostalgia, as it reflects on a past interaction or perception of a professor, remembering certain behaviors that evoke a mix of emotion associated with loss and longing.

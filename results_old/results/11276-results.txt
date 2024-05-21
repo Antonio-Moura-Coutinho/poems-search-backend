@@ -1,0 +1,7 @@
+This text conveys emotions of sadness, fear, melancholy, and nostalgia. There is a sense of loss, absence, and the passage of time in the text, evoking a melancholic and nostalgic feeling. The mention of people being forgotten, vanished, and the uncertainty surrounding their fate contributes to feelings of sadness and fear.
+
+Based on the emotional content of the text, the emotion vector could be:
+
+[0, 0.6, 0.4, 0, 0, 0, 0, 0.1, 0, 0, 0, 0, 0.7, 0.8, 0.8]
+
+This vector reflects a high intensity of sadness, fear, melancholy, and nostalgia while acknowledging a slight sense of trust and anticipation.

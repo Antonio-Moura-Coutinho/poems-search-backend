@@ -1,0 +1,6 @@
+Emotion Vector: [0, 0, 0.6, 0, 0, 0, 0.6, 0, 0, 0, 0, 0, 0, 0, 0]
+
+Explanation:
+- Fear: The text includes phrases like "fallen Latte," "severed capstone," and "Their message," which can evoke a sense of unease or fear, hence the high value for fear.
+- Anticipation: The mention of feeling strength from within the row of Latte and receiving a message can create a sense of anticipation or expectancy, leading to a moderate value for anticipation.
+- Other Emotions: The text does not strongly evoke other specific emotions like happiness, sadness, disgust, anger, surprise, trust, distrust, love, saudade, awe, bittersweetness, melancholy, or nostalgia, hence the values for these emotions are kept at 0.

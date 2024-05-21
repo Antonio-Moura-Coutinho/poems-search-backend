@@ -1,0 +1,9 @@
+To analyze the emotional content of the text, we can identify the emotions expressed in the text and assign intensity values to each one. Based on the text provided, here is the emotion vector:
+[0, 0.4, 0, 0, 0, 0, 0.3, 0, 0, 0, 0, 0, 0.5, 0]
+
+Explanation:
+- Sadness: There are elements in the text that convey sadness, such as Theresa not wanting to hear about her ex-husband's cancer on Father's Day.
+- Anticipation: The text contains elements of anticipation, like María's question "What do you want from me?" which creates an air of anticipation in the interaction.
+- Melancholy: The overall tone of the text carries a sense of melancholy, reflected in the introspective and slightly somber nature of the stories.
+  
+The intensity values in the vector represent the degree to which each emotion is present in the text, with higher values indicating stronger presence.

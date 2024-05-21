@@ -1,0 +1,5 @@
+Based on the text provided, the emotional vector for the content could be:
+
+[0.6, 0.3, 0.2, 0, 0, 0.4, 0.4, 0.6, 0, 0, 0.2, 0.3, 0.3, 0.4, 0]
+
+This suggests a mixture of positive emotions like Happiness, Trust, Anticipation, and Surprise, along with some Sadness, Awe, Bittersweetness, and Melancholy. There are lower levels of Fear, Disgust, Anger, Distrust, Love, and Nostalgia in the text.

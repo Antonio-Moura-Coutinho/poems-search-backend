@@ -1,0 +1,1 @@
+Based on the text provided, the emotional content appears to include elements of Sadness, Fear, Distrust, and Anticipation. The emotional vector for the text could be represented as [0, 0.4, 0.4, 0, 0, 0, 0.3, 0, 0.6, 0, 0, 0, 0, 0].

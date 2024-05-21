@@ -1,0 +1,3 @@
+To analyze the emotional content of the text, we need to examine the context and language used to extract the underlying emotions. Based on the text provided, we can identify emotions such as Disgust, Anticipation, and Distrust.
+
+Emotion vector: [0, 0, 0, 0.6, 0, 0, 0.3, 0, 0.7, 0, 0, 0, 0, 0, 0]

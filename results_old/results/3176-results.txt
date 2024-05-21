@@ -1,0 +1,22 @@
+Based on the emotional content analysis of the text provided, here is the emotion vector representing the intensity of various emotions:
+
+[0, 0.7, 0.6, 0, 0, 0, 0.4, 0.2, 0, 0, 0, 0.3, 0.8, 0.6, 0]
+
+Explanation of Emotions:
+- Happiness: 0
+- Sadness: 0.7 (Significant intensity)
+- Fear: 0.6 (Moderate intensity)
+- Disgust: 0
+- Anger: 0
+- Surprise: 0
+- Anticipation: 0.4 (Moderate intensity)
+- Trust: 0.2 (Low intensity)
+- Distrust: 0
+- Love: 0
+- Saudade: 0
+- Awe: 0.3 (Low intensity)
+- Bittersweetness: 0.8 (High intensity)
+- Melancholy: 0.6 (Moderate intensity)
+- Nostalgia: 0
+
+The text conveys a strong sense of sadness, melancholy, bittersweetness, fear, and some anticipation. The predominant emotions are sadness and melancholy, followed by bittersweetness. Fear and anticipation are also notable, while other emotions like trust and awe are present but in lower intensities.

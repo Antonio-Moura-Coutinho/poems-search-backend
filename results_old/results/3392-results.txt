@@ -1,0 +1,20 @@
+To analyze the emotional content of the text, we can identify the following emotions:
+
+Happiness: None
+Sadness: Mild sadness can be inferred from the description of the humbling experiences and the contrast with the mother's mysophobia.
+Fear: None
+Disgust: None
+Anger: None
+Surprise: Mild surprise when the children see their father in Ihram on the screen.
+Anticipation: Mild anticipation leading up to the pilgrimage scenes.
+Trust: Trust is implied in the act of religious piety and the overall narrative.
+Distrust: None
+Love: There is a sense of familial love shown in the family's presence and reaction to the pilgrimage scenes.
+Saudade: None
+Awe: Awe can be felt towards the stately rise of Islam and the pilgrimage rituals.
+Bittersweetness: There is a bittersweet quality in the portrayal of the humbling experiences and the mother's contrast of behaviors.
+Melancholy: Mild melancholy can be inferred from the descriptions of the mother's struggles with mysophobia.
+Nostalgia: Nostalgia may be present in the reminiscence of the past events and family experiences.
+
+Based on the analysis, the emotion vector for the text could be:
+[0, 0.1, 0, 0, 0, 0.2, 0.2, 0.3, 0, 0.3, 0, 0, 0

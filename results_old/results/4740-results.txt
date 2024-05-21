@@ -1,0 +1,12 @@
+To analyze the emotional content of the text, we can identify the presence of different emotions and their intensity. Based on the text provided, we can extract the following emotions and their intensity:
+
+Happiness: The text describes a party atmosphere with dancing, vodka, champagne, and expressions of love, which indicate a sense of joy and happiness. Intensity: Moderate (0.6)
+Sadness: While there are elements of happiness, there is also a hint of melancholy and existential questioning in the text. Intensity: Low (0.2)
+Fear: There is no clear indication of fear in the text. Intensity: 0
+Disgust: There is no explicit disgust mentioned in the text. Intensity: 0
+Anger: There is no explicit anger mentioned in the text. Intensity: 0
+Surprise: There is a mention of surprise in the text but not as a dominant emotion. Intensity: Low (0.1)
+Anticipation: The text describes anticipation and existential questioning about how to live and what to do. Intensity: Moderate (0.4)
+Trust: There is a sense of trust implied through expressions of love and companionship at the party. Intensity: Moderate (0.5)
+Distrust: There is no clear indication of distrust in the text. Intensity: 0
+Love: The text includes expressions of love and a desire for human warmth, indicating the presence of love. Intensity: Moderate (

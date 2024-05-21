@@ -1,0 +1,3 @@
+This text conveys a mix of emotions such as defiance, resilience, disillusionment, and a sense of fleeting hope. Based on the provided emotions, the emotion vector for this text could be:
+
+[0.2, 0.3, 0.5, 0.3, 0.3, 0, 0.3, 0.4, 0.2, 0, 0, 0, 0.3, 0.4, 0]

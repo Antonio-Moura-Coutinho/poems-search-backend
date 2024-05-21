@@ -1,0 +1,10 @@
+Based on the emotional content of the text provided, here is the emotion vector:
+
+[0, 0.6, 0.7, 0.6, 0, 0, 0, 0, 0, 0, 0, 0, 0.8, 0.7, 0]
+
+Explanation of emotions:
+- Sadness: 0.6 (evidenced by the mentions of "wronged flesh" and "stalled mower")
+- Fear: 0.7 (suggested by phrases like "smells of wronged flesh" and the overall eerie tone)
+- Disgust: 0.6 (evoked by phrases like "stinking of me" and the imagery of sheets and smells)
+- Bittersweetness: 0.8 (hinted by the melancholic and nostalgic undertones of the text)
+- Melancholy: 0.7 (reflected in the overall mood and descriptions within the text)

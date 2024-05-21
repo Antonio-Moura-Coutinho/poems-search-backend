@@ -1,0 +1,14 @@
+To analyze the emotional content of the text, we can identify the predominant emotions expressed and assign intensity values to each emotion based on the text. 
+
+Emotion vector: [0.2, 0.8, 0.7, 0.4, 0.6, 0.3, 0.5, 0.2, 0.6, 0.6, 0.7, 0.3, 0.8, 0.7, 0]
+
+Explanation:
+- Happiness: 0.2 (Low intensity as the text primarily conveys sadness and mourning)
+- Sadness: 0.8 (High intensity, as the text expresses deep sorrow and grief over loss)
+- Fear: 0.7 (Moderate intensity, fear of facing the reality of loss and death)
+- Disgust: 0.4 (Moderate intensity, suggested by the feeling of forsaking and letting go)
+- Anger: 0.6 (Moderate intensity, implied in the struggle to cope with loss and mortality)
+- Surprise: 0.3 (Low intensity, as the text is more reflective and contemplative)
+- Anticipation: 0.5 (Moderate intensity, anticipation of the recurring loss)
+- Trust: 0.2 (Low intensity, trust is not a dominant emotion in this context)
+- Distrust: 0.6 (Moderate intensity, distrust in the

@@ -1,0 +1,3 @@
+The emotional content of the text includes strong indications of Sadness, Melancholy, Grief, Regret, and Longing. The emotion vector based on the text is as follows:
+
+[0, 0.8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0.6, 0]

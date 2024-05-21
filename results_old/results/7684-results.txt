@@ -1,0 +1,7 @@
+To analyze the emotional content of the text, I will identify the emotions expressed in it and create an emotion vector accordingly.
+
+Emotions found in the text: Sadness, Disgust, Distrust
+
+Emotion vector: [0, 0.5, 0, 0.6, 0, 0, 0, 0, 0.5, 0, 0, 0, 0, 0.5, 0]
+
+Please note that the emotions of Distrust and Disgust have a higher intensity in the text, while Sadness is also present but to a lesser extent.

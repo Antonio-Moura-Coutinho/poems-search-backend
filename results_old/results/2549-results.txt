@@ -1,0 +1,5 @@
+Analyzing the emotional content of the text, we observe elements of Fear, Disgust, Anticipation, Distrust, and Melancholy. The soldiers in the text are facing uncertain and grim predictions about their fate.
+
+Based on the emotional content analysis, the emotion vector for the text would be: [0, 0, 0.3, 0.4, 0, 0, 0.3, 0, 0.4, 0, 0, 0, 0, 0.3, 0]. 
+
+This vector reflects the intensity of each emotion based on the text provided.

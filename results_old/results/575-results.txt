@@ -1,0 +1,12 @@
+Analyzing the emotional content of the text, we can identify the following emotions and their intensities in the vector:
+
+[Happiness, Sadness, Fear, Disgust, Anger, Surprise, Anticipation, Trust, Distrust, Love, Saudade, Awe, Bittersweetness, Melancholy, Nostalgia]
+
+From the text:
+- A sense of awe and wonder is present in the description of the deer's gaze into another life.
+- There is a hint of sadness in the imagery of the dead deer's eyes and the mist from the mountain.
+- There is an element of fear with the mention of men with guns and the deer's perception of them.
+
+Emotion Vector: [0, 0.3, 0.3, 0, 0, 0, 0, 0, 0, 0, 0, 0.5, 0, 0, 0]
+
+This vector represents the emotional content in the text based on the identified emotions and their intensities.

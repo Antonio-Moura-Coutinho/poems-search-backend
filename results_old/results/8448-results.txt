@@ -1,0 +1,3 @@
+The emotional vector for the text you provided is as follows: [0.2, 0, 0.1, 0, 0, 0.2, 0, 0.1, 0, 0, 0, 0.2, 0, 0.3, 0]
+
+This indicates a mix of emotions, with the highest intensity being in the emotions of Surprise (0.2) and Nostalgia (0.3). The text conveys a sense of intrigue ("confuses our enemies," "deception is an achievement") and reflection on the past ("I came from Calumet to Gary"). The concept of geography and the mention of specific places evoke feelings of surprise and nostalgia.

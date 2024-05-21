@@ -1,0 +1,3 @@
+Analyzing the emotional content of the text, the predominant emotions present are sadness, fear, and anticipation. There is a sense of melancholy and a hint of nostalgia evident as well. The overall emotional vector for the text based on intensity would be:
+
+[0, 0.6, 0.4, 0, 0.3, 0, 0.3, 0, 0, 0, 0, 0, 0.7, 0.5, 0]

@@ -1,0 +1,5 @@
+Based on the text provided, the emotional content analysis yields the following emotion vector:
+
+[0.4, 0.4, 0.1, 0.3, 0.3, 0.2, 0.3, 0.5, 0.1, 0.2, 0.1, 0.3, 0.2, 0.3]
+
+This indicates there are moderate levels of happiness, sadness, disgust, anger, surprise, anticipation, trust, bittersweetness, and melancholy present in the text.

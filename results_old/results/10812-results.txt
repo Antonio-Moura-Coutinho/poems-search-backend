@@ -1,0 +1,11 @@
+To analyze the emotional content of the text, we can identify the following emotions:
+
+Sadness: The text conveys a sense of melancholy and loneliness, especially in the descriptions of the house and the character's demeanor. There is a feeling of emptiness and isolation.
+
+Anticipation: There is a sense of anticipation or uncertainty with the mention of the magpie veering about like a weathercock in doubt. This adds a layer of anticipation or even suspense to the text.
+
+Nostalgia: The reminiscing about the past, recalling the character and the house, brings out a nostalgic tone in the text.
+
+Based on these emotional elements, we can create an emotion vector representing the intensity of each emotion:
+
+[Sadness: 0.6, Anticipation: 0.4, Nostalgia: 0.5, Happiness: 0, Fear: 0, Disgust: 0, Anger: 0, Surprise: 0, Trust: 0, Distrust: 0, Love: 0, Saudade: 0, Awe: 0, Bittersweetness: 0, Melancholy: 0]

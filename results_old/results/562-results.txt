@@ -1,0 +1,13 @@
+To analyze the emotional content of the text and generate an emotion vector, let's identify the prominent emotions displayed in the text:
+
+- Trust: Initially, the Inside Out Mermaid is fine with letting her lover see everything, showing trust.
+- Anticipation: Anticipation of the lover's reaction and her efforts to keep him interested.
+- Distrust: The lover starts to become suspicious, leading to a sense of distrust.
+- Surprise: The lover may be surprised by the character's actions.
+- Disgust: The lover might start feeling disgusted as he realizes she's hiding things from him.
+- Nostalgia: The mention of her diary entries may evoke feelings of nostalgia.
+
+Based on these emotions, the emotion vector could be:
+[0, 0, 0, 0, 0, 0, 0.3, 0.5, 0.4, 0, 0, 0, 0, 0.2, 0.2]
+
+This vector reflects the presence of trust, anticipation, distrust, surprise, disgust, and a hint of nostalgia in the text. The most prominent emotions appear to be trust, distrust, and anticipation.

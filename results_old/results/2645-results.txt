@@ -1,0 +1,18 @@
+The emotional content of the text seems to convey a sense of contemplation, mystery, and transition. Based on the text, the emotion vector could be as follows: [0.2, 0.3, 0.5, 0, 0, 0.4, 0.6, 0.6, 0, 0, 0, 0, 0.4, 0.4, 0]. 
+
+Explanation:
+- Happiness: 0.2 (There is a hint of peace and contemplation)
+- Sadness: 0.3 (There is a sense of formlessness and transition which could evoke mild sadness)
+- Fear: 0.5 (There is a reference to fear being formless and the night-time setting)
+- Disgust: 0
+- Anger: 0
+- Surprise: 0
+- Anticipation: 0.4 (There is an element of anticipation in the unknown)
+- Trust: 0.6 (The mention of peace can evoke trust)
+- Distrust: 0
+- Love: 0 
+- Saudade: 0
+- Awe: 0
+- Bittersweetness: 0.4 (The mention of change and transition can evoke bittersweet feelings)
+- Melancholy: 0.4 (The contemplative tone can induce a sense of melancholy)
+- Nostalgia: 0

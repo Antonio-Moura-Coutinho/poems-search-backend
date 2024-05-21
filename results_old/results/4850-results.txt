@@ -1,0 +1,5 @@
+Analyzing the emotional content of the text provided, the emotions detected are mainly Anticipation, Trust, Love, Awe, Bittersweetness, Melancholy, Nostalgia, with subtle hints of Sadness. The emotional vector for this text would be as follows: 
+
+[0, 0.1, 0, 0, 0, 0, 0.6, 0.7, 0, 0.6, 0, 0.8, 0.7, 0.7, 0.8] 
+
+These values represent the intensity of each emotion based on the text. Let me know if you need further assistance.

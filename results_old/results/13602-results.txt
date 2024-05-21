@@ -1,0 +1,12 @@
+Based on the emotional content of the text provided, the emotion vector would likely be:
+
+[0, 0.4, 0.2, 0, 0, 0, 0, 0.2, 0, 0, 0, 0, 0, 0.6, 0] 
+
+Explanation:
+
+- Sadness (0.4): The text conveys a sense of sadness or melancholy with phrases such as "We real cool" and "Die soon."
+- Fear (0.2): The repetition and the underlying tone of loss can evoke a mild sense of fear or unease.
+- Trust (0.2): The camaraderie implied among the pool players may denote a level of trust.
+- Nostalgia (0.6): The reminiscing about the past and the fleeting nature of life suggest a strong element of nostalgia.
+  
+This vector represents the emotional intensity of the given text across the specified emotions.

@@ -1,0 +1,14 @@
+Based on the emotional content of the text provided, the emotion vector would be:
+
+[0, 0.6, 0.5, 0.8, 0.8, 0, 0, 0, 0, 0, 0.3, 0, 0.5, 0.6, 0]
+
+Explanation:
+- Sadness: 0.6 (The text conveys a sense of sadness, vulnerability, and internal struggle.)
+- Fear: 0.5 (There is a theme of fear and discomfort in the descriptions.)
+- Disgust: 0.8 (The language used evokes disgust and revulsion in relation to the body and self.)
+- Anger: 0.8 (The text expresses strong anger and resentment towards one's own body and emotions.)
+- Awe: 0.3 (There is a hint of awe or admiration in the imagery described.)
+- Bittersweetness: 0.5 (There is a mix of bitterness and sorrow in the tone of the text.)
+- Melancholy: 0.6 (The overall mood is melancholic and introspective.)
+
+Please note that this is a subjective analysis, and different interpretations are possible based on individual perspectives.

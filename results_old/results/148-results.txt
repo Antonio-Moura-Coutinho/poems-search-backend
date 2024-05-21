@@ -1,0 +1,4 @@
+Analyzing the emotional content of the text, we can identify the following emotions expressed to various degrees: Sadness, Disgust, Fear, Anticipation, Distrust, and Melancholy.
+
+I will now create an emotion vector based on the intensity of each emotion:
+[0, 0.3, 0.2, 0.1, 0, 0, 0.1, 0, 0.3, 0, 0, 0, 0, 0.3, 0]

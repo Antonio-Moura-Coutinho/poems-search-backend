@@ -1,0 +1,11 @@
+The emotional content of the text seems to convey a mix of emotions including:
+
+- Anticipation: The text discusses possibilities of how various factors such as time, rejection, detours, and practicalities can affect writers and their work, evoking a sense of anticipation for potential outcomes.
+
+- Distrust: The mention of factors like rejection, discouragement, wasted energy, and burdensome debt may lead to a feeling of distrust towards the writing industry and its challenges.
+
+- Anger: The statement regarding writing programs not stifling enough could suggest a hint of frustration or anger towards the writing environment.
+
+- Surprise: The unexpected nature of the factors mentioned in the text, such as premature death, sudden shift of interest, or better offers, could elicit a sense of surprise.
+
+Based on the emotional analysis provided, the emotion vector could be approximately: [0, 0, 0, 0, 0.2, 0.1, 0.2, 0, 0.3, 0, 0, 0, 0, 0].

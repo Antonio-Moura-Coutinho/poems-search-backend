@@ -1,0 +1,6 @@
+Based on the text provided, the emotional content can be analyzed as follows:
+- Sadness: The mention of making a wreath to lay on the mother's grave and the son falling off a mountain in Italy indicate feelings of sadness.
+- Anticipation: The anticipation of the game the next day and the gathering of wildflowers for the wreath reflect a sense of anticipation.
+- Trust: The mention of the son falling off a mountain in Italy may evoke feelings of trust or reliance on others for support.
+
+Emotion vector: [0, 0.3, 0, 0, 0, 0, 0.2, 0.1, 0, 0, 0, 0, 0, 0.2, 0]

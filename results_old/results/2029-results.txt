@@ -1,0 +1,18 @@
+Based on the text, the emotional vector for the content could be as follows: [0, 0.5, 0, 0, 0, 0, 0.3, 0.3, 0, 0.7, 0, 0, 0, 0.5, 0.3].
+
+Explanation:
+- Happiness: 0 (not prominent in the text)
+- Sadness: 0.5 (theme of failed love and unspoken emotions)
+- Fear: 0 (not present)
+- Disgust: 0 (not present)
+- Anger: 0 (not present)
+- Surprise: 0 (not present)
+- Anticipation: 0.3 (anticipation of finding the right word or expression for love)
+- Trust: 0.3 (trust in the importance of finding the right word for expressing love)
+- Distrust: 0 (not present)
+- Love: 0.7 (significant focus on love and the struggle to find the right expression)
+- Saudade: 0 (not clearly depicted)
+- Awe: 0 (not present)
+- Bittersweetness: 0 (not prominent)
+- Melancholy: 0.5 (reflective and somewhat melancholic tone)
+- Nostalgia: 0.3 (nostalgic elements in how the relationships are described)

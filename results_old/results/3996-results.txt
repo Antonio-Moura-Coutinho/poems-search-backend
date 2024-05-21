@@ -1,0 +1,5 @@
+Emotion vector analysis:
+
+[Happiness: 0, Sadness: 0.4, Fear: 0.2, Disgust: 0, Anger: 0, Surprise: 0, Anticipation: 0.2, Trust: 0.2, Distrust: 0, Love: 0, Saudade: 0, Awe: 0, Bittersweetness: 0, Melancholy: 0.5, Nostalgia: 0]
+
+Based on the emotional content of the text provided, the emotions of Sadness, Fear, and Anticipation are the most prominent. The mention of hurt, the feeling of something about to happen, and the sense of impending change contribute to these emotions being expressed with intensity. The text also conveys a feeling of uncertainty and introspection, which is reflected in the emotions of Sadness and Melancholy. Trust is present to a lesser extent as the speaker considers the purification process and protection from unseen forces.

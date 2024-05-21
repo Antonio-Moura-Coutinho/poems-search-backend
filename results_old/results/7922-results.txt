@@ -1,0 +1,5 @@
+Based on the text provided, the emotions present seem to be a mixture of Sadness, Disgust, and Anticipation. Here is the corresponding emotion vector:
+
+[0, 0.5, 0, 0.5, 0, 0, 0.3, 0, 0, 0, 0, 0, 0, 0] 
+
+This vector indicates a high intensity of Sadness and Disgust, a moderate level of Anticipation, and minimal presence of other emotions.

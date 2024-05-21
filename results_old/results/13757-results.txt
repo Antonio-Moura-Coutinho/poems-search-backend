@@ -1,0 +1,5 @@
+Analyzing the emotional content of the text provided, we can detect multiple emotions such as: Anticipation, Disgust, Anger, Distrust, and perhaps a touch of Sadness. Here is the emotion vector based on the intensity of these emotions:
+
+[0, 0.2, 0, 0.1, 0.3, 0, 0.4, 0.1, 0, 0, 0, 0, 0, 0, 0]
+
+This vector reflects a low level of happiness, slight sadness, some distrust, moderate anger, and a significant amount of anticipation.

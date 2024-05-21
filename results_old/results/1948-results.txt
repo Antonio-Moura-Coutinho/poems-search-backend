@@ -1,0 +1,3 @@
+The emotional content of the text suggests a mixture of emotions, including elements of Surprise, Anticipation, Love, and Nostalgia. Based on the text, the emotion vector could be as follows:
+
+[0, 0, 0, 0, 0, 0.6, 0.6, 0.8, 0, 0.6, 0, 0, 0, 1]

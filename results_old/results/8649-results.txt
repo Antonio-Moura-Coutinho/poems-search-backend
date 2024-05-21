@@ -1,0 +1,13 @@
+Based on the emotional content of the text, the emotion vector can be analyzed as follows:
+
+[Happiness, Sadness, Fear, Disgust, Anger, Surprise, Anticipation, Trust, Distrust, Love, Saudade, Awe, Bittersweetness, Melancholy, Nostalgia]
+
+1. The text conveys themes of love, sacrifice, and loyalty, which are associated with emotions like Trust, Love, and Saudade.
+2. There are also elements of fear, as seen in the lines describing storm and fear, which contribute to a sense of Fear.
+3. The text includes mentions of watching a loved one in distress and dealing with the possibility of losing them, evoking emotions of Sadness and Anticipation.
+4. The feelings of helplessness in the face of natural disasters like earthquakes can add to the emotions of Fear and Disgust.
+5. Overall, the text reflects a complex mix of emotions such as Trust, Love, Sadness, Fear, and Anticipation.
+
+Considering the above analysis, the emotion vector for the text could be:
+
+[0, 0.3, 0.3, 0.1, 0, 0, 0.2, 0.4, 0, 0.6, 0.3, 0, 0, 0.5, 0]

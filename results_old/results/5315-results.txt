@@ -1,0 +1,10 @@
+The emotional content of the text suggests a mix of emotions, including:
+
+- Sadness: The text conveys a sense of absence and loneliness, as well as a feeling of being washed up like a bottle on the shore, which can evoke sadness. (0.9)
+- Anticipation: There is a sense of anticipation and introspection as the speaker contemplates the vastness of the world and questions why they cannot be other things. (0.5)
+- Awe: The imagery of diving whales and vast, antipodal clouds can evoke a sense of awe and wonder. (0.7)
+- Melancholy: The overall tone of the text is reflective and melancholic, with themes of isolation and searching for meaning. (0.8)
+- Nostalgia: The reference to being like fossil shells embedded in a stone and the idea of washing up on the shore can evoke feelings of nostalgia and reflection on the past. (0.6)
+
+The emotion vector based on the analysis of the text would be:
+[0, 0.9, 0, 0, 0, 0, 0.5, 0, 0, 0, 0, 0.7, 0, 0.6]

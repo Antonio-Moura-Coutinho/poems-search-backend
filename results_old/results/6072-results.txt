@@ -1,0 +1,7 @@
+To analyze the emotional content of the text provided, we can detect the following emotions:
+
+- Anticipation: The text conveys a sense of anticipation as the figure of speech "metaphor" waits for something to happen on Thursday.
+- Disappointment: There is a feeling of disappointment or cancellation indicated by the phrase "he'll cancel experience" and "he'll crush experience."
+
+Based on this analysis, the emotion vector for the text could be:  
+[0, 0, 0, 0, 0, 0, 0.4, 0, 0, 0, 0, 0, 0, 0, 0]

@@ -1,0 +1,5 @@
+The emotional content of the text seems to convey a sense of sadness, despair, and bitterness. The speaker expresses regret and a feeling of having been taken advantage of, leading to a lack of fulfillment despite their efforts. There is a tone of resignation and a portrayal of a difficult and unfulfilling life experience.
+
+Based on the emotional analysis of the text, the emotion vector could be:
+
+[0, 0.7, 0.6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0.5, 0.5, 0]

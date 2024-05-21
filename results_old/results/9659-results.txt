@@ -1,0 +1,4 @@
+The emotional content of the text includes elements of nostalgia, bittersweetness, love, trust, anticipation, awe, and happiness. There are also hints of sadness and melancholy in the text, especially when reflecting on the past, changes in landscapes, and the passage of time. The emotions of surprise, fear, disgust, anger, distrust, and saudade are less prominent in the text.
+
+Based on this analysis, the emotion vector for the text would be:
+[0.4, 0.3, 0.1, 0.1, 0, 0.1, 0.2, 0.3, 0, 0.3, 0.2, 0.2, 0.3, 0.2, 0]

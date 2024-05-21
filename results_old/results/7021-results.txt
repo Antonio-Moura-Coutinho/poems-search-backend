@@ -1,0 +1,12 @@
+To analyze the emotional content of the text provided, we can identify the following emotions:
+
+- Sadness: The text describes a tragic event where men leap out of a burning ship only to meet their demise by drowning or enemy shots. This evokes a sense of sadness.
+
+- Fear: The description of men leaping out of a fired ship and being lost in the sea could induce fear.
+
+- Anticipation: The anticipation of a tragic outcome can also be inferred from the text.
+
+Based on this analysis, the emotion vector for the text could be:
+[0, 0.8, 0.6, 0, 0, 0, 0.3, 0, 0, 0, 0, 0, 0, 0, 0]
+
+The intensity of sadness and fear is relatively high, while anticipation has a moderate intensity.

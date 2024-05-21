@@ -1,0 +1,13 @@
+To analyze the emotional content of the text provided, we can identify the following emotions:
+
+- Disgust: The text includes descriptions of various forms of death that are likely to induce a sense of disgust, such as death by over-seasoning, suffocation, burning, falling, drowning, puking, etc.
+- Fear: The descriptions of different ways of dying can evoke fear as they depict potential dangers and threats.
+- Anger: The text mentions death in various unpleasant and unconventional ways, which might trigger feelings of anger or frustration.
+- Surprise: The mention of unexpected or uncommon causes of death may also elicit feelings of surprise.
+- Distrust: The way death is portrayed in the text, with unconventional methods and terminologies, could lead to feelings of distrust.
+
+Based on this analysis, the emotion vector for the text could be:
+
+[0, 0, 0.7, 0.8, 0.6, 0.5, 0, 0, 0.5, 0, 0, 0, 0, 0]
+
+This vector indicates a high intensity of emotions such as fear, disgust, anger, surprise, and a moderate level of emotions like distrust in the text.

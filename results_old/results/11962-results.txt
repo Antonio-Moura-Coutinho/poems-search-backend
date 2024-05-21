@@ -1,0 +1,3 @@
+Based on the provided text, the emotional content seems to be neutral with a sense of adventure and exploration. The setting described evokes a feeling of excitement and anticipation as the characters embark on their journey. There is also an element of awe and wonder in the description of the landscape and their camp location near Hubbard's face. The overall tone is more factual and descriptive rather than deeply emotional.
+
+Emotion Vector: [0.1, 0, 0, 0, 0, 0, 0.4, 0.6, 0, 0, 0, 0.6, 0, 0]

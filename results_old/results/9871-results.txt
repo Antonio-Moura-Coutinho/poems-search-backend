@@ -1,0 +1,5 @@
+The emotional content of the text leans towards sadness, melancholy, disgust, and a hint of anger. The setting and descriptions evoke feelings of sorrow, pity, and disdain towards the obliviousness and disconnect between the wealthy and the poor. Here is the emotion vector based on the analysis:
+
+[0, 0.5, 0, 0.4, 0.2, 0, 0.2, 0, 0, 0, 0, 0, 0, 0]
+
+This vector shows a high intensity of sadness and disgust, with moderate levels of anger and anticipation. Other emotions like happiness, fear, surprise, trust, distrust, love, saudade, awe, bittersweetness, and nostalgia are not prominently present in the text.

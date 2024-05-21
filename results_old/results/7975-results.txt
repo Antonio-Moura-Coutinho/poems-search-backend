@@ -1,0 +1,17 @@
+Based on the emotional content of the text, here is the emotion vector representing the intensity of each emotion on a scale from 0 to 1:
+
+[Happiness: 0
+Sadness: 0.6
+Fear: 0.8
+Disgust: 0.9
+Anger: 0.9
+Surprise: 0
+Anticipation: 0
+Trust: 0
+Distrust: 0
+Love: 0
+Saudade: 0
+Awe: 0
+Bittersweetness: 0
+Melancholy: 0.7
+Nostalgia: 0]

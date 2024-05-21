@@ -1,0 +1,14 @@
+Emotion Vector: [0.2, 0.7, 0.5, 0.4, 0.3, 0.2, 0.3, 0.4, 0.4, 0.1, 0.2, 0.2, 0.6, 0.7, 0.6]
+
+Explanation:
+- Happiness: 0.2 (Low, as the text conveys a sense of loss and desertion)
+- Sadness: 0.7 (High, the text is filled with themes of loss, longing, and melancholy)
+- Fear: 0.5 (Moderate, there are elements of fear and uncertainty in the imagery)
+- Disgust: 0.4 (Moderate, there is a sense of discomfort and unease)
+- Anger: 0.3 (Low, some hints of frustration but not a dominant emotion)
+- Surprise: 0.2 (Low, the text is more contemplative and reflective)
+- Anticipation: 0.3 (Low, not much anticipation portrayed in the text)
+- Trust: 0.4 (Moderate, a sense of trust in the relationship mentioned)
+- Distrust: 0.4 (Moderate, hints of distrust or unease)
+- Love: 0.1 (Low, overshadowed by themes of loss and separation)
+- Saudade: 0.

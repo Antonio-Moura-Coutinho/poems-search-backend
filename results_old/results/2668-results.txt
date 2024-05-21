@@ -1,0 +1,5 @@
+This text conveys a mix of emotions, including Fear, Sadness, Anticipation, and possibly a hint of Distrust and Anger. Based on the emotional content depicted in the text, the emotion vector could be as follows:
+
+[0, 0.4, 0.6, 0, 0.2, 0, 0.4, 0, 0.2, 0, 0, 0, 0, 0.4, 0]
+
+This indicates a higher intensity of Sadness, Fear, Anticipation, a slight hint of Anger and Distrust, and a touch of Melancholy and Nostalgia.

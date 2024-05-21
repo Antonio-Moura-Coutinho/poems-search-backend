@@ -1,0 +1,4 @@
+The emotional content of the text leans heavily towards negative emotions such as Sadness, Fear, Disgust, and Anger. The intensity of these emotions is particularly strong in the interaction between the mob and the victim. There are also elements of Distrust and Melancholy evident in the victim's speech.
+
+Here is the emotion vector based on the emotional analysis of the text:
+[0, 0.7, 0.8, 0.6, 0.8, 0, 0.3, 0, 0.2, 0, 0, 0, 0, 0.5, 0]

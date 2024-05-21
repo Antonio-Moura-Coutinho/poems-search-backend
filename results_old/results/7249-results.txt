@@ -1,0 +1,19 @@
+Based on the text provided, the emotional content seems to convey a mix of emotions such as sadness, melancholy, and a touch of bittersweetness. The tone appears somber and contemplative, with references to themes of death and impermanence. The repetition of "The only emperor is the emperor of ice-cream" adds a sense of resignation and acceptance.
+
+Here is the emotion vector representing the intensity of each emotion:
+
+- Happiness: 0
+- Sadness: 0.6
+- Fear: 0
+- Disgust: 0
+- Anger: 0
+- Surprise: 0
+- Anticipation: 0
+- Trust: 0
+- Distrust: 0
+- Love: 0
+- Saudade: 0
+- Awe: 0
+- Bittersweetness: 0.3
+- Melancholy: 0.6
+- Nostalgia: 0

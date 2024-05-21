@@ -1,0 +1,3 @@
+The emotional content analysis of the text provides the following emotion vector: [0.05, 0.35, 0.5, 0.2, 0.45, 0.25, 0.45, 0.55, 0.15, 0.3, 0.1, 0.4, 0.3, 0.4, 0.3].
+
+This vector indicates a higher intensity of emotions such as Fear, Anger, Trust, Anticipation, Love, Bittersweetness, Melancholy, and Nostalgia in the text, while other emotions like Happiness, Surprise, Distrust, or Saudade have lower intensities. The text conveys a mix of complex and conflicting emotions, reflecting themes of uncertainty, war, identity, and inner struggles.

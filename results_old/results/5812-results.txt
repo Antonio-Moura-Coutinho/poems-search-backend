@@ -1,0 +1,5 @@
+Based on the text provided, the emotional vector would be:
+
+[0, 0, 0.7, 0.8, 0.1, 0, 0.2, 0.6, 0, 0, 0, 0.1, 0, 0]
+
+This indicates a high level of Fear, Disgust, Trust, and some Anticipation and Bittersweetness in the text.

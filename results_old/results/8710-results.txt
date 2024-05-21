@@ -1,0 +1,5 @@
+Analyzing the text, the emotions expressed include a mix of Fear, Disgust, and a sense of the circle of life, as indicated by the imagery of the cheetah feeding on the dik-dik and the description of the scene. Based on this analysis, the emotion vector for the text would be approximately:
+
+[0, 0, 0.4, 0.4, 0, 0, 0, 0, 0, 0.2, 0, 0, 0, 0, 0]
+
+This vector indicates a significant presence of Fear and Disgust in the text and a slight hint of Love representing the circle of life concept.

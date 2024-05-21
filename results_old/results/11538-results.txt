@@ -1,0 +1,12 @@
+To analyze the emotional content of the text, we can identify various emotions expressed in the text and provide an emotion vector based on the intensity of each emotion. In this text, the emotions that stand out include:
+
+- Fear: The text conveys a sense of superstition and fear associated with bringing haw into the house under specific conditions.
+- Distrust: There is a feeling of distrust towards the person being warned not to bring haw into the house.
+- Anticipation: There is an anticipation of potential consequences if haw is brought in, alluding to supernatural or negative outcomes.
+- Awe: The mention of fairies and mystical elements in the text evokes a sense of awe and wonder.
+
+Based on these emotions, we can generate an emotion vector:
+
+[0, 0, 0.5, 0, 0, 0, 0.5, 0, 0.5, 0, 0, 0, 0, 0]
+
+This vector indicates a moderate level of fear, anticipation, and distrust, along with a lower level of awe in the text.

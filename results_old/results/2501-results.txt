@@ -1,0 +1,5 @@
+To analyze the emotional content of the text you provided, we can detect elements of sadness, fear, disgust, anger, distrust, and possibly melancholy. The mention of the dark, ancient Combe, the closed mouth, and the description of killing the badger evoke feelings of sadness and melancholy. The act of digging out and giving the badger to the hounds can elicit disgust and anger. The overall tone of the text conveys a sense of darkness, which could evoke fear and distrust.
+
+Based on this analysis, the emotion vector for the text could be:
+
+[0, 0.5, 0.3, 0.4, 0.4, 0, 0, 0, 0.5, 0, 0, 0, 0, 0.6, 0]

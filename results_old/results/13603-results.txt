@@ -1,0 +1,22 @@
+To analyze the emotional content of the text, we can identify various emotions present and assign intensities to each based on their prominence in the text. Here is the emotional vector for the given text:
+
+[0.1, 0.4, 0.5, 0.6, 0.4, 0.3, 0.3, 0.4, 0.2, 0, 0, 0.2, 0.2, 0.4, 0]
+
+Explanation of Emotions:
+- Happiness: 0.1 (Low intensity)
+- Sadness: 0.4 (Medium intensity)
+- Fear: 0.5 (Medium intensity)
+- Disgust: 0.6 (Medium to high intensity)
+- Anger: 0.4 (Medium intensity)
+- Surprise: 0.3 (Low to medium intensity)
+- Anticipation: 0.3 (Low to medium intensity)
+- Trust: 0.4 (Medium intensity)
+- Distrust: 0.2 (Low intensity)
+- Love: 0 (Not present)
+- Saudade: 0 (Not present)
+- Awe: 0.2 (Low intensity)
+- Bittersweetness: 0.2 (Low intensity)
+- Melancholy: 0.4 (Medium intensity)
+- Nostalgia: 0 (Not present)
+
+The text primarily conveys

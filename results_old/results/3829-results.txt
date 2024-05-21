@@ -1,0 +1,21 @@
+To analyze the emotional content of the text provided, we can identify the following emotional tones:
+
+- **Happiness**: Not present
+- **Sadness**: Moderate intensity, especially indicated by phrases like "I myself will die without money" and "Money, Money, you bastard, I'm through."
+- **Fear**: Moderate intensity, indicated by the mention of a "fearful trip."
+- **Disgust**: Not present
+- **Anger**: Moderate intensity, as shown by the frustrated tone expressed towards money.
+- **Surprise**: Not present
+- **Anticipation**: Not present
+- **Trust**: Not present
+- **Distrust**: Not present
+- **Love**: Not present
+- **Saudade**: Not present
+- **Awe**: Not present
+- **Bittersweetness**: Moderate intensity, as there is a mix of resignation and bitterness in the tone.
+- **Melancholy**: Moderate intensity, evident in the overall somber and resigned sentiment.
+- **Nostalgia**: Not present
+
+Based on this analysis, the emotion vector for the text is as follows: [0, 0.4, 0.4, 0, 0.4, 0, 0, 0, 0, 0, 0, 0.4, 0.4, 0]
+
+This vector reflects the predominant emotions of sadness, fear, anger, bittersweetness, and

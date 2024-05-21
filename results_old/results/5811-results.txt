@@ -1,0 +1,5 @@
+Based on the text, the emotional vector could be:
+
+[0.2, 0.7, 0.5, 0.3, 0.6, 0.4, 0.3, 0.4, 0.4, 0.2, 0.2, 0.4, 0.3, 0.5, 0]
+
+This vector suggests a higher intensity of emotions such as Sadness, Fear, Anger, and Distrust, with moderate levels of emotions like Surprise, Anticipation, and Bittersweetness. The text evokes a sense of struggle, defiance, and vulnerability with a hint of nostalgia.

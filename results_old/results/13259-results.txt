@@ -1,0 +1,15 @@
+Analyzing the emotional content of the text provided, the vector representing the intensity of each emotion could be as follows: [0.1, 0.4, 0.3, 0, 0.2, 0.1, 0.2, 0, 0, 0, 0, 0, 0.3, 0.4, 0.2].
+
+Explanation:
+- Happiness: 0.1 (Some nostalgic reminiscence may evoke a slight positive emotion)
+- Sadness: 0.4 (The melancholic tone and reflections on past memories evoke a sense of sadness)
+- Fear: 0.3 (The imagery of late-afternoon drunks and the unknown future can evoke a sense of fear)
+- Disgust: 0 (No explicit mention of disgust)
+- Anger: 0.2 (The reference to making a "real man out of you" can suggest a touch of anger or resentment)
+- Surprise: 0.1 (Mild element of surprise as the future is portrayed vividly)
+- Anticipation: 0.2 (The anticipation of the future and what it holds)
+- Trust: 0 (No explicit mention of trust)
+- Distrust: 0 (No explicit mention of distrust)
+- Love: 0 (No explicit mention of love)
+- Saudade: 0 (The nostalgia present does not entirely represent saudade)
+-

@@ -1,0 +1,5 @@
+Based on the text provided, the emotions found are mostly related to endings, which can evoke a mix of emotions such as melancholy, nostalgia, and perhaps some anticipation. Here is the emotion vector for the text:
+
+[0, 0, 0, 0, 0, 0, 0.2, 0, 0, 0, 0, 0, 0, 0.5, 0.7]
+
+This vector indicates a slight anticipation, medium melancholy, and high nostalgia in the text.

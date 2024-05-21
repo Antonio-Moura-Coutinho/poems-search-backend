@@ -1,0 +1,5 @@
+The emotional analysis of the text "felled 1879" yields the following emotion vector:
+
+[0.1, 0.7, 0.5, 0.4, 0.3, 0.3, 0.4, 0.1, 0.4, 0, 0, 0.1, 0.6, 0.7, 0.6]
+
+This vector indicates a high intensity of emotions such as Sadness, Fear, Disgust, Bittersweetness, Melancholy, and Nostalgia. There are moderate levels of Surprise, Anticipation, Distrust, and Trust, with lower levels of Happiness, Anger, and Love.

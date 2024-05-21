@@ -1,0 +1,3 @@
+The emotional content of the text reflects a mixture of emotions. Based on the analysis, the emotion vector for the text is as follows: [0.2, 0.6, 0.2, 0, 0, 0, 0.2, 0.4, 0, 0.3, 0.3, 0, 0.4, 0.4, 0.3].
+
+This indicates a high intensity of emotions such as sadness, trust, love, bittersweetness, melancholy, and nostalgia, with moderate levels of anticipation. Other emotions like happiness, fear, and surprise have lower intensity in this text.

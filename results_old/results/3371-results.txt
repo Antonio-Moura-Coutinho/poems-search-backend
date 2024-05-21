@@ -1,0 +1,11 @@
+To analyze the emotional content of the text, we first need to identify and evaluate the emotions expressed. From the provided text, we can observe the following emotions:
+
+- Happiness: The presence of positive interactions, celebrations, and expressions like "proud" and "smiling" indicate a sense of happiness.
+- Surprise: The element of surprise is evident in the unexpected gesture of the gift and celebration for the narrator.
+- Love: The sentiment of love and appreciation is expressed through the thoughtful gift and supportive comments from Albert and others.
+
+Based on this analysis, we can construct the emotion vector as follows:
+
+[Happiness: 0.6, Sadness: 0, Fear: 0, Disgust: 0, Anger: 0, Surprise: 0.4, Anticipation: 0, Trust: 0.3, Distrust: 0, Love: 0.5, Saudade: 0, Awe: 0, Bittersweetness: 0, Melancholy: 0, Nostalgia: 0]
+
+This emotion vector represents a strong presence of happiness and love, coupled with surprise and a sense of trust in the interactions described in the text.

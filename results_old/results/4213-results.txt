@@ -1,0 +1,4 @@
+An emotion vector for the text "After Lorca" could be as follows: 
+[0.2, 0.4, 0.4, 0, 0, 0, 0.3, 0.2, 0, 0, 0.3, 0, 0.4, 0.4, 0.3]
+
+This suggests moderate levels of sadness, fear, anticipation, trust, bittersweetness, melancholy, and nostalgia, and lower levels of happiness, awe, and surprise.

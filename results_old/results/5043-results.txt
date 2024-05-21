@@ -1,0 +1,12 @@
+Emotion Vector: [0.3, 0.5, 0.7, 0, 0, 0.3, 0.4, 0.6, 0, 0.7, 0, 0.2, 0, 0.4, 0.4]
+
+Explanation:
+- Happiness: 0.3 - Some positive elements in the text like the woman getting married and the choir singing contribute to a moderate level of happiness.
+- Sadness: 0.5 - There are mentions of past tragedies and hardships, such as rape and cutting off hands, which evoke a sense of sadness.
+- Fear: 0.7 - The text includes themes like trauma and uncertainty, which contribute to a high level of fear.
+- Disgust: 0 - There is no explicit mention of anything that would evoke disgust.
+- Anger: 0 - There are no indications of anger in the text.
+- Surprise: 0.3 - The text contains elements of surprise, such as the unexpected turn of events like the woman getting married after experiencing trauma.
+- Anticipation: 0.4 - The text generates a sense of anticipation as it describes the advancement and positive changes in the characters' lives.
+- Trust: 0.6 - The act of getting married and the positive outcomes hint at a sense of trust and hope.
+- Distrust: 0 - There are no elements suggesting distrust in

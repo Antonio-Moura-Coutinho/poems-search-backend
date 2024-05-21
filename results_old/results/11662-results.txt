@@ -1,0 +1,13 @@
+To analyze the emotional content of the text provided, we will identify and measure the intensity of emotions expressed within the text. 
+
+Emotion vector: [0.1, 0.6, 0.7, 0.4, 0.5, 0.3, 0.5, 0.1, 0.3, 0, 0, 0, 0.6, 0.8, 0.7]
+
+Explanation:
+- Happiness: 0.1 - There is a lack of happiness expressed in the text.
+- Sadness: 0.6 - The text conveys a sense of sadness, particularly through the description of the friend's situation and feelings.
+- Fear: 0.7 - Fear is prominent in the text, evident through the friend's belief of being chased and the overall atmosphere of dread.
+- Disgust: 0.4 - There are elements of disgust implied through the lack of kindness and mercy described.
+- Anger: 0.5 - Anger is present in the text, as showcased by the friend's perception of old friends turning against him.
+- Surprise: 0.3 - There is a mild element of surprise, mainly in the unexpected actions and experiences narrated.
+- Anticipation: 0.5 - Anticipation is felt in the sense of impending doom or continued struggle within the narrative.
+- Trust: 0.1 - Trust is minimal in

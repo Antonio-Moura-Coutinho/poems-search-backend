@@ -1,0 +1,8 @@
+Based on the text provided, the emotional content can be analyzed as follows:
+
+- Sadness: The text conveys a sense of sadness and melancholy towards discarded and broken objects, as well as the people associated with their creation.
+- Disgust: There is a hint of disgust towards the poor quality and disposable nature of the objects described.
+- Distrust: The text suggests a distrust towards those who create inferior products for profit, implying a lack of trust in their intentions or craftsmanship.
+
+The emotion vector representing the intensities of the identified emotions could be:
+[0, 0.6, 0, 0.3, 0, 0, 0, 0, 0.4, 0, 0, 0, 0, 0].

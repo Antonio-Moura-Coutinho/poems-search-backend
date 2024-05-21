@@ -1,0 +1,5 @@
+The emotional content of the text includes elements of sadness, guilt, shame, longing, loneliness, and regret. Based on the emotions evoked in the text, the emotion vector could be:
+
+[0, 0.5, 0, 0, 0, 0, 0, 0, 0, 0, 0.4, 0, 0.6, 0.6, 0.8]
+
+This vector reflects high levels of Sadness, Saudade, Melancholy, and Nostalgia, moderate levels of Love, and lower levels of Awe and Bittersweetness. The other emotions are not prominently present in the text.

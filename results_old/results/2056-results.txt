@@ -1,0 +1,5 @@
+To analyze the emotional content of the text and create an emotion vector, we need to interpret the underlying emotions conveyed. Here is the emotion vector based on the text you provided:
+
+[Happiness: 0, Sadness: 0, Fear: 0, Disgust: 0, Anger: 0, Surprise: 0, Anticipation: 0.6, Trust: 0.3, Distrust: 0, Love: 0, Saudade: 0, Awe: 0.8, Bittersweetness: 0, Melancholy: 0, Nostalgia: 0]
+
+In this text, anticipation and awe seem to be the dominant emotions expressed, hence scoring higher in the emotion vector. There is a sense of mystery and wonder implied by the description of the transmission and communication methods, which contribute to the anticipation and awe.

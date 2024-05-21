@@ -1,0 +1,12 @@
+Emotion vector: [0.1, 0.6, 0.4, 0.3, 0.5, 0.2, 0.3, 0.1, 0.4, 0, 0, 0, 0, 0.7, 0.6]
+
+Explanation:
+- Happiness: 0.1 (Low) - There is a sense of loneliness and darkness in the text, which diminishes feelings of happiness.
+- Sadness: 0.6 (Moderate) - The text conveys loneliness, nightmares, trouble, and a tone of sadness.
+- Fear: 0.4 (Moderate) - Phrases like "speak nightmare" and the general atmosphere evoke a sense of fear.
+- Disgust: 0.3 (Low) - Elements like faces full of fire and orange peel might evoke some disgust.
+- Anger: 0.5 (Moderate) - The mention of trouble and the overall darkness may provoke feelings of anger.
+- Surprise: 0.2 (Low) - There are no strong indications of surprise in the text.
+- Anticipation: 0.3 (Low) - The text doesn't strongly evoke anticipation.
+- Trust: 0.1 (Low) - The text does not convey trustworthiness or reliability.
+- Distrust: 0.4 (Moderate) - The unsettling descriptions in the text

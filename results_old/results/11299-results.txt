@@ -1,0 +1,17 @@
+Based on the emotional content of the text, the emotion vector can be calculated as follows:
+
+[Happiness, Sadness, Fear, Disgust, Anger, Surprise, Anticipation, Trust, Distrust, Love, Saudade, Awe, Bittersweetness, Melancholy, Nostalgia]
+
+Emotion Vector: [0.3, 0.4, 0.1, 0, 0, 0, 0.1, 0.4, 0, 0.3, 0, 0, 0, 0.4, 0]
+
+Explanation:
+- Happiness: 0.3 (There are elements of love and charm in the relationship described.)
+- Sadness: 0.4 (There is a sense of worry and concern about the person's behavior.)
+- Fear: 0.1 (There is a slight feeling of worry about the person's actions.)
+- Disgust: 0 (There is no explicit mention of disgust in the text.)
+- Anger: 0 (There is no clear indication of anger.)
+- Surprise: 0 (There are no surprising elements in the text.)
+- Anticipation: 0.1 (There is anticipation regarding the person's unpredictable behavior.)
+- Trust: 0.4 (There is a sense of trust in the relationship described.)
+- Distrust: 0 (There is no explicit indication of distrust.)
+- Love

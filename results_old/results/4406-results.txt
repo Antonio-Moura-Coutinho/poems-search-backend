@@ -1,0 +1,11 @@
+Emotion vector: [0.2, 0.6, 0.5, 0, 0.4, 0.2, 0.3, 0.3, 0.5, 0, 0, 0.1, 0.6, 0.7, 0.7]
+
+Explanation:
+- Happiness: 0.2 (Low happiness as there is a sense of nostalgia, disorganization, and reflecting on past events with a somber tone.)
+- Sadness: 0.6 (High sadness is evident through mentions of the war, death, aging, and loss of intelligence.)
+- Fear: 0.5 (Moderate fear is present, reflecting on the ominous choice, fear of consequences in wartime, and the mess in the current situation.)
+- Disgust: 0 (No explicit disgust is expressed in the text.)
+- Anger: 0.4 (There is some anger indicated towards the disorganization, mess, and potentially the frustration with old age.)
+- Surprise: 0.2 (Low surprise is noted, mainly through unexpected situations like receiving schnapps on a birthday.)
+- Anticipation: 0.3 (Moderate anticipation of important dates, the mention of building something, and the need to deal with organized matters.)
+- Trust: 0.3 (Some level of trust seems to be present among the characters as they collaborate on building the VTOL fighter.)

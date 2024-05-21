@@ -1,0 +1,8 @@
+Emotion vector for the text provided:
+
+[0, 0.6, 0.4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0.3, 0.6, 0]
+
+Explanation:
+- Sadness is the most dominant emotion in the text, with 0.6 intensity. The text conveys a sense of loss and concern.
+- Fear has an intensity of 0.4, possibly due to the mention of "Zombie-ized" and the unsettling behavior described.
+- Melancholy and Nostalgia are also present with an intensity of 0.6, indicating a wistful and somewhat sad tone in the text.

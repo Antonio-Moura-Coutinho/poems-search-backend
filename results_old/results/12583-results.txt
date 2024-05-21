@@ -1,0 +1,1 @@
+Analyzing the emotional content of the text, it conveys a mixture of Sadness, Disgust, and Nostalgia. The predominant emotions are Sadness and Nostalgia, with a hint of Disgust towards pain and loss. The emotional vector representing the intensity of each emotion on a scale from 0 to 1 would be as follows: [0, 0.5, 0, 0.3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0.5, 0].

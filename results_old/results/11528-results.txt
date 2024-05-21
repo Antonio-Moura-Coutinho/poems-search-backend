@@ -1,0 +1,3 @@
+Based on the emotional content analysis of the text, the emotion vector can be represented as follows: [0.1, 0.4, 0.5, 0.6, 0.3, 0.3, 0.2, 0, 0.6, 0, 0, 0.4, 0.5, 0.5, 0].
+
+This vector indicates a higher presence of emotions such as Sadness, Disgust, Distrust, Bittersweetness, Melancholy, and Nostalgia in the text, while also showing some level of Fear and Anger. There is a lack of Happiness, Surprise, Anticipation, Trust, Love, Saudade, and Awe in the emotional content of the text.

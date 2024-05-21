@@ -1,0 +1,3 @@
+The emotional content of the text leans towards sadness, fear, and a touch of melancholy. The emotions of sadness and fear are prevalent due to the tragic event described in the text, where people were killed in an immigration center shooting. The mention of the community's sense of disbelief and the need to make sense of the violent act contribute to the feeling of melancholy. 
+
+Here is the emotion vector based on the analysis: [0, 0.6, 0.6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0.4, 0].

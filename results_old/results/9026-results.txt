@@ -1,0 +1,3 @@
+Based on the text provided, the emotional content seems to revolve around love, affection, and some introspection. The feelings of love and attachment are prominent in the text, along with a sense of contemplation on the nature of love and its impact on the heart.
+
+Emotion Vector: [0.4, 0, 0, 0, 0, 0, 0, 0.6, 0, 0.8, 0, 0, 0, 0, 0]

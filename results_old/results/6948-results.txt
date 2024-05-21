@@ -1,0 +1,6 @@
+Based on the text provided, the emotions that stand out are:
+
+Anticipation, Trust, Awe, Surprise
+
+Emotion Vector:
+[0, 0, 0, 0, 0, 0.5, 0.5, 0.75, 0, 0, 0, 0.5, 0, 0]

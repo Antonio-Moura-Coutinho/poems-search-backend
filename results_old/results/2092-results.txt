@@ -1,0 +1,4 @@
+Based on the text provided, the emotional content seems to revolve around positive emotions such as satisfaction, enjoyment, and appreciation of food. The imagery of various dishes and ingredients being described in a creative and detailed manner suggests a sense of happiness, anticipation, and perhaps a touch of awe. The use of words like "roaring roast cake," "strawberry sushi flummoxed," and "mesquite broiled" conveys a tone of excitement and culinary delight.
+
+Emotion vector: 
+[Happiness: 0.6, Sadness: 0, Fear: 0, Disgust: 0, Anger: 0, Surprise: 0.3, Anticipation: 0.5, Trust: 0.6, Distrust: 0, Love: 0.3, Saudade: 0, Awe: 0.6, Bittersweetness: 0, Melancholy: 0, Nostalgia: 0]

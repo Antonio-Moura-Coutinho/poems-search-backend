@@ -1,0 +1,5 @@
+In the context of the text provided, the emotional content seems to evoke a sense of awe and wonder at the vast scale of the universe and one's own existence within it. There is a feeling of reverence and amazement at the cosmic order and the concept of one's place in the grand scheme of things.
+
+Based on this analysis, the emotion vector could be:
+
+[Awe: 1, Happiness: 0, Sadness: 0, Fear: 0, Disgust: 0, Anger: 0, Surprise: 0, Anticipation: 0, Trust: 0, Distrust: 0, Love: 0, Saudade: 0, Bittersweetness: 0, Melancholy: 0, Nostalgia: 0]

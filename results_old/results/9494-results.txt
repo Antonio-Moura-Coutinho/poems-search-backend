@@ -1,0 +1,10 @@
+To analyze the emotional content of the text, we can identify the following emotions:
+
+- Sadness: The mention of goslings being grabbed from below by a snapper and pulled down to drown evokes a sense of sorrow and sadness.
+- Fear: There is an element of fear present in the text, especially in the description of the potential danger the turtles pose to the goslings.
+- Disgust: The description of the turtles eating bass, sunfish, and frogs, as well as the method used to catch the turtles, can evoke feelings of disgust.
+- Anger: The text conveys a sense of anger or frustration, particularly in the actions taken by the neighbor to deal with the turtles.
+
+Based on these emotions, the emotion vector for the text could be:
+
+[0, 0.4, 0.3, 0.3, 0.5, 0, 0, 0, 0, 0, 0, 0, 0, 0]

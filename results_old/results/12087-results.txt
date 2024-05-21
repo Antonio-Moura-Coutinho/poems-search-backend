@@ -1,0 +1,5 @@
+Analyzing the emotional content of the text, we can detect elements of surprise, fear, and possibly a hint of sadness. Here is the emotion vector based on the text:
+
+[0, 0, 0.2, 0, 0, 0.3, 0, 0, 0, 0, 0, 0, 0, 0.1, 0]
+
+This vector indicates a slight presence of fear and surprise as the primary emotions in the text.

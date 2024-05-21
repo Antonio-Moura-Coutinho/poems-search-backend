@@ -1,0 +1,5 @@
+Based on the text provided, the emotional vector can be analyzed as follows:
+
+[Happiness: 0.5, Sadness: 0, Fear: 0, Disgust: 0, Anger: 0, Surprise: 0, Anticipation: 0, Trust: 0.9, Distrust: 0, Love: 0.8, Saudade: 0, Awe: 0, Bittersweetness: 0, Melancholy: 0, Nostalgia: 0]
+
+The emotions of Happiness, Sadness, Fear, Disgust, Anger, Surprise, Saudade, Awe, Bittersweetness, Melancholy, and Nostalgia are not prominently expressed in the text. However, the emotions of Trust and Love are displayed with a higher intensity. The author expresses admiration and fondness for the power and diversity of language, indicating a strong sense of trust in the significance of words and love for the intricate nature of language.

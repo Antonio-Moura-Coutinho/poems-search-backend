@@ -1,0 +1,5 @@
+The emotional content of the text appears to be a mix of various emotions. After analyzing the text, the emotion vector is as follows:
+
+[0, 0, 0.6, 0, 0.5, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+This vector indicates that the text conveys a moderate level of fear and anger, with some elements of surprise, but lacking significant presence of other emotions.

@@ -1,0 +1,5 @@
+The emotional content of the text seems to convey a mix of nostalgia, admiration, respect, and a sense of storytelling. Below is the emotion vector based on the analysis of the text:
+
+[0, 0, 0, 0, 0, 0, 0.1, 0.2, 0, 0.3, 0.2, 0.2, 0.3, 0.1, 0.1]
+
+This vector represents a higher intensity of emotions such as Trust, Love, Saudade, Awe, Bittersweetness, Melancholy, and a moderate intensity of Anticipation in the text. Feel free to reach out if you need further assistance!

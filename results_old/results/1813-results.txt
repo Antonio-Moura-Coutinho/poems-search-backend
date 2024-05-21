@@ -1,0 +1,4 @@
+Emotion vector analysis of the text:
+[Happiness: 0.2, Sadness: 0.4, Fear: 0.5, Disgust: 0.1, Anger: 0.3, Surprise: 0.1, Anticipation: 0.4, Trust: 0.4, Distrust: 0.2, Love: 0.1, Saudade: 0.1, Awe: 0.2, Bittersweetness: 0.2, Melancholy: 0.4, Nostalgia: 0.3]
+
+The text conveys a mix of emotions with higher intensities of sadness, fear, and anticipation. There are elements of trust, melancholy, and nostalgia present as well. The overall emotional tone appears to be contemplative and uncertain about the fate of Old Charleston, combining elements of hope and apprehension.

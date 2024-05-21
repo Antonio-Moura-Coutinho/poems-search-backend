@@ -1,0 +1,3 @@
+Analyzing the emotional content of the text, we can detect a combination of melancholy, nostalgia, and awe. Based on these emotions, the emotion vector would be as follows:
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0.8, 0.8]

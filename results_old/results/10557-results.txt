@@ -1,0 +1,27 @@
+To analyze the emotional content of the text and create an emotion vector, let's identify the emotions present in the text and assess their intensity.
+
+Happiness: There is a sense of joy, playfulness, and enjoyment in the text, particularly in the descriptions of dancing and swimming. (0.7)
+
+Sadness: There are no explicit signs of sadness in the text. (0)
+
+Fear: The text does not evoke fear. (0)
+
+Disgust: There are no indications of disgust in the text. (0)
+
+Anger: There is no anger expressed in the text. (0)
+
+Surprise: There is an element of surprise in the imaginative descriptions and the unconventional actions described. (0.3)
+
+Anticipation: There is a feeling of anticipation in the anticipation of "The One" and the excitement of the activities described. (0.5)
+
+Trust: The text conveys trust and camaraderie between the individuals engaging in the described activities. (0.6)
+
+Distrust: There are no elements of distrust present in the text. (0)
+
+Love: There is a sense of love and unity among the individuals participating in the activities. (0.4)
+
+Saudade: There is no clear nostalgia or longing expressed in the text. (0)
+
+Awe: The descriptions of the underwater activities and the imagery evoke a sense of awe. (0.6)
+
+Bittersweetness: The text does not contain bittersweet emotions. (

@@ -1,0 +1,4 @@
+Based on the text provided, the emotional vector could be as follows:
+[0.1, 0.2, 0.2, 0.1, 0.1, 0.2, 0.1, 0, 0, 0.2, 0, 0, 0, 0.1, 0]
+
+The intensity of each emotion is represented on a scale from 0 to 1, with highest intensity emotions being Sadness, Fear, Surprise, and Love.

@@ -1,0 +1,3 @@
+This text conveys a sense of sadness, melancholy, nostalgia, and a hint of distrust. The emotions of sadness and melancholy are prominent in the reflection of departures, the mention of abandoned places, and the loss of title to a home. Nostalgia is present in the reminiscence of the past and the deserted railroad depot. The slight hint of distrust is reflected in the description of the deteriorating well water and the smell of fungus. Other emotions like happiness, fear, anger, love, surprise, anticipation, trust, saudade, awe, bittersweetness are not clearly evident in this text.
+
+Here is the emotion vector based on the analysis: [0, 0.6, 0, 0, 0, 0, 0, 0, 0.1, 0, 0, 0, 0, 0.6, 0.4]

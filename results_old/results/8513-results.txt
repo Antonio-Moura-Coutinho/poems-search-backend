@@ -1,0 +1,4 @@
+Emotion vector for the given text:
+[0, 0.6, 0.3, 0, 0, 0.3, 0, 0.2, 0.6, 0, 0, 0, 0.6, 0.8, 0.8]
+
+This text conveys a mix of emotions. The predominant emotions are Sadness, Distrust, Love, Melancholy, and Nostalgia. The intensity of Sadness is quite high, indicating a melancholic tone throughout the text. The presence of Distrust is notable, possibly reflecting the inner conflict and emotional distance felt by the narrator. Love is also prominent, particularly in the description of the relationship and the loss experienced. Melancholy and Nostalgia are strongly felt, evoking a sense of longing and reflection on the past.

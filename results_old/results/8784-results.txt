@@ -1,0 +1,5 @@
+Based on the emotional content of the provided text, the emotion vector would be as follows:
+
+[0, 0.5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0.5, 0]
+
+This vector indicates a high intensity of Sadness and Melancholy, reflecting the somber and somewhat melancholic tone of the text.

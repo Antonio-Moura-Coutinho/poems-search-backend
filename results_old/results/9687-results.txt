@@ -1,0 +1,5 @@
+The emotional content of the text consists of various emotions, including Anticipation (expectation of new discoveries in the landscapes described), Trust (in the wonders of nature and the simplicity of life), Awe (inspired by the natural beauty of the land), Bittersweetness (from the contrast between the simplicity of New England and the harsh realities of life), Melancholy (over the suffering and sacrifices described, particularly in the narrative about the Iroquois), and Hope (for freedom, justice, and progress).
+
+The emotion vector representing the intensity of each emotion on a scale from 0 to 1 would be as follows:
+
+[0.2, 0.3, 0, 0, 0, 0, 0.3, 0.4, 0.2, 0, 0, 0.4, 0.3, 0.2, 0]

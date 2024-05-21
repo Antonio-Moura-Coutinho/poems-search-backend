@@ -1,0 +1,14 @@
+Emotion Vector: [0.1, 0.7, 0.9, 0.4, 0.2, 0.4, 0.6, 0.2, 0.5, 0, 0, 0, 0, 0.6, 0]
+
+Explanation:
+- Happiness: 0.1 - There is a lack of happiness expressed in the text.
+- Sadness: 0.7 - The text conveys a sense of sadness, particularly through the themes of discomfort and a longing for something else.
+- Fear: 0.9 - Fear is prominent, as indicated by feelings of uncertainty and vulnerability.
+- Disgust: 0.4 - Some elements might evoke disgust, possibly related to unpleasant experiences described.
+- Anger: 0.2 - While not a dominant emotion, there is a hint of frustration or discontent.
+- Surprise: 0.4 - There are elements of surprise or unexpected situations within the text.
+- Anticipation: 0.6 - Anticipation is present as the narrator contemplates moving forward and the uncertainty of what lies ahead.
+- Trust: 0.2 - Trust is not a significant theme in the text.
+- Distrust: 0.5 - There is an element of distrust or skepticism, possibly towards the surroundings or circumstances.
+- Love: 0 - Love is not a major emotion displayed in the text.
+- Saud

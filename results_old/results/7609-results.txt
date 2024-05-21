@@ -1,0 +1,5 @@
+Based on the text provided, the emotional analysis yields the following emotion vector:
+
+[0.8, 0, 0, 0, 0, 0.4, 0.6, 0.8, 0, 0.4, 0, 0, 0, 0]
+
+This indicates a high level of Happiness (0.8), Anticipation (0.6), and Trust (0.8) present in the text, with moderate levels of Surprise (0.4) and Love (0.4). The other emotions have negligible intensity in this context.

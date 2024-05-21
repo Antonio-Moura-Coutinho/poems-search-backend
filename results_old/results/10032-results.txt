@@ -1,0 +1,17 @@
+To analyze the emotional content of the text and create an emotion vector, let's examine the emotions expressed in the text:
+
+- Happiness: The text expresses happiness and relief at surviving the crash and being alive.
+- Sadness: There is a hint of sadness in the text, especially when describing the crash and the distrust faced by the pilot.
+- Fear: The fear is evident in the description of the crash and the uncertainty of survival.
+- Disgust: There isn't a clear expression of disgust in the text.
+- Anger: There is a subtle tone of anger towards the prejudice faced by the pilot.
+- Surprise: There is surprise in the fact that the passengers doubted the pilot's ability.
+- Anticipation: There is anticipation for celebration and dinner with the pilot.
+- Trust: Trust is shown in the invitation extended to the pilot for dinner.
+- Distrust: There is a sense of distrust highlighted when passengers doubted the pilot's skills.
+- Love: Love is expressed in the celebration of survival and the invitation for dinner.
+- Saudade: This feeling is not explicitly expressed in the text.
+- Awe: A sense of awe can be seen in the celebration of life after the crash.
+- Bittersweetness: The text carries a bittersweet tone due to the mix of joy, survival, and prejudice.
+- Melancholy: There is a hint of melancholy in the aftermath of the crash.
+- Nostalgia: Although not prominent, there is

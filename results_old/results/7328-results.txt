@@ -1,0 +1,5 @@
+The emotional content of the text involves a deep expression of love, longing, and dependency, with elements of desperation and devotion. Based on the text, the emotion vector could be:
+
+[0.5, 0.6, 0.2, 0, 0, 0, 0.7, 0.9, 0, 0.8, 0, 0.3, 0.6, 0.7, 0.6]
+
+This vector reflects high levels of Sadness, Anticipation, Trust, Love, Melancholy, and Nostalgia, and moderate levels of Happiness and Bittersweetness.

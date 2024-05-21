@@ -1,0 +1,5 @@
+The emotional content of the text includes a mix of sadness, fear, anger, distrust, and melancholy. The presence of grief, anger towards discrimination, fear related to war and violence, and a general sense of melancholy and sorrow contribute to these emotions. Here is the emotion vector based on the analysis:
+
+[0, 0.6, 0.7, 0, 0.7, 0, 0, 0, 0.7, 0, 0.6, 0, 0.7, 0.7, 0.6]
+
+This vector indicates a high intensity of sadness, fear, anger, distrust, love, saudade, bittersweetness, melancholy, and nostalgia within the text.

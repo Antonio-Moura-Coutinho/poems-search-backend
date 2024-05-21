@@ -1,0 +1,5 @@
+To extract the emotional content from the text provided, we can analyze the words and the overall tone. Here is an emotion vector representing the intensity of each emotion based on the text:
+
+[Happiness: 0, Sadness: 0.5, Fear: 0, Disgust: 0, Anger: 0, Surprise: 0, Anticipation: 0, Trust: 0.1, Distrust: 0, Love: 0, Saudade: 0, Awe: 0, Bittersweetness: 0.1, Melancholy: 0.7, Nostalgia: 0]
+
+This vector indicates a significant presence of sadness and melancholy in the text, with a hint of bittersweetness and a small degree of trust. The overall tone seems reflective and tinged with a sense of loss or longing.

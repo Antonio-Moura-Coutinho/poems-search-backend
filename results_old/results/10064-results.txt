@@ -1,0 +1,5 @@
+Based on the text you provided, the emotional content seems neutral or even slightly detached. The text describes a practical situation without explicit emotional cues. In this case, the emotional vector would reflect a lack of strong emotional intensity for most emotions. Here's the emotional vector for the text:
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+This vector indicates low intensity or absence of the listed emotions in the text.

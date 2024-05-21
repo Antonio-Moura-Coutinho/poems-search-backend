@@ -1,0 +1,5 @@
+The emotional content of the text includes elements of admiration, contemplation, introspection, resignation, and a sense of profound connection and detachment. Here is the emotion vector based on the intensity of different emotions present in the text:
+
+[Happiness: 0.1, Sadness: 0.2, Fear: 0, Disgust: 0, Anger: 0.1, Surprise: 0.1, Anticipation: 0.3, Trust: 0.4, Distrust: 0, Love: 0.2, Saudade: 0, Awe: 0.2, Bittersweetness: 0.5, Melancholy: 0.4, Nostalgia: 0.3].
+
+This vector reflects the mix of emotions expressed in the text, with higher intensities in emotions such as Bittersweetness, Melancholy, Trust, Love, and Anticipation.

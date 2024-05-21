@@ -1,0 +1,11 @@
+To analyze the emotional content of the text and create an emotion vector, let's identify the predominant emotions expressed in the text:
+
+- Happiness: The text conveys a sense of joy and happiness, especially in the lines celebrating the arrival of day, the sweet air, and the singing birds to greet the speaker's love.
+- Anticipation: There is an anticipation of meeting the loved one, as seen in the excitement expressed through the imagery of birds singing and waking up to greet the love.
+- Love: A strong theme of love and affection is present throughout the text, with the speaker eagerly awaiting to greet their beloved.
+
+Based on the analysis, the emotion vector for the text could be:
+
+[0.6, 0, 0, 0, 0, 0, 0.4, 0.6, 0, 0.5, 0, 0, 0, 0, 0]
+
+This vector indicates a high intensity of Happiness, Trust, and Love, moderate Anticipation, and no significant presence of other emotions.

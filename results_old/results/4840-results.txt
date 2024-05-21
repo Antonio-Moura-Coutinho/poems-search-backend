@@ -1,0 +1,19 @@
+To analyze the emotional content of the text provided, let's break it down emotion by emotion and assign intensity scores on a scale of 0 to 1 for each of the specified emotions.
+
+- Happiness: 0
+- Sadness: 0.4
+- Fear: 0.3
+- Disgust: 0.3
+- Anger: 0
+- Surprise: 0.2
+- Anticipation: 0.3
+- Trust: 0.2
+- Distrust: 0.1
+- Love: 0
+- Saudade: 0
+- Awe: 0.4
+- Bittersweetness: 0.3
+- Melancholy: 0.5
+- Nostalgia: 0
+
+Therefore, the emotion vector for the provided text is: [0, 0.4, 0.3, 0.3, 0, 0.2, 0.3, 0.2, 0.1, 0, 0, 0.4, 0.3, 0.5, 0].

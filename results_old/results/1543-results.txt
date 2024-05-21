@@ -1,0 +1,3 @@
+The emotional content of the text includes elements of Sadness, Love, Melancholy, Awe, Nostalgia, and Trust. Here is the emotion vector based on the intensity of each emotion:
+
+[0.2, 0.4, 0, 0, 0, 0, 0, 0.6, 0, 0.6, 0, 0.4, 0, 0.6, 0.4]

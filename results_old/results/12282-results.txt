@@ -1,0 +1,10 @@
+To analyze the emotional content of the text, we can identify various emotions expressed within it. The text conveys feelings of:
+
+1. Fear: The mention of sharing the animal's fear, observing a sky flaring and spectral, and describing the storm crashing like god-wars down the east all evoke a sense of fear.
+2. Pride: The pride in being afraid, holding one's head high to share the fear, feeling proud along with the deer communicates a sense of pride.
+3. Nostalgia: The reminiscence of other light-storms and memories, the cold memories in the mind, and the deer not remembering anything suggests a feeling of nostalgia and wistfulness.
+4. Awe: Descriptions of the sky with greenish waves and ribbons, the deer's presence under the strange light, and the storm crashing down evoke a feeling of awe.
+5. Bittersweetness: The mix of emotions such as pride, fear, sharing, and acknowledgment, along with the bitter snow and cold memories, create a bittersweet tone in the text.
+
+Therefore, the emotion vector for this text could be:
+[0, 0, 0.6, 0, 0, 0, 0, 0.3, 0, 0, 0, 0, 0.4, 0.3, 0]

@@ -1,0 +1,19 @@
+Emotion vector analysis of the text:
+
+- Happiness: 0.2
+- Sadness: 0.7
+- Fear: 0.1
+- Disgust: 0.3
+- Anger: 0.4
+- Surprise: 0.4
+- Anticipation: 0.2
+- Trust: 0.2
+- Distrust: 0.2
+- Love: 0.5
+- Saudade: 0.3
+- Awe: 0.3
+- Bittersweetness: 0.6
+- Melancholy: 0.7
+- Nostalgia: 0.6
+
+Overall emotion vector: [0.2, 0.7, 0.1, 0.3, 0.4, 0.4, 0.2, 0.2, 0.2, 0.5, 0.3, 0.3, 0.6, 0.7, 0.6]

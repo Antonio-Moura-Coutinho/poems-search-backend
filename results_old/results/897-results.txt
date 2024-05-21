@@ -1,0 +1,3 @@
+The emotional content of the text is primarily leaning towards sadness, regret, contemplation, and repentance. There are elements of fear, as exemplified by the references to punishment and suffering. There is also a sense of resignation and acceptance of fate, accompanied by a desire for forgiveness and redemption. Love is expressed in the humility and repentance shown by the characters. Here is an emotion vector based on the text:
+
+[0.1, 0.7, 0.1, 0, 0, 0, 0.1, 0.3, 0, 0.3, 0, 0, 0, 0.1, 0.2]

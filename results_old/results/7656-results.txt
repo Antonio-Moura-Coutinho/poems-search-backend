@@ -1,0 +1,5 @@
+The emotional content of the text exhibits a mix of emotions. The emotions found in the text appear to be: Sadness, Fear, Disgust, Anger, Trust, and Awe.
+
+Here is the emotion vector based on the intensity of each emotion:
+
+[Sadness: 0.6, Fear: 0.4, Disgust: 0.2, Anger: 0.3, Trust: 0.5, Awe: 0.4]

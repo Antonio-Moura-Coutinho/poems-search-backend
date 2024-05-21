@@ -1,0 +1,4 @@
+To analyze the emotional content of the text, we can identify certain emotions expressed within the context. The text conveys a sense of deep sadness, despair, and some level of fear or unease. There is a feeling of darkness, internal struggle, and a desire for relief from emotional pain. The imagery of suffering, collapse, and begging adds to the overall tone of sadness and distress.
+
+Based on this analysis, the emotion vector for the text is as follows:
+[0, 0.8, 0.4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0].

@@ -1,0 +1,5 @@
+Based on the analysis of the text, the emotional vector would be as follows:
+
+[0.1, 0.5, 0.4, 0.2, 0.3, 0.3, 0.4, 0.1, 0.4, 0.3, 0.3, 0.1, 0.4, 0.3, 0.3]
+
+This indicates a higher intensity of emotions like sadness, fear, and distrust compared to happiness and trust. It also shows elements of surprise, anticipation, and bittersweetness throughout the text.

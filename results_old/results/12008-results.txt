@@ -1,0 +1,7 @@
+Analyzing the emotional content of the text, the emotions present are as follows:
+
+Sadness, Disgust, Fear, Anticipation, Distrust
+
+Based on the emotional analysis, the emotion vector for the text would be:
+
+[0, 0.65, 0.25, 0.45, 0, 0, 0.3, 0, 0.2, 0, 0, 0, 0, 0.3, 0]

@@ -1,0 +1,5 @@
+Emotion vector for the given text:
+
+[Happiness: 0.8, Sadness: 0.1, Fear: 0.1, Disgust: 0.0, Anger: 0.0, Surprise: 0.0, Anticipation: 0.3, Trust: 0.6, Distrust: 0.1, Love: 0.9, Saudade: 0.0, Awe: 0.2, Bittersweetness: 0.2, Melancholy: 0.1, Nostalgia: 0.1]
+
+This emotion vector indicates that the dominant emotions in the text are Happiness, Love, and Trust. The text also conveys elements of Anticipation, Awe, and Bittersweetness to a lesser extent.

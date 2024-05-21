@@ -1,0 +1,21 @@
+To analyze the emotional content of the text and create an emotion vector, we need to identify keywords and phrases indicative of different emotions. Based on the text provided, we can identify the following emotions:
+
+Happiness: belief in possibility, growth, stability, humor
+Sadness: fear, missing something basic, quakiness of infancy and old age
+Fear: being afraid, big things happening
+Disgust: secretary of defense thinking calico cats are agents of the devil
+Anger: potential rejection of the self, missing something basic
+Surprise: unexpected events like the statement about calico cats
+Anticipation: building a boat, metaphorical possibilities
+Trust: belief in oneself, inner text being correct
+Distrust: skepticism about completion or fulfillment
+Love: nurturing a baby, stable relationships
+Saudade: shimmer and shimmy into being and out of existence
+Awe: questioning reality, perspective shifts
+Bittersweetness: feeling of missing something but also acceptance
+Melancholy: quakiness of infancy and old age, shimmer and shimmy into being and out again
+Nostalgia: stability, horses in the stable of the myth
+
+Based on these emotions, the calculated emotion vector may look like this:
+
+[0.3, 0.4, 0.3, 0.1, 0.1, 0.2, 0.4, 0.3, 0.3, 0.

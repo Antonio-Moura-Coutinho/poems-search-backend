@@ -1,0 +1,5 @@
+The emotional content of the text is complex and includes a range of emotions. Based on the analysis, the emotion vector for the text is as follows on a scale from 0 to 1:
+
+[Happiness: 0.2, Sadness: 0.6, Fear: 0.1, Disgust: 0.3, Anger: 0.4, Surprise: 0, Anticipation: 0.4, Trust: 0.2, Distrust: 0.5, Love: 0.4, Saudade: 0.3, Awe: 0.1, Bittersweetness: 0.5, Melancholy: 0.7, Nostalgia: 0.3]
+
+The text evokes a strong sense of sadness, melancholy, and bittersweetness, along with elements of distrust, anger, and anticipation. There are also traces of love and nostalgia present.

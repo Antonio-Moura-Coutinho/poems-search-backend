@@ -1,0 +1,15 @@
+To analyze the emotional content of the provided text, we will evaluate the key emotions displayed throughout. After analyzing the text, we can generate an emotion vector representing the intensity of each emotion from 0 to 1.
+
+- Happiness: The text does not exhibit a strong sense of happiness but rather a sense of adaptation and exploration, so we assign a low intensity for happiness.
+- Sadness: The text hints at feelings of detachment and longing for familiarity, indicating some level of sadness.
+- Fear: There is a mention of fear regarding potential hazing in a fraternity, contributing to a moderate level of fear.
+- Disgust: There is no explicit indication of disgust in the text.
+- Anger: There are no clear instances of anger expressed in the text.
+- Surprise: There are no elements suggesting surprise in the text.
+- Anticipation: Anticipation is present regarding fraternity pledging and potential outcomes, resulting in a moderate level of anticipation.
+- Trust: Trust is apparent in the formation of new friendships and interactions, warranting a moderate level of trust.
+- Distrust: There is no significant display of distrust in the text.
+- Love: Love is hinted at through past relationships and interactions with new people, so we assign a low level of love.
+- Saudade: The text conveys a sense of longing and nostalgia for home, indicating a moderate level of saudade.
+- Awe: There are no indications of awe in the text.
+- Bittersweetness:

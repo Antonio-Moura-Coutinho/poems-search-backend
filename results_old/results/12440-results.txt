@@ -1,0 +1,11 @@
+To analyze the emotional content of the text, we can infer the following emotions present in varying intensities:
+
+- Happiness: Some level of amusement or excitement is present.
+- Surprise: A sense of surprise or wonder due to unexpected events.
+- Anticipation: A feeling of anticipation or curiosity in the narrator's reaction.
+- Trust: Trust in the Swiss monk's words or the game of cards he describes.
+
+Based on the analysis, the emotion vector for the text could be approximately:
+[0.3, 0, 0, 0, 0, 0.3, 0.2, 0.4, 0, 0, 0, 0, 0, 0]
+
+This vector indicates a moderate level of happiness, anticipation, and trust, with a hint of surprise in the text.

@@ -1,0 +1,5 @@
+This text conveys emotions of Love, Trust, Happiness, Anticipation, and a hint of Nostalgia. Here is the emotional vector:
+
+[0.3, 0, 0, 0, 0, 0, 0.2, 0.4, 0, 0.5, 0, 0, 0, 0.1, 0]
+
+These values represent the intensities of the respective emotions found in the text.

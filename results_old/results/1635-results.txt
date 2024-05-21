@@ -1,0 +1,20 @@
+Emotion Vector: [0.1, 0.3, 0.7, 0.5, 0.4, 0.2, 0.6, 0.2, 0.8, 0, 0.3, 0.4, 0.5, 0.4, 0]  
+
+Explanation of Emotions:
+- Happiness: 0.1 (Low)
+- Sadness: 0.3 (Moderate)
+- Fear: 0.7 (High)
+- Disgust: 0.5 (Moderate)
+- Anger: 0.4 (Moderate)
+- Surprise: 0.2 (Low)
+- Anticipation: 0.6 (High)
+- Trust: 0.2 (Low)
+- Distrust: 0.8 (High)
+- Love: 0 (Not Present)
+- Saudade: 0.3 (Low-Moderate)
+- Awe: 0.4 (Low-Moderate)
+- Bittersweetness: 0.5 (Moderate)
+- Melancholy: 0.4 (Moderate)
+- Nostalgia: 0 (Not Present)
+
+This emotion vector suggests that the text contains a high level of fear, disgust, anticipation, and distrust. It also shows moderate levels of sadness, anger, bittersweetness, and melancholy. Other emotions such

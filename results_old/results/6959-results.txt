@@ -1,0 +1,5 @@
+This text primarily conveys emotions of sadness, longing, and unrequited love. Here is the emotion vector for the text:
+
+[0, 0.7, 0, 0, 0, 0, 0, 0, 0, 0.6, 0, 0, 0, 0, 0]
+
+This vector represents high levels of sadness and love, indicating a deep sense of longing and unfulfilled affection.

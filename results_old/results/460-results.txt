@@ -1,0 +1,10 @@
+Based on the emotional content of the text, the emotion vector would look like this:
+
+[0, 0.8, 0.5, 0.6, 0.6, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+
+Explanation:
+- Sadness (0.8): The text conveys a sense of loss of control, anger, and concern for the trees dying, leading to a predominantly sad emotional tone.
+- Fear (0.5): There is a fear associated with the consequences depicted in the text, especially regarding the environment and the state of the trees.
+- Disgust (0.6): The text mentions anger towards greed and privilege, which elicits a feeling of disgust.
+- Anger (0.6): The brendas being angry, as well as the posturing of the privileged, contribute to a strong sense of anger in the text.
+- Melancholy (1): The overall tone of the text carries a deep sense of melancholy and reflection.

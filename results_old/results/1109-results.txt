@@ -1,0 +1,7 @@
+Analyzing the emotional content of the provided text, the emotions expressed include:
+
+Sadness, Disgust, Anger, Surprise, Distrust, Bittersweetness, Melancholy
+
+The emotion vector based on the intensity of these emotions in the text would be:
+
+[0, 0.7, 0, 0.7, 0.6, 0.4, 0, 0, 0, 0, 0, 0.7, 0.7, 0]

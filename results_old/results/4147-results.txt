@@ -1,0 +1,9 @@
+Analyzing the emotional content of the text, the emotions expressed include:
+
+- Anticipation: The mention of "They don’t play loud music" may lead to an anticipation of quiet or peace.
+- Surprise: The revelation or assumption that "I think they’re both mimes" may lead to a mild surprise.
+
+Based on the information in the text, the emotion vector could be as follows:
+[0, 0, 0, 0, 0, 0.3, 0.4, 0, 0, 0, 0, 0, 0, 0, 0]
+
+This vector indicates some anticipation and mild surprise, with low intensity in other emotions.

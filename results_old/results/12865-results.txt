@@ -1,0 +1,16 @@
+Emotion Vector: [0, 0.7, 0.6, 0.6, 0.6, 0, 0, 0, 0, 0, 0, 0, 0.8, 0.7, 0.9]
+
+Explanation:
+- Happiness: 0 (no indication of happiness in the text)
+- Sadness: 0.7 (the text conveys sadness through the imagery of Christs going to calvary and the description of women's hearts being rent)
+- Fear: 0.6 (the mention of death and swords can evoke a sense of fear)
+- Disgust: 0.6 (the depiction of death and grave might lead to feelings of disgust)
+- Anger: 0.6 (the idea of Christs marching to calvary and the sorrow of women can evoke anger)
+- Surprise: 0 (no surprise in the text)
+- Anticipation: 0 (no anticipation in the text)
+- Trust: 0 (no trust indicated)
+- Distrust: 0 (no distrust indicated)
+- Love: 0 (love is not expressed in the text)
+- Saudade: 0 (no direct indication of saudade)
+- Awe: 0 (no awe expressed)
+- Bittersweetness: 0.8 (the text carries a bittersweet tone with the juxtaposition of holiness and sorrow)

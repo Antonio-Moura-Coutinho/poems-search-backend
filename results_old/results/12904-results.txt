@@ -1,0 +1,21 @@
+To analyze the emotional content of the text provided, let's break it down:
+
+- Happiness: Words like "joy," "rejoice," and the overall tone of the verses suggest a sense of happiness and longing for joy.
+- Sadness: There are no strong indicators of sadness in the text.
+- Fear: There are no mentions of fear in the text.
+- Disgust: There are no indications of disgust.
+- Anger: There are no mentions of anger.
+- Surprise: There are no elements to indicate surprise.
+- Anticipation: The longing and desire expressed in the text indicate a sense of anticipation.
+- Trust: The speaker seems to trust and yearn for Love-Lily.
+- Distrust: There are no elements that suggest distrust.
+- Love: The entire text revolves around themes of love and admiration.
+- Saudade: The yearning and desire expressed in the text could be associated with saudade.
+- Awe: The admiration and almost worshipful tone towards Love-Lily could be seen as awe-inspiring.
+- Bittersweetness: While there is a sense of joy, there is also longing and desire, which can be bittersweet.
+- Melancholy: The longing and deep emotions expressed in the text may evoke a sense of melancholy.
+- Nostalgia: The text doesn't explicitly evoke nostalgia.
+
+Based on this analysis, the emotion vector for the text provided could be:
+
+[0.5, 0,

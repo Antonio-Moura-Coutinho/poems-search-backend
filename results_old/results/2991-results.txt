@@ -1,0 +1,10 @@
+Analyzing the emotional content of the text, the predominant emotions found are:
+- Anger
+- Fear
+- Disgust
+- Anticipation
+- Distrust
+
+Emotion vector: [0, 0, 0.4, 0.6, 0.6, 0, 0.6, 0, 0.7, 0, 0, 0.4, 0, 0]
+
+These values indicate the intensity of each emotion in the text based on the scale provided.

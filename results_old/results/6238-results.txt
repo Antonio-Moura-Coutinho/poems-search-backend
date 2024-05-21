@@ -1,0 +1,19 @@
+The emotional vector for the provided text is as follows: [0.1, 0.7, 0.6, 0.3, 0.5, 0.4, 0.5, 0.4, 0.3, 0, 0, 0, 0.6, 0.7, 0.8].
+
+- Happiness: 0.1
+- Sadness: 0.7
+- Fear: 0.6
+- Disgust: 0.3
+- Anger: 0.5
+- Surprise: 0.4
+- Anticipation: 0.5
+- Trust: 0.4
+- Distrust: 0.3
+- Love: 0
+- Saudade: 0
+- Awe: 0
+- Bittersweetness: 0.6
+- Melancholy: 0.7
+- Nostalgia: 0.8
+
+This text conveys strong emotions of sadness, fear, melancholy, and nostalgia. It also contains elements of bittersweetness, which contribute to the high levels of melancholy and nostalgia. Feelings of anger, disgust, surprise, and anticipation are also present, though to a lesser extent compared to the dominant emotions. Love is not prominently expressed in the text. The emotions in this text indicate a complex mixture of negative and introspective feelings

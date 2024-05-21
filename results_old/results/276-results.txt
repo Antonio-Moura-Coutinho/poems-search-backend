@@ -1,0 +1,15 @@
+The emotional content analysis of the text suggests the following emotion vector: [0.1, 0.5, 0.6, 0, 0.6, 0, 0, 0.3, 0.8, 0, 0, 0, 0.8, 0.75, 0.5].
+
+Explanation:
+
+- Happiness: 0.1 (Low happiness as the text primarily conveys sadness, fear, and anger)
+- Sadness: 0.5 (High sadness due to the themes of loss, death, and mourning in the text)
+- Fear: 0.6 (Moderate fear is evoked by the mention of war, hidden grenades, and death)
+- Disgust: 0 (No explicit mention of disgust in the text)
+- Anger: 0.6 (High anger due to the mention of death caused by a drunk driver and the desire to spit on the perpetrator)
+- Surprise: 0 (No elements suggesting surprise in the text)
+- Anticipation: 0 (No signs of anticipation in the text)
+- Trust: 0.3 (Moderate trust displayed through forgiving the drunk driver for his actions)
+- Distrust: 0.8 (High distrust implied by the anger towards the drunk driver and the act of visiting him in prison)
+- Love: 0 (No clear expressions of love in the text)
+- Saudade:

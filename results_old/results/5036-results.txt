@@ -1,0 +1,13 @@
+To analyze the emotional content of the text provided, we can identify various emotions and their intensities within the text. Here is the emotion vector representing the emotional content of the text:
+
+[0.2, 0.5, 0.4, 0.2, 0.3, 0.2, 0.3, 0.2, 0.2, 0, 0, 0, 0.4, 0.4, 0]
+
+Explanation:
+- Happiness: 0.2 - There are elements of fear, sadness, and disgust present that overshadow any sense of happiness in the text.
+- Sadness: 0.5 - The text contains themes of gloom, loss, and haunting memories, evoking a predominant sense of sadness.
+- Fear: 0.4 - The references to fear-inducing situations such as gas attacks and wartime horrors contribute to the feeling of fear.
+- Disgust: 0.2 - The mention of chewed eyes and gas attacks elicits a moderate level of disgust.
+- Anger: 0.3 - There are subtle hints of anger in the text, especially related to the horrors of war and loss.
+- Surprise: 0.2 - The text doesn't convey a strong sense of surprise.
+- Anticipation: 0.3 - There is anticipation of fear and tragedy with the foreshadowing of grim events.
+- Trust: 0

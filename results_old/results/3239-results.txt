@@ -1,0 +1,3 @@
+Emotion Vector: [0.4, 0, 0, 0, 0, 0, 0.2, 0.4, 0, 0, 0, 0, 0, 0, 0] 
+
+Explanation: The text conveys a sense of happiness (mention of achievements like earning straight A's, activities such as dance lessons, being part of various clubs) and anticipation (possible future aspirations of teaching history or making a mark on it). There is a positive and hopeful tone in the description of Carole Robertson, which contributes to the higher values for Happiness and Anticipation in the emotion vector.

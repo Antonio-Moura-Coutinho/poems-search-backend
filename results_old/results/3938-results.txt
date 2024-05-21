@@ -1,0 +1,3 @@
+The emotional content in the text seems to include elements of Sadness (lonely teardrops shed for Greg), Disgust (relationships and betrayals), Anticipation (situational anticipation), and Nostalgia (reflection on past events). Here's the emotion vector based on the intensity of each emotion:
+
+[0, 0.4, 0, 0.2, 0, 0, 0.3, 0, 0, 0, 0, 0, 0, 0.4, 0]

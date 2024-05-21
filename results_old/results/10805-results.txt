@@ -1,0 +1,15 @@
+The emotional vector for the text is: [0.3, 0.6, 0.2, 0.1, 0.1, 0.4, 0.3, 0.5, 0.1, 0, 0, 0.4, 0, 0.5, 0]
+
+Explanation:
+- Happiness: 0.3 (Moderate happiness is reflected in the peaceful and serene imagery)
+- Sadness: 0.6 (The overall tone is melancholic and reflective)
+- Fear: 0.2 (There is a sense of stillness that may evoke a subtle feeling of fear)
+- Disgust: 0.1 (No indications of disgust in the text)
+- Anger: 0.1 (No signs of anger in the text)
+- Surprise: 0.4 (There is a sense of surprise in the unexpected beauty of Adlestrop)
+- Anticipation: 0.3 (There is anticipation in the build-up of the scene)
+- Trust: 0.5 (Trust is reflected in the reliability and familiarity of the setting)
+- Distrust: 0.1 (No indications of distrust in the text)
+- Love: 0 (No direct expressions of love in the text)
+- Saudade: 0 (No specific longing or nostalgia for something absent)
+- Awe: 0.4 (The description of the natural

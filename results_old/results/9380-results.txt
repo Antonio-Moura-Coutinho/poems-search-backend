@@ -1,0 +1,5 @@
+Emotional content analysis of the text results in the following emotion vector:
+
+[0.1, 0.6, 0.7, 0.6, 0.5, 0.4, 0.4, 0.2, 0, 0, 0, 0.3, 0.5, 0.4, 0.3]
+
+This vector shows a high intensity of emotions such as Sadness, Fear, Disgust, and Anger, indicating a somber and solemn emotional tone in the text. The presence of emotions like Anticipation and Melancholy also reflects a sense of uncertainty and contemplation.

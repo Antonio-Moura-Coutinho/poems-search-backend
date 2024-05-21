@@ -1,0 +1,5 @@
+To analyze the emotional content of the text, we can identify the emotions present in each line and determine their intensities. Here is the emotion vector representing the intensity of each emotion in the text:
+
+[Happiness: 0.1, Sadness: 0.6, Fear: 0.3, Disgust: 0.2, Anger: 0.2, Surprise: 0.1, Anticipation: 0.2, Trust: 0.2, Distrust: 0.3, Love: 0.2, Saudade: 0, Awe: 0, Bittersweetness: 0.3, Melancholy: 0.5, Nostalgia: 0.2]
+
+The text predominantly conveys emotions of sadness, melancholy, and bittersweetness, with a mix of fear, distrust, and other subtle emotions.

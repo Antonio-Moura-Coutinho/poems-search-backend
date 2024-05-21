@@ -1,0 +1,5 @@
+The emotional content of the text seems to evoke a mix of emotions including fear, disgust, and anticipation. Here is the emotion vector based on the analysis:
+
+[0, 0, 0.4, 0.4, 0, 0, 0.2, 0, 0, 0, 0, 0, 0, 0]
+
+This vector indicates a moderate intensity of fear and disgust, as well as a low intensity of anticipation in the text.

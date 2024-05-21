@@ -1,0 +1,12 @@
+Analyzing the emotional content of the text, we can identify the following emotions and their intensities in the vector format [Happiness, Sadness, Fear, Disgust, Anger, Surprise, Anticipation, Trust, Distrust, Love, Saudade, Awe, Bittersweetness, Melancholy, Nostalgia]:
+
+[0.2, 0.3, 0.3, 0.1, 0.1, 0, 0.4, 0.6, 0, 0.5, 0, 0, 0.5, 0.7, 0]
+
+Explanation:
+- Happiness: 0.2 - There is a sense of contentment and guidance present in the text.
+- Sadness: 0.3 - The themes of leaving behind old ways and worldly struggles contribute to this emotion.
+- Fear: 0.3 - The text reflects a cautious approach and awareness of the world's challenges.
+- Disgust: 0.1 - There is a subtle hint of displeasure or rejection of certain worldly elements.
+- Anger: 0.1 - While not a dominant emotion, there is a slight undercurrent of resistance or defiance.
+- Surprise: 0 - There are no elements that evoke surprise in the text.
+- Anticipation: 0.4 - The text encourages looking ahead and anticipating the future with trust in oneself and a higher

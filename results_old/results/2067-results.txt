@@ -1,0 +1,15 @@
+Emotion Vector: [0, 0.8, 0.7, 0, 0.6, 0.6, 0.3, 0.1, 0.8, 0, 0, 0, 0, 0, 0]
+
+Explanation:
+- Sadness (0.8): The text conveys a strong sense of sadness through the character weeping and expressing fear of being killed.
+- Fear (0.7): There is a high level of fear indicated by the character's statement that someone wants to kill them.
+- Anger (0.6): The mention of someone wanting to kill the character suggests a feeling of anger and threat.
+- Surprise (0.6): The abruptness of the situation may evoke a sense of surprise in the reader.
+- Anticipation (0.3): There is a slight hint of anticipation in the anxiety about the perceived threat.
+- Trust (0.1): The trust in the situation seems low as the character is expressing fear and distress.
+- Love (0): No explicit mention of love in the text.
+- Saudade (0): No specific longing or nostalgia is evident in the text.
+- Awe (0): The text does not evoke a sense of awe.
+- Bittersweetness (0): There is no bittersweet emotion indicated.
+- Melancholy (0): The text carries a sense of deep sadness but not melancholy.
+-

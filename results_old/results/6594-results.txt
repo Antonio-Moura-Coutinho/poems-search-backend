@@ -1,0 +1,3 @@
+The emotional content of the text involves a mix of sadness, disgust, anger, fear, and distrust. Here is the emotion vector based on the intensity of each emotion:
+
+[Sadness: 0.4, Disgust: 0.4, Anger: 0.3, Fear: 0.2, Distrust: 0.3, Happiness: 0, Surprise: 0, Anticipation: 0, Trust: 0, Love: 0, Saudade: 0, Awe: 0, Bittersweetness: 0, Melancholy: 0, Nostalgia: 0]

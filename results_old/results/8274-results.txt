@@ -1,0 +1,13 @@
+Based on the text provided, the emotional content can be analyzed as follows:
+
+- Sadness: The text conveys a sense of mourning and loss, as it describes the folding of a flag at a funeral and mentions specific individuals who have passed away. The repetition of phrases such as "take this flag" and "instead of a friend, brother, father, etc., take this flag" emphasizes the theme of bereavement.
+
+- Love: The text also contains an element of love and respect for the deceased individuals, as evidenced by the act of folding the flag in their honor and offering it as a symbolic gesture of remembrance and appreciation.
+
+- Trust: There is a sense of trust implied in the act of presenting the folded flag as a symbol of national unity and loyalty to the country and its fallen leaders.
+
+Based on this analysis, the emotion vector for the provided text could be:
+
+[0, 0.8, 0, 0, 0, 0, 0, 0.3, 0, 0.5, 0, 0, 0, 0, 0]
+
+This vector indicates high levels of sadness, love, and trust in the text.

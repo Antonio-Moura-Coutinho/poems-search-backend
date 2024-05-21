@@ -1,0 +1,5 @@
+Based on the text provided, the emotional content seems to include elements of Fear, Disgust, Anticipation, and Melancholy. The dense and wild jungle setting, the descriptions of insects, snakes, and other creatures, as well as the sense of being lost and abandoned in the environment, contribute to these emotional tones.
+
+The emotion vector based on the text would look like this: [0, 0, 0.3, 0.3, 0, 0, 0.4, 0, 0, 0, 0, 0, 0, 0, 0]. 
+
+This vector represents a moderate level of Fear and Disgust, a significant amount of Anticipation, and a presence of Melancholy in the text.

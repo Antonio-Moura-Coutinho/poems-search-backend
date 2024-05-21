@@ -1,0 +1,14 @@
+Emotion Vector: [0.1, 0.7, 0.6, 0.4, 0.5, 0.1, 0.2, 0.3, 0.7, 0.4, 0, 0, 0.6, 0.8, 0.7]
+
+Explanation:
+- Happiness: 0.1 - The text conveys very little happiness, with predominantly negative emotions.
+- Sadness: 0.7 - The text contains feelings of sadness, disappointment, jealousy, and melancholy.
+- Fear: 0.6 - There are elements of fear and horror in descriptions of undesirable outcomes.
+- Disgust: 0.4 - The text expresses disgust towards certain situations and behaviors.
+- Anger: 0.5 - There is a sense of anger and frustration towards perceived injustices or unpleasant experiences.
+- Surprise: 0.1 - There is minimal surprise in the text.
+- Anticipation: 0.2 - Anticipation is low, as the focus is more on negative emotions.
+- Trust: 0.3 - There are instances where trust is questioned or betrayed.
+- Distrust: 0.7 - The text conveys a significant amount of distrust and betrayal.
+- Love: 0.4 - There is a mention of love, but it is overshadowed by negative emotions and circumstances.
+- Saudade: 0 -

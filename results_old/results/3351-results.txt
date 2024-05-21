@@ -1,0 +1,9 @@
+To analyze the emotional content of the text, we can detect underlying sentiments and emotions expressed in the poem. The emotions portrayed in the text include Anticipation, Nostalgia, and a sense of Journey.
+
+Emotion Vector: 
+[0, 0, 0, 0, 0, 0, 0.5, 0, 0, 0, 0, 0, 0, 0, 0.7] 
+
+Explanation: 
+- Anticipation is present in the poem as it conveys the idea of looking ahead to create your own path.
+- Nostalgia is reflected in the lines that evoke looking back on the path taken.
+- The Journey element is evident in the concept of travel and making one's own road.

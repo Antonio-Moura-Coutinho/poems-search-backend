@@ -1,0 +1,9 @@
+Based on the emotional content of the text provided, the emotion vector can be computed as follows:
+
+[Happiness, Sadness, Fear, Disgust, Anger, Surprise, Anticipation, Trust, Distrust, Love, Saudade, Awe, Bittersweetness, Melancholy, Nostalgia]
+
+Analyzing the text, we can see emotions such as sadness, fear, and a hint of disgust. There is also a sense of anticipation and melancholy present. 
+
+Here is the emotion vector calculated for the text:
+
+[0.1, 0.4, 0.2, 0.2, 0, 0, 0.1, 0, 0, 0, 0, 0, 0.1, 0, 0]

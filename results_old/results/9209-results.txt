@@ -1,0 +1,3 @@
+This text conveys a mix of emotions such as Love, Anticipation, and Joy. There is a sense of longing and determination in the speaker's pursuit of their Love interest. Based on the text, the emotion vector could be:
+
+[0.2, 0, 0, 0, 0, 0, 0.3, 0.7, 0, 0.8, 0, 0, 0.3, 0, 0]

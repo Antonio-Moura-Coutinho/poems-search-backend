@@ -1,0 +1,5 @@
+This text conveys emotions of longing, nostalgia, and a sense of loss. The speaker appears to be reminiscing about a past time of innocence and joy, contrasting it with their current state of exile and longing for love. The emotions in the text can be captured in the emotion vector as follows:
+
+[Happiness, Sadness, Fear, Disgust, Anger, Surprise, Anticipation, Trust, Distrust, Love, Saudade, Awe, Bittersweetness, Melancholy, Nostalgia]
+
+[0, 0.3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0.8]

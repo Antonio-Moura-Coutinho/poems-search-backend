@@ -1,0 +1,7 @@
+[Happiness, Sadness, Fear, Disgust, Anger, Surprise, Anticipation, Trust, Distrust, Love, Saudade, Awe, Bittersweetness, Melancholy, Nostalgia]
+
+Emotion vector for the text:
+
+[0.3, 0.2, 0.4, 0, 0, 0.3, 0.3, 0.4, 0, 0.5, 0, 0.4, 0, 0.3, 0]
+
+This text conveys a mix of emotions, with elements of happiness, anticipation, trust, and love (represented by higher values in those categories). It also contains a sense of awe and bittersweetness, indicated by moderate values in those emotions. The presence of fear and melancholy is somewhat lower but still noticeable in the text.

@@ -1,0 +1,14 @@
+Emotion Vector: [0.1, 0.45, 0.2, 0, 0, 0, 0.3, 0.1, 0, 0.3, 0, 0, 0.4, 0.4, 0.4]
+
+Explanation:
+- Happiness: 0.1 - There is a lack of happiness expressed in the text.
+- Sadness: 0.45 - The text contains a significant amount of sadness, particularly in the reflections and descriptions of longing and farewell.
+- Fear: 0.2 - There is a slight undertone of fear, possibly related to the unknown or changes depicted in the text.
+- Disgust: 0 - There is no clear expression of disgust in the text.
+- Anger: 0 - There is no indication of anger in the text.
+- Surprise: 0 - There is no surprise evident in the text.
+- Anticipation: 0.3 - There is an element of anticipation, especially in the narrator's thoughts and reflections about the past and future.
+- Trust: 0.1 - Trust is minimally present in the text.
+- Distrust: 0 - There is no distrust expressed.
+- Love: 0.3 - The text conveys some love, especially in the mention of the man the narrator loves.
+- Saudade: 0 - There is no explicit mention of saudade

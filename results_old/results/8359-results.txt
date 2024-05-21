@@ -1,0 +1,9 @@
+Based on the text provided, the emotional content can be analyzed as follows:
+
+- Sadness: The description of the dog with fear and the rabbit with its neck broken evoke a sense of sadness.
+- Anger: There is anger indicated by the owner yelling at Bosco, and possibly anger towards the man who raised the rabbit.
+- Fear: The fear in the dog's demeanor adds to the emotional tone.
+- Disgust: There may be a sense of disgust at the violent scene described with the rabbit's broken neck.
+- Anticipation: There might be a hint of anticipation or suspense in wondering what will happen next or how the situation will be resolved.
+
+Based on this analysis, the emotion vector for the text could be estimated as follows: [0, 0.4, 0.2, 0.1, 0.3, 0].

@@ -1,0 +1,17 @@
+[Happiness, Sadness, Fear, Disgust, Anger, Surprise, Anticipation, Trust, Distrust, Love, Saudade, Awe, Bittersweetness, Melancholy, Nostalgia]
+
+Emotion Vector: [0.1, 0.6, 0.2, 0, 0, 0, 0.3, 0, 0, 0.2, 0, 0, 0, 0.4, 0.4]
+
+Explanation:
+- Happiness: 0.1 (Low happiness as the overall tone is more reflective and somber)
+- Sadness: 0.6 (High sadness due to the reflective and melancholic nature of the text)
+- Fear: 0.2 (Some elements evoke a sense of uncertainty or fear)
+- Disgust: 0 (No explicit disgust emotions in the text)
+- Anger: 0 (No anger expressed)
+- Surprise: 0 (No surprising elements in the text)
+- Anticipation: 0.3 (Some anticipation of change or events indicated)
+- Trust: 0 (No explicit trust mentioned)
+- Distrust: 0 (No specific distrust mentioned)
+- Love: 0.2 (Hints at love through references to the lover and reflection)
+- Saudade: 0 (No explicit saudade expressed)
+- Awe: 0 (No awe-inducing

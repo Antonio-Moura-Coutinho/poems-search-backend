@@ -1,0 +1,9 @@
+The emotional content of the text can be broken down into the following emotions:
+
+Happiness: The text conveys joy and positive emotions, celebrating the beauty of spring and the passage of time. [0.8]
+Anticipation: There is an element of looking forward to the future and imagining the reader's experience in a hundred years from now. [0.5]
+Nostalgia: The text also contains a sense of longing for the past, reminiscing about flowers and memories from a hundred years ago. [0.6]
+Love: There is a theme of emotional connection and shared experiences that evokes a feeling of love. [0.4]
+Awe: The beauty of nature and the passage of time inspire a sense of awe and wonder. [0.3]
+
+Based on the emotional analysis, the emotion vector for the text could be: [0.8, 0, 0, 0, 0, 0, 0.5, 0.4, 0, 0, 0, 0.3, 0, 0.6].

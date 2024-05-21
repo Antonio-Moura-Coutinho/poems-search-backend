@@ -1,0 +1,9 @@
+Based on the provided text, we can infer the emotional content as follows:
+
+- Sadness: Mention of Joel's death and visiting his grave can evoke sadness.
+- Disgust: The speaker expresses strong negative feelings about visiting graves and considers it a waste of time.
+
+The emotion vector based on the text would be:
+[0, 0.4, 0, 0.4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+This vector indicates a moderate level of sadness and disgust, with the absence of other emotions.

@@ -1,0 +1,8 @@
+To analyze the emotional content of the text, we can identify several emotions based on the words and imagery presented. Here is the emotion vector representing the intensity of each emotion in the text:
+
+[Happiness: 0, Sadness: 0.2, Fear: 0, Disgust: 0, Anger: 0, Surprise: 0.6, Anticipation: 0, Trust: 0, Distrust: 0, Love: 0, Saudade: 0, Awe: 0.8, Bittersweetness: 0, Melancholy: 0.3, Nostalgia: 0]
+
+Explanation of Emotions:
+- Sadness (0.2) and Melancholy (0.3) are present due to the somber and reflective tone of the text.
+- Surprise (0.6) is represented by the sudden appearance of the orcas, creating a sense of unexpected wonder.
+- Awe (0.8) is evoked by the imagery of the orcas rising out of the water, creating a sense of majesty and awe in the reader.

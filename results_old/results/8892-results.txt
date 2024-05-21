@@ -1,0 +1,5 @@
+The emotional content of the text seems to contain elements of Trust, Anticipation, Love, and a sense of Legacy. Let's generate the emotion vector based on these emotions:
+
+[0, 0, 0, 0, 0, 0, 0.4, 0.7, 0, 0.5, 0, 0, 0, 0]
+
+This vector indicates a moderate level of Trust, Anticipation, and Love in the text.

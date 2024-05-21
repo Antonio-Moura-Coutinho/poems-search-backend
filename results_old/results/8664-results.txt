@@ -1,0 +1,3 @@
+Analyzing the emotional content of the text, we can see a mix of various emotions such as anger, distrust, sorrow, disillusionment, defiance, and a touch of nostalgia. The intensity of each emotion can be represented in the emotion vector as follows:
+
+[0, 0.6, 0.25, 0, 0.6, 0, 0, 0.2, 0.6, 0, 0, 0, 0.4, 0.3, 0]

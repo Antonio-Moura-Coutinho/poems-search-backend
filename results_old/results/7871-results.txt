@@ -1,0 +1,16 @@
+Upon analyzing the emotional content of the text, the emotion vector for it would be as follows:
+
+[0.4, 0.3, 0.1, 0, 0, 0, 0.2, 0.4, 0, 0, 0, 0.4, 0, 0.3, 0] 
+
+Explanation:
+- Happiness: 0.4 (Indicated by the imagery of a river wandering through a valley and a rainbow, suggesting positive and serene emotions)
+- Sadness: 0.3 (Implied by the melancholic tone introduced by phrases like 'summer passes under,' conveying a sense of transience and sadness)
+- Fear: 0.1 (There are no direct indicators of fear in the text)
+- Disgust: 0 (There are no elements evoking disgust)
+- Anger: 0 (There are no expressions of anger)
+- Surprise: 0 (There are no elements that suggest surprise)
+- Anticipation: 0.2 (Suggested by the anticipation of what may come next with the river and rainbow)
+- Trust: 0.4 (Indicated by the peacefulness and tranquility associated with the scene)
+- Distrust: 0 (There are no cues for distrust)
+- Love: 0 (No direct mentions of love)
+- Saudade: 0 (Though the text hints at a nostalgic tone, the emotion

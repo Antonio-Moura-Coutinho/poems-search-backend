@@ -1,0 +1,16 @@
+To analyze the emotional content of the text and create an emotion vector, let's break down the emotions portrayed in the text:
+
+1. Happiness: There is a sense of indulgence and satisfaction in the description of food and flavors, so there is a slight presence of happiness.
+2. Sadness: There is a hint of melancholy in the tone, particularly towards the end where the speaker describes the emptiness after the indulgence.
+3. Fear: There is a subtle element of fear in the imagery of the overwhelming consumption and the idea of having to restrict food intake drastically.
+4. Disgust: The descriptions of excessive consumption and the aftermath of indulgence hint at some disgust.
+5. Anger: There is no explicit anger in the text.
+6. Surprise: There is no clear surprise in the text.
+7. Anticipation: Anticipation is present in the way the speaker imagines and craves food.
+8. Trust: Trust is not explicitly depicted in the text.
+9. Distrust: Distrust is not explicitly depicted in the text.
+10. Love: The intense desire for food and the rich memories portrayed can suggest a form of love for indulgence.
+11. Saudade: There is a hint of longing or nostalgia for the flavors and experiences described.
+12. Awe: There is no explicit awe in the text.
+13. Bittersweetness: The combination of indulgence and emptiness afterwards conveys a bittersweet feeling.
+14.

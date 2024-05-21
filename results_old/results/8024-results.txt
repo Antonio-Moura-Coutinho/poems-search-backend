@@ -1,0 +1,16 @@
+To analyze the emotional content of the text and generate an emotion vector, we will extract the emotions conveyed in the text. 
+
+Based on the text provided, the following emotions are present:
+
+- Sadness: The text conveys a sense of melancholy, longing, and introspection. There are references to past relationships, regret, and missed opportunities.
+- Anticipation: There is a sense of anticipation or tension as the characters interact and reflect on their relationships and past experiences.
+- Nostalgia: The text evokes feelings of nostalgia as the characters think about their past and the moments they shared with others.
+
+Using this analysis, we can create the emotion vector:
+
+[0, 0.5, 0, 0, 0, 0, 0.3, 0, 0, 0, 0, 0, 0, 0.7, 0.7]
+
+In this vector:
+- Sadness is the most prominent emotion, indicating a high intensity of sadness.
+- Nostalgia and Anticipation are present but less intense compared to Sadness. 
+- Other emotions are not significant in this text.

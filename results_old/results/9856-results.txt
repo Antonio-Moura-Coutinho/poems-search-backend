@@ -1,0 +1,5 @@
+To analyze the emotional content of the text and create an emotion vector, we will examine the dominant emotions portrayed in each line. Based on the text, the emotions that stand out are Sadness, Disgust, Trust, and Distrust. 
+
+Here is the emotion vector representing the intensity of each emotion on a scale from 0 to 1:
+
+[Sadness: 0.4, Disgust: 0.3, Trust: 0.2, Distrust: 0.5, Happiness: 0, Fear: 0, Anger: 0, Surprise: 0, Anticipation: 0, Love: 0, Saudade: 0, Awe: 0, Bittersweetness: 0, Melancholy: 0.4, Nostalgia: 0]

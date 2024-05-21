@@ -1,0 +1,1 @@
+The emotional content of the text appears to convey a sense of determination, anticipation, perseverance, and a hint of frustration. The emotions present in the text can be represented in the emotion vector as follows: [0.2, 0, 0, 0, 0, 0, 0.5, 0.6, 0, 0, 0, 0, 0, 0, 0].

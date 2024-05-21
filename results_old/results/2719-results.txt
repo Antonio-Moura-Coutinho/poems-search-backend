@@ -1,0 +1,3 @@
+The emotional content of the text seems to primarily convey a sense of observation and reflection with hints of admiration and curiosity. 
+
+Emotion vector: [0.3, 0, 0, 0, 0, 0.2, 0.4, 0.5, 0, 0.3, 0, 0.3, 0.2, 0.2]

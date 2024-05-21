@@ -1,0 +1,5 @@
+The emotional content of the text seems to include elements of Anticipation, Awe, and Wonder. Here is the emotion vector based on the text:
+
+[0, 0, 0, 0, 0, 0, 0.8, 0.3, 0, 0, 0, 0.5, 0, 0]
+
+This vector indicates a high level of Anticipation and Awe, with some elements of Wonder present throughout the text.

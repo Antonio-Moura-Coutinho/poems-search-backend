@@ -1,0 +1,11 @@
+Analyzing the emotional content of the text, we can identify various emotions such as: Anger, Defiance, Strength, Rebellion, Reflection, and Empowerment. Based on these emotions, we can construct an emotion vector. Since the emotions mentioned in the text do not exactly align with the provided emotions in the scale, we will assign values based on the closest matching emotions:
+
+- Anger: 0.4
+- Defiance: 0.3
+- Strength: 0.2
+- Rebellion: 0.4
+- Reflection: 0.1
+- Empowerment: 0.2
+
+Therefore, the emotion vector for the text would be approximately:
+[0, 0, 0, 0, 0.4, 0, 0, 0, 0, 0, 0, 0, 0, 0]

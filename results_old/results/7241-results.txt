@@ -1,0 +1,12 @@
+To analyze the emotional content of the text provided, we will explore the prominent emotions and their intensities. 
+
+1. Happiness: The text expresses happiness and joy in celebrating the triumph over death and sin, as well as the gratitude for redemption through love. The intensity of happiness is high throughout the text.
+2. Sadness: There is minimal explicit sadness in the text, as the focus is more on joy and love. The intensity of sadness is low.
+3. Fear: Fear is not prominently expressed in the text. The intensity of fear is low.
+4. Disgust: There is no indication of disgust in the text. The intensity of disgust is at 0.
+5. Anger: Anger is absent in the text, as the tone is primarily positive and reverent. The intensity of anger is at 0.
+6. Surprise: There are no elements of surprise in the text. The intensity of surprise is at 0.
+7. Anticipation: Anticipation is present in the text in anticipation of eternal happiness and love. The intensity of anticipation is moderate.
+8. Trust: Trust is evident in the belief in divine love and redemption. The intensity of trust is high.
+9. Distrust: Distrust is not conveyed in the text. The intensity of distrust is at 0.
+10. Love: Love is a central theme in the text, expressed in gratitude, devotion, and the call to love one another. The intensity of love is high

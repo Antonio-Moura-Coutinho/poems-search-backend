@@ -1,0 +1,5 @@
+The emotional content analysis of the text yields the following emotion vector:
+
+[0.01, 0.22, 0.13, 0.07, 0.11, 0.13, 0.09, 0.05, 0.11, 0.04, 0.01, 0.03, 0.09, 0.12]
+
+This vector represents the intensity of various emotions in the text based on the provided scale. The text primarily portrays emotions associated with Sadness, Fear, Anger, Surprise, and Disgust, with lower intensities for other emotions.

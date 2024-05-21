@@ -1,0 +1,1 @@
+After analyzing the emotional content of the text, the emotion vector is as follows: [0.05, 0.4, 0.4, 0.6, 0.6, 0.6, 0.6, 0.05, 0.1, 0.05, 0, 0.6, 0.4, 0.4, 0.4]. The text displays high levels of Sadness, Fear, Disgust, Anger, Surprise, Anticipation, Bittersweetness, Melancholy, and Nostalgia, with some elements of Trust and some minor aspects of Happiness.

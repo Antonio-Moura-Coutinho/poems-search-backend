@@ -1,0 +1,6 @@
+Analyzing the emotional content of the text, the predominant emotions present in the poem seem to be Sadness, Love, Anticipation, and Trust. The narrator expresses feelings of unrequited love, determination to continue loving despite rejection, anticipation of the loved one realizing their mistake, and trust in the depth of their own emotions.
+
+Considering the intensity of these emotions, the emotion vector could be interpreted as follows:
+[Sadness: 0.6, Happiness: 0, Fear: 0, Disgust: 0, Anger: 0, Surprise: 0, Anticipation: 0.8, Trust: 0.7, Distrust: 0, Love: 0.7, Saudade: 0, Awe: 0, Bittersweetness: 0, Melancholy: 0, Nostalgia: 0]
+
+This vector reflects the emotional intensity of the key emotions identified in the text while accounting for the absence of other specific emotions.

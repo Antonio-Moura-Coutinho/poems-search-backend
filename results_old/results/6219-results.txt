@@ -1,0 +1,6 @@
+To analyze the emotional content of the text, we can identify the following emotions:
+
+- Fear ("The dancer trembles because te ruoia is a kind of sorcery" and "The frigate birds fly high above us and I’m afraid of falling")
+
+With this information, the emotion vector for the text can be represented as follows:
+[0, 0, 0.8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]

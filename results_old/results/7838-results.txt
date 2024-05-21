@@ -1,0 +1,15 @@
+To analyze the emotional content of the text and create an emotion vector, let's break down the emotions conveyed in the text:
+
+- Sadness: The text conveys a sense of sadness with the depiction of soldiers dying in battle and the somber imagery of wooden crosses marking their places.
+
+- Fear: The fear is implied through phrases like "Soldiers pitch and cough and twitch" and "Choking through the whole attack," indicating the distress and danger the soldiers are facing.
+
+- Anger: There is a hint of anger in the text, especially through the imagery of soldiers struggling and dying in battle, which can evoke feelings of frustration and anger towards the circumstances of war.
+
+- Anticipation: The anticipation of impending danger and the chaos of battle can be felt in the text as the soldiers face the brutal reality of warfare.
+
+Based on these emotional cues, we can construct the emotion vector:
+
+[0, 0.6, 0.5, 0, 0.4, 0, 0.5, 0, 0, 0, 0, 0, 0, 0.4, 0]
+
+This vector indicates a high intensity of sadness, fear, and anticipation, along with some level of anger, bittersweetness, and melancholy in the text.

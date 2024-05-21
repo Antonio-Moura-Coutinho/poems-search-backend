@@ -1,0 +1,5 @@
+This text contains a mix of emotions, but some prevalent emotions are anticipation, fear, and a sense of challenge. The mention of the White Whale as the subject of the poems creates anticipation and a sense of challenge for the participants. There is also an element of fear and danger associated with the tasks or consequences described in the text. Based on this analysis, the emotion vector for this text could be:
+
+[0, 0, 0.4, 0, 0, 0, 0.6, 0, 0, 0, 0, 0.3, 0, 0]
+
+The emotions of Fear, Anticipation, and Awe are more prominent in this text.

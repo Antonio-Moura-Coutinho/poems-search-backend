@@ -1,0 +1,7 @@
+Based on the provided text, the emotions present and their intensities are as follows:
+
+[Happiness, Sadness, Fear, Disgust, Anger, Surprise, Anticipation, Trust, Distrust, Love, Saudade, Awe, Bittersweetness, Melancholy, Nostalgia]
+
+[0.3, 0.3, 0.2, 0.1, 0.2, 0, 0.3, 0.2, 0.3, 0.4, 0, 0, 0.2, 0.3, 0]
+
+The emotion vector indicates a mix of emotions with notable intensities in Anticipation, Love, Trust, Melancholy, Happiness, and Sadness.

@@ -1,0 +1,10 @@
+To analyze the emotional content of the text, we can identify various emotions present such as:
+
+- **Sadness**: expressed through the loss of nature with the removal of the magnolia tree and the imagery of the once vibrant yard now turned into a simple parking space.
+- **Love**: the mother's interaction with her child, encouraging him to listen to the birds and appreciating the nature in the midst of the urban noise.
+- **Anticipation**: the child eagerly following the birds' movements and sounds.
+- **Melancholy**: a sense of longing or sadness is evoked through the description of the changes on Magnolia Avenue.
+
+Based on the emotional content analysis, the emotion vector for the text could be:
+
+[0, 0.4, 0, 0, 0, 0, 0.3, 0.4, 0, 0.3, 0, 0, 0.3, 0.3, 0]

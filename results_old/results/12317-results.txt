@@ -1,0 +1,14 @@
+To analyze the emotional content of the text and create an emotion vector, we will look for keywords and phrases that indicate specific emotions. Based on the text provided, the emotions present seem to be:
+
+- Happiness (Father's pride)
+- Anger (Profanity, aggressive language)
+- Sadness (Tony's situation, the tenderness that is not fully expressed)
+- Trust (Father's actions, care for Tony)
+
+Now, let's create the emotion vector:
+[Happiness, Sadness, Fear, Disgust, Anger, Surprise, Anticipation, Trust, Distrust, Love, Saudade, Awe, Bittersweetness, Melancholy, Nostalgia]
+
+The intensity of each emotion on a scale from 0 to 1 in the vector would be:
+[0.2, 0.2, 0, 0, 0.5, 0, 0, 0.4, 0, 0, 0, 0, 0, 0, 0]
+
+This vector indicates a moderate presence of happiness and sadness, a significant presence of anger, and a moderate level of trust in the text.

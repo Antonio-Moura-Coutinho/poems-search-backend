@@ -1,0 +1,5 @@
+Based on the emotional content of the text provided, the intensity vector for the emotions would be:
+
+[0, 0.4, 0.8, 0, 0.8, 0, 0.2, 0, 0, 0, 0, 0, 0, 0.6, 0.6]
+
+This vector indicates a high level of sadness, fear, anger, melancholy, and nostalgia in the text. It also shows a moderate level of anticipation, bittersweetness, and nostalgia.

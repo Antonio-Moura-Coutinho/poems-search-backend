@@ -1,0 +1,5 @@
+Based on the emotional content of the text, the emotion vector could be approximated as follows:
+
+[Happiness: 0, Sadness: 0.7, Fear: 0.5, Disgust: 0.5, Anger: 0.6, Surprise: 0.3, Anticipation: 0.3, Trust: 0, Distrust: 0.5, Love: 0, Saudade: 0, Awe: 0, Bittersweetness: 0.8, Melancholy: 0.6, Nostalgia: 0.7]
+
+Does this help? If you have any further questions or need more assistance, feel free to ask.

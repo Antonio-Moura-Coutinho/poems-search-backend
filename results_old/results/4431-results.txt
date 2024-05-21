@@ -1,0 +1,4 @@
+Based on the emotional content of the text provided, the emotion vector could be approximated as: 
+[0.3, 0.4, 0.2, 0.2, 0.2, 0.1, 0.3, 0.3, 0.2, 0.2, 0, 0.1, 0.3, 0.4, 0]
+
+This vector indicates a mix of emotions present in the text, with higher levels of sadness, distrust, melancholy, and nostalgia, moderate levels of happiness, fear, disgust, anticipation, and trust, and lower levels of anger, surprise, love, saudade, awe, and bittersweetness.

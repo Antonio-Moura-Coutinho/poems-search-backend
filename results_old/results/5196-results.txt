@@ -1,0 +1,12 @@
+To analyze the emotional content of the text provided, we can identify the following emotions and their intensities:
+
+- Sadness: The text conveys a sense of longing, loss, and a connection to the past, which evokes feelings of sadness. (0.6)
+- Fear: The mention of an underworld and the idea of needing guidance to navigate it can evoke feelings of fear or uncertainty. (0.4)
+- Trust: The desire for tokens and guidance suggests a level of trust in the unseen forces or ritual practices. (0.3)
+- Anticipation: The anticipation of journeying to an older world and seeking remnants from the past can generate feelings of anticipation. (0.2)
+- Love: The need to touch and be touched, and the idea of feeling connected to a shared history, hints at feelings of love. (0.3)
+- Nostalgia: The reference to the old world, memories of being touched, and the plea to remember life on earth all contribute to a sense of nostalgia. (0.5)
+
+With these emotional intensities in mind, the emotion vector for the text could be:
+
+[0, 0.6, 0.4, 0, 0, 0, 0.2, 0.3, 0, 0, 0, 0.3, 0, 0.5]

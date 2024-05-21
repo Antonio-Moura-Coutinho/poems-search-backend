@@ -1,0 +1,19 @@
+Based on the text provided, the emotional content can be analyzed as follows:
+
+- Happiness: Low
+- Sadness: Low
+- Fear: Low
+- Disgust: Low
+- Anger: Low
+- Surprise: Low
+- Anticipation: Low
+- Trust: High
+- Distrust: Low
+- Love: Low
+- Saudade: Low
+- Awe: Low
+- Bittersweetness: Low
+- Melancholy: Low
+- Nostalgia: Low
+
+Emotion vector: [0, 0, 0, 0, 0, 0, 0, 0.6, 0, 0, 0, 0, 0, 0]

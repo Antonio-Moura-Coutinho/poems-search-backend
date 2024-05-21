@@ -1,0 +1,12 @@
+Emotion vector: [0, 0.63, 0.83, 0.51, 0.46, 0.52, 0.42, 0.47, 0.82, 0.20, 0.23, 0.10, 0.59, 0.71, 0.33]
+
+Explanation:
+- Happiness: 0
+- Sadness: The text contains a significant amount of sadness, focusing on the wife's struggles and emotions, hence the high score.
+- Fear: There are elements of fear, especially in the descriptions of the wife's situation and feelings, contributing to a high score.
+- Disgust: The text reveals some aspects that could evoke disgust, particularly in the portrayal of certain scenarios, justifying the moderate score.
+- Anger: There's a presence of anger, particularly in the dynamic between the characters and the situations described, leading to a moderate score.
+- Surprise: The text hints at surprising or unexpected elements, warranting a moderate score.
+- Anticipation: There is anticipation present in the text, especially in the questions raised and the uncertainties surrounding the wife, resulting in a moderate score.
+- Trust: The text includes themes of trust, albeit in a complex and possibly strained manner, contributing to a moderate score.
+- Distrust: The theme of distrust is prevalent in the text, affecting the interactions and dynamics between the characters, leading to a high score.

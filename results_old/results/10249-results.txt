@@ -1,0 +1,5 @@
+The emotional analysis of the text yields the following emotion vector on a scale from 0 to 1 for the specified emotions:
+
+[Happiness: 0.05, Sadness: 0.8, Fear: 0.1, Disgust: 0.05, Anger: 0.05, Surprise: 0, Anticipation: 0.1, Trust: 0.2, Distrust: 0, Love: 0.2, Saudade: 0, Awe: 0, Bittersweetness: 0.25, Melancholy: 0.6, Nostalgia: 0.15]
+
+This analysis indicates a high level of sadness, bittersweetness, and melancholy in the text, along with elements of trust, love, and anticipation.

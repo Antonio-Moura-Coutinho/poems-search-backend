@@ -1,0 +1,1 @@
+This text contains a mix of emotions such as sadness, fear, anticipation, distrust, and nostalgia. Based on the emotional content, here is the emotion vector for the text: [0, 0.2, 0.3, 0, 0, 0, 0.3, 0, 0.2, 0, 0, 0, 0, 0.4, 0].

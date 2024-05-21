@@ -1,0 +1,5 @@
+The emotional content analysis of the text suggests the presence of the following emotions with varying intensities:
+
+[Happiness: 0, Sadness: 0.3, Fear: 0.2, Disgust: 0.1, Anger: 0.1, Surprise: 0, Anticipation: 0, Trust: 0, Distrust: 0, Love: 0, Saudade: 0, Awe: 0, Bittersweetness: 0.2, Melancholy: 0.4, Nostalgia: 0]
+
+The predominant emotions detected in the text are sadness, bittersweetness, and melancholy, with moderate levels of fear, disgust, and anger. The absence of positive emotions such as happiness, trust, love, and awe indicates a darker and more somber emotional tone in the text.

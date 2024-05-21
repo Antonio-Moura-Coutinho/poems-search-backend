@@ -1,0 +1,3 @@
+The emotional content of the text is predominantly sad, with elements of disgust, anger, and a hint of anticipation. The emotions of trust, love, saudade, awe, bittersweetness, melancholy, and nostalgia are less prominent or absent in this text.
+
+Emotion vector: [0, 0.7, 0, 0.5, 0.6, 0, 0.1, 0, 0, 0, 0, 0, 0, 0]

@@ -1,0 +1,10 @@
+To analyze the emotional content of the text, we can identify the following emotions based on the context provided:
+
+- Happiness: The text reflects a sense of happiness and warmth in the parent's observation of the child's messy room and possessions.
+- Surprise: The parent seems surprised and charmed by the child's secret world and messy room.
+
+Given the above emotional analysis, we can derive an emotion vector that reflects the intensity of happiness and surprise as follows:
+
+[0.8, 0, 0, 0, 0, 0.6, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+The vector indicates a high level of happiness (0.8) and a moderate level of surprise (0.6) in the text.

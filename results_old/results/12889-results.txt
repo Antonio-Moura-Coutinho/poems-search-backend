@@ -1,0 +1,9 @@
+To analyze the emotional content of the text, we can identify the following emotions:
+
+- Sadness: The text conveys a sense of melancholy and reflection on historical events and the passage of time.
+- Awe: The mention of ancient battles and glory evokes a feeling of awe and admiration.
+- Nostalgia: The repetition of the phrase "Long centuries have come and gone" and the reflection on the past evoke a sense of nostalgia for bygone eras.
+
+Based on these emotions, the emotion vector for the text could be:
+
+[0, 0.5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0.5, 0.5, 0.5]

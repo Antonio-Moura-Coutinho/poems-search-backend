@@ -1,0 +1,5 @@
+Emotion vector for the text:
+
+[Happiness: 0.1, Sadness: 0.7, Fear: 0, Disgust: 0.2, Anger: 0.4, Surprise: 0, Anticipation: 0, Trust: 0.1, Distrust: 0.6, Love: 0, Saudade: 0, Awe: 0, Bittersweetness: 0.7, Melancholy: 0.8, Nostalgia: 0.2]
+
+Based on the analysis of the text, the emotions of Sadness, Distrust, Bittersweetness, and Melancholy are the most prominent, each having a relatively high intensity. The text conveys a sense of loss, disillusionment, and longing for something that is unattainable or has been taken away. There are elements of disappointment, frustration, and a feeling of emptiness throughout the text.

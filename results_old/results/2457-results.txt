@@ -1,0 +1,7 @@
+To analyze the emotional content of the text, let's identify the emotions present:
+
+- Disgust: The mention of the sour smell, crushed ants, and the overall imagery of handling decaying organic matter like poison oak, bark, and shards of logs evoke a sense of disgust.
+- Anticipation: The description of gathering wood, using tools like wedges, sledge, peavey, and maul, and the activities of splitting the wood and stacking for the winter suggests a sense of anticipation.
+- Exhaustion: The physical labor involved in gathering wood, the sweat, and the mention of bodies hardening while learning the pace allude to exhaustion and physical strain.
+
+Based on this analysis, the emotion vector for the text could be as follows: [0, 0, 0, 0.8, 0, 0, 0.4, 0, 0, 0, 0, 0, 0, 0, 0.6].

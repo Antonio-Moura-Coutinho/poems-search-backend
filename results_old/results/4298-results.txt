@@ -1,0 +1,5 @@
+In this text, there is a playful and humorous tone with a hint of wordplay related to the repetition of "bare-backed," "barebacked," and "bear." The use of alliteration and the unexpected image of a bear as a barback contribute to a sense of surprise and light-heartedness.
+
+Based on the emotional content of the text, the emotion vector could be:
+
+[0.4, 0, 0.2, 0, 0, 0.6, 0.3, 0.4, 0, 0, 0, 0, 0.2, 0.1, 0]

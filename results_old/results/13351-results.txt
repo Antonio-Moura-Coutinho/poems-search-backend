@@ -1,0 +1,16 @@
+Based on the emotional content of the text provided, the emotion vector would likely be:
+
+[0.3, 0, 0, 0.1, 0.1, 0.4, 0.2, 0, 0, 0.1, 0, 0.3, 0, 0] 
+
+Explanation:
+- Happiness: 0.3 (Mentions "Yankee Doodle riding on a pony" and the playful act of sticking a feather in his hat)
+- Sadness: 0 (No evident sad content)
+- Fear: 0 (No evident fear content)
+- Disgust: 0.1 (Possibly for the playful and slightly nonsensical act of calling a feather macaroni)
+- Anger: 0.1 (Mildly expressive phrases could be interpreted as a bit of jest)
+- Surprise: 0.4 (The unexpected action of Yankee Doodle calling a feather macaroni could evoke a sense of surprise)
+- Anticipation: 0.2 (Hints at the viewer's anticipation of what is to come next or what the significance of calling a feather macaroni might be)
+- Trust: 0 (No evident trust-related content)
+- Distrust: 0 (No evident distrust-related content)
+- Love: 0.1 (Mild reference to affection or endearment in the playful actions)
+- Saudade:

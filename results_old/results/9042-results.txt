@@ -1,0 +1,1 @@
+Analyzing the emotional content of the text, the emotions expressed include: Anticipation, Trust, Love, Awe. Based on these emotions, the emotion vector for the text would be: [0, 0, 0, 0, 0, 0, 0.6, 0.6, 0, 0.7, 0, 0.7, 0, 0, 0].

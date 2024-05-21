@@ -1,0 +1,5 @@
+Analyzing the emotional content of the text, we can see a mix of emotions such as Sadness, Disgust, and perhaps a hint of Fear. Here is the emotion vector based on the intensity of these emotions:
+
+[0, 0.6, 0.3, 0.5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+This vector reflects a high intensity of Sadness and Disgust in the text, with a lesser degree of Fear.

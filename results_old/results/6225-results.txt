@@ -1,0 +1,5 @@
+This text contains a mix of emotions, including elements of anticipation, trust, love, and a sense of connection with ancestral and cultural heritage. The emotional vector representing the intensity of each emotion on a scale from 0 to 1 would be as follows: 
+
+[0, 0, 0, 0, 0, 0, 0.4, 0.4, 0, 0, 0, 0, 0, 0].
+
+Anticipation and trust are highlighted due to the sense of expectation and reliance on the cultural references within the text. Love is present in the connection with the ancestral heritage and the transformation mentioned. Other emotions such as happiness, sadness, fear, disgust, anger, surprise, distrust, saudade, awe, bittersweetness, melancholy, and nostalgia are not particularly prevalent in this text.

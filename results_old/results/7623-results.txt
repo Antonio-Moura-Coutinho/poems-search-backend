@@ -1,0 +1,1 @@
+Based on the text, the emotions expressed include: Fear, Disgust, Anger, Anticipation, Distrust. The emotional vector for the text would be: [0, 0, 0.3, 0.4, 0.4, 0, 0.3, 0, 0.4, 0, 0, 0, 0, 0]. This vector indicates a notable presence of Fear, Disgust, Anger, and Distrust, with hints of Anticipation.

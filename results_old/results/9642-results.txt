@@ -1,0 +1,3 @@
+Based on the emotional content of the text, the emotion vector could be as follows: [0.3, 0.4, 0.1, 0.1, 0.1, 0.2, 0.2, 0.3, 0, 0, 0, 0, 0.4, 0.3, 0.4].
+
+This breakdown is based on the text evoking feelings of nostalgia, sadness, bittersweetness, melancholy, trust, and some anticipation. These emotions are expressed through the reflection on memories of the past, the passage of time, and the observation of broken eggs symbolizing deeper aspects of life.

@@ -1,0 +1,12 @@
+To analyze the emotional content of the text provided, we can identify various emotions and their intensities in the context of the poem. From the text, we can observe the following emotions and their respective intensities:
+
+- Happiness: The poem conveys a sense of joy and warmth, especially in the interactions between Mary, the lamb, and the children. Intensity: High
+- Love: The relationship between Mary and the lamb exemplifies love and affection. Intensity: High
+- Anticipation: The curiosity of the children and the suspense of why the lamb loves Mary create an element of anticipation. Intensity: Moderate
+- Surprise: The presence of a lamb at school may evoke a sense of surprise among the children and the readers. Intensity: Low
+
+Based on the analysis, the emotion vector for the text could be:
+
+[0.8, 0, 0, 0, 0, 0.2, 0.3, 0.7, 0, 0.8, 0, 0, 0, 0, 0]
+
+This vector represents high levels of happiness, love, trust, and anticipation, with low levels of surprise.

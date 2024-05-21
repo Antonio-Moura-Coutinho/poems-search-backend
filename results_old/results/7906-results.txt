@@ -1,0 +1,5 @@
+To analyze the emotional content of the text, we can see a mixture of emotions such as Fear, Distrust, and perhaps a hint of Anticipation. The emotions of Fear and Distrust are prominent due to the presence of the tall, emaciated chairman arriving unannounced, pointing out clauses as proof of guilt. The feeling of Anticipation arises as the person approaches the building and slowly opens the book of blank pages, suggesting potential consequences. 
+
+Based on this analysis, the emotion vector for the text could be:
+
+[0, 0, 0.6, 0, 0, 0, 0.4, 0, 0.6, 0, 0, 0, 0, 0, 0]

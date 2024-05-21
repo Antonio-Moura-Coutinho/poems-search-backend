@@ -1,0 +1,13 @@
+To analyze the emotional content of the text, we can consider the dominant emotions expressed in the passage. Based on the context, the emotions portrayed include:
+
+- Sadness: The mention of fear, a somber sky of December, and the violent act of decapitating the Turkish master evoke sadness.
+- Fear: The mention of fear of the last bell and the tension of the village being invested suggest fear.
+- Anger: The act of decapitating the Turkish master and the village not yielding indicate anger.
+- Anticipation: The build-up of events and the anticipation of facing challenges are shown.
+- Trust: The sense of community and fraternity mentioned in the text show trust.
+
+Considering these emotions, we can create an emotion vector with the following values based on their intensity in the text:
+
+[Sadness: 0.5, Fear: 0.4, Anger: 0.3, Anticipation: 0.3, Trust: 0.2]
+
+Please note that the emotional intensity is subjective and can vary based on interpretation.

@@ -1,0 +1,9 @@
+To analyze the emotional content of the text and create an emotion vector, we can identify the intensity of each emotion portrayed. The emotions present in the text could include:
+
+- Anticipation: The text describes waiting time and the presence of moving lights, indicating a sense of anticipation.
+- Trust: There is a sense of trust as the fireflies navigate their way through the darkness.
+- Awe: The description of the fireflies and the celestial bodies could evoke a feeling of awe.
+- Melancholy: The mention of the absence of the dead and reflections on lived years can elicit a sense of melancholy.
+- Nostalgia: The reminiscing about the past and the passage of time may evoke feelings of nostalgia.
+
+Based on these emotions, the emotional vector for the text could be [0, 0.3, 0, 0, 0, 0, 0.4, 0.5, 0, 0, 0, 0.3, 0.4, 0.4, 0.3]. This vector indicates a moderate level of sadness, anticipation, trust, bittersweetness, melancholy, and nostalgia, while also hinting at a sense of awe.

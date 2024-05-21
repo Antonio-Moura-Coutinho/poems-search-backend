@@ -1,0 +1,14 @@
+To analyze the emotional content of the provided text and generate an emotion vector, we'll need to assess the predominant emotions conveyed in the text. 
+
+Here is the emotion vector based on the emotional content of the text:
+[0, 0.4, 0.6, 0, 0.7, 0, 0.1, 0.1, 0.1, 0.4, 0, 0, 0.7, 0.6, 0.8]
+
+Explanation:
+- Sadness: The text evokes a sense of sadness as it discusses the speaker's departure and the potential sorrow it may bring to the reader.
+- Fear: There is a fear of being forgotten by the reader and the speaker's concern about causing pain.
+- Anger: The speaker expresses anger by suggesting that the reader should not mourn excessively after their death.
+- Love: Love is a prominent emotion in the text, as the speaker expresses their deep love for the reader and desires not to cause them pain.
+- Melancholy: The overall tone of the text is melancholic, reflecting on the transient nature of life and love, and the inevitability of death.
+- Nostalgia: There is a sense of nostalgia in the text, with the speaker reflecting on memories and urging the reader to remember them fondly.
+
+Feel free to let me know if you need further clarification on the emotions in the text or the generated emotion vector

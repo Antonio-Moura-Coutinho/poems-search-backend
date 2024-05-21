@@ -1,0 +1,3 @@
+The emotional content of the text leans towards sadness, melancholy, bittersweetness, and nostalgia. Here is the emotion vector based on the text:
+
+[0, 0.6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0.4, 0.6, 0.6]

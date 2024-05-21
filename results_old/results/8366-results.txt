@@ -1,0 +1,3 @@
+This text evokes multiple emotions including Sadness, Anticipation, and Trust. You can find the emotional vector below:
+
+[0, 0.4, 0, 0, 0, 0, 0.6, 0.6, 0, 0, 0, 0, 0, 0.2, 0]

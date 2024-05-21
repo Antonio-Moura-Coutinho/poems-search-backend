@@ -1,0 +1,7 @@
+Based on the text provided, the emotional content can be analyzed as follows:
+
+- Sadness: The text conveys a sense of desolation and hopelessness, particularly in phrases like "young girls get hopeless," and "it's over, it's worthless."
+- Disgust: There are elements of disgust in the description of the situation, especially in the lines "it’s over, it’s worthless, without deserving and without purpose."
+- Melancholy: The overall tone of the text is melancholic, with themes of loss and resignation prevalent throughout.
+
+Emotion vector: [0, 0.6, 0, 0.2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0.8, 0]

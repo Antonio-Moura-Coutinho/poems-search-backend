@@ -1,0 +1,5 @@
+The emotional vector based on the text you provided is as follows:
+
+[0, 0.3, 0.7, 0.3, 0.4, 0.2, 0.4, 0.4, 0, 0, 0, 0.2, 0, 0.3, 0.2]
+
+This vector indicates a higher presence of Fear, Anger, Anticipation, Trust, Bittersweetness, and Nostalgia emotions in the text. The presence of Fear is particularly prominent due to the descriptions of observing unusual and potentially distressing events such as the woman jumping from a tree and the local drunk with tattoos. There are also elements of Anger, Trust, Bittersweetness, and Nostalgia woven throughout the narrative, contributing to the emotional complexity of the text.

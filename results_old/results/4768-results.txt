@@ -1,0 +1,5 @@
+Based on the emotional content of the text, the emotion vector could be as follows: [0, 0.3, 0.4, 0, 0.3, 0, 0, 0, 0, 0, 0, 0, 0, 0.2, 0]. 
+
+The text conveys a sense of Fear, Sadness, Anger, and Melancholy. Fear is present due to references to a wake-up call at three in the morning and an airport, conveying a sense of anxiety. Sadness is expressed through lines like "Fear is the wake-up call at three" and the overall tone of uncertainty and introspection in the text. Anger is subtly hinted at through phrases like "Our age is blinded by celebrity" and "Will Ireland be solvent?", suggesting frustration or concern. Melancholy is a prevailing emotion throughout the text, evoked by mentions of renewal, change, and references to past events like "Christmas 2009."
+
+Other emotions like Happiness, Disgust, Surprise, Anticipation, Trust, Distrust, Love, Saudade, Awe, Bittersweetness, and Nostalgia do not feature prominently in the text, hence their values are lower or zero in the emotion vector.

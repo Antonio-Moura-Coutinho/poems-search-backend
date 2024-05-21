@@ -1,0 +1,5 @@
+The emotional content of the text includes fear, distrust, disgust, anticipation, and sadness. Based on this analysis, the emotion vector would look like this:
+
+[0, 0.1, 0.7, 0.8, 0.1, 0, 0.3, 0, 0.9, 0, 0, 0.2, 0.2, 0]
+
+This vector shows a high intensity of fear, disgust, and distrust, along with some level of sadness, anticipation, and bittersweetness. The text does not contain emotions like happiness, surprise, love, nostalgia, or awe.

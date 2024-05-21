@@ -1,0 +1,3 @@
+The emotional content of the text leans towards a complex mix of emotions, including defiance, pride, introspection, defiance, alienation, existential questioning, and a touch of sarcasm. The emotion vector representing the intensity of different emotions mentioned in the text is as follows:
+
+[Happiness: 0.1, Sadness: 0.1, Fear: 0.2, Disgust: 0.1, Anger: 0.3, Surprise: 0.2, Anticipation: 0.3, Trust: 0.2, Distrust: 0.2, Love: 0.2, Saudade: 0.1, Awe: 0.1, Bittersweetness: 0.2, Melancholy: 0.1, Nostalgia: 0.1]

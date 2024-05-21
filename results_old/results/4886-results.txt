@@ -1,0 +1,3 @@
+The emotional vector for the provided text is as follows: [0.21, 0.39, 0.22, 0.13, 0.27, 0.13, 0.08, 0.23, 0.06, 0.16, 0.03, 0.11, 0.25, 0.25, 0.22].
+
+This indicates an overall higher intensity of emotions like Sadness, Anger, Melancholy, Nostalgia, and Trust, with moderate levels of Happiness and Disgust. Other emotions such as Fear, Surprise, Anticipation, Distrust, Love, Saudade, Awe, and Bittersweetness have lower intensity in the text.

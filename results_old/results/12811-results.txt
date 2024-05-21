@@ -1,0 +1,3 @@
+Based on the text provided, the emotional content seems to convey a sense of melancholy, nostalgia, and a hint of sadness. The imagery of the tide rising and falling, the darkness settling, and the idea of a traveller never returning to the shore evoke a sense of wistfulness and reflection.
+
+Therefore, the emotion vector for this text could be: [0, 0.3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0.5, 0.2].

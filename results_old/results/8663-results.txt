@@ -1,0 +1,12 @@
+Emotion Vector: [0.4, 0.7, 0.5, 0.4, 0.6, 0.4, 0.5, 0.7, 0.4, 0.7, 0.4, 0.5, 0.6, 0.7] 
+
+Explanation:
+- Happiness is around 0.4 as there are elements of appreciation and awe in the text.
+- Sadness is relatively high at 0.7 due to the melancholic and reflective nature of the writing.
+- Fear is moderate at 0.5, reflecting the somber and contemplative atmosphere.
+- Disgust and Anger are at 0.4 and 0.6, respectively, showcasing a mix of negative emotions like disdain and frustration.
+- Surprise and Anticipation are at 0.4 and 0.5, indicating some unexpected moments and a sense of expectation.
+- Trust is relatively high at 0.7, with themes of companionship and understanding present.
+- Distrust is at 0.4 due to the darker undertones in the narrative.
+- Love is strong at 0.7, evident in the deep affection expressed.
+- Saudade, Awe, Bittersweetness, Melancholy, and Nostalgia are all present to varying extents (ranging from 0.4 to 0.7), capturing the nostalgic,

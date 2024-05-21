@@ -1,0 +1,5 @@
+To analyze the emotional content of the text, I will provide an emotion vector based on the intensity of each emotion found. 
+
+After analyzing the text, the emotion vector could be as follows: [0.2, 0.6, 0.4, 0, 0.4, 0.4, 0.2, 0, 0.4, 0, 0, 0, 0.6, 0.6, 0.4]. 
+
+This vector suggests a moderate level of sadness, fear, anger, surprise, anticipation, bittersweetness, melancholy, and nostalgia in the text. It also indicates a lower level of happiness, trust, and love, along with a bit of disgust and distrust.

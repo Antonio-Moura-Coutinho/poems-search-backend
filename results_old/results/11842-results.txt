@@ -1,0 +1,10 @@
+To analyze the emotional content of the text, we can identify the following predominant emotions:
+
+- Sadness: The text conveys a sense of melancholy, loss, and longing for something that has been missing.
+- Love: There is a theme of love towards the angels mentioned in the text.
+- Awe: The description of the angels and their actions evoke a feeling of awe.
+- Bittersweetness: The overall tone of the text seems bittersweet, with a mix of sadness and love.
+
+Based on these emotions, we can create an emotion vector:
+
+[Sadness: 0.6, Happiness: 0, Fear: 0, Disgust: 0, Anger: 0, Surprise: 0, Anticipation: 0, Trust: 0.4, Distrust: 0, Love: 0.7, Saudade: 0, Awe: 0.7, Bittersweetness: 0.8, Melancholy: 0.6, Nostalgia: 0]

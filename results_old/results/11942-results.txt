@@ -1,0 +1,9 @@
+Based on the text provided, the emotional content can be analyzed as follows:
+
+- Anticipation: The text seems to convey a sense of anticipation or excitement about a battle, as indicated by the mention of a battle and using the phrase "battleworthy of our weapons."
+- Positive emotions (Happiness, Trust, Love): The text includes a greeting "good morning" and addressing someone affectionately as Alfonso, which suggests positive emotions like happiness, trust, and potentially love.
+
+Based on this analysis, the emotion vector for the text could be approximately:
+[0.6, 0, 0, 0, 0, 0, 0.8, 0.7, 0, 0.5, 0, 0, 0, 0, 0]
+
+This vector indicates a moderate level of happiness, anticipation, trust, and love in the context of the text.

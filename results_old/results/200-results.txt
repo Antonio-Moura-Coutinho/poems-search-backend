@@ -1,0 +1,5 @@
+This text conveys a sense of sadness, melancholy, and nostalgia. The themes of loss, memory, and longing are prominent throughout the description of the mother's attempt to teach her handwriting to a trembling hand. The emotions in the text can be represented by the following emotion vector:
+
+[0, 0.7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0.8, 0.9]
+
+This vector indicates high levels of sadness, nostalgia, and melancholy, while other emotions are not significantly present.

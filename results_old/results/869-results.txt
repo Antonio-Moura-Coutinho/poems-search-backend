@@ -1,0 +1,5 @@
+The emotional content of the text is primarily focused on sadness, fear, and a sense of mortality. The intense reflections on death, the fleeting nature of life, and the inevitability of mortality evoke deep feelings of sadness and fear. These emotions are underscored by expressions of lament and loss throughout the text. 
+
+Here is the emotion vector based on the analysis of the text: [0, 0.8, 0.8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+The vector indicates a high intensity of sadness and fear, while the other emotions are not prominently expressed in the text.

@@ -1,0 +1,10 @@
+To analyze the emotional content of the text, we can identify the following emotions:
+
+- Sadness: The text conveys a sense of sadness and injustice regarding the portrayal and treatment of "Mexican" as more than just a word but a difficult reality.
+- Anger: There is underlying anger in the descriptions of the struggles faced by "Mexican" people being reduced to checkmarks and low-paying jobs.
+- Disgust: The text hints at a feeling of disgust towards the dehumanization and discrimination faced by "Mexican" individuals.
+- Anticipation: There is a hint of anticipation or expectation for change or reevaluation of how "Mexican" people are perceived and treated.
+
+Based on the emotional analysis, the emotion vector might look like:
+
+[0, 0.6, 0, 0.4, 0.4, 0, 0.3, 0, 0, 0, 0, 0, 0, 0, 0]

@@ -1,0 +1,3 @@
+The emotional content of the text includes elements of sadness, fear, disgust, anger, and distrust. The feelings expressed are related to contemplating harmful actions and dissatisfaction with the profit-driven system. The text shows a mix of negative emotions such as sadness about the situation, fear about contemplating violent actions, disgust with the system, anger towards the banking system, and distrust of the current state of affairs.
+
+Based on the emotional analysis, the emotion vector for this text could be approximately: [0, 0.6, 0.6, 0.5, 0.5, 0, 0, 0, 0.6, 0, 0, 0, 0, 0]. These values indicate a relatively high intensity of sadness, fear, disgust, anger, and distrust in the text.

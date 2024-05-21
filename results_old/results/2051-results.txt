@@ -1,0 +1,5 @@
+Based on the text, the emotional content seems to encompass a sense of wonder, awe, curiosity, and contemplation. There are elements of admiration for the vastness of the universe and the beauty of celestial phenomena, as well as a hint of melancholy and longing for something unattainable. Here is the emotion vector based on the text:
+
+[0.1, 0.1, 0, 0, 0, 0.3, 0.3, 0.4, 0, 0, 0, 0.5, 0.2, 0.1, 0.2]
+
+This vector suggests a moderate level of anticipation, trust, awe, bittersweetness, and nostalgia, with slight elements of surprise and melancholy. The absence of higher values for emotions like happiness, sadness, fear, disgust, anger, and love indicates a tone of contemplation and reflection rather than strong emotional highs or lows.

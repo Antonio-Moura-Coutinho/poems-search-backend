@@ -1,0 +1,5 @@
+The text you provided does not convey clear emotional content. As a result, the emotion vector would indicate low intensity for all emotions. Here is the emotion vector for the text:
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+If you have another text or specific emotions in mind, feel free to provide them for a more targeted analysis.

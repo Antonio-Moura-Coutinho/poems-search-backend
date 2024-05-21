@@ -1,0 +1,9 @@
+Analyzing the emotional content of the text, the emotions present are:
+
+- Sadness: The text describes a sense of loss and remembrance of fathers who perished.
+- Anticipation: Mention of sailing to Cathay and exploring the new world.
+- Trust: Trust in the endeavor to possess and civilize the land.
+
+The emotion vector based on the intensity of these emotions in the text can be represented as follows:
+
+[0, 0.3, 0, 0, 0, 0.3, 0.4, 0.4, 0, 0, 0, 0, 0, 0, 0]

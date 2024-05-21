@@ -1,0 +1,5 @@
+The emotional content of the text includes primarily: Sadness, Fear, Anticipation, Trust, and Love. Based on this analysis, the emotion vector could be:
+
+[0, 0.4, 0.6, 0, 0, 0, 0.4, 0.6, 0, 0, 0, 0, 0, 0]
+
+This vector represents the intensity of each of the emotions based on the text provided.

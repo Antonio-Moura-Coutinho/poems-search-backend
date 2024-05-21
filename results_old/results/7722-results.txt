@@ -1,0 +1,6 @@
+Based on the provided text, the emotional content appears to be abstract and intense, evoking feelings of confusion, unease, and perhaps a sense of existential dread. The language used is highly metaphorical and chaotic, creating a sense of disorientation and discomfort.
+
+Emotion vector:
+[Happiness: 0, Sadness: 0.4, Fear: 0.6, Disgust: 0.4, Anger: 0.5, Surprise: 0, Anticipation: 0.3, Trust: 0, Distrust: 0.4, Love: 0, Saudade: 0, Awe: 0.2, Bittersweetness: 0.3, Melancholy: 0.4, Nostalgia: 0]
+
+This emotional vector reflects a mix of negative emotions, with fear, disgust, anger, sadness, and distrust being the most prevalent. There are hints of anticipation and bittersweetness as well, but overall, the dominant emotions appear to be fear, sadness, and a general sense of unease.

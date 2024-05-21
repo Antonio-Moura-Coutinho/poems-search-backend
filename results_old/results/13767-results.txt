@@ -1,0 +1,13 @@
+To analyze the emotional content of the text and generate an emotion vector, we will look at the predominant emotions conveyed through the language. 
+
+Emotion Vector: [0.2, 0.4, 0.7, 0.4, 0.5, 0.3, 0.3, 0.4, 0.3, 0.1, 0.4, 0.3, 0.4, 0.4]
+
+Explanation:
+- Happiness: 0.2 - There's a lack of explicit happiness in the text.
+- Sadness: 0.4 - The text conveys a sense of melancholy and somberness.
+- Fear: 0.7 - Fear is predominant in the description of uncertain errands, sordid and sacred activities, and disastrous headlines.
+- Disgust: 0.4 - There are elements of disgust in the description of the news and the activities happening around the woman.
+- Anger: 0.5 - Anger is apparent through the portrayal of steel patriots, undertakers, ad-men, and fallen vice-generals.
+- Surprise: 0.3 - There is some surprise in the unexpected actions and events described.
+- Anticipation: 0.3 - Anticipation is present in the uncertainty and ambiguity of the errands mentioned.
+- Trust: 0.4 - Trust is slightly indicated in the woman getting down from

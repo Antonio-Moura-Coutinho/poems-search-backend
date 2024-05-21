@@ -1,0 +1,1 @@
+['Sadness: 0.6', ' Disgust: 0.4', ' Others: 0']

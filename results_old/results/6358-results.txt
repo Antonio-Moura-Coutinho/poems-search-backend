@@ -1,0 +1,10 @@
+Analyzing the emotional content of the text, we can identify emotions such as:
+
+- Anticipation: The text creates a sense of anticipation with the repetition of phrases like "wave after wave," "listen," and "call it."
+- Awe: The imagery of sandstorms, milk glasses, myrtle tops, and the beauty of peaches blooming in the dark evoke a feeling of awe.
+- Melancholy: The mention of wounds, absence, and a sum of histories suggest a melancholic tone.
+- Nostalgia: The reference to nights colliding like marbles and the idea of an end being too dark or too bright to see can invoke feelings of nostalgia.
+
+Based on this analysis, the emotion vector for the text could be:
+
+[0, 0, 0, 0, 0, 0, 0.3, 0.5, 0, 0, 0, 0.3, 0.4, 0.3, 0]

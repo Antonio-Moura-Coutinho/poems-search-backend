@@ -1,0 +1,3 @@
+The emotional content of the text leans towards sadness, fear, and distrust. The emotions of sadness and fear are particularly prominent in the text, with elements like a sense of loss, betrayal by authorities, and uncertainty about the father's fate evoking these emotions. Distrust is also prevalent due to the depiction of the police protecting the beer company at the expense of the protesters. 
+
+Based on the analysis, the emotion vector for the text could be: [0, 0.7, 0.6, 0, 0, 0, 0, 0, 0.6, 0, 0, 0, 0, 0].

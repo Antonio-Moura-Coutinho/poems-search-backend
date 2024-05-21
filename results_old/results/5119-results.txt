@@ -1,0 +1,11 @@
+Based on the emotional content of the text, the emotion vector could be:
+
+[0, 0.6, 0.5, 0, 0.6, 0, 0, 0.2, 0, 0.4, 0, 0, 0.7, 0]
+
+Explanation:
+- Sadness (0.6): The text expresses deep sadness and pain, indicated by phrases like "half mad with pain," "Calling for doctors," "Falling, Forgetting," and "Consumed."
+- Fear (0.5): Fear is present in the text through phrases like "Ever since the world began—Star fall, Nightfall, Bomb fall, Downfall..." which evoke a sense of impending doom or catastrophe.
+- Anger (0.6): Anger is portrayed through the use of strong words like "Trepanned" and the overall tone of the text.
+- Trust (0.2): There is a slight sense of trust in the text, portrayed by the mention of doctors providing care.
+- Love (0.4): Love is hinted at with phrases like "Remembering Ann" and "Whose beauty began," showing affection or admiration.
+- Melancholy (0.7): The text conveys a strong sense of melancholy and sorrow throughout, creating a poignant and reflective mood.

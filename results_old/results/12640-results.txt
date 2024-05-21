@@ -1,0 +1,5 @@
+The emotional content analysis of the text "On Turning One Down with the Plow, in April, 1786" yields the following emotion vector:
+
+[Happiness: 0.05, Sadness: 0.65, Fear: 0.15, Disgust: 0.05, Anger: 0.4, Surprise: 0.05, Anticipation: 0.05, Trust: 0.05, Distrust: 0.05, Love: 0.2, Saudade: 0, Awe: 0.05, Bittersweetness: 0.45, Melancholy: 0.7, Nostalgia: 0.3]
+
+This vector indicates a high intensity of Sadness, Anger, Bittersweetness, and Melancholy emotions in the text. Other emotions such as Fear, Love, Nostalgia, and a touch of Anticipation are also present but to a lesser extent.

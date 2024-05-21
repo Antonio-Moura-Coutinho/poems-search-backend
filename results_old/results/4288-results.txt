@@ -1,0 +1,5 @@
+Based on the text provided, the emotional content analysis yields the following emotion vector:
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+This text is neutral in terms of the specified emotions.

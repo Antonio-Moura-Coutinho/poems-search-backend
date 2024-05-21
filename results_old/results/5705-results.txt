@@ -1,0 +1,5 @@
+The emotional content analysis of the text suggests the following emotion vector:
+
+[0.5, 0.15, 0.35, 0.25, 0.1, 0.25, 0.2, 0.35, 0.2, 0.4, 0.1, 0.2, 0.25, 0.3, 0.35]
+
+This vector indicates a moderate level of Happiness, low level of Sadness, moderate Fear, moderate Disgust, low Anger, moderate Surprise, moderate Anticipation, moderate Trust, moderate Distrust, moderate Love, low Saudade, moderate Awe, moderate Bittersweetness, moderate Melancholy, and moderate Nostalgia.

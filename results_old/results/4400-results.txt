@@ -1,0 +1,5 @@
+Based on the text provided, the emotional vector could be interpreted as follows:
+
+[Happiness: 0, Sadness: 0.8, Fear: 0.6, Disgust: 0, Anger: 0.4, Surprise: 0, Anticipation: 0.4, Trust: 0, Distrust: 0.6, Love: 0, Saudade: 0, Awe: 0, Bittersweetness: 0, Melancholy: 0.8, Nostalgia: 0]
+
+This emotional vector emphasizes a high level of sadness, fear, distrust, and melancholy in the text, likely due to the themes of danger, tragedy, and loss conveyed through the descriptions of the children and their circumstances.

@@ -1,0 +1,3 @@
+The emotional content of the text appears to convey a sense of longing, nostalgia, and a tinge of sadness. The speaker expresses a feeling of absence and yearning, reminiscing about the past and being unable to fully embrace the beauty of the present without the presence of the person they long for. There is a mix of sadness, nostalgia, and a subtle hint of love and longing in the text.
+
+Based on this analysis, the emotion vector for the text could be: [0.1, 0.4, 0, 0, 0, 0, 0, 0.3, 0, 0.2, 0, 0, 0.3, 0.4, 0.4].

@@ -1,0 +1,14 @@
+To analyze the emotional content of the text and generate an emotion vector, we will assess the emotions conveyed within the text and assign intensities on a scale from 0 to 1 for each emotion.
+
+Emotion vector: [Happiness, Sadness, Fear, Disgust, Anger, Surprise, Anticipation, Trust, Distrust, Love, Saudade, Awe, Bittersweetness, Melancholy, Nostalgia]
+
+Happiness: The speaker expresses happiness and contentment, especially in the morning when the fish is gold and the furniture is loyal, providing comfort.    
+Sadness: There are hints of sadness in the speaker's reflection on being unpopular with oneself and pacing in a small room.  
+Fear: There is a sense of fear when the fish turns into a silver dagger at night, enough to frighten cats.  
+Disgust: There is no explicit expression of disgust in the text.  
+Anger: There is no clear expression of anger in the text.  
+Surprise: There is a mild element of surprise when the fish transforms into a dagger at night.  
+Anticipation: There is some anticipation in the speaker's musings about waking up to see the fish as gold and the furniture being loyal.  
+Trust: The speaker trusts in the loyalty of their furniture and the fish providing comfort.  
+Distrust: There is no indication of significant distrust in the text.  
+Love: There is a sense of appreciation and love

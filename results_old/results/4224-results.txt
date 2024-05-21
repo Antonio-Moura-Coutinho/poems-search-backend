@@ -1,0 +1,14 @@
+Emotion Vector: [0.25, 0.3, 0.55, 0.3, 0.4, 0.4, 0.3, 0.2, 0.1, 0, 0.2, 0.1, 0.1, 0.1] 
+
+Explanation:
+- Happiness: 0.25 - There are some elements of shared experience, but overall not a happy tone.
+- Sadness: 0.3 - The text evokes a sense of discomfort and unease.
+- Fear: 0.55 - Fear is prominent with mentions of bees and feeling out of place.
+- Disgust: 0.3 - Descriptions of the pond being thick with weed and slime contribute to this emotion.
+- Anger: 0.4 - There is a sense of frustration in the situation described.
+- Surprise: 0.4 - Surprised eyes of ducks and sudden notice of bees add a layer of surprise.
+- Anticipation: 0.3 - The anticipation of trouble or discomfort is present throughout the text.
+- Trust: 0.2 - There is a lack of trust evident in the environment.
+- Distrust: 0.1 - The feeling of unease contributes slightly to distrust.
+- Love: 0 - The focus is more on discomfort and fear rather than love.
+- Saudade: 0.2 - The feeling

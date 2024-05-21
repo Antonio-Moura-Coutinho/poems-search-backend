@@ -1,0 +1,7 @@
+Based on the text provided, the emotional content seems to predominantly express sadness, grief, loss, and tragedy. The mention of various deaths and tragic events evokes emotions like sadness, mourning, and melancholy. The tone of the text is reflective and nostalgic, reminiscing about the individuals who have passed away. There is a sense of deep emotional connection and sorrow associated with each loss.
+
+The emotion vector for the text could be as follows based on the intensity of emotions portrayed:
+
+[0, 0.8, 0.5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0.7, 0.6, 0.1]
+
+This vector indicates a high intensity of sadness, melancholy, and nostalgia, with some elements of fear and bittersweetness present.

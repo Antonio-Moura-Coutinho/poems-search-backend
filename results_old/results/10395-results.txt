@@ -1,0 +1,10 @@
+Analyzing the emotional content of the text, the emotions expressed seem to include:
+
+Sadness: The text conveys a sense of melancholy and longing for the night to continue.
+Anticipation: There is an anticipation for the night to persist rather than yielding to the light.
+
+The emotion vector for the given text could be:
+
+[0, 0.3, 0, 0, 0, 0, 0.5, 0, 0, 0, 0, 0, 0, 0.3, 0]
+
+Please note that emotional analysis can be subjective and interpretations may vary.

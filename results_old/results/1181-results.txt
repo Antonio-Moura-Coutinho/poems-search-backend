@@ -1,0 +1,5 @@
+Based on the emotional content of the text, the emotion vector can be generated as follows:
+
+[Happiness: 0.2, Sadness: 0.6, Fear: 0.1, Disgust: 0, Anger: 0.3, Surprise: 0.1, Anticipation: 0.4, Trust: 0.3, Distrust: 0, Love: 0.5, Saudade: 0.1, Awe: 0.3, Bittersweetness: 0.5, Melancholy: 0.6, Nostalgia: 0.4]
+
+This emotional vector indicates a combination of sadness, love, bittersweetness, and melancholy being the dominant emotions in the text, with smaller traces of other emotions like happiness, anticipation, anger, and awe.

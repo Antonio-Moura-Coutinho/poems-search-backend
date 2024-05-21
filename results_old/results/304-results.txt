@@ -1,0 +1,15 @@
+Emotion Vector: [0.2, 0.5, 0.6, 0, 0.7, 0, 0.4, 0.3, 0, 0, 0, 0.4, 0.6, 0.5, 0] 
+
+Explanation:
+- Happiness: 0.2 - The text does not express much happiness.
+- Sadness: 0.5 - There's a tone of sadness and reflection throughout the text.
+- Fear: 0.6 - There are elements in the text that evoke fear or unease, especially regarding environmental and health concerns.
+- Disgust: 0 - The text doesn't explicitly convey any feelings of disgust.
+- Anger: 0.7 - There is a strong presence of anger, particularly directed at past actions and situations.
+- Surprise: 0 - The text doesn't contain elements of surprise.
+- Anticipation: 0.4 - There is a sense of anticipation or looking back at past experiences with a mix of feelings.
+- Trust: 0.3 - Trust is not a prominent emotion in the text.
+- Distrust: 0 - The text doesn't explicitly mention feelings of distrust.
+- Love: 0 - The text doesn't focus on feelings of love.
+- Saudade: 0 - While there is reflection and nostalgia, the text doesn't specifically evoke saudade.
+- Awe

@@ -1,0 +1,12 @@
+The emotional vector for the text you provided is as follows: [0.2, 0.6, 0.3, 0.1, 0.2, 0.4, 0.5, 0.4, 0.2, 0, 0.3, 0.3, 0.6, 0.5, 0.6].
+
+Explanation:
+
+- Happiness: 0.2 - There are moments of joy and celebration in the text, such as mentions of dancing, singing, and people coming together.
+- Sadness: 0.6 - The text carries a strong sense of nostalgia, longing, and melancholy, evident in reflections on past memories and the passage of time.
+- Fear: 0.3 - There are elements of uncertainty and questioning the future in the text that contribute to a sense of fear.
+- Disgust: 0.1 - There are no explicit mentions or descriptions that evoke feelings of disgust in the text.
+- Anger: 0.2 - While there are hints of frustration and contemplation of life's challenges, there is not a dominant sense of anger present.
+- Surprise: 0.4 - The text contains elements of unexpected shifts and moments that could evoke surprise or intrigue.
+- Anticipation: 0.5 - There is a sense of looking forward to the future, seeking answers, and anticipation of what is to come.
+- Trust:

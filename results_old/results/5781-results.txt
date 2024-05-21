@@ -1,0 +1,8 @@
+In the provided text, the emotions conveyed include:
+
+Anticipation: The speaker is contemplating the risks of becoming a ravine versus a well with a well-bolted lid, suggesting anticipation and consideration of future outcomes.
+Surprise: The line "Oops—he’s approaching with his tongue already out and moving" indicates a sudden, unexpected action.
+Trust: The speaker mentions being an inviting host and emphasizing the idea of letting things flow into them, suggesting a level of trust.
+Fear: There is an underlying tone of fear in the contemplation of risks and the need to lock the door to live untroubled.
+
+Based on the emotional analysis, the emotion vector might look like this: [0, 0, 0.2, 0, 0, 0.1, 0.3, 0.4, 0, 0, 0, 0, 0, 0].

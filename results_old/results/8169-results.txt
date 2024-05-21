@@ -1,0 +1,16 @@
+To analyze the emotional content of the text and generate an emotion vector, we can break down the emotions expressed within the text:
+
+- Happiness: The text does not convey a clear sense of happiness.
+- Sadness: The text contains a sense of sadness associated with the bear being gone and the imagery of the moon trapped in the ice.
+- Fear: There is a subtle sense of fear in the description of the bear's movements and the impending winter.
+- Disgust: There is no evident expression of disgust in the text.
+- Anger: There is no clear indication of anger in the text.
+- Surprise: The text does not elicit a strong sense of surprise.
+- Anticipation: The description of the bear's movements and actions could evoke a feeling of anticipation.
+- Trust: There is no direct mention of trust in the text.
+- Distrust: There is no evident sense of distrust in the text.
+- Love: The portrayal of the bear's interactions with the surroundings and nature could imply a sense of love.
+- Saudade: The text might evoke a feeling of saudade, a deep emotional state of nostalgic longing for something or someone absent.
+- Awe: The text contains elements that could evoke a sense of awe, especially in the imagery of nature and the bear.
+- Bittersweetness: There is a bittersweet quality in the description of the bear's activities in the orchard.
+- Melancholy: The text conveys a melancholic

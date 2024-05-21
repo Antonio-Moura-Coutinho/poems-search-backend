@@ -1,0 +1,9 @@
+Emotion Vector: [0.1, 0.6, 0.7, 0.7, 0.8, 0.3, 0.6, 0.1, 0.8, 0, 0.3, 0, 0.7, 0.5, 0.6]
+
+Explanation:
+- Sadness: 0.6 (The text conveys a sense of sadness and discomfort with phrases like "grope for moist souvenirs," "bumps on my scalp," and "bleeding kid." There is a tone of melancholy and possibly nostalgia.)
+- Fear: 0.7 (The text contains themes of discomfort, danger, and uncertainty, such as "nobody will warn you about the floor," "throw up a hammer and see what falls down," and the presence of a bleeding kid.)
+- Disgust: 0.7 (Phrases like "suck my dick" and "bleeding kid" evoke disgust and revulsion.)
+- Anger: 0.8 (Expressions of anger are prevalent throughout the text, with phrases like "you want proof for the folks back home," "tell me where she lives," and "be careful where you walk.")
+- Surprise: 0.3 (There are elements of unexpectedness and surprise, but they are not dominant in the text.)
+- Anticipation: 0.6 (There is a sense of

@@ -1,0 +1,9 @@
+Based on the text provided, the emotional content can be analyzed as follows:
+
+- Happiness: The mention of wanting a macaw and the hopeful scenario of winning the lottery could imply a sense of happiness or excitement. (Moderate)
+- Anticipation: The anticipation of winning the lottery and getting a blue macaw also suggests an element of anticipation or hope. (Moderate)
+- Trust: The interaction with the mother discussing the possibility of getting a macaw if they win the lottery implies a sense of trust or reliance on the parent's word. (Low)
+
+Based on this analysis, the emotion vector for the text could be: [0.5, 0, 0, 0, 0, 0, 0.4, 0.2, 0, 0, 0, 0, 0, 0, 0].
+
+This vector indicates moderate happiness, low trust, and moderate anticipation in the text.

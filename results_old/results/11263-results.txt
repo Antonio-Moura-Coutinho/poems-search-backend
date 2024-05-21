@@ -1,0 +1,5 @@
+Based on the text provided, the emotional content includes elements of Sadness, Anticipation, Distrust, Love, and Anger. Here is the estimated emotion vector:
+
+[Sadness: 0.3, Anticipation: 0.3, Distrust: 0.2, Love: 0.2, Anger: 0.2]
+
+The emotional intensity for each category is subjective and may vary based on individual interpretation.

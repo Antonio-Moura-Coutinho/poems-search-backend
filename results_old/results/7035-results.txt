@@ -1,0 +1,8 @@
+Analyzing the emotional content of the text, we can identify the following emotions:
+
+- Sadness: The text conveys a sense of loss and mourning following the death of Miss Helen Slingsby.
+- Melancholy: There is a tone of sadness and pensiveness throughout the text.
+- Disgust: The mention of the undertaker wiping his feet could evoke a slight sense of disgust.
+- Anticipation: The anticipation of what will happen next after Miss Helen Slingsby's death is hinted at.
+
+Based on these emotional cues, the emotion vector for the text could be: [0, 0.6, 0, 0.1, 0, 0, 0.1, 0, 0, 0, 0, 0, 0, 0.6, 0]

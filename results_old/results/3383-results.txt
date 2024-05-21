@@ -1,0 +1,15 @@
+[Happiness, Sadness, Fear, Disgust, Anger, Surprise, Anticipation, Trust, Distrust, Love, Saudade, Awe, Bittersweetness, Melancholy, Nostalgia]
+
+Based on the text provided, the emotional content can be analyzed as follows:
+
+- Happiness: The reminiscing about the strong bond with the older brother and the positive memories shared indicate a sense of happiness. (0.5)
+- Sadness: The overall tone of missing the brother who passed away and the sorrow in the memories evoke sadness. (0.8)
+- Fear: The fear element is not prominent in this text. (0)
+- Disgust: There is no indication of disgust in the text. (0)
+- Anger: There is no expression of anger in the text. (0)
+- Surprise: There is no surprise expressed. (0)
+- Anticipation: The anticipation of feeling the brother's muscle in the present moment can be considered a form of anticipation. (0.3)
+- Trust: The trust and closeness shared between the siblings are evident. (0.7)
+- Distrust: There is no distrust conveyed. (0)
+- Love: The deep love for the brother and the memories shared depict a strong sense of love. (0.9)
+- Saudade: The text conveys a sense of longing and nostalgia for the brother who has passed away, which aligns with Saudade

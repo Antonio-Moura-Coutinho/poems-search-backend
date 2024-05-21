@@ -1,0 +1,5 @@
+The emotional content of the text includes elements of fear, surprise, melancholy, distrust, and a bit of bittersweetness. Here is the emotion vector based on the text:
+
+[0, 0.4, 0.3, 0, 0.2, 0.4, 0, 0, 0, 0, 0, 0.2, 0.3, 0]
+
+This vector indicates a higher intensity of sadness, fear, surprise, and bittersweetness in the text.

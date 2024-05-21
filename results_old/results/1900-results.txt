@@ -1,0 +1,5 @@
+The emotional vector based on the text you provided is as follows: 
+
+[0, 0.8, 0.7, 0.6, 0.6, 0.6, 0.6, 0.4, 0.6, 0, 0, 0, 0, 0]
+
+This analysis indicates a strong presence of emotions such as Sadness, Fear, Disgust, Anger, Surprise, and Distrust in the text. Feelings of sadness and fear are particularly prominent throughout the passage, reflecting the negative experiences and the overwhelming presence of Mrs. Stein as a strict substitute teacher. This emotional vector also captures elements of surprise, anger, and distrust felt by the narrator and their classmates due to the intimidating and strict nature of Mrs. Stein. There is a lack of positive emotions like Happiness, Love, or Trust in the text, indicating a predominantly negative emotional tone.

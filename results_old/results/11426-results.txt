@@ -1,0 +1,7 @@
+Analyzing the emotional content of the text, we can identify the following emotions and their respective intensities:
+
+[Happiness, Sadness, Fear, Disgust, Anger, Surprise, Anticipation, Trust, Distrust, Love, Saudade, Awe, Bittersweetness, Melancholy, Nostalgia]
+
+[0, 0.7, 0.3, 0, 0, 0, 0.5, 0.6, 0, 0.9, 0.9, 0.2, 0.8, 0.9, 0]
+
+The text conveys a sense of deep sadness, nostalgia, love, and a touch of anticipation. Sadness, nostalgia, and love are the most dominant emotions in the text, while anticipation, trust, and saudade are also present to a significant degree.

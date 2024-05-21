@@ -1,0 +1,23 @@
+To analyze the emotional content of the text and create an emotion vector, we will identify and evaluate the emotional cues present in the text.
+
+1. Happiness: There are very few instances of explicit happiness in the text. The overall tone is more reflective and melancholic rather than happy.
+
+2. Sadness: Numerous elements evoke a sense of sadness, such as the themes of illness, loss, and the impending death of loved ones.
+
+3. Fear: Fear is subtly present through the descriptions of illnesses, tornadoes, and the unknown aspects of life and death.
+
+4. Disgust: There are mentions of bodily decay and illness, which may evoke feelings of disgust.
+
+5. Anger: While there are no direct instances of anger, the emotions surrounding secrecy, illness, and potential betrayal can hint at underlying anger.
+
+6. Surprise: There are elements of surprise, particularly in unexpected events like the tornado and the revelation of hidden emotions.
+
+7. Anticipation: There is a sense of anticipation regarding the unknown future, impending events, and hidden secrets.
+
+8. Trust: Trust is a complex emotion in the text, with themes of secrecy and hidden truths challenging the concept of trust.
+
+9. Distrust: The overall tone of secrecy and hidden agendas can lead to a feeling of distrust.
+
+10. Love: Love is present in the context of protecting loved ones from painful truths and making sacrifices for them.
+
+11. Saudade: The text evokes a strong sense of longing, nostalgia, and

@@ -1,0 +1,15 @@
+To analyze the emotional content of the text and create an emotion vector, we will examine the emotions conveyed in the text and assign intensity values to each emotion.
+
+Emotions identified in the text:
+- Sadness: The speaker expresses feelings of solitude, longing, and being ignored by others.
+- Disgust: The mention of dead people and the unconventional behavior of the poet may evoke a sense of disgust.
+- Anticipation: The speaker seems to anticipate or long for the attention and understanding of others.
+- Distrust: There is a sense of being misunderstood or not listened to by the partners and girls.
+- Love: The longing for the cheerleaders and the theme of relationships imply an element of love.
+- Melancholy: The nostalgia for the past, loneliness, and aging are themes of melancholy.
+- Nostalgia: The reminiscence of past events and the passage of time evoke a sense of nostalgia.
+
+Emotion vector:
+[Sadness: 0.4, Disgust: 0.2, Anticipation: 0.3, Distrust: 0.2, Love: 0.3, Melancholy: 0.4, Nostalgia: 0.5]
+
+Please note that emotions can be interpreted subjectively, and the intensity values provided are based on the analysis of the text.

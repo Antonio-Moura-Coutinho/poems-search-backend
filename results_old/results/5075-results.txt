@@ -1,0 +1,5 @@
+Based on the text provided, the emotional content appears to be primarily Sadness, Anticipation, and Nostalgia. Here is the emotion vector representing the intensity of each emotion:
+
+[0, 0.6, 0, 0, 0, 0, 0.4, 0, 0, 0, 0, 0, 0, 0.7, 0.5]
+
+This indicates a high level of Sadness, medium levels of Anticipation, Nostalgia, and Melancholy, and some level of Trust and Awe.

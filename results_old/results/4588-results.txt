@@ -1,0 +1,11 @@
+To analyze the emotional content of the text and generate an emotion vector, we can identify the emotional cues in the text:
+
+- Sadness: The text depicts a somewhat somber and dark scene with the orcas pushing a blue whale calf under the water, the description of the calf's blood, and the details of the whale's consumption.
+- Anger: There is a sense of helplessness and perhaps anger in the situation where the calf is being consumed by the orcas, and the image of the calf's heart in the teeth of a hungrier mammal may evoke feelings of anger or frustration.
+- Awe: The description of the deep sea ecosystem and the detailed process of consumption by the orcas can evoke a sense of awe and wonder at the complexity of nature.
+
+With these emotions in mind, the emotion vector representing the intensity of each emotion on a scale from 0 to 1 can be calculated as follows:
+
+[Sadness: 0.7, Anger: 0.5, Awe: 0.3, Happiness: 0, Fear: 0, Disgust: 0, Surprise: 0, Anticipation: 0, Trust: 0, Distrust: 0, Love: 0, Saudade: 0, Bittersweetness: 0, Melancholy: 0, Nostalgia: 0]
+
+This vector indicates a higher intensity of sadness and anger in the text, with

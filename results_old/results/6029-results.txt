@@ -1,0 +1,3 @@
+This text conveys a sense of mystery, danger, and secrecy. The words "violent currents," "upset," "suck under," and "can't tell you his name" suggest feelings of Fear, Anticipation, Distrust, and possibly Anger or Sadness. Based on this analysis, the emotion vector would be as follows:
+
+[0, 0, 0.6, 0, 0.2, 0, 0.4, 0, 0.6, 0, 0, 0, 0, 0, 0]

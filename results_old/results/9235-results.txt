@@ -1,0 +1,3 @@
+Since the text provided doesn't contain any emotional content, the emotion vector would be all zeros:
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]

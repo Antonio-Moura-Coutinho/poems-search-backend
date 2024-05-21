@@ -1,0 +1,5 @@
+The emotional content of the text indicates a mix of sadness, fear, and surprise. Based on the text, the emotion vector can be approximated as follows:
+
+[0, 0.6, 0.6, 0, 0, 0.4, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+Sadness and fear seem to stand out the most, followed by a hint of surprise.

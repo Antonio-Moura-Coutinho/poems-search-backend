@@ -1,0 +1,5 @@
+To analyze the emotional content of the provided text, we can detect the following emotions based on the text: Happiness, Awe, and Anticipation.
+
+The emotion vector representing the intensity of each of these emotions on a scale from 0 to 1 would be as follows:
+
+[Happiness: 0.3, Sadness: 0, Fear: 0, Disgust: 0, Anger: 0, Surprise: 0, Anticipation: 0.5, Trust: 0, Distrust: 0, Love: 0, Saudade: 0, Awe: 0.4, Bittersweetness: 0, Melancholy: 0, Nostalgia: 0]

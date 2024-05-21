@@ -1,0 +1,1 @@
+This text has a range of emotional content. Based on the analysis, the emotion vector for the text could be as follows: [0.2, 0.6, 0.4, 0.2, 0.3, 0.1, 0.2, 0.3, 0.2, 0.3, 0.4, 0.2, 0.5, 0.4, 0.5].

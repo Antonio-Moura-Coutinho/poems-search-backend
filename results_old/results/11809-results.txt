@@ -1,0 +1,1 @@
+The emotional content of the text appears to be more focused on intellectual analysis and information sharing rather than evoking strong emotional responses. However, there is a sense of admiration or respect for the works of the typographer-poets mentioned. Based on the text, the emotion vector could be: [0.1, 0, 0, 0, 0, 0, 0.4, 0.7, 0, 0.2, 0, 0, 0.1, 0.1, 0].

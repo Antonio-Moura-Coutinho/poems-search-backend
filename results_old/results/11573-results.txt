@@ -1,0 +1,5 @@
+To analyze the emotional content of the text, we can see a mix of emotions such as nostalgia, anticipation, love, and possibly a hint of bittersweetness. Here is the emotion vector based on the intensity of these emotions in the text:
+
+[Nostalgia: 0.5, Anticipation: 0.3, Love: 0.3, Bittersweetness: 0.2, Happiness: 0, Sadness: 0, Fear: 0, Disgust: 0, Anger: 0, Surprise: 0, Trust: 0, Distrust: 0, Saudade: 0, Awe: 0, Melancholy: 0]
+
+This vector indicates that the text conveys a stronger sense of nostalgia and anticipation, with a moderate amount of love and a slight touch of bittersweetness reflected in the imagery of building a city and then having to dismantle it for the sake of preserving one particular place (Brooklyn).

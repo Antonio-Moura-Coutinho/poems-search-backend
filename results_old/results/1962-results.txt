@@ -1,0 +1,1 @@
+The emotional content of the text leans heavily towards sadness, fear, and melancholy with elements of distrust and bittersweetness. The presence of despair, betrayal, loneliness, and a longing for an end suggests a blend of these emotions. The emotion vector for the text is as follows: [0, 0.8, 0.7, 0, 0, 0, 0, 0, 0.6, 0, 0, 0, 0.6, 0].

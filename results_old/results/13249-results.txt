@@ -1,0 +1,7 @@
+The emotional content of the text includes elements of Sadness, Disgust, Anger, Anticipation, Trust, and Love. The emotions of Sadness and Disgust are prominent due to the unrequited love of the Square and the betrayal by the Triangle. Anger is evident in the Square's feelings of despair and helplessness. Anticipation can be observed in the desire of the characters to engage in relationships. Trust is depicted in the relationship between the Triangle and the Cube, while Love is displayed through the Triangle's affection for the Cube and their offspring.
+
+Based on the emotional analysis, the emotion vector for the text could be:
+
+[0, 0.7, 0, 0.3, 0.4, 0, 0.3, 0.4, 0, 0.3, 0, 0, 0, 0]
+
+This vector represents the intensity of each emotion present in the text on a scale from 0 to 1.

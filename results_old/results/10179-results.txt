@@ -1,0 +1,10 @@
+Emotion vector: [0.4, 0.15, 0.1, 0.05, 0.1, 0.2, 0.15, 0.25, 0.05, 0, 0, 0, 0, 0.1, 0.2]
+
+Explanation:
+- Happiness: The text contains elements of happiness, such as the description of the fields blooming with asters and golden reign, and the acknowledgment of the moon's rule, leading to a moderate level of happiness.
+- Sadness: There is a subtle undertone of sadness in the imagery of the thistle scattering its down on the pool and the yellow leaves clothing the river, contributing to a slight level of sadness.
+- Fear: There is a mild sense of fear in the mention of lurking beneath the sheaves and under the sod, leading to a low level of fear.
+- Disgust: There is a hint of disgust with the description of the thistle scattering its down, resulting in a minimal level of disgust.
+- Anger: There is a slight touch of anger implied in the idea of the reapers not gathering the ripe fruit, leading to a small level of anger.
+- Surprise: The text evokes some surprise in the imagery presented but not significantly, resulting in a modest level of surprise.
+- Anticipation: The mention of the true harvest and the boreal fruit conveys anticipation, leading to a moderate

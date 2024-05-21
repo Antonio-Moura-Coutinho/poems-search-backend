@@ -1,0 +1,10 @@
+To analyze the emotional content of the text, we can identify the following emotions and their intensities:
+
+1. Fear: The mention of "gangs unleash and breach" may evoke a sense of fear - 0.6
+2. Anticipation: The buildup and tension in the text suggest anticipation - 0.4
+3. Trust: The reference to the wind having no objective may indicate a lack of trust - 0.3
+
+The emotion vector based on the analysis would be:
+[0, 0, 0.6, 0, 0, 0, 0.4, 0.3, 0, 0, 0, 0, 0, 0]
+
+This vector indicates a significant presence of fear and a moderate level of anticipation and lack of trust in the text.

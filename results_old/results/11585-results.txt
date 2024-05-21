@@ -1,0 +1,16 @@
+To analyze the emotional content of the text, we will look at the key emotional themes conveyed in each paragraph and assign intensity values for each emotion:
+
+1. Child waking up in a dark room:  
+   - Fear: The child screaming and wanting their duck back in a dark room conveys fear. Intensity: 0.6
+   - Sadness: The child's distress about the missing duck. Intensity: 0.4
+
+2. They’ve just met, now they’re sleeping near an open window:  
+   - Happiness: The characters sleeping near the window could indicate a sense of contentment or happiness. Intensity: 0.3
+   - Trust: The scene of sleeping near an open window implies trust or comfort. Intensity: 0.2
+   - Anticipation: Anticipation of what the morning will bring. Intensity: 0.2
+   - Distrust: The need for light to enter the room to confirm what they remember of the night. Intensity: 0.4
+
+3. Afterward, they separate for the day:  
+   - Melancholy: The tone of the situation with the moldy berries and unsatisfied manager can evoke a sense of melancholy. Intensity: 0.5
+   - Disgust: The moldy berries and blood on the sheets evoke disgust. Intensity: 0.6
+   - Surprise: The sudden realization of the mold after returning home

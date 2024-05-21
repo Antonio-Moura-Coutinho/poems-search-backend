@@ -1,0 +1,1 @@
+This text displays emotions of Anticipation, Surrender, Divine Wonder, Passion, and Sensuality. Here is the emotion vector based on the emotional content of the text: [0, 0, 0, 0, 0, 0, 0.7, 0.7, 0, 0, 0, 0, 0.6, 0]. The vector indicates a high level of Anticipation, Trust, and Melancholy, with elements of Awe and Bittersweetness.

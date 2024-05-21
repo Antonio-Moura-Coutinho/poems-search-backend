@@ -1,0 +1,12 @@
+To analyze the emotional content of the text provided, we will identify the emotions expressed and assign intensity scores between 0 and 1 for each emotion. Based on the text, we observe the following emotions:
+
+- Awe: The text describes natural landscapes and phenomena in a way that evokes a sense of awe and wonder.
+- Melancholy: The descriptions of the environment and the references to solitude and the unknown evoke a feeling of melancholy.
+
+Emotion Vector: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0]
+
+Explanation:
+- Awe is represented with an intensity of 1 as the text conveys a strong sense of admiration for the natural world.
+- Melancholy is represented with an intensity of 1 as the text conveys a feeling of sadness or pensiveness about the solitude and mysteries of the surroundings, creating a melancholic tone.
+
+Please note that the emotions of Happiness, Sadness, Fear, Disgust, Anger, Surprise, Anticipation, Trust, Distrust, Love, Saudade, Bittersweetness, and Nostalgia did not prominently appear in the text, so their intensities are recorded as 0 in the emotion vector.

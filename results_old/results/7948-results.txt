@@ -1,0 +1,9 @@
+To analyze the emotional content of the text, we can identify the following emotions and their intensities:
+
+- Sadness: The text conveys a sense of sadness and melancholy, describing feelings of pain and numbness. The intensity of sadness is moderate to high.
+- Anticipation: There is an element of anticipation and questioning about the past and the future, as the speaker reflects on the passage of time and experiences. The intensity of anticipation is moderate.
+- Melancholy: The text evokes a strong feeling of melancholy through its portrayal of pain, numbness, and the passage of time. The intensity of melancholy is high.
+- Nostalgia: The references to memories and questioning the past evoke a sense of nostalgia. The intensity of nostalgia is moderate.
+
+Based on this analysis, the emotion vector for the text is approximately:
+[0,75, 0, 0, 0, 0, 0.7, 0, 0, 0, 0, 0, 0.9, 0.75, 0.55]

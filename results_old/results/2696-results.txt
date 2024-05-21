@@ -1,0 +1,3 @@
+The emotional analysis of the text yields the following emotion vector: [0.2, 0.3, 0.2, 0, 0, 0.3, 0.2, 0, 0, 0, 0, 0, 0, 0, 0]. 
+
+The vector indicates moderate levels of sadness, fear, surprise, and anticipation, with a hint of happiness and a touch of awe. The predominant emotions displayed in the text are sadness and surprise.

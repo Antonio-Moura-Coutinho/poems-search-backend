@@ -1,0 +1,15 @@
+Emotion vector: [0.3, 0.7, 0.6, 0.9, 0.8, 0.4, 0.5, 0, 0, 0, 0, 0, 0, 0.6, 0]
+
+Explanation:
+
+- Happiness: 0.3 - The text does not convey a strong sense of happiness.
+- Sadness: 0.7 - There is a strong undercurrent of sadness, especially with references to the dead men and the violent imagery.
+- Fear: 0.6 - Fear is present in the description of crawling under fences and the use of knives.
+- Disgust: 0.9 - Disgust is prominent in the descriptions of cutting bellies, blood, and licking it off blades.
+- Anger: 0.8 - Anger is evident in the violent and aggressive actions described in the text.
+- Surprise: 0.4 - There's a moderate element of surprise in the unexpected actions of the characters.
+- Anticipation: 0.5 - Anticipation is present in the build-up to the characters' transformation into wolves.
+- Trust: 0 - There is no clear expression of trust in the text.
+- Distrust: 0 - Distrust is not explicitly mentioned in the text.
+- Love: 0 - There is no indication of love in the text.
+- Saudade:

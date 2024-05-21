@@ -1,0 +1,5 @@
+The emotional content of the text conveys a mix of various emotions. The intensity of each emotion in the text can be represented by the following emotion vector:
+
+[0, 0.6, 0.7, 0.7, 0.9, 0.7, 0.5, 0, 0.8, 0, 0, 0.9, 0.7, 0, 0.6] 
+
+This vector indicates a high level of Sadness, Fear, Disgust, Anger, Surprise, Anticipation, Distrust, and Bittersweetness throughout the text.

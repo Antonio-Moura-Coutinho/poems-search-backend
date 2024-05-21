@@ -1,0 +1,16 @@
+To analyze the emotional content of the text and create an emotion vector, we will identify and assess the prevalent emotions throughout the text.
+
+Emotional Content Analysis:
+
+- **Sadness**: The text conveys a sense of sadness, emptiness, and a feeling of not being able to fully accept oneself.
+- **Fear**: There are elements of fear in the bo'y's self-perception and fear of not being able to be accepted or recognized.
+- **Disgust**: The text includes elements of disgust towards the bo'y's own physical appearance and struggle with self-identity.
+- **Anger**: There are hints of anger towards societal perceptions and expectations that affect the bo'y's self-image.
+- **Surprise**: There are not significant instances of surprise in the text.
+- **Anticipation**: The text does not strongly convey anticipation.
+- **Trust**: The theme of trust is not prominent in the text.
+- **Distrust**: The bo'y seems to struggle with a sense of distrust towards themselves and their own identity.
+- **Love**: While there is a mention of love ("a lie everyone loves to look at"), it does not dominate the text.
+- **Saudade**: There is a feeling of longing and nostalgia for an idealized self that is mentioned in the text.
+- **Awe**: The text does not express a sense of awe.
+- **Bittersweetness**: The text contains elements of bittersweetness in the bo'y's attempt to present

@@ -1,0 +1,1 @@
+The emotional content of the text includes feelings of defiance, anger, fear, sorrow, and darkness. The emotions seem intense and varied, encompassing a range of negative and tumultuous feelings such as rebellion, despair, conflict, and chaos. The emotion vector for the text could be as follows: [0, 0.6, 0.8, 0.5, 0.7, 0.5, 0.4, 0, 0, 0, 0, 0, 0.6, 0.8, 0.7].

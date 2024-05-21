@@ -1,0 +1,1 @@
+The emotional content of the text contains elements of sadness, awe, bittersweetness, and nostalgia. Based on the analysis, the emotion vector for the text is as follows: [0, 0.6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0.3, 0.6].

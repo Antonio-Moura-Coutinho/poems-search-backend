@@ -1,0 +1,20 @@
+I will analyze the emotional content of the text and generate an emotion vector for you.
+
+Analysis:
+- Happiness: Moments of connection, redemption, friends, reading and enjoying poetry, sharing laughter and companionship.
+- Sadness: Reflection on past struggles with addiction, the transience of experiences, the discarded lives on the sidewalk.
+- Fear: None.
+- Disgust: None.
+- Anger: None.
+- Surprise: Unpredictable elements like stand-up comedians in New York City.
+- Anticipation: Planning trips, creating art, seeing potential in the ordinary.
+- Trust: Trust in friendships, recovery, shared experiences.
+- Distrust: None.
+- Love: Love for friends, shared laughter, creating and appreciating art.
+- Saudade: Reflection on past times and people, the passage of time.
+- Awe: Appreciation for the vastness of ordinary life, the depth of experience.
+- Bittersweetness: Reflecting on past struggles and joys, the beauty in impermanence.
+- Melancholy: Reflection on past struggles and lost opportunities.
+- Nostalgia: Remembering past times with friends, recovery, and creative pursuits.
+
+Emotion Vector: [0.5, 0.3, 0, 0, 0, 0.2, 0.4, 0.6, 0, 0.3, 0.3, 0.4, 0.4,

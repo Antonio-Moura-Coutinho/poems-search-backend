@@ -1,0 +1,20 @@
+Analyzing the emotional content of the text, we can identify the following emotions with varying intensities:
+
+- Happiness: Moderate (references to love, ecstasy)
+- Sadness: Mild (references to tears clouding eyes, pain)
+- Fear: Low
+- Disgust: Low
+- Anger: Moderate (references to raging against the return of the world)
+- Surprise: Moderate (references to the return of the world as a surprise)
+- Anticipation: Low
+- Trust: Moderate (references to understanding love's widening third stage)
+- Distrust: Low
+- Love: High
+- Saudade: Not present
+- Awe: Moderate (references to splendid isolation, outstanding ecstasy)
+- Bittersweetness: Moderate (references to the world's return and pain but softened in the light)
+- Melancholy: Low
+- Nostalgia: Low
+
+Based on the analysis, the emotion vector for the text would be approximately:
+[0.5, 0.2, 0, 0, 0.3, 0.3, 0, 0.3, 0, 0.7, 0, 0.3, 0.3, 0]

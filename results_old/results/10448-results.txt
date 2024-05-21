@@ -1,0 +1,5 @@
+The emotional content of the text is complex and includes a mix of emotions. Here is the emotion vector for the text:
+
+[0.3, 0.4, 0.2, 0, 0.2, 0.3, 0.4, 0.4, 0, 0.2, 0.1, 0.3, 0.4, 0.3, 0.2]
+
+This vector represents the intensity of each emotion within the text. Feel free to reach out if you have any more questions!

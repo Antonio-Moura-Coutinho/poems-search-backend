@@ -1,0 +1,15 @@
+The emotional vector for the provided text is as follows: [0, 0.5, 0.3, 0, 0, 0, 0.3, 0, 0, 0.3, 0, 0, 0, 0.5, 0].
+
+Explanation:
+
+- Happiness: 0 - The text does not express happiness.
+- Sadness: 0.5 - The text conveys feelings of longing, duty, and endurance, indicating a moderate level of sadness.
+- Fear: 0.3 - The mention of being alone at night and the sense of endurance can evoke feelings of fear.
+- Disgust: 0 - There is no explicit mention of disgust in the text.
+- Anger: 0 - The text does not show anger.
+- Surprise: 0 - There is no surprise expressed in the text.
+- Anticipation: 0.3 - There is a sense of anticipation and expectation in the text, especially in the reference to the man following an intriguing light.
+- Trust: 0 - The text does not convey trust explicitly.
+- Distrust: 0 - There is no indication of distrust in the text.
+- Love: 0.3 - The text mentions a man following an intriguing light to its source, possibly symbolizing a sense of love or longing.
+- Saudade: 0 - This text does not explicitly express saudade, a feeling of

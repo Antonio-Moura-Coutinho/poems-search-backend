@@ -1,0 +1,4 @@
+Analyzing the emotional content of the text provided, the emotions expressed are primarily Fear, Surprise, and a hint of Sadness. 
+
+Here is the emotion vector based on the intensity of emotions in the text:
+[Fear: 0.7, Sadness: 0.2, Surprise: 0.6, Happiness: 0, Disgust: 0, Anger: 0, Anticipation: 0, Trust: 0, Distrust: 0, Love: 0, Saudade: 0, Awe: 0, Bittersweetness: 0, Melancholy: 0, Nostalgia: 0]

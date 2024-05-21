@@ -1,0 +1,5 @@
+The emotional content of the text seems to evoke a mixture of sadness, melancholy, and nostalgia. Based on the text, the emotion vector could be as follows:
+
+[0, 0.7, 0, 0, 0, 0, 0, 0.6, 0, 0, 0, 0, 0, 0.5, 0.8]
+
+This vector indicates a high level of sadness, nostalgia, and melancholy in the text, along with some trust associated with the relationship mentioned with the mother.

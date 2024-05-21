@@ -1,0 +1,8 @@
+To analyze the emotional content of the text provided, I will break down the emotions expressed in the text and create an emotion vector based on the intensity of each emotion. From the text, we can identify the following emotions:
+
+- Fear: The presence of phosphorous bombs, screams in police stations, police firing upon the people, and machine guns indicate a sense of fear.
+- Sadness: References to sad curfew warnings, people being dispersed with bombs, and windows being smashed convey sadness.
+- Anger: The stoning of Carías' palace by the people, police firing upon the people, and the presence of machine guns suggest anger.
+- Anticipation: The repeated calls to the watchman for the hour of the night imply a sense of anticipation or unease.
+
+Based on the identified emotions, the emotion vector is as follows: [0, 0.4, 0.6, 0, 0.4, 0, 0.4, 0, 0, 0, 0, 0, 0, 0, 0], indicating a higher intensity of fear, sadness, anger, and anticipation in the text.

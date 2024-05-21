@@ -1,0 +1,1 @@
+The emotional content of the text appears to convey a sense of Anticipation, Trust, and Comfort. The overall tone is reassuring and comforting, with an emphasis on the journey and the eventual rest at the inn. Based on this analysis, the emotion vector for the text can be represented as follows: [0, 0, 0, 0, 0, 0, 0.6, 0.7, 0, 0, 0, 0, 0, 0, 0].

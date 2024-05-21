@@ -1,0 +1,3 @@
+The emotional vector for the analyzed text is: [0.1, 0.6, 0.6, 0.7, 0.5, 0.3, 0.3, 0.4, 0.7, 0, 0.3, 0.6, 0.6, 0.8, 0.4]. 
+
+This analysis indicates a strong presence of emotions such as sadness, fear, disgust, and distrust in the text, along with moderate levels of anger, anticipation, bittersweetness, and nostalgia. There are also hints of melancholy and trust, with very minimal elements of happiness, surprise, love, and awe.

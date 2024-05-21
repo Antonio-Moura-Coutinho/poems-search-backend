@@ -1,0 +1,5 @@
+The emotional content of the text encompasses various emotions. Here is the emotion vector based on the intensity of each emotion found in the text:
+
+[0.3, 0.3, 0.4, 0.1, 0.3, 0.2, 0.4, 0.5, 0.1, 0.3, 0.2, 0.2, 0.3, 0.4, 0.3]
+
+This vector reflects moderate levels of anticipation, trust, and nostalgia, along with lower levels of happiness, sadness, anger, fear, surprise, love, awe, bittersweetness, melancholy, and distrust in the text.

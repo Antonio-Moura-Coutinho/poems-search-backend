@@ -1,0 +1,11 @@
+The emotion vector for the provided text is as follows: [0.2, 0.3, 0.2, 0, 0, 0, 0.3, 0.6, 0, 0, 0, 0, 0.3, 0.4, 0]
+
+Explanation of emotional content:
+- Happiness: 0.2 - There are mentions of camaraderie, good deeds, and positive memories, but the overall tone does not strongly convey happiness.
+- Sadness: 0.3 - The text touches on themes of nostalgia, the passage of time, and a sense of loss associated with growing up and leaving behind a certain time in life.
+- Fear: 0.2 - There are subtle hints of fear, possibly related to the war in Vietnam and the uncertainties of the future.
+- Disgust: 0 - There are no elements in the text that evoke feelings of disgust.
+- Anger: 0 - There are no mentions of anger or hostility in the text.
+- Surprise: 0 - No explicit surprises are mentioned that would evoke the feeling of surprise.
+- Anticipation: 0.3 - There is anticipation present in the text as it reflects on the preparation for leaving for college and the sense of moving forward into the unknown future.
+- Trust: 0.6 - Trust is a prominent emotion in the text, particularly in relation to the Quakers and their non

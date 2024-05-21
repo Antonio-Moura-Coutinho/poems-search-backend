@@ -1,0 +1,3 @@
+Analyzing the emotional content of the provided text, we can identify elements of longing, desire, and a sense of unrequited love. The speaker expresses a plea for their will to be considered and integrated into the will of the beloved, highlighting feelings of inadequacy and yearning for acceptance.
+
+Emotion vector: [0.2, 0.4, 0.3, 0, 0, 0, 0.5, 0.4, 0, 0.7, 0.2, 0, 0.4, 0.3, 0.3]

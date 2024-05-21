@@ -1,0 +1,5 @@
+The emotional content of the text appears to convey feelings of love, shyness, and anticipation. Based on the analysis, the emotion vector for the text could be as follows:
+
+[0, 0, 0, 0, 0, 0, 0.3, 0.7, 0, 0.8, 0, 0, 0, 0, 0]
+
+This vector indicates a high intensity of Trust and Love, moderate anticipation, and no other strong emotional components.

@@ -1,0 +1,3 @@
+Based on the emotional content of the text provided, the emotion vector could be as follows: [0, 0.3, 0.3, 0.2, 0.2, 0.1, 0.4, 0, 0.1, 0, 0, 0.1, 0.3, 0.4, 0.3].
+
+This breakdown is derived from the emotional tones present in the text. There is a sense of sadness, fear, disgust, anger, surprise, anticipation, bittersweetness, melancholy, and nostalgia throughout the text. These emotions are reflected in the descriptions of the dispossessed individual driving a rusted car, the imagery of the field and lake, the presence of gunshots, and the abandoned and broken items scattered in the area. The emotions of trust, love, saudade, awe, and happiness are not prominently featured in this text.

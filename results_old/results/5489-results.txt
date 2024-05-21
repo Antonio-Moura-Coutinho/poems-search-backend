@@ -1,0 +1,11 @@
+To analyze the emotional content of the text, we can identify the following emotions:
+
+Happiness: The interaction between the characters seems positive and warm.
+Sadness: Tears are mentioned in the text.
+Trust: There is a level of trust and care implied through the actions of the characters.
+Love: There is a sense of emotional connection between the characters.
+Surprise: The character is surprised to see the other person looking for them.
+
+Based on this analysis, we can create an emotion vector representing the intensity of these emotions in the text:
+
+[Happiness: 0.4, Sadness: 0.2, Fear: 0, Disgust: 0, Anger: 0, Surprise: 0.3, Anticipation: 0, Trust: 0.6, Distrust: 0, Love: 0.4, Saudade: 0, Awe: 0, Bittersweetness: 0, Melancholy: 0.2, Nostalgia: 0]

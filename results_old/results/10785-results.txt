@@ -1,0 +1,11 @@
+To analyze the emotional content of the text "The Dying Words of Goethe," we can identify several emotions present:
+
+- Sadness: The text conveys a sense of impending death and a dying poet's last words, which evoke feelings of sadness and finality.
+- Anticipation: The poet expresses a longing for light before passing away, which reflects a sense of anticipation for what comes next.
+- Trust: The mention of a "Gracious Saviour" indicates trust and faith in a higher power during the transition from life to death.
+- Melancholy: The overall tone of the poem is melancholic, reflecting on the poet's life, fading sight, and ultimate departure.
+- Nostalgia: The poet reminisces about the light and longing for it, which may evoke a sense of nostalgia for brighter days or moments.
+
+Based on these emotional elements, the emotion vector for the text "The Dying Words of Goethe" could be:
+
+[0, 0.6, 0, 0, 0, 0, 0.4, 0.3, 0, 0, 0, 0, 0.5, 0]

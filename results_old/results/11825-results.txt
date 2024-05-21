@@ -1,0 +1,8 @@
+The emotional vector for the text provided is as follows: [0.1, 0.7, 0.4, 0.3, 0.4, 0, 0, 0.2, 0.2, 0.2, 0, 0, 0.6, 0.6, 0.5].
+
+Explanation:
+- Sadness is the most prominent emotion in the text, indicated by a high intensity value of 0.7.
+- Melancholy, Nostalgia, and Disgust also have significant intensities, resulting in values of 0.6 each.
+- Fear, Anger, and Distrust appear to some extent in the text with moderate intensities of 0.4 each.
+- Trust, Love, and Bittersweetness have low intensities of 0.2 each.
+- Happiness, Surprise, Anticipation, Saudade, and Awe have very low or negligible intensities in this text, indicated by the values of 0 or close to 0.

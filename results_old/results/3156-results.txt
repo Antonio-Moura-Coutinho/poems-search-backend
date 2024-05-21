@@ -1,0 +1,4 @@
+The emotional vector for the text is as follows:
+[0.3, 0.1, 0.1, 0, 0.2, 0.4, 0.2, 0.4, 0, 0.1, 0, 0.3, 0.2, 0.3, 0.2]
+
+This analysis indicates a mix of emotions including Surprise, Anticipation, Trust, Happiness, Bittersweetness, Melancholy, and Nostalgia.

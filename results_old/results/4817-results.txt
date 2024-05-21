@@ -1,0 +1,4 @@
+Based on the text provided, the emotional content seems to evoke a sense of unease, uncertainty, and some elements of disgust or fear. The repetition and imagery of "moonlight and dampness on a log" along with words like "terrible frog" and "panting mass" contribute to a slightly eerie and discomforting atmosphere. The text doesn't strongly convey positive emotions like happiness or love.
+
+Here is the emotion vector for the text:
+[0, 0, 0.4, 0.4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]

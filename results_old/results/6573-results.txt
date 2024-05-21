@@ -1,0 +1,15 @@
+To analyze the emotional content of the text and create an emotion vector, we will identify the key emotions present in the text and assess their intensity. Based on the text provided, the emotional content includes:
+
+- **Sadness**: There is a sense of darkness, fear, and discomfort expressed throughout the text, especially in phrases such as "Howls in his sleep because the tight-rope trembles and shows the darkness beneath" and "Trembles to think that his quivering meat must finally wince to nothing at all."
+
+- **Disgust**: The descriptions of the heavy bear as a "Crazy factotum, dishevelling all" and the mention of the "secret life of belly and bone" suggest a feeling of disgust.
+
+- **Anticipation**: The text conveys a sense of anticipation and apprehension, particularly in the references to trembling, fear, and the unknown.
+
+- **Distrust**: The feelings of being followed, distorted, and perplexed suggest a theme of distrust.
+
+- **Melancholy**: The overall tone of the text is melancholic, with references to darkness, fear, and vulnerability.
+
+Given the analysis, the emotion vector representing the intensity of each emotion on a scale from 0 to 1 would be approximately:
+
+[0, 0.8, 0, 0.6, 0, 0, 0.3, 0, 0.6, 0, 0, 0,

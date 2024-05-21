@@ -1,0 +1,15 @@
+Based on the emotional content of the text, the emotion vector could be as follows: [0.1, 0.5, 0.6, 0, 0.3, 0.3, 0.5, 0.4, 0.4, 0.1, 0, 0.1, 0.3, 0.4, 0.2]. 
+
+Explanation:
+- Happiness: 0.1 (not prominent in the text)
+- Sadness: 0.5 (mentions of pain, doom, sighing, and the struggle for survival indicate sadness)
+- Fear: 0.6 (strong themes of impending danger and uncertainty)
+- Disgust: 0 (not expressed in the text)
+- Anger: 0.3 (hints of frustration and resignation)
+- Surprise: 0.3 (the unexpected relief and emotions might evoke some surprise)
+- Anticipation: 0.5 (implied anticipation of an uncertain future and awaiting a miracle)
+- Trust: 0.4 (some trust in the final offer and life's whispers)
+- Distrust: 0.4 (also shows distrust in risking the first step)
+- Love: 0.1 (affection is not a dominant emotion)
+- Saudade: 0 (not prominently featured in the text)
+- Awe: 0.1 (sense of wonder at the unknown aspects of

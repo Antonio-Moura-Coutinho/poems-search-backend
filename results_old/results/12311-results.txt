@@ -1,0 +1,15 @@
+Based on the text provided, the emotional content can be analyzed as follows:
+
+- Happiness: The text conveys a sense of happiness, appreciation, and the beauty in nature and creatures. (0.7)
+- Sadness: There is a touch of sadness in the imagery of reteaching and the sow remembering its loveliness. (0.3)
+- Fear: There is no clear indication of fear in the text. (0)
+- Disgust: There is no indication of disgust. (0)
+- Anger: There is no indication of anger. (0)
+- Surprise: There is no indication of surprise. (0)
+- Anticipation: There is a sense of anticipation or expectation in the text as the process of reteaching is described. (0.4)
+- Trust: The text conveys a sense of trust or faith in the process of reteaching and recognizing the beauty within. (0.6)
+- Distrust: There is no indication of distrust. (0)
+- Love: The text exudes a feeling of love and appreciation for the sow and the natural world. (0.8)
+- Saudade: There is a hint of longing and nostalgia in the imagery of the sow remembering its beauty. (0.2)
+- Awe: The text invokes a sense of awe in the beauty and loveliness described. (0.6)
+- Bittersweetness: There is a bittersweet quality in

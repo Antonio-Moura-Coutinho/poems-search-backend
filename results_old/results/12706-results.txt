@@ -1,0 +1,5 @@
+Based on the text provided, the emotional vector for the content might be:
+
+[0, 0.6, 0.7, 0, 0.8, 0, 0.4, 0.2, 0.7, 0, 0, 0, 0.6, 0.7, 0.6]
+
+This indicates a strong presence of emotions like Sadness, Fear, Anger, Distrust, Melancholy, and Nostalgia, with some level of Anticipation and Bittersweetness as well. Other emotions like Happiness, Disgust, Surprise, Trust, Love, Saudade, and Awe are not strongly represented in the text.

@@ -1,0 +1,8 @@
+To analyze the emotional content of the text provided, we can identify the following emotions:
+
+- Happiness: The text conveys a sense of love and affection through the acts of kissing, which can be associated with happiness.
+- Trust: There is an implied sense of trust and intimacy in the actions described.
+
+Based on the text, the emotional vector could be represented as follows: [0.2, 0, 0, 0, 0, 0, 0, 0.3, 0, 0.5, 0, 0, 0, 0, 0]
+
+Please note that the emotions in the text are subjective, and the interpretation may vary based on individual perceptions.

@@ -1,0 +1,12 @@
+To analyze the emotional content of the text, I will identify keywords and phrases that are associated with the given emotions and use them to calculate the emotion vector:
+
+- Happiness: There are hints of happiness in the text, particularly in phrases like "brought home presents," "diamond drill," "frosting right out of the can," and "I'm such a good girl to eat the world."
+- Sadness: Sadness can be inferred from phrases like "children fear a different school," "smashed platters of meat," and "raged at my stony mother."
+- Fear: Fear is implied in "children fear a different school."
+- Disgust: Disgust is hinted at in phrases like "smashed platters of meat" and "I was supposed to cultivate a field of bliss."
+- Anger: Anger is evident in phrases like "you raged at my stony mother," "you ruled with a knife in one hand and a fork in the other," and "while I banged from my high chair."
+- Surprise: Surprise is not significantly present in the text.
+- Anticipation: There is anticipation in phrases like "you ruled with a knife in one hand and a fork in the other."
+- Trust: Trust is not notably expressed in the text.
+- Distrust: Distrust is not explicitly mentioned.
+- Love: There are elements of love in phrases like "I wore your shoes, big as boats," and "garlic

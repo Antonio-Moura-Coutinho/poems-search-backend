@@ -1,0 +1,8 @@
+To analyze the emotional content of the text, we can identify the following emotions:
+
+- Sadness: Reflecting on the comparison of the mouth to a fallen cello and the mention of a casket can evoke a sense of sadness.
+- Love: The reference to a mother's mouth and the statement "Full of me" can suggest a theme of love and connection.
+
+Based on this analysis, the emotion vector for the text could be:
+
+[0, 0.4, 0, 0, 0, 0, 0, 0.6, 0, 0.5, 0, 0, 0, 0, 0]

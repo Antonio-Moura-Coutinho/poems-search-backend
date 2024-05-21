@@ -1,0 +1,10 @@
+Analyzing the emotional content of the text, the main emotions detected are:
+
+- Anticipation related to the potential future event of having enough people in Froxfield to pick all the blackberries.
+- Happiness and Love for the idea of a community coming together for a shared activity like blackberry picking.
+
+Based on this analysis, the emotion vector for the text could be estimated as follows:
+
+[0.7, 0, 0, 0, 0, 0, 0.8, 0.6, 0, 0.6, 0, 0, 0, 0, 0]
+
+This vector indicates a high level of Happiness, Anticipation, Trust, and Love in the text, with lower or no intensity for other emotions.

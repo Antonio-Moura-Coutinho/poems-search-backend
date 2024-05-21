@@ -1,0 +1,14 @@
+The emotional analysis of the text reveals the following emotion vector: [0.31, 0.29, 0.19, 0, 0, 0.19, 0.31, 0.42, 0, 0.42, 0, 0, 0.1, 0.38, 0.33].
+
+Explanation:
+- Happiness: 0.31 - Moderately present, indicated by phrases expressing contentment and positive interactions like hearing words clearly and spending time with loved ones.
+- Sadness: 0.29 - Moderate presence of sadness, reflected in discussions of missing friends and reminiscing about the past.
+- Fear: 0.19 - Slight sense of fear, possibly alluding to uncertainties like cloud bursts and changes in weather.
+- Disgust: 0 - Not present in the text.
+- Anger: 0 - Not present in the text.
+- Surprise: 0.19 - Occasional surprises are mentioned, adding a touch of unpredictability.
+- Anticipation: 0.31 - There is anticipation shown through looking out windows, going through doors, and eagerly awaiting events.
+- Trust: 0.42 - Strong sense of trust is evident in relationships and interactions with others.
+- Distrust: 0 - Not present in the text.
+- Love: 0.42 - Strong presence, shown through expressions of love for friends and cherishing memories.
+-

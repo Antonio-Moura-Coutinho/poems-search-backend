@@ -1,0 +1,1 @@
+The text conveys a sense of melancholy, contemplation, and a hint of anticipation. The emotions are subtly expressed with a focus on the falling apples and the passage of time. Based on this analysis, the emotion vector for the text is as follows: [0, 0, 0, 0, 0, 0, 0.2, 0.3, 0, 0, 0, 0, 0.5, 0].

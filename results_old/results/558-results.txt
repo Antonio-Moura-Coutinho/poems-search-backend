@@ -1,0 +1,3 @@
+The emotional content of the text includes elements of sadness, fear, and perhaps a hint of melancholy. The speaker discusses themes of disappointment, the inability to express true feelings, and the idea of not being heard. There is a sense of longing and resignation in the words, which contribute to the emotional tone.
+
+Emotion vector: [0, 0.4, 0.3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0.4, 0]

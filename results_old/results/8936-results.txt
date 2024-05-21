@@ -1,0 +1,3 @@
+The emotional analysis of the text yields the following emotion vector: [0.04, 0.15, 0.3, 0.3, 0.15, 0.1, 0.25, 0.12, 0.21, 0, 0, 0.1, 0.05, 0.15, 0.15].
+
+This vector indicates a mixture of fear, disgust, anticipation, and distrust being the prominent emotions in the text. Sadness, anger, and melancholy are also present to some extent. Love, bittersweetness, nostalgia, and other positive emotions are not significantly represented in the text.

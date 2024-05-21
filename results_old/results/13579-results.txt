@@ -1,0 +1,21 @@
+Based on the analysis of the text, the emotional vector for the provided text would be as follows: [0.5, 0.6, 0.2, 0.2, 0, 0.3, 0.3, 0.4, 0, 0.2, 0, 0.2, 0.4, 0.5, 0].
+
+Here is the breakdown of the emotional intensities for each category:
+
+- Happiness: 0.5
+- Sadness: 0.6
+- Fear: 0.2
+- Disgust: 0.2
+- Anger: 0
+- Surprise: 0.3
+- Anticipation: 0.3
+- Trust: 0.4
+- Distrust: 0
+- Love: 0.2
+- Saudade: 0
+- Awe: 0.2
+- Bittersweetness: 0.4
+- Melancholy: 0.5
+- Nostalgia: 0
+
+This emotional vector indicates that the text contains elements of both sadness and melancholy, with hints of happiness, trust, bittersweetness, and nostalgia. Feelings of surprise, anticipation, and awe are also present in moderate levels.

@@ -1,0 +1,6 @@
+To analyze the emotional content of the text "All the time I pray to Buddha I keep on killing mosquitoes," we can identify the following emotions:
+
+- Disgust: Mosquitoes are commonly associated with disgust due to their annoying nature and potential to spread diseases.
+- Anticipation: The act of killing mosquitoes implies a constant, repetitive action, suggesting anticipation or vigilance.
+
+Based on the identified emotions, the emotion vector could look like this: [0, 0, 0, 1, 0, 0, 0.5, 0, 0, 0, 0, 0, 0, 0, 0]. This vector indicates a high level of disgust and moderate anticipation in the text.

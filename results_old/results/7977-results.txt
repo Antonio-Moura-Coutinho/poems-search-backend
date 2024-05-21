@@ -1,0 +1,1 @@
+Analyzing the emotional content of the text, the emotions that stand out are Sadness, Anticipation, Trust, Love, Awe, Melancholy, and Nostalgia. Using a scale from 0 to 1, the emotional vector for the text is as follows: [0, 0.45, 0, 0, 0, 0, 0.5, 0.5, 0, 0.4, 0, 0, 0, 0.3, 0.4].

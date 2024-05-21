@@ -1,0 +1,5 @@
+This text contains a mix of emotions, including darkness, intensity, and perhaps a sense of destruction. Here is the emotion vector based on the emotional content of the text:
+
+[0, 0.6, 0.7, 0.8, 0.7, 0, 0.8, 0, 0.6, 0, 0, 0, 0, 0.6, 0]
+
+This vector suggests a high level of sadness, fear, disgust, anger, anticipation, and melancholy, with hints of distrust and nostalgia.

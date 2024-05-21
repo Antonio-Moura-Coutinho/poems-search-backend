@@ -1,0 +1,5 @@
+To analyze the emotional content of the text, we can identify the following emotions based on the provided list: Sadness, Disgust. The emotion vector representing the intensity of these emotions can be calculated as follows:
+
+[Sadness, Disgust] = [1.0, 0.3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+This vector indicates a high level of sadness and a moderate level of disgust present in the text.

@@ -1,0 +1,3 @@
+The emotional content of the text includes a mix of emotions, with strong elements of Anticipation, Trust, Love, Awe, and Nostalgia. There are also hints of Happiness, Sadness, and Bittersweetness. The emotions of Fear, Disgust, Anger, Surprise, Distrust, Saudade, Melancholy, and Fear are not as prominently expressed in this text. Here is the emotion vector based on the analysis:
+
+[0.2, 0.1, 0, 0, 0, 0, 0.6, 0.7, 0, 0.6, 0, 0.6, 0.3, 0]

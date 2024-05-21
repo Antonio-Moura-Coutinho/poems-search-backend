@@ -1,0 +1,1 @@
+This text evokes feelings of sadness, fear, distrust, and slight anger. The emotions are primarily focused on the mistreatment or lack of respect shown towards women. The emotional vector for this text could be: [0, 0.5, 0.4, 0, 0.4, 0, 0, 0, 0.6, 0, 0, 0, 0, 0, 0].

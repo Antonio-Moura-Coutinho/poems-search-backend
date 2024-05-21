@@ -1,0 +1,4 @@
+To analyze the emotional content of the text you provided, we can identify several emotional themes. The text contains elements of sadness, melancholy, sorrow, and a sense of loss. It also conveys a somber reflection on death, grief, and the passage of time, evoking emotions of grief, longing, and a profound sense of tragedy. The imagery of abandoned ghost towns, untranslated bones of babies, and the descriptions of burial practices all contribute to the overall tone of melancholy and sadness.
+
+Based on this analysis, the emotion vector for the text could be as follows:
+[0, 0.7, 0.3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0.8, 0]

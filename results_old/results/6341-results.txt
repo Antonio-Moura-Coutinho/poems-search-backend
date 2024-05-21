@@ -1,0 +1,8 @@
+The emotional vector for the given text is:
+[0, 0.2, 0.4, 0, 0, 0, 0.6, 0, 0, 0, 0, 0, 0, 0.2, 0].
+
+Explanation:
+- Sadness: 0.2 (expressed through phrases like "I’m not afraid to see you again")
+- Fear: 0.4 (expressed through feeling afraid to see "Holy father" again and uncertainty about courage expanding)
+- Anticipation: 0.6 (anticipating the courage expanding when the time comes)
+- Melancholy: 0.2 (reflecting on the bravery of the earth-father and the challenges of coming to America with limited English)

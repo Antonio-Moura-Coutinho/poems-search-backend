@@ -1,0 +1,15 @@
+To analyze the emotional content of the text and create an emotion vector, we will identify the emotions expressed and their intensities. Based on the text provided, the emotions observed are as follows:
+
+- Happiness: There is a sense of nostalgia and perhaps amusement in the text related to the memories of childhood and the child's actions.
+- Sadness: The feeling of sadness is not predominant, but there is a hint of loss when the child throws his Red Sox cap into the river.
+- Fear: There is no clear indication of fear in the text.
+- Disgust: There is no evident disgust expressed in the text.
+- Anger: The child's reaction to not getting the stuffed frog toy could be seen as a mild form of anger.
+- Surprise: The actions of the child, such as throwing the hat into the river and the reaction to not getting the toy, may evoke surprise.
+- Anticipation: The text does not convey a strong sense of anticipation.
+- Trust: The mention of the child wanting specific items implies trust and reliance on the adults to provide them.
+- Distrust: There is no indication of distrust in the text.
+- Love: The affection and care towards the child can be interpreted as love.
+- Saudade: The reminiscence of childhood and the child's innocence evoke feelings of saudade.
+- Awe: There is a sense of wonder and admiration in the description of the child's actions.
+- Bittersweetness: The mix of

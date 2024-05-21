@@ -1,0 +1,3 @@
+The emotional content of the text appears to be a mix of sadness, regret, and possibly a hint of melancholy. The use of words like "hurt," "cast you off," "failed," and "slip of hearts" convey a sense of sorrow and remorse. The imagery of stormcloud bruises, failed conquests, and the feeling of being impaled on the horns of failures contributes to a tone of melancholy and regret. 
+
+Based on this analysis, the emotion vector for the text could be: [0, 0.6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0.4, 0]. This signifies a high intensity of sadness and a moderate intensity of melancholy with negligible presence of other emotions.

@@ -1,0 +1,7 @@
+To analyze the emotional content of the text provided, we can identify various emotions expressed throughout the poem and assign intensity levels of those emotions. The emotions found in the text include Sadness, Fear, Disgust, Anticipation, Trust, and Love.
+
+Here is the emotion vector:
+
+[0, 0.8, 0.4, 0.3, 0, 0.3, 0.7, 0.6, 0, 0.8, 0, 0, 0.8, 0.6, 0]
+
+This vector indicates high levels of Sadness, Anticipation, Trust, Love, Bittersweetness, and Melancholy throughout the text.

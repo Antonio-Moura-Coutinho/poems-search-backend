@@ -1,0 +1,5 @@
+The emotional vector for the provided text is:
+
+[0.333, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+This indicates a moderate level of Happiness and no significant expression of other emotions.

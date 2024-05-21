@@ -1,0 +1,3 @@
+Based on the text provided, the emotional content seems to mainly consist of themes related to Happiness, Trust, Anticipation, and Love. The imagery of planting spruces, the conversation about enemies' deaths, the description of Easter preparations, and the overall positive and hopeful tone of the text contribute to these emotions.
+
+Emotion Vector: [0.8, 0, 0, 0, 0, 0, 0.6, 0.8, 0, 0.6, 0, 0, 0, 0, 0]

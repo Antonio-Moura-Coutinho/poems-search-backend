@@ -1,0 +1,5 @@
+This text conveys a sense of contemplation or reflection. The emotion vector for the text "Now I can see: even the trees" could be:
+
+[0.3, 0, 0.1, 0, 0, 0.2, 0.3, 0.5, 0, 0, 0.6, 0, 0, 0.5, 0.4]
+
+This vector indicates moderate levels of Anticipation, Trust, Love, Saudade, and Nostalgia, along with some Happiness and Awe. The emotions of Fear, Disgust, Anger, Distrust, Bittersweetness, Melancholy are not prominently expressed in the text.

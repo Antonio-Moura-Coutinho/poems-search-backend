@@ -1,0 +1,19 @@
+Based on the given text, the emotional content can be broken down as follows:
+
+- Happiness: 0
+- Sadness: 0.3
+- Fear: 0.6
+- Disgust: 0
+- Anger: 0
+- Surprise: 0
+- Anticipation: 0.2
+- Trust: 0.2
+- Distrust: 0
+- Love: 0
+- Saudade: 0
+- Awe: 0.4
+- Bittersweetness: 0
+- Melancholy: 0.4
+- Nostalgia: 0.3
+
+Thus, the emotion vector representing the emotional content of the text is [0, 0.3, 0.6, 0, 0, 0, 0.2, 0.2, 0, 0, 0, 0.4, 0, 0.4, 0.3].

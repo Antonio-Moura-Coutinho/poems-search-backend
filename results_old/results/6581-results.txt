@@ -1,0 +1,2 @@
+Based on the emotional content analysis of the text provided, the emotion vector is as follows: 
+[0.1, 0.2, 0.3, 0.2, 0.1, 0.1, 0.2, 0.2, 0, 0.1, 0, 0.1, 0.1, 0.2, 0.1]

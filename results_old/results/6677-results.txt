@@ -1,0 +1,10 @@
+To analyze the emotional content of the text, several emotions can be identified:
+
+- Sadness: The text conveys a sense of melancholy and reflection on fading aspects of life, such as "fading life" and the passing of time.
+- Anticipation: There is a feeling of anticipation or expectation as the speaker contemplates the unknown and enigmatic future.
+- Trust: Trust is present in the sense of safety and familiarity associated with the speaker's surroundings, like the safety of the small world they experience and the loved one's comforting presence.
+- Awe: The text evokes a sense of awe in descriptions of the sky, buildings, and nature, such as the "regal light," the beauty of birch trees, and the emptiness marked by a hierarchic rooftop.
+
+Based on these emotional cues, the emotion vector for the text could look like this: [0, 0.4, 0, 0, 0, 0, 0.2, 0.4, 0, 0, 0, 0.3, 0.3, 0].
+
+The vector values are distributed to show a higher intensity of sadness, trust, bittersweetness, melancholy, and nostalgia, with lower or no intensities for other emotions.

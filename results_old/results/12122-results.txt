@@ -1,0 +1,5 @@
+The emotional content of the text includes elements of awe, wonder, connection, and a sense of unity with the universe. Here is the emotion vector based on the analysis of the text:
+
+[0, 0, 0, 0, 0, 0, 0.6, 0.8, 0, 0.4, 0, 0.7, 0, 0]
+
+This emotion vector indicates a high level of anticipation, trust, love, and awe in the text, with moderate levels of surprise and bittersweetness. Other emotions are not prominently expressed in this text.

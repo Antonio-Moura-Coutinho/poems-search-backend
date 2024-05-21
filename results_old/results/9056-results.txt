@@ -1,0 +1,13 @@
+Analyzing the emotional content of the text, the emotions present in varying degrees are:
+
+Sadness: The theme of losing one's maidenhead and the struggles associated with it can evoke feelings of sadness.
+
+Anticipation: The anticipation of making a decision similar to what one's mother did is present in the text.
+
+Love: There is a hint of love or care implied in the decision to give the maidenhead to a bonie lad.
+
+Nostalgia: The mention of doing as one's minnie did and the reminiscence of the past can evoke feelings of nostalgia.
+
+The emotion vector representing the intensity of each emotion on a scale from 0 to 1 would be:
+
+[0, 0.6, 0, 0, 0, 0, 0.3, 0, 0, 0.3, 0, 0, 0, 0.7, 0.3]

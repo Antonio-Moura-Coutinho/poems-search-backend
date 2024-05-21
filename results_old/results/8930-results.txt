@@ -1,0 +1,13 @@
+Emotion Vector: [0.25, 0.5, 0.75, 0.25, 0.25, 0, 0.25, 0, 0, 0.25, 0, 0, 0, 0.25, 0.25]
+
+Explanation:
+- Happiness: There are elements of nature described in a positive light, but the overall tone is not specifically joyful. Hence, a moderate level of happiness is assigned.
+- Sadness: The text evokes a sense of sadness through imagery and references to death and loss, resulting in a high level of sadness.
+- Fear: The fear is present in the description of unsettling events and death, leading to a high level of fear.
+- Disgust: The text does not explicitly convey any disgust, so a low level is assigned.
+- Anger: While there are hints at discomfort, there is no explicit anger, resulting in a low level.
+- Surprise: There are no elements that denote surprise, so this emotion is not present.
+- Anticipation: The text contains an element of anticipation through the descriptions of nature and potential threats, thus a low level is assigned.
+- Trust: There is no explicit mention of trust, so a low level is given.
+- Distrust: The mention of fear and unsettling events contributes to a slight level of distrust.
+- Love: The text does not focus on love; hence, a low level is assigned

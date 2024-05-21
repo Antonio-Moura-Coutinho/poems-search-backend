@@ -1,0 +1,10 @@
+The emotional vector for the text is: [0.1, 0.4, 0.4, 0.2, 0.1, 0, 0.2, 0.3, 0.1, 0, 0, 0.1, 0.3, 0.4, 0].
+
+Explanation:
+- Happiness: 0.1 (Mild happiness can be inferred from the experience of being given lemonade and cake, but overall the tone is not heavily happy).
+- Sadness: 0.4 (The text conveys a sense of loneliness, neglect, and detachment, especially when describing the child's lack of attention and emotional numbness).
+- Fear: 0.4 (Feelings of fear can be observed in the uncertainty and discomfort experienced by the children in the presence of the elderly gentleman and the unfamiliar situation).
+- Disgust: 0.2 (There is a subtle sense of discomfort and aversion, especially in the context of the interaction with the elderly gentleman and the enforced adult-like behavior).
+- Anger: 0.1 (There are slight undertones of resistance or refusal to engage in certain activities, but anger is not a prominent emotion in the text).
+- Surprise: 0 (There are no explicit elements of surprise in the text).
+- Anticipation: 0.2 (Some anticipation can be inferred from the children's hunger and interest in the cake).

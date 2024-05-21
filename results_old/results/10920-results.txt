@@ -1,0 +1,15 @@
+Emotion Vector: [0.2, 0.4, 0.4, 0, 0, 0, 0.4, 0.2, 0.2, 0, 0, 0, 0.4, 0.4, 0]
+
+Explanation:
+
+- Happiness: 0.2 (Some sense of camaraderie and purpose is present, but happiness is not the predominant emotion.)
+- Sadness: 0.4 (There is a feeling of melancholy and a sense of the weight of the situation.)
+- Fear: 0.4 (Fear can be sensed in the tension of the situation, the uncertainty of the outcome.)
+- Disgust: 0 (No explicit disgust is expressed in the text.)
+- Anger: 0 (While there are signs of conflict, the text does not clearly convey anger.)
+- Surprise: 0 (No surprise is evident in the text.)
+- Anticipation: 0.4 (There is anticipation of what might happen next and the unknown future.)
+- Trust: 0.2 (A slight sense of trust is conveyed in the shared cause and the actions of the group.)
+- Distrust: 0.2 (There is also a hint of distrust, especially towards the foreigners mentioned.)
+- Love: 0 (The concept of love is mentioned but not strongly felt in the text.)
+- Saudade: 0 (No strong sense

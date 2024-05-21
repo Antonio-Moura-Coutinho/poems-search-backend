@@ -1,0 +1,17 @@
+Based on the text provided, the emotional vector analysis is as follows: [0.1, 0.3, 0.2, 0.1, 0.1, 0.1, 0.2, 0.4, 0, 0.1, 0, 0.3, 0.2, 0.4, 0.2].
+
+Explanation:
+- Happiness: 0.1 (Mentions of fun, fans enjoying the game)
+- Sadness: 0.3 (Themes of disappointment, disgrace)
+- Fear: 0.2 (Some tense moments with the ball hitting the bat or mitt)
+- Disgust: 0.1 (Mention of disgrace)
+- Anger: 0.1 (The emotion is not prominent)
+- Surprise: 0.1 (Some unexpected turns described)
+- Anticipation: 0.2 (Expectation for the ball and bat to meet)
+- Trust: 0.4 (Themes of trust between the ball, bat, and mitt)
+- Distrust: 0 (Not explicitly mentioned)
+- Love: 0.1 (Mentions of the ball and bat interacting)
+- Saudade: 0 (Not applicable)
+- Awe: 0.3 (Descriptions of the game and fans' reactions)
+- Bittersweetness: 0.2 (Mix of positive and negative emotions)
+- Melanch

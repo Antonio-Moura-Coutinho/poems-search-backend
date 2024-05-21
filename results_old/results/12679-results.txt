@@ -1,0 +1,12 @@
+To analyze the emotional content of the text and generate an emotion vector, we can identify the following emotions:
+
+Happiness: The text expresses hope, joy, and a positive outlook towards achieving a just cause.
+Sadness: There is a sense of empathy for the oppressed and a recognition of past struggles.
+Trust: The text acknowledges the trust and support from just individuals on earth and above.
+Anticipation: The anticipation of a better future for Africa and the impact of the efforts.
+Love: The text contains expressions of esteem and love for the efforts made and the individuals involved.
+
+Based on the emotional analysis, the emotion vector for the text provided can be calculated as follows:
+[Happiness: 0.6, Sadness: 0.3, Fear: 0, Disgust: 0, Anger: 0, Surprise: 0, Anticipation: 0.4, Trust: 0.5, Distrust: 0, Love: 0.5, Saudade: 0, Awe: 0, Bittersweetness: 0, Melancholy: 0, Nostalgia: 0]
+
+This vector represents the intensity of each emotion in the text on a scale from 0 to 1.

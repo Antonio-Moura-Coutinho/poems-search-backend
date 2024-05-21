@@ -1,0 +1,3 @@
+The emotional content analysis of the text shows elements of nostalgia and a sense of reminiscence. The emotions of nostalgia and comfort can be seen in the text as the speaker reflects on different stages of their life and the associated changes in clothing choices. There is a sense of looking back on simpler times and reminiscing about the past. 
+
+The emotion vector based on this analysis might look like: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0.8, 0.9].

@@ -1,0 +1,3 @@
+The emotions conveyed in the text include Sadness, Disgust, Anticipation, and Distrust. Based on the analysis, the emotion vector for the text can be represented as follows:
+
+[0, 0.5, 0, 0.4, 0, 0, 0.3, 0.2, 0.5, 0, 0, 0, 0, 0]
