@@ -18,7 +18,7 @@ from llama_index.core.indices import SummaryIndex
 os.environ['OPENAI_API_KEY'] = "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"
 openai.api_key = os.environ['OPENAI_API_KEY']
 
-documents = SimpleDirectoryReader("by_id").load_data()
+documents = SimpleDirectoryReader("../by_id").load_data()
 index = VectorStoreIndex.from_documents(documents)
 summary_index = SummaryIndex.from_documents(documents)
 llm = OpenAI(model="gpt-3.5-turbo", temperature=0)

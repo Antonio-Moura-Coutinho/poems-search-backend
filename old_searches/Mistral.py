@@ -28,7 +28,7 @@ llm = HuggingFaceLLM(
 
 Settings.llm = llm
 Settings.embed_model = "local:BAAI/bge-small-en-v1.5"
-documents = SimpleDirectoryReader("data").load_data()
+documents = SimpleDirectoryReader("../data").load_data()
 vector_index = VectorStoreIndex.from_documents(documents)
 query_engine = vector_index.as_query_engine(response_mode="compact")
 
