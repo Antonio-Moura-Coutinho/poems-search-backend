@@ -54,6 +54,30 @@ def get_emotion_vector(poem_content):
         print(f"Failed to process {poem_content}: {str(e)}")
         emotion_vector = "Error processing poem"
     return emotion_vector
+
+def get_poem_interpretation(poem_content):
+    try:
+        response = client.chat.completions.create(
+            model="gpt-3.5-turbo",
+            messages=[
+                {"role": "system", "content": "You are a helpful assistant."},
+                {"role": "user",
+                 "content": f"Analyze the and translate it if it is not in english "
+                            "Explain the poem, and provide an interpretation of its meaning. "
+                            "Use this emotions to describe [Happiness, Sadness, Fear, Disgust, Anger, Surprise, Anticipation, "
+                            "Trust, Guilt, Love, Saudade, Envy, Bittersweetness, Loneliness, Nostalgia]. "
+                            "These emotions represent a broad spectrum of human feelings. "
+                            "Reply ONLY with the analysis. "
+                 }
+            ],
+            max_tokens=800)
+
+        intrepretation = response.choices[0].message.content.strip()
+
+    except Exception as e:
+        print(f"Failed to process {poem_content}: {str(e)}")
+        intrepretation = "Error processing poem"
+    return intrepretation
 def get_poems_by_emotion(emotion_vector, poems):
     poems_aux = poems.copy()
     poems_aux = poems_aux[poems_aux['Font'] == 'english_classic']

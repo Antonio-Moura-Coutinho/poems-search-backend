@@ -145,7 +145,7 @@ def classify_poem(poems_directory, list_of_poems=[]):
                 print(f"Failed to process {filename}: {str(e)}")
                 emotion_vector = "Error processing poem"
 
-    #poems_final.to_csv("poems_final.csv", index=False)
+
     return poems_final
 
 def read_vector_results(results_directory):
@@ -200,17 +200,18 @@ if __name__ == '__main__':
 
     poems_directory = "by_id"
     results_directory = "results"
+    poems_final = pd.read_csv("poems_total.csv")
     poems_final = read_vector_results(results_directory)
+    poems_final.to_csv("poems_total.csv", index=False)
     poems_not_classified = poems_final[poems_final['emotion_vector'].isnull()]
 
     poems_not_classified.to_csv("poems_not_classified.csv", index=False)
     list_of_poems = poems_not_classified['Id'].tolist()
-    #classify_poem(poems_directory, list_of_poems)
-
-    poems_final['emotion_vector'] = poems_final['raw_emotion_vector'].apply(convert_to_float_list)
+    classify_poem(poems_directory, list_of_poems)
 
 
-    poems_final.to_csv("poems_final.csv", index=False)
+
+
 
 
 
