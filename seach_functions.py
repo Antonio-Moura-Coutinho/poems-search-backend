@@ -73,7 +73,7 @@ def get_poem_interpretation(poem_content):
                             f"\n{poem_content}"
                  }
             ],
-            max_tokens=800)
+            max_tokens=2000)
 
         intrepretation = response.choices[0].message.content.strip()
 
