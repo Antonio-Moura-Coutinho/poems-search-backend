@@ -70,6 +70,7 @@ def get_poem_interpretation(poem_content):
                             "Trust, Guilt, Love, Saudade, Envy, Bittersweetness, Loneliness, Nostalgia]. "
                             "These emotions represent a broad spectrum of human feelings. "
                             "Reply ONLY with the analysis. "
+                            f"\n{poem_content}"
                  }
             ],
             max_tokens=800)
