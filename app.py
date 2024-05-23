@@ -34,9 +34,11 @@ def classify_poem():
     if not matched_poems.empty:
         results = [{
             "poem": poem,
-            "emotion_vector": vector
-        } for poem, vector in zip(matched_poems['Poem'], matched_poems['emotion_vector'])]
-        return jsonify(results)
+            "emotion_vector": vector,
+            "title": title,
+            "poet": poet
+        } for poem, vector, title, poet in zip(matched_poems['Poem'], matched_poems['emotion_vector'], matched_poems['Title'],
+                                matched_poems['Poet'])]
     else:
         return jsonify({"poems": ["No matching poems found."], "emotion_vector": []})
 
@@ -50,8 +52,11 @@ def find_by_author():
         poems_by_author = poems[poems['Poet'].str.upper() == query.upper()].dropna()
         results = [{
             "poem": poem,
-            "emotion_vector": eval(vector)
-        } for poem, vector in zip(poems_by_author['Poem'], poems_by_author['emotion_vector'])]
+            "emotion_vector": eval(vector),
+            "title": title,
+            "poet": poet
+        } for poem, vector, title, poet in zip(poems_by_author['Poem'], poems_by_author['emotion_vector'], poems_by_author['Title'],
+                                poems_by_author['Poet'])]
     else:
         closest_match = process.extractOne(query, poets, scorer=fuzz.token_sort_ratio)
         if closest_match and closest_match[1] > 40:
@@ -59,8 +64,12 @@ def find_by_author():
             poems_by_author = poems[poems['Poet'] == closest_author].dropna()
             results = [{
                 "poem": poem,
-                "emotion_vector": eval(vector)
-            } for poem, vector in zip(poems_by_author['Poem'], poems_by_author['emotion_vector'])]
+                "emotion_vector": eval(vector),
+                "title": title,
+                "poet": poet
+            } for poem, vector, title, poet in zip(poems_by_author['Poem'], poems_by_author['emotion_vector'], poems_by_author['Title'],
+                                    poems_by_author['Poet'])]
+
         else:
             results = [{"poem": "No poems found by this author.", "emotion_vector": []}]
 
@@ -77,8 +86,11 @@ def find_by_title():
         poems_by_title = poems[poems['Title'] == query.upper()].dropna()
         results = [{
             "poem": poem,
-            "emotion_vector": eval(vector)
-        } for poem, vector in zip(poems_by_title['Poem'], poems_by_title['emotion_vector'])]
+            "emotion_vector": eval(vector),
+            "title": title,
+            "poet": poet
+        } for poem, vector, title, poet in zip(poems_by_title['Poem'], poems_by_title['emotion_vector'], poems_by_title['Title'],
+                                    poems_by_title['Poet'])]
     else:
         closest_match = process.extractOne(query, poems['Title'], scorer=fuzz.token_sort_ratio)
         if closest_match and closest_match[1] > 60:
@@ -86,12 +98,34 @@ def find_by_title():
             poems_by_title = poems[poems['Title'] == closest_title].dropna()
             results = [{
                 "poem": poem,
-                "emotion_vector": eval(vector)
-            } for poem, vector in zip(poems_by_title['Poem'], poems_by_title['emotion_vector'])]
+                "emotion_vector": eval(vector),
+                "title": title,
+                "poet": poet
+            } for poem, vector, title, poet in zip(poems_by_title['Poem'], poems_by_title['emotion_vector'], poems_by_title['Title'],
+                                    poems_by_title['Poet'])]
         else:
             results = [{"poem": "No poems found with this title.", "emotion_vector": []}]
 
     return jsonify(results)
+@app.route('/find_by_BM25', methods=['POST'])
+def find_by_BM25():
+    data = request.json
+    query = data.get('query', '')
+    matched_poems = seach_functions.search_poems_by_query(query, poems)
+
+    if not matched_poems.empty:
+        results = [{
+            "poem": poem,
+            "emotion_vector": eval(vector),
+            "title": title,
+            "poet": poet
+        } for poem, vector, title, poet in zip(matched_poems['Poem'], matched_poems['emotion_vector'], matched_poems['Title'],
+                                matched_poems['Poet'])]
+    else:
+        return jsonify({"poems": ["No matching poems found."], "emotion_vector": []})
+
+    return jsonify(results)
+
 @app.route('/get_poem_interpretation', methods=['POST'])
 def get_poem_interpretation():
     data = request.json

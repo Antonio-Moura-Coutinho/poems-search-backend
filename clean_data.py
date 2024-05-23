@@ -2,7 +2,23 @@ import os
 import pandas as pd
 import numpy as np
 import re
+from collections import Counter
 
+def create_word_counts_df(poems_total):
+    # Concatenate all poems into a single string
+    all_poems = ' '.join(poems_total['Poem'])
+
+    # Tokenize the string into individual words
+    words = all_poems.split()
+    words = [word.lower() for word in words]
+
+    # Count the frequency of each word
+    word_counts = Counter(words)
+
+    # Create a DataFrame from the word-count pairs
+    word_counts_df = pd.DataFrame.from_dict(word_counts, orient='index').reset_index()
+    word_counts_df.columns = ['word', 'count']
+    return word_counts_df
 def process_poems(poems_final, poems_data, author, content, title, font='poems_data'):
     poems_data['Poet'] = poems_data[author].apply(lambda x: x.upper())
     poems_data['Poem'] = poems_data[content]
@@ -74,15 +90,15 @@ def old2(poems):
 
 
 if __name__ == '__main__':
-    poems_final = pd.read_csv("poems_final.csv")
 
-    poems_english = pd.read_csv("poems_english.csv")
-
-    poems_portuguese = pd.read_csv("poems_portuguese.csv")
-    poems_portuguese['Id'] = None
-    poems_portuguese.to_csv("poems_portuguese.csv", index=False)
 
     poems_total = pd.read_csv("poems_total.csv")
+    poems_total['Poem'].dropna(inplace=True)
+    poems_total['Poem'] = poems_total['Poem'].replace({np.nan: 'APAGAR'})
+    poems_total = poems_total[poems_total['Poem'] != 'APAGAR']
+    poems_total.to_csv("poems_total.csv", index=False)
+    df_count = create_word_counts_df(poems_total)
+    df_count.to_csv("df_count.csv", index=False)
     poems_total['Poem'] = poems_total['Poem'].replace({np.nan: 'APAGAR'})
     poems_total['Poem'] = poems_total['Poem'].apply(lambda x: insert_newlines_at_punctuation(x, 10))
     poems_final.to_csv("poems_final.csv", index=False)

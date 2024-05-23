@@ -1,3 +1,5 @@
+import string
+
 import pandas as pd
 import numpy as np
 from openai import OpenAI
@@ -99,6 +101,59 @@ def cos_sim(a, b):
     norm_a = np.linalg.norm(a)
     norm_b = np.linalg.norm(b)
     return dot_product / (norm_a * norm_b)
+
+def BM25(doc, df, query):
+    """
+    This function calculates the BM25 score for a given document and query.
+
+    Parameters:
+    doc (str): The document text.
+    df (DataFrame): The dataframe containing the term frequencies.
+    query (str): The query text.
+
+    Returns:
+    float: The BM25 score.
+    """
+    bm25_score = 0
+    k1 = 1.5  # k1 -- tuning parameter
+    k3 = 0  # k3 -- tuning parameter
+    b = 0.75  # b -- tuning parameter
+    N = 200000  # N -- total number of documents in the collection
+    avdl = 500  # avdl -- average document length in the collection
+    R = 0  # R -- Total number of relevant documents for this query
+    r = 0  # r -- number of relevant documents containing the term and the term appears in the document
+    query_words = [word.strip(string.punctuation) for word in query.lower().split()]
+    text_words = [word.strip(string.punctuation) for word in doc.lower().split()]
+    df['word_lower'] = df['word'].str.lower()  # Create a new column with all text in lower case
+    doc_length = len(text_words)  # doc_length -- length of the document
+
+    for term in query_words:
+        tf = text_words.count(term)  # tf -- term frequency in the document
+        if tf == 0:
+            continue
+        qtf = query_words.count(term)  # qtf -- term frequency in the query
+        n = df.loc[df['word_lower'] == term, 'count'].iloc[0]  # n -- number of documents that contain the term
+
+        w_1 = np.log(((r + 0.5) / (R - r + 0.5)) / ((n - r + 0.5) / (N - n - R + r + 0.5)))
+        K = k1 * ((1 - b) + b * (doc_length / avdl))
+
+        bm25_score += w_1 * ((k1 + 1) * tf) / (K + tf) * ((k3 + 1) * qtf) / (k3 + qtf)
+
+    return bm25_score
+
+def search_poems_by_query(query, poems):
+    df = pd.read_csv("df_count.csv")
+    words_in_query = query.split()
+    poems_aux = poems.copy()
+    for poem in os.listdir("by_id"):
+        with open(f"by_id/{poem}", "r") as f:
+            poem_text = f.read()
+            id = poem.split(".")[0]
+            bm25_score = BM25(poem_text, df, query)
+            poems_aux.loc[poems_aux['Id'] == int(id), 'bm25_score'] = bm25_score
+    poems_aux = poems_aux.sort_values('bm25_score', ascending=False)
+    return poems_aux.head(20)
+
 
 
 
