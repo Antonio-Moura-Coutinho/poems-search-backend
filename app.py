@@ -40,7 +40,8 @@ def classify_poem():
         } for poem, vector, title, poet in zip(matched_poems['Poem'], matched_poems['emotion_vector'], matched_poems['Title'],
                                 matched_poems['Poet'])]
     else:
-        return jsonify({"poems": ["No matching poems found."], "emotion_vector": []})
+        results = [{"poem": "No matching poems found.", "emotion_vector": []}]
+    return jsonify(results)
 
 @app.route('/find_by_author', methods=['POST'])
 def find_by_author():
