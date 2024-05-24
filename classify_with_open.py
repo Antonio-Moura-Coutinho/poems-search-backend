@@ -17,7 +17,7 @@ client = OpenAI(
 )
 client2 = OpenAI(
     base_url="https://api.xty.app/v1",
-    api_key="sk-xxx",
+    api_key="sk-eFJnjNGu6WuwdT3g431549Ce241a4bE8991f9322Fe4b1fCc",
     http_client=httpx.Client(
         base_url="https://api.xty.app/v1",
         follow_redirects=True,
