@@ -84,7 +84,6 @@ def get_poem_interpretation(poem_content):
     return intrepretation
 def get_poems_by_emotion(emotion_vector, poems):
     poems_aux = poems.copy()
-    poems_aux = poems_aux[poems_aux['Font'] == 'english_classic']
     emotion_vector = str(emotion_vector).replace("'", "")
     emotion_vector = convert_to_float_list(emotion_vector)
     poems_aux['emotion_vector'] = poems_aux['emotion_vector'].apply(lambda x: convert_to_float_list(x))
