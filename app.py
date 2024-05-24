@@ -21,7 +21,7 @@ def clean_poem_format(poem):
     poem = poem.strip()
     return poem
 
-poems = pd.read_csv("poems_final.csv")
+poems = pd.read_csv("poems_ch_eng.csv")
 poems = poems.replace({np.nan: None})
 poems = poems.dropna()
 

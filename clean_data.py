@@ -4,6 +4,8 @@ import numpy as np
 import re
 from collections import Counter
 
+from classify_with_open import convert_to_float_list
+
 def create_word_counts_df(poems_total):
     # Concatenate all poems into a single string
     all_poems = ' '.join(poems_total['Poem'])
@@ -34,11 +36,33 @@ def process_poems(poems_final, poems_data, author, content, title, font='poems_d
     return poems_total
 # process_poems(poems_final, 汉_poems, '作者', '内容', '题目', '汉')
 # process_poems(poems_total, poems_portuguese, 'Poet', 'Poem', 'Title', 'portuguese')
-def clean_poem_format(poem):
-    formatted_poem = re.sub(r'([.!?])\s*', r'\1\n', poem)
+def clean_poem_format(poem, max_line_length=70):
+    formatted_poem = re.sub(r'([.!?:;\。])\s*', r'\1\n', poem)
+    formatted_poem = re.sub(r',\s*([A-Z])', r',\n\1', formatted_poem)
+    formatted_poem = re.sub(r'([a-z])([A-Z])', r'\1\n\2', formatted_poem)
+
+    lines = formatted_poem.split('\n')
+    formatted_poem = ''
+    for line in lines:
+        while len(line) > max_line_length:
+            # Find the position to insert the line break
+            break_pos = line.rfind(' ', 0, max_line_length)
+            if break_pos == -1:
+                break_pos = max_line_length
+            formatted_poem += line[:break_pos] + '\n'
+            line = line[break_pos:].strip()
+        formatted_poem += line + '\n'
+
+    return formatted_poem
+
+    print(formatted_poem)
+
+
     if "1999" in poem and len(poem) < 400:
         formatted_poem = None
+
     return formatted_poem
+
 def insert_newlines_at_punctuation(poem, max_words_per_line):
     # Split the poem into lines
     lines = poem.split('\n')
@@ -52,12 +76,17 @@ def insert_newlines_at_punctuation(poem, max_words_per_line):
             new_line = []
             word_count = 0
             for word in words:
+                if word_count >= max_words_per_line and re.match(r'[A-Z]', word):
+                    formatted_lines.append(' '.join(new_line))
+                    word_count = 0
+                    new_line = []
                 new_line.append(word)
                 word_count += 1
-                if word_count >= max_words_per_line and re.match(r'[.!?,;:]', word[-1]):
+                if word_count >= max_words_per_line and re.match(r'[.!?,;:]', word):
                     formatted_lines.append(' '.join(new_line))
                     new_line = []
                     word_count = 0
+
             if new_line:
                 formatted_lines.append(' '.join(new_line))
 
@@ -90,18 +119,14 @@ def old2(poems):
 
 
 if __name__ == '__main__':
-
-
     poems_total = pd.read_csv("poems_total.csv")
-    poems_total['Poem'].dropna(inplace=True)
-    poems_total['Poem'] = poems_total['Poem'].replace({np.nan: 'APAGAR'})
-    poems_total = poems_total[poems_total['Poem'] != 'APAGAR']
-    poems_total.to_csv("poems_total.csv", index=False)
-    df_count = create_word_counts_df(poems_total)
-    df_count.to_csv("df_count.csv", index=False)
-    poems_total['Poem'] = poems_total['Poem'].replace({np.nan: 'APAGAR'})
-    poems_total['Poem'] = poems_total['Poem'].apply(lambda x: insert_newlines_at_punctuation(x, 10))
-    poems_final.to_csv("poems_final.csv", index=False)
+    poems_total['Poem'] = poems_total['Poem'].str.replace(r'\r\n', '\n')
+    poems_ch_eng = poems_total[poems_total['Font'] != 'portuguese']
+    poems_ch_eng['Poem'] = poems_ch_eng['Poem'].apply(lambda x: clean_poem_format(x))
+
+    poems_ch_eng.to_csv("poems_ch_eng.csv", index=False)
+
+
 
     汉_poems = pd.read_csv("original_datasets/汉.csv")
     poems_total.dropna(subset=['Id'], inplace=True)

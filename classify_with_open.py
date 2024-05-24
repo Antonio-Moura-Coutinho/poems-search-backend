@@ -6,6 +6,7 @@ import json
 import pandas as pd
 import re
 from flask import Flask, request, jsonify
+import httpx
 
 
 # Set OpenAI API key
@@ -13,6 +14,14 @@ os.environ['OPENAI_API_KEY'] = "sk-jJZc4anzp7qvREGRacdcT3BlbkFJuz2JkwmQ0BAZQHC1q
 client = OpenAI(
     # This is the default and can be omitted
     api_key=os.environ.get("OPENAI_API_KEY"),
+)
+client2 = OpenAI(
+    base_url="https://api.xty.app/v1",
+    api_key="sk-xxx",
+    http_client=httpx.Client(
+        base_url="https://api.xty.app/v1",
+        follow_redirects=True,
+    ),
 )
 
 def convert_to_float_list(vector_str):
@@ -96,7 +105,7 @@ def classify_poem(poems_directory, list_of_poems=[]):
                 continue
             # Use OpenAI to analyze the poem's emotional content
             try:
-                response = client.chat.completions.create(
+                response = client2.chat.completions.create(
                     model="gpt-3.5-turbo",
                     messages=[
                         {"role": "system", "content": "You are a helpful assistant."},
@@ -203,7 +212,7 @@ if __name__ == '__main__':
     poems_final = pd.read_csv("poems_total.csv")
     poems_final = read_vector_results(results_directory)
     poems_final.to_csv("poems_total.csv", index=False)
-    poems_not_classified = poems_final[poems_final['emotion_vector'].isnull()]
+    poems_not_classified = poems_final[poems_final['raw_emotion_vector'].isnull()]
 
     poems_not_classified.to_csv("poems_not_classified.csv", index=False)
     list_of_poems = poems_not_classified['Id'].tolist()
