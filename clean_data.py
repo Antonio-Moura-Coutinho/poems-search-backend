@@ -119,21 +119,17 @@ def old2(poems):
 
 
 if __name__ == '__main__':
-    poems_total = pd.read_csv("poems_total.csv")
-    poems_total['Poem'] = poems_total['Poem'].str.replace(r'\r\n', '\n')
-    poems_ch_eng = poems_total[poems_total['Font'] != 'portuguese']
-    poems_ch_eng['Poem'] = poems_ch_eng['Poem'].apply(lambda x: clean_poem_format(x))
 
+    list = [1760,1761,2924,3606,9235,9236,9237,9238,10280,11106,11996,12023,15378,15379,15400,15404,15412,15414,15420,15429,15507,15530,15532,15541]
+
+    poems_ch_eng = pd.read_csv("poems_ch_eng.csv")
+    poems_ch_eng = poems_ch_eng[poems_ch_eng['Title'] != 'Manau']
+    delete = poems_ch_eng[poems_ch_eng['Id'].isin(list)]
+
+    poems_ch_eng = poems_ch_eng[~poems_ch_eng['Id'].isin(list)]
     poems_ch_eng.to_csv("poems_ch_eng.csv", index=False)
+    poems_less_words = poems_ch_eng[poems_ch_eng['Poem'].apply(lambda x: len(x.split()) < 20)]
 
 
-
-    汉_poems = pd.read_csv("original_datasets/汉.csv")
-    poems_total.dropna(subset=['Id'], inplace=True)
-    poems_total['Id'] = poems_total['Id'].astype(int)
-    poems_total.to_csv("poems_total.csv", index=False)
-
-    poems_authors = poems_total['Poet'].drop_duplicates().reset_index(drop=True)
-    poems_authors.to_csv("poems_authors.csv", index=False)
 
 
