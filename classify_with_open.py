@@ -10,19 +10,12 @@ import httpx
 
 
 # Set OpenAI API key
-os.environ['OPENAI_API_KEY'] = "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"
+
 client = OpenAI(
-    # This is the default and can be omitted
+    
     api_key=os.environ.get("OPENAI_API_KEY"),
 )
-client2 = OpenAI(
-    base_url="https://api.xty.app/v1",
-    api_key="sk-eFJnjNGu6WuwdT3g431549Ce241a4bE8991f9322Fe4b1fCc",
-    http_client=httpx.Client(
-        base_url="https://api.xty.app/v1",
-        follow_redirects=True,
-    ),
-)
+
 
 def convert_to_float_list(vector_str):
     try:
